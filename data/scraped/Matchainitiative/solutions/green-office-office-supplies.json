@@ -1,0 +1,269 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-office-supplies",
+  "category": "Green Office",
+  "subcategory": "Office Supplies", 
+  "scraped_at": "2025-06-24T12:00:00Z",
+  "introduction": {
+    "description": "Office Supplies is a highly visible area for Sustainable Procurement, as employees will immediately realise the efforts made to improve the sustainability performance of the organisation's operations. Office Supplies encompasses a wide range of products, from writing instruments and paper to toner cartridges. We included Cleaning Products & Services and Textiles in this section.",
+    "key_environmental_impacts": [
+      "Forest destruction and potential loss of biodiversity",
+      "Energy and water consumption during production", 
+      "Waste from disposal (unless reprocessed or recycled)",
+      "Packaging (plastics)",
+      "Heavy metals (e.g. mercury, cadmium, lead, nickel) and chemicals (e.g. chlorine substances, colorants and dyes)",
+      "Hazardous substances"
+    ],
+    "best_advice": "less is more. Start with Reducing and Reusing your supplies, you will save money and waste."
+  },
+  "subcategories": [
+    "Office Supplies",
+    "General", 
+    "Paper & Printing",
+    "Eat & Drink at the office",
+    "Sustainable Work Place (office design & furnitures)",
+    "Waste Management",
+    "Corporate Gifts", 
+    "Sustainable Mobility & Travel"
+  ],
+  "solutions": [
+    {
+      "title": "Measure & Monitor",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "Measuring your office carbon footprint is a key step for a greener office. It is of high importance for an efficient environmental management: if you don't measure it, you can't manage it! It requires methodology and proper data collection: papers expenses, electronic equipments, electricity charges, office supplies...",
+      "steps": [
+        "Implement an adequate procedure to measure across all departments.",
+        "Set annually reduction targets to continuously improve."
+      ],
+      "resources": [
+        "UK-based WRAP.org guide for suggested sources of data and units of measure",
+        "Singapore NEA 3R Guidebook for Offices (Page 10-14)"
+      ]
+    },
+    {
+      "title": "Set up a Sustainable Procurement Policy - BASIC", 
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Although some sustainable products may still be more expensive than non-sustainable ones, this 'extra cost' will be offset in the long run by better procurement practices. A quick positive outcome is that it will help you raise awareness and improve your reputation with your employees and end customers.",
+      "key_principle": "Take into account the whole life cycle of your supplies, from manufacturing to end of product life",
+      "steps": [
+        {
+          "step": "1- Analyse your current consumption and existing practices",
+          "details": [
+            "Identify your most purchased products and unused references (20/80 rule)",
+            "Ask your suppliers what are the carbon footprints for your 20% most purchased products"
+          ]
+        },
+        {
+          "step": "2- Define Targets and KPI evolution",
+          "examples": [
+            "Office supplies annual costs",
+            "% of sustainable or eco-certified office products purchases (to be done per category: paper, inks cartridges…)",
+            "Carbon footprint evolution for main office products purchased. Eliminate higher footprints products and replace them with lesser carbon footprint products"
+          ]
+        },
+        {
+          "step": "3- Prefer",
+          "options": [
+            "recyclable materials",
+            "biodegradable materials", 
+            "refillable materials",
+            "certified products (always ask for proof of certification). See Green Label Singapore"
+          ]
+        },
+        {
+          "step": "4- Make it simpler",
+          "actions": [
+            "Limit your annual number of orders to decrease logistics/transportation cost by aggregating orders among services/departments & defining a minimum amount per order",
+            "Reduce your suppliers list: limit order volumes and aggregate volumes on 1 or 2 suppliers to optimize cost",
+            "Limit the number of supplies references, eliminate unused references and define a green list, to negotiate better prices on less references with higher volumes"
+          ]
+        },
+        {
+          "step": "5- Packaging",
+          "action": "Discuss with your supplier to limit packagings, e.g. all pens in 1 carton box"
+        },
+        {
+          "step": "6- Involve all stakeholders",
+          "details": [
+            "Employees: present the green product lines to them (especially people in charge of office supplies) in order to get their support",
+            "Suppliers: involve them in the green purchasing policy, share objectives and let them find better sustainable options for you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Plan a Stationery Amnesty",
+      "cost": "C1", 
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Organise a yearly stationery amnesty: 'an event where everyone in an office or building is invited to get rid of their unused and unwanted stationery (pens, staplers, envelopes, etc.) so it can be collected and reused. This saves money, as you don't need to buy new stationery, prevents items from going to landfill unnecessarily, and frees up space.'",
+      "quote_source": "Rémi Césaro, Resource Efficiency Consultant - Zero Waste City",
+      "implementation": "4 steps to implement your stationery amnesty available from Zero Waste City"
+    },
+    {
+      "title": "Reuse Office Supplies",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "description": "Maximise reuse of all office supplies.",
+      "examples": [
+        "Reuse used envelopes & folders",
+        "use both sides of paper", 
+        "reuse paper as draft paper"
+      ],
+      "additional": "To go a step further, consider a yearly Stationery Amnesty"
+    },
+    {
+      "title": "Choose Sustainable Paper Products",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1", 
+      "description": "Opt for recycled paper (less fresh pulp from cut-down trees) or upcycled paper (e.g. made from waste). Choose at least ECF Paper (Elemental Chlorine Free) or prefer PCF Paper (Processed Chlorine Free), FSC (Forest Stewardship Council). Apply the same for letterheads, name cards, envelopes...",
+      "second_choice": "If recycled paper is not available, PEFC-certified (Program for the Endorsement of Forest Certification) paper should be your second choice",
+      "certifications": "Green Label Singapore, EnergyStar, PEFC, FSC for paper… Always ask for certification proof"
+    },
+    {
+      "title": "Choose Sustainable Stationery",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "preferences": [
+        "Ink: use plant-based ink, opt for refurbished/ remanufactured cartridges",
+        "Choose refillable pens (more expensive when purchasing the pen but definitely a cost saving when buying the refills afterwards)"
+      ],
+      "certifications": "Green Label Singapore, EnergyStar, PEFC, FSC for paper… Always ask for certification proof"
+    },
+    {
+      "title": "Choose Green Cleaning Products", 
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "preferences": [
+        "Refillable solutions (e.g. soap dispenser)",
+        "Recycled products (e.g. toilet paper)",
+        "Non-toxic, chemicals-free, tree-free, plastic-free products (e.g. bamboo pulp toilet paper)"
+      ],
+      "note": "If the choice of office cleaning products is done by your cleaning agents, discuss with them how to use eco-friendly products"
+    },
+    {
+      "title": "Choose Green Cleaning Services",
+      "cost": "C1", 
+      "effort": "E1",
+      "impact": "I1",
+      "description": "For services, prefer providers conscious of environmental and social challenges",
+      "criteria": [
+        "using water & energy efficient equipment",
+        "using eco-friendly cleaning products",
+        "training their employees on eco-friendly practices, natural resources' preservation & waste segregation", 
+        "with clear human resources social engagements such as a safe work environment, inclusiveness and diversity policy, and real competencies development plans"
+      ]
+    },
+    {
+      "title": "Choose Eco-friendly Textile Merchandise",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "avoid": "non-bio cotton textile",
+      "prefer": [
+        "Bio-cotton",
+        "Up-cycled fabrics", 
+        "Recycled material: coffee grounds, polyester",
+        "Natural material: seaweed, linen, hemp…"
+      ],
+      "certifications": "Global Organic Textile Standard (GOTS)",
+      "logistics": "go for local sourcing",
+      "social_criteria": [
+        "Safe work environment to prevent work accidents or illness",
+        "Employees wellbeing", 
+        "Ethical work conditions (minimum salaries levels, no forced labor, no child work...)"
+      ]
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Mary Kon-Sun-Tack",
+      "title": "Director of Marketing, Southeast Asia and Korea - IHG Hotels and Resorts -- Founder - Journey Makers",
+      "expertise": "marketing strategy, transformation, customer and employee experience, strategic partnerships, business development, sustainability roadmaps, change management",
+      "website": "journeymakers.sg"
+    },
+    {
+      "name": "Andrew Tay", 
+      "title": "Business Development Director - KGS",
+      "expertise": "e-waste recycling, ITAD, data destruction, battery recycling, circular economy",
+      "website": "kgs.com.sg"
+    },
+    {
+      "name": "Benoit Barraque",
+      "title": "Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform", 
+      "expertise": "IT project management, sustainability in IT, ecodesign, green teams",
+      "website": "ca-groupinfrastructureplatform.fr"
+    },
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Sustainability consultant, Founder - Sustainao",
+      "expertise": "sustainability consulting, decarbonisation strategies, sustainability reporting",
+      "website": "sustainao.com"
+    },
+    {
+      "name": "Nadège Claudel", 
+      "title": "Head of Sustainability APAC - Chanel (Former General Manager - BSI - British Standards Institution)",
+      "expertise": "sustainability, quality, food safety, standards"
+    },
+    {
+      "name": "Package Pals Trio",
+      "title": "Founders – Package Pals",
+      "expertise": "circular packaging, e-commerce packaging reuse, education and outreach",
+      "website": "packagepals.co"
+    },
+    {
+      "name": "Virgile Viasnoff",
+      "title": "Research Director – CNRS", 
+      "expertise": "sustainable laboratory practices, CO2 emission monitoring, energy efficiency, waste management",
+      "website": "cnrs.fr"
+    },
+    {
+      "name": "Samuel Chauffaille",
+      "title": "Managing Director AsiaPacific (excl. China) - Ecocert",
+      "expertise": "organic certification, fair trade, sustainable products, ESG",
+      "websites": ["ecocert.com", "ecomatcher.com"]
+    },
+    {
+      "name": "Tomo Hamakawa",
+      "title": "Managing Director - Earth Company / Mana Earthly Paradise",
+      "expertise": "development, NGO work, social impact",
+      "website": "earthcompany.info"
+    },
+    {
+      "name": "Naomi Vowels",
+      "title": "Director - givvable", 
+      "expertise": "supplier sustainability screening, ESG, sustainable supply chains",
+      "website": "givvable.com"
+    },
+    {
+      "name": "Zofia Chlapowski",
+      "title": "Stakeholder Engagement",
+      "expertise": "change management, transformation, stakeholder engagement, sustainability"
+    },
+    {
+      "name": "Leslie Beckman",
+      "title": "Founder - Sisloff International & The Eco-Marketing Project",
+      "expertise": "data-driven sustainability, marketing, strategic leadership, GRI sustainability reporting",
+      "website": "sisloff-intl.com"
+    },
+    {
+      "name": "Sarah Woolmington",
+      "title": "Founder & Director - Impact Dragonfly", 
+      "expertise": "sustainability consulting, strategic coaching, collaborative design",
+      "website": "impactdragonfly.com.au"
+    },
+    {
+      "name": "Firoz Raja",
+      "title": "Development Manager - Neste Singapore",
+      "expertise": "technical consulting, renewable energy, project development, sustainable practices",
+      "website": "neste.com"
+    }
+  ]
+}

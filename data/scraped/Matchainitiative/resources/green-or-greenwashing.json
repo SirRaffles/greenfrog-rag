@@ -1,0 +1,120 @@
+{
+  "title": "Green or Greenwashing?",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/green-or-greenwashing",
+  "type": "educational_resource",
+  "category": "fundamentals",
+  "authors": [
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Sustainability consultant, Founder of Sustainao"
+    },
+    {
+      "name": "Rémi Césaro",
+      "title": "Resource Efficiency Consultant, Director of Zero Waste City"
+    }
+  ],
+  "summary": "This article explains green terminology, how to identify greenwashing, and provides guidance on selecting genuinely green products and services while understanding regulatory guidelines in Singapore.",
+  "key_concepts": [
+    {
+      "term": "Green/Eco-friendly/Earth-friendly",
+      "definition": "Products, services or practices that claim reduced, minimal or no harm for the environment. Note that none of these words are defined by national or international standards."
+    },
+    {
+      "term": "Green Products Claims",
+      "aspects": [
+        "Manufactured from toxic-free, renewable, or sustainable ingredients",
+        "Can be recyclable, compostable, or reusable",
+        "Packaging can be recyclable, compostable, or reusable",
+        "Has reduced or zero carbon footprint",
+        "Has reduced or zero plastic footprint",
+        "Is energy efficient (uses less energy)",
+        "Is sourced or produced locally"
+      ]
+    },
+    {
+      "term": "Green Business Practices",
+      "practices": [
+        "Reduce energy and water consumption",
+        "Reduce GHG emissions",
+        "Reduce air emissions (SOx, NOx, fine particulate matter, etc.)",
+        "Reduce and/or recycle waste",
+        "Use sustainable raw materials (e.g.: renewable, recycled)",
+        "Use renewable energy",
+        "Design and produce green products"
+      ]
+    },
+    {
+      "term": "Greenwashing",
+      "definition": "The misuse of terms like 'eco-friendly', 'green', 'sustainable' in corporate communications promulgating an image of environmental responsibility, which in fact is unfounded or intentionally misleading."
+    }
+  ],
+  "ten_signs_of_greenwashing": [
+    {
+      "sign": "Fluffy language",
+      "description": "Words or terms with no clear meaning (e.g. 'eco-friendly')"
+    },
+    {
+      "sign": "Green product vs. dirty company",
+      "description": "Such as efficient lightbulbs made in a factory that pollutes rivers"
+    },
+    {
+      "sign": "Suggestive pictures",
+      "description": "Green images that indicate a (unjustified) green impact (e.g. flowers blooming from exhaust pipes)"
+    },
+    {
+      "sign": "Irrelevant claims",
+      "description": "Emphasising one tiny green attribute when everything else is not green"
+    },
+    {
+      "sign": "Best in class",
+      "description": "Declaring you are slightly greener than the rest, even if the rest are pretty terrible"
+    },
+    {
+      "sign": "Just not credible",
+      "description": "Eco friendly cigarettes, anyone? Greening a dangerous product does not make it safe"
+    },
+    {
+      "sign": "Jargon",
+      "description": "Information that only a scientist could check or understand"
+    },
+    {
+      "sign": "Imaginary friends",
+      "description": "A label that looks like third party endorsement—except that it is made up"
+    },
+    {
+      "sign": "No proof",
+      "description": "It could be right, but where is the evidence?"
+    },
+    {
+      "sign": "Out-right lying",
+      "description": "Totally fabricated claims or data"
+    }
+  ],
+  "singapore_regulations": [
+    "Misrepresentation Act",
+    "Consumer Protection (Fair Trading) Act (CPFTA)",
+    "Competition and Consumer Commission of Singapore (CCCS)",
+    "National Environment Agency (NEA)",
+    "Advertising Standards Authority of Singapore (ASAS)",
+    "SGX climate disclosure regulations (effective January 1, 2022)"
+  ],
+  "related_terms": [
+    {
+      "term": "Bluewashing",
+      "definition": "To tout a business or organization's commitment to social responsibilities and to use this perception for public relations and economic gain"
+    },
+    {
+      "term": "Greenhushing", 
+      "definition": "Businesses and organisations that opt to stay quiet about their climate strategies because they fear being called out for greenwashing"
+    },
+    {
+      "term": "Greenscamming",
+      "definition": "The practice of giving environmentally friendly names to groups whose agendas have little to do with the welfare of the environment"
+    },
+    {
+      "term": "Pinkwashing/Rainbow washing",
+      "definition": "The use of support for LGBT rights and issues by a state or business to boost its own image"
+    }
+  ],
+  "scraped_date": "2025-07-09"
+}

@@ -1,0 +1,83 @@
+{
+  "buddy_profile": {
+    "name": "Boon Siong Wee",
+    "title": "CEO - Aeterni.eco",
+    "location": ["Singapore", "Indonesia", "Mainland China", "Malaysia", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/681b11103c954b2a1d86d3ec_wbs%20-%20bs%20wee.jpg",
+    "main_skills": [
+      "Carbon",
+      "EcoVadis",
+      "Finance"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing",
+      "Kick Start Help",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "bs.wee@aeterni.eco",
+      "website": "http://www.aeterni.eco/"
+    },
+    "introduction": "I am an IMCS (Institute of Management Consultants) Registered Management Consultant with over 25 years of experience in various industries including government, financial services, info-comm and sustainability. I am the CEO of Aeterni.eco, specialising in sustainability strategy including reporting, carbon footprint for corporates, products and services, green finance and sustainability training. I have been involved in projects for entities like MAS, SGX, DBS, UOB, ICICI, PSA, SingPost, Philips, Sentosa, etc.",
+    "credentials": [
+      "IMCS Registered Management Consultant",
+      "Mathematics at Cambridge University (triple first class)",
+      "Diploma in Actuarial Science from Institute of Actuaries",
+      "Executive Development Programme at INSEAD"
+    ],
+    "experience": "25+ years in government, financial services, info-comm and sustainability",
+    "client_portfolio": [
+      "MAS", "SGX", "DBS", "UOB", "ICICI", "PSA", "SingPost", "Philips", "Sentosa"
+    ],
+    "top_3_advice": [
+      "Be interested.",
+      "Be committed.",
+      "Be proactive."
+    ],
+    "how_to_help": "I am happy to help out and get more people to understand the topic, to get them on board the idea of sustainability. In terms of experience sharing, I would love to share about the pains and joys in projects we have done.",
+    "expertise_areas": [
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Sustainable Supply Chain & Logistic",
+      "Corporate Governance, Mission & Strategy",
+      "Responsible Marketing",
+      "Carbon Management & Carbon Footprint",
+      "Consultants"
+    ],
+    "sustainability_motivation": "I joined the sustainability movement in 2017, as I feel that it is important that everyone can continue to co-exist in this ever-shrinking world.",
+    "organizational_responsibilities": "I have several sustainability reports for listed and non-listed companies in Singapore and elsewhere. For example, I have done product and corporate carbon reporting for MAS, DBS, SGX, and Sentosa amongst others. I have also done green finance frameworks for big MNCs and banks. Additionally, I have conducted trainings for various organisations like the IHLs, SBC, GCNS etc.",
+    "challenges_and_solutions": "Raising awareness on and understanding a constantly evolving topic is always a challenge. It is important that we ground ourselves in the basics of the domain, think logically and analytically, and constantly read up and be informed of changes in the area.",
+    "proudest_achievement": "I am most proud of getting to know my customers better, and helping them understand themselves and improve from there.",
+    "company_services": [
+      "Sustainability strategy",
+      "Sustainability reporting",
+      "Carbon footprint for corporates, products and services",
+      "Green finance",
+      "Sustainability training"
+    ],
+    "solution_codes": [
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.01 - Sustainability Accounting Strategic Analysis",
+      "04.02 - Sustainability Accounting Environmental & Social Impact Identification",
+      "04.04 - Sustainability Accounting Data Management & Processes",
+      "04.05 - Sustainability Accounting Teams Alignment",
+      "04.06 - Sustainability Accounting Awareness & Training",
+      "06.00 - Sustainable Supply Chain",
+      "06.01 - Sustainable Supply Chain Strategy",
+      "06.03 - Sustainable Supply Chain Procurement",
+      "06.05 - Sustainable Supply Chain Logistics & Distribution",
+      "06.06 - Sustainable Supply Chain Organisation Engagement",
+      "12.00 - Corporate Governance Strategy Mission",
+      "13.00 - Responsible Marketing",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.01 - Carbon Management Measure & Report",
+      "15.02 - Carbon Management Goal Settings",
+      "15.03 - Carbon Management Awareness & Training",
+      "15.04 - Carbon Management Reduction Strategy Overview",
+      "15.05 - Carbon Management Carbon Offset",
+      "15.06 - Carbon Management Carbon Pricing",
+      "16.01 - Consultants General",
+      "16.03 - Consultants Social People Pilar",
+      "16.04 - Consultants Environmental Pilar"
+    ]
+  }
+}

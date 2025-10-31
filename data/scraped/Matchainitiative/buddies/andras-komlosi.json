@@ -1,0 +1,52 @@
+{
+  "buddy_profile": {
+    "name": "Andras Komlosi",
+    "title": "Founder and Director - SPECC.earth",
+    "location": "Singapore",
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67e3a4e1ec1aab13ac6be21c_2024%2009%2013%20AK%20Profile%20Picture%20-%20Andras%20Komlosi.jpeg",
+    "main_skills": [
+      "Sustainability Career",
+      "Education", 
+      "Net Zero Transition"
+    ],
+    "guidance_types": [
+      "Kick Start Help",
+      "Experience & Expertise Sharing",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "andras.komlosi@pm.me",
+      "website": "http://specc.earth/"
+    },
+    "introduction": "As a sustainability professional, my core motivation is to maximise impact. As an educator, my focus is on meaningful engagement. Therefore, I design and deliver collaborative, science-based learning experiences that support organisations on their journey towards sustainability and making a positive impact. My approach is grounded by 15 years in learner-centred education and formal sustainability training at UCLA.",
+    "top_3_advice": [
+      "Don't think about sustainability as a field - it's a layer on top of a field (e.g. sustainability education, green finance, etc.).",
+      "Frustration is very much part of the game - embrace it and draw inspiration from it.",
+      "Reach out - there are plenty of well-meaning people out there to talk to."
+    ],
+    "how_to_help": "I'm assuming a lot of people coming here are pivoting into sustainability, just like I did a couple of years ago. I am happy to share my experiences, and just be one of the people out here you can talk to!",
+    "expertise_areas": [
+      "Circular Economy",
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Sustainable HR Practices",
+      "Carbon Management & Carbon Footprint",
+      "Consultants"
+    ],
+    "sustainability_motivation": "I was drawn to sustainability mostly for selfish reasons: To make the world a livable place for my son, and to make a career switch from teaching, which I was pretty much burned out doing.",
+    "organizational_responsibilities": "I am in charge of governance, training, and cultural and behavioural change.",
+    "challenges_and_solutions": "It was challenging pivoting to a new industry and starting as an outsider. I have realised that excitement is a must to succeed, and that frustration is (sadly) normal.",
+    "proudest_achievement": "I am most proud to have designed some pretty successful learning experiences, and see participants not using TikTok during my workshops!",
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "03.07 - Circular Economy Awareness & Training", 
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.06 - Sustainability Accounting Awareness & Training",
+      "14.03 - Sustainable HR Practices Engagement Development Training",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.03 - Carbon Management Awareness & Training",
+      "15.06 - Carbon Management Carbon Pricing",
+      "16.01 - Consultants General",
+      "16.04 - Consultants Environmental Pilar"
+    ]
+  }
+}

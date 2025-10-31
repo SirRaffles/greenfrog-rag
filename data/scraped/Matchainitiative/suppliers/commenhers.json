@@ -1,0 +1,27 @@
+{
+  "supplier_name": "Commenhers",
+  "description": "Upcycled bags / Upcycling workshop",
+  "url": "https://www.thematchainitiative.com/supplier/commenhers",
+  "website": "https://commenhers.com",
+  "contact": "Linn@commenhers.com",
+  "locations": ["Singapore"],
+  "business_model": "Transforms textile waste into retail-ready products and corporate gifts, particularly by repurposing damaged or retired uniforms. Engages local communities including housewives, elderly individuals, and tailors in their production process",
+  "services": [
+    "Upcycled bag production",
+    "Upcycling workshops",
+    "Corporate gifts from textile waste",
+    "Uniform repurposing"
+  ],
+  "expertise_categories": [
+    "Circular Economy",
+    "Eco-design",
+    "Sustainable Manufacturing",
+    "Waste Management",
+    "Green Office",
+    "Supply Chain & Logistics"
+  ],
+  "solution_codes": ["03.00", "03.02", "03.03", "05.07", "01.07", "01.08", "06.02", "06.00"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/commenhers",
+  "scraped_date": "2025-10-31"
+}

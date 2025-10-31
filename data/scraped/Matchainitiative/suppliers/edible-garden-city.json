@@ -1,0 +1,58 @@
+{
+  "supplier_name": "Edible Garden City",
+  "description": "Urban farming, foodscaping and workshops",
+  "url": "https://www.thematchainitiative.com/supplier/edible-garden-city",
+  "website": "http://ediblegardencity.com/",
+  "contact": "hello@ediblegardencity.com",
+  "location": "Singapore",
+  "mission": "Champions the 'Grow Our Own' movement – believing that growing your own food will reconnect one with nature, conserve natural resources, and cultivate a sense of community",
+  "business_divisions": {
+    "foodscaping_team": "Built over 200 edible gardens for restaurants, hotels, schools, office buildings, and private residential homes",
+    "farm_production_team": "Grows fresh produce throughout Singapore",
+    "education_team": "Drives workshops and events from school farming programmes to corporate workshops, volunteer opportunities to full-on apprenticeships"
+  },
+  "achievements": {
+    "gardens_built": "200+ edible gardens",
+    "geographic_coverage": "Throughout Singapore"
+  },
+  "services": [
+    "Urban farming consultation",
+    "Foodscaping design and installation",
+    "School farming programmes",
+    "Corporate workshops",
+    "Volunteer opportunities",
+    "Apprenticeship programs",
+    "Fresh produce growing"
+  ],
+  "target_clients": [
+    "Restaurants",
+    "Hotels", 
+    "Schools",
+    "Office buildings",
+    "Private residential homes"
+  ],
+  "expertise_categories": [
+    "Food & Beverage",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Sustainable Buildings & Resilient Cities"
+  ],
+  "specific_solutions": [
+    "Food & Drink Sourcing",
+    "All (Local Community)",
+    "All (Sustainable Buildings)"
+  ],
+  "solution_codes": [
+    "09.02",
+    "10.00",
+    "11.00"
+  ],
+  "sustainability_impact": [
+    "Reconnection with nature",
+    "Natural resource conservation",
+    "Community cultivation",
+    "Local food production",
+    "Urban agriculture development"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

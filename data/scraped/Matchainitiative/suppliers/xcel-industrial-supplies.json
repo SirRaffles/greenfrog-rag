@@ -1,0 +1,45 @@
+{
+  "name": "XCEL Industrial Supplies",
+  "tagline": "Manufacturer of Wooden Pallets, Crates and Solutions Provider of Packaging Materials",
+  "company_full_name": "XCEL Industrial Supplies Pte Ltd",
+  "established": 1992,
+  "history": "Established as a manufacturing representative in the electronics industry and later expanded into various sectors",
+  "current_focus": "Supply of pallets and other packaging solutions",
+  "sustainability_commitment": "Committed to achieving the Circular Economy model and driving the Zero-Waste movement in Singapore",
+  "website": "http://www.xcelindustrial.com/",
+  "contact": "marketing@xcelindustrial.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/666a5ce548d9245896c32e19_Xcel%20logo%20-%20Rachel%20Ha.jpg",
+  "countries": [
+    "Malaysia",
+    "Singapore"
+  ],
+  "sustainability_programs": {
+    "description": "Target client's wooden waste through collection and sorting of imported wooden pallets/crates",
+    "services": [
+      "Analysis of opportunities for repairing wooden pallets/crates",
+      "Resizing wooden pallets/crates for export",
+      "Upcycling damaged pallets into lifestyle products"
+    ]
+  },
+  "sustainable_brand": {
+    "name": "CREUSE",
+    "description": "Damaged pallets find new life as stylish upcycled lifestyle products"
+  },
+  "waste_philosophy": "Advocate the importance of holding accountability to the creation of waste",
+  "additional_services": [
+    "Carbon footprint analysis",
+    "Carbon avoidance",
+    "Carbon credits"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Waste Management"
+  ],
+  "solution_codes": [
+    "01.08",
+    "05.04"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/xcel-industrial-supplies",
+  "scraped_date": "2025-07-10"
+}

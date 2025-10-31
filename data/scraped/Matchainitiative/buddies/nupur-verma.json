@@ -1,0 +1,45 @@
+{
+  "name": "Nupur Verma",
+  "position": "Do-gooder - The Matcha Initiative",
+  "location": "Singapore",
+  "contact": {
+    "email": "nupur.mib2010@gmail.com"
+  },
+  "main_skills": [
+    "Circularity",
+    "Reporting",
+    "Strategy"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "I have almost 15 years of professional experience within the strategic insights and data analytics spaces, leading initiatives and transformations for the world's biggest brands. I have accumulated my experience working across geographies including Singapore, ASEAN, India, the Middle East, US, and Europe. With a steadfast dedication to create a sustainable future, I am a passionate advocate specialising in sustainable business practices and impact assessment. My mission is to drive positive change, and empower communities and organisations to embrace sustainability in every facet of their operations. My key skill-sets include data and analytics, AI, and consulting to drive outcomes.",
+  "continuous_learning": "Always driven by a curiosity for learning and growth, I am actively upskilling through courses with LinkedIn Learning, the Ellen MacArthur Foundation, and Singapore Management University. This ongoing education enhances my understanding of the latest sustainability trends and best practices, enabling me to provide realistic cutting-edge solutions and insights.",
+  "top_advice": [
+    "Connect Sustainability to Business Strategy",
+    "Build Roadmap and plan for key milestones",
+    "Communicate with Impact"
+  ],
+  "how_they_help": "I offer pro bono consulting and volunteer for non-profit organizations and community groups. I'm happy to share best practices related to Sustainable Marketing and Innovation. My goal is to support grassroots efforts and amplify the impact of local sustainability initiatives. By providing expert guidance, I can help these organisations achieve their environmental goals and foster a culture of sustainability within their communities.",
+  "expertise_areas": [
+    "Circular Economy",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Responsible Marketing"
+  ],
+  "sustainability_journey": "I am passionate about making a difference to the world as lofty challenges, including climate change, water shortage, and plastic waste, surround us. I believe that sustainability is not just a goal, but a journey that requires collective action and continuous improvement. My approach is collaborative, inclusive, and driven by a deep commitment to making a tangible difference. Whether I am working with organisations or small community groups, I strive to inspire and empower others to take meaningful steps toward a more sustainable future.",
+  "implemented_actions": "I have co-authored the best practices document on Sustainable Marketing and why it is important to be responsible for consumer education.",
+  "challenges_overcome": "Change management is the biggest hurdle. So, I started with communicating why it is important, and then addressed the what and the how so that users understand the need for change.",
+  "proudest_achievement": "To be known in my organization for making things happen.",
+  "solution_categories": {
+    "circular_economy": ["03.00", "03.01", "03.07"],
+    "local_community": ["10.00"],
+    "responsible_marketing": ["13.00"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/nupur-verma",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

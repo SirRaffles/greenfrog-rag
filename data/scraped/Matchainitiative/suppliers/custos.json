@@ -1,0 +1,14 @@
+{
+  "supplier_name": "Custos",
+  "description": "Empowering Sustainability with Data",
+  "url": "https://www.thematchainitiative.com/supplier/custos",
+  "website": "https://custoscarbon.com",
+  "contact": "droston.tang@custoscarbon.com",
+  "locations": ["Singapore", "Taiwan"],
+  "services": ["Data intelligence platform", "Carbon handprint tracking", "Emissions reduction", "Corporate sustainability programs", "Employee-related activities tracking"],
+  "expertise_categories": ["Green Office", "Digital Footprint & IT", "Sustainable HR Practices", "Sustainable Supply Chain & Logistics"],
+  "solution_codes": ["01.00", "01.03", "01.08", "02.03", "14.00", "14.01", "14.03", "06.05", "06.06"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/custos",
+  "scraped_date": "2025-10-31"
+}

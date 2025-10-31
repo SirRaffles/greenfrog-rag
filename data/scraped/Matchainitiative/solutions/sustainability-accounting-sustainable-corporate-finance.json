@@ -1,0 +1,664 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainability-accounting-sustainable-corporate-finance",
+  "title": "Sustainability Accounting & Sustainable Corporate Finance",
+  "category": "Sustainability Accounting & Corporate Finance",
+  "subcategory": "All Solutions",
+  "overview": "Sustainability Accounting addresses the need of business leaders to understand how sustainability will impact their ability to create value and provide stakeholders with accurate sustainability information that is comparable over time and with other companies in the same industry. A company's sustainability performance is closely connected to the P&L and can be translated into item lines related to access to market, access to capital, operational savings, and intangible assets such as branding and reputation. Voluntary sustainability reporting is becoming a mandatory part of the Annual Financial Reporting and enforceable by law in many jurisdictions. Sustainability-related, forward-looking information has become crucial for investors and governments, and the role of CFOs and accountants will change in a new era of Accounting for Accountability. The CFO and finance function agenda is evolving from a pure 'accounting for the balance sheet' to 'accounting for the business and value creation'.",
+  "solutions": [
+    {
+      "title": "Align with relevant frameworks & standards - BASIC",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "Sustainability accounting is about capturing meaningful non-financial information for both internal decision-making and external reporting. Reliable and comparable data is the basis for accountability and it is fundamental to align the sustainability accounting with established frameworks and standards. It is important to follow reporting principles and conceptual foundations to build trust and comparability over time and within the industry.",
+      "key_frameworks": [
+        {
+          "name": "GRI (Global Reporting Initiative)",
+          "description": "One of the most applied and holistic ESG reporting frameworks. GRI provides good guidance on how to consider stakeholders and identify materiality topics (GRI 2: General Disclosures 2021, Section 5 - Stakeholder Engagement).",
+          "url": "https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-english-language"
+        },
+        {
+          "name": "SASB (Sustainability Accounting Standards Board)",
+          "description": "Now integrated under the International Sustainability Standards Board (ISSB). Their standards are also useful to start with, as they provide specific materiality maps by industry sector.",
+          "url": "https://sasb.org/standards/"
+        },
+        {
+          "name": "TCFD (Task Force on Climate-related Financial Disclosures)",
+          "description": "Now integrated under the International Sustainability Standards Board (ISSB). TCFD focuses on environmental topics with a financial materiality perspective. Their framework has been widely adopted in many jurisdictions and is based on 4 main pillars: 1) Governance 2) Strategy 3) Risk Management 4) Metrics and Targets.",
+          "url": "https://www.fsb-tcfd.org/recommendations/"
+        }
+      ],
+      "note": "Sustainability reporting is moving from a fragmented landscape of voluntary frameworks and standards (GRI, SASB, TCFD, CDP, IR, etc.) to mandatory reporting enforceable by law in the respective jurisdictions.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-001"
+    },
+    {
+      "title": "Comply with mandatory requirements - BASIC",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "As sustainability reporting becomes mandatory in many parts of the world, preparing for compliance is critical for listed companies and SMEs alike as the latter are part of the scope 3 emissions of listed companies. Risks and opportunities identified by listed companies in relation to their value chain partners will need to be addressed.",
+      "key_regulations": [
+        {
+          "region": "International",
+          "standard": "IFRS S1 & S2",
+          "description": "The International Sustainability Standards Board (ISSB) aims to meet investors' need for reliable and comparable information on financial materiality. It was established by International Financial Reporting Standards (IFRS) 2021, which creates a globally binding baseline that integrates non-financial information into financial reporting and standardises sustainability information. They published their sustainability standards IFRS S1 - General Requirements for Disclosure of Sustainability-related Financial Information and IFRS S2 Climate-related Disclosures in July 2023.",
+          "effective_date": "Many jurisdictions around the world have already committed to aligning their reporting requirements for listed companies and large private companies"
+        },
+        {
+          "region": "Singapore",
+          "standard": "SGX Core ESG Metrics",
+          "description": "The Monetary Authority of Singapore (MAS), ACRA and SGx have announced that they will align with IFRS S1 and S2 for data, definitions and disclosures. At the beginning of 2024, the Singapore Exchange metrics consist of 27 core sustainability metrics based on GRI and TCFD, which listed companies are expected to report on a comply-or-explain basis.",
+          "effective_date": "Listed companies: FY2025, Large private companies with turnover > SGD1 billion: FY2027"
+        },
+        {
+          "region": "European Union",
+          "standard": "CSRD/ESRS",
+          "description": "The Corporate Sustainability Reporting Directive (CSRD) requires companies to disclose their material impacts, risks and opportunities in relation to certain ESG issues. EFRAG was appointed as a technical advisor to the European Commission in developing the European Sustainability Reporting Standards (ESRS), which outline the reporting requirements in 12 standards. The standards cover 'double materiality' and draw heavily on the principles and framework of the Global Reporting Initiative (GRI)."
+        },
+        {
+          "region": "United States",
+          "standard": "SEC Climate Rules & California Acts",
+          "description": "The US Security and Exchange Commission develops sustainability reporting requirements similar to ISSB. In the State of California, SB-253—Climate Corporate Data Accountability Act and SB-261—Greenhouse Gases: Climate-Related Financial Risk, will establish the first industry-agnostic US regulations requiring the corporate reporting of greenhouse gas (GHG) emissions and climate risk."
+        }
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-002"
+    },
+    {
+      "title": "Conduct a materiality assessment - BASIC",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Materiality assessment is the basis for the company's sustainability strategy. A solid materiality analysis will help you understand the importance of different sustainability issues in your business. The purpose of the exercise is to include the most relevant ESG (environmental, social and governance) aspects of your business.",
+      "materiality_approaches": [
+        {
+          "type": "FINANCIAL MATERIALITY (OUTSIDE IN)",
+          "description": "Identify topics that will impact your business' ability to create value over time, which may depend on natural resources, a reliable supply chain or other issues relevant to the industry, region, and business context."
+        },
+        {
+          "type": "IMPACT MATERIALITY (INSIDE OUT)",
+          "description": "Consider the impact that your business activities have on the environment and society, and their importance to your stakeholders."
+        }
+      ],
+      "best_practices": [
+        "Approach the analysis with an open mind",
+        "Identify best practices from reporting companies with similar activities and consider SASB's recommended topics for your industry",
+        "Start small - not all topics can be covered when first beginning sustainability journey",
+        "Document non-prioritised issues and reasons for not including them for future reassessment",
+        "SMEs need to narrow scope and prioritise smaller set of materiality issues"
+      ],
+      "visualization": "The materiality assessment is commonly visualised in a materiality matrix, which shows the importance of sustainability impacts to your business (profit) on one axis and the importance of your business impacts to stakeholders (people & planet) on the other.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-003"
+    },
+    {
+      "title": "Engage with stakeholders - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "The first step is to identify the key stakeholders that have the most direct relationship with your business activities. Engage with them to find out what is important to them and to understand their expectations.",
+      "stakeholder_categories": [
+        "Business partners",
+        "Customers",
+        "Shareholders and other investors",
+        "Policy makers and governments",
+        "Suppliers",
+        "Employees and trade unions",
+        "Local communities and NGOs"
+      ],
+      "approach": "This can be done through structured interviews. For companies with limited resources, focus on insightful discussions with a few key stakeholders in different categories, rather than questionnaires and superficial input.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-004"
+    },
+    {
+      "title": "Identify risks & opportunities - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Sustainability risk arises from an uncertain social or environmental event or condition that, if it occurs, could have a material adverse effect on the company. At the same time, these changes and uncertainties can create opportunities. Risks and opportunities create the pressure points that prompt boards/management teams to develop and invest in sustainability strategies.",
+      "climate_risks": [
+        {
+          "type": "Physical risks",
+          "description": "The risks of losses due to environmental events such as floods or storms (which can be acute or chronic)."
+        },
+        {
+          "type": "Transitional risks",
+          "description": "Transition to a low-carbon economy arise from changes in policy and new technologies, such as the growth of renewable energy."
+        },
+        {
+          "type": "Litigation risks",
+          "description": "Where those affected by climate change seek compensation from those responsible."
+        }
+      ],
+      "opportunities": "Climate-related business opportunities in resource efficiency, energy sources, products and services, markets and resilience.",
+      "assessment_steps": [
+        {
+          "step": "1",
+          "title": "Create a sustainability profile",
+          "description": "From the list of industry-specific sustainability issues, identify the list of risks that have a material impact on the business and specify the list of opportunities that have the potential to capture the market and/or create value for the business."
+        },
+        {
+          "step": "2", 
+          "title": "Characterise these issues",
+          "description": "Based on internal operations (key revenue streams and key inputs to value creation) and external operating environment (geographical footprint, business climate, regulatory climate, political climate, economic climate)."
+        },
+        {
+          "step": "3",
+          "title": "Define time horizons",
+          "description": "The timing of the risks and opportunities may exceed the typical short-term horizon although preparation for these risks takes time and should start now. Therefore companies should assess the risks and opportunities in short-, medium- and long term, as relevant."
+        }
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-005"
+    },
+    {
+      "title": "Assess the risks and opportunities & define a risk response plan - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Many organisations are already familiar with the Enterprise Risk Management (ERM) frameworks, like the COSO or ISO 31000. They identify new risks and opportunities and manage them through the Risk Register. To assess the risks and opportunities, they typically use the Risk Matrix Approach, whereby the likelihood of occurrence and intensity (severity) of financial impact within a given time horizon (usually short-term) are assessed.",
+      "risk_formula": "Risk = likelihood x intensity (severity)",
+      "tcfd_recommendation": "Because of the uncertainty around the exact timing and severity of climate change impacts, and the challenges and complexities associated with the transition to a low-carbon economy, the Task force on Climate-related Financial Disclosure (TCFD) recommends the use of forward-looking climate scenario analysis. Companies can use some of the pre-defined scenarios, like IPCC's RCPs and SSPs for physical risks, or IEA's scenarios for transition risks.",
+      "threat_responses": [
+        "Avoid the risk",
+        "Mitigate the risk", 
+        "Transfer the risk",
+        "Accept a risk that occurs periodically",
+        "Escalate the risk"
+      ],
+      "opportunity_responses": [
+        "Exploit the opportunity",
+        "Enhance the opportunity",
+        "Share the opportunity",
+        "Accept the opportunity"
+      ],
+      "integration": "Climate-related risks should be integrated into the traditional ERM function/tool.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-01-006"
+    },
+    {
+      "title": "Define the relevant sustainability metrics - BASIC",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "The relevant KPIs should be related to the selected materiality topics. You may be required to provide your carbon footprint or other metrics for regulatory reasons or to meet the demands of external stakeholders.",
+      "metric_categories": [
+        {
+          "type": "Environmental metrics",
+          "examples": "greenhouse gas emissions, water use, energy use, waste, biodiversity impact"
+        },
+        {
+          "type": "Social metrics", 
+          "examples": "gender equality, human rights, child labour, occupational injuries"
+        },
+        {
+          "type": "Governance metrics",
+          "examples": "board diversity, board independence, equitable treatment of shareholders"
+        }
+      ],
+      "normalisation": "To facilitate comparability between companies with similar risks, opportunities and impacts, the use of normalisation factors is recommended. These industry-specific metrics include sales, production units, number of employees, hours worked, etc. It also makes it easier to monitor your own performance over time.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-02-001"
+    },
+    {
+      "title": "Screen the impacts on the entire value chain - ADVANCED",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Sustainability accounting is a set of tools and practices designed to measure and evaluate a company's sustainability activities and their impact on the business. To get a more accurate picture of the company's footprint and build more targeted action plans, it is necessary to carry out an in-depth review of the value chain.",
+      "benefits": "Going through the stages one by one will allow you to identify more precisely the environmental (loss of biodiversity, water consumption, use of natural resources, etc.) and human (outsourcing to low-income countries, human rights, etc.) impacts of your business.",
+      "requirements": [
+        "At the very least, you would need a simple version of an Operational Management System (OMS), which is a set of processes and procedures to effectively manage business practices.",
+        "For a more in-depth approach, you could carry out an Environmental Impact Assessment, which is a systematic process for identifying the positive and negative environmental impacts (externalities) of the organisation's activities."
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-02-002"
+    },
+    {
+      "title": "Select assessment tools for environmental and social impacts - ADVANCED",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Together with financial information, non-financial metrics should be part of the decision making process to understand the relationship between accounting and environmental issues. Based on a detailed understanding of the processes at a fine granularity, the following tools are methods for assessing the externalities that sustainability accounting is expected to integrate:",
+      "assessment_tools": [
+        {
+          "name": "Life Cycle Assessment (LCA)",
+          "description": "Measures the environmental impact of a product or service from start to finish, covering all stages of a life cycle. Carbon footprint could be an example. The principles and framework for LCA are described in ISO 14040 and the requirements themselves are set out in ISO 14044.",
+          "resource": "https://www.lifecycleinitiative.org/"
+        },
+        {
+          "name": "Social Return on Investment (SRoI)",
+          "description": "To assess the range of impacts of an investment. It differs from other methods in that it allows the societal value of an investment to be calculated beyond the financial return. It helps to identify the different types of social, environmental and economic outcomes that an activity has.",
+          "example": "NGOs and non-profit organisations use SRoI to effectively measure their activities and their impact on creating value in society."
+        },
+        {
+          "name": "Internal carbon pricing",
+          "description": "An internal carbon pricing system identifies the process in which emissions are produced and puts an internal shadow price on them."
+        },
+        {
+          "name": "Living wage",
+          "description": "When outsourcing to a low-income country, a living wage should be incorporated to reflect the real cost of the product. It is a standardised cost that includes the actual cost of labour paid in the foreign country, increased by a wage differential based on the domestic market."
+        }
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-02-003"
+    },
+    {
+      "title": "Create scenarios and set measurable targets - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Integrating sustainability considerations into your financial planning processes starts with setting goals:",
+      "components": [
+        {
+          "name": "Baseline",
+          "description": "You need a starting point for comparisons. Sometimes it is difficult to go back in time to gather historical data, and the baseline will be the year you start measuring. It is recommended to choose from the last 2 years or the current year."
+        },
+        {
+          "name": "Setting targets",
+          "description": "Once you have a good understanding of your environmental performance, you should consider your business objectives such as growth plans, expansion and other strategic decisions that will impact on your sustainability goals when setting targets. It is also important that the targets are science-based and ambitious enough to meet external expectations."
+        },
+        {
+          "name": "Scenario building",
+          "description": "With the selected materiality topics and targets in place, your organisation is in a position to apply scenarios that may impact your results. Create business scenarios based on increased water, waste and electricity costs and potential taxes as well as opportunities such as market access, branding, grants, and green loans."
+        }
+      ],
+      "science_based_targets": "Science Based Targets is the go-to source for insights on how to set climate-related targets. For smaller companies at the beginning of their sustainability journey, a logical approach to selecting achievable milestones is a good start.",
+      "mandatory_requirements": "Mandatory sustainability reporting standards such as IFRS S2 and ESRS 2, require listed companies to disclose climate-related scenario analysis.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-001"
+    },
+    {
+      "title": "Integrate sustainability KPIs in the periodic business review - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "To get the most out of measuring and reporting on material topics and to ensure effective integration of the sustainability strategy, the metrics should be integrated into the internal decision-making process:",
+      "integration_steps": [
+        "Include sustainability metrics, both financial and non-financial, in periodic dashboards",
+        "Communicate regularly internally: each business unit or product line manager should be able to analyse their progress and take ownership of their progress",
+        "Identify opportunities for cost savings and revenue generation through sustainable practices, such as energy efficiency measures or waste reduction initiatives"
+      ],
+      "benefits": "This will enable management to keep track of their priorities and sustainability performance and embed a continuous improvement and iterative system towards a more sustainable business model. This is preferable to a more tactical approach with ad hoc decisions or philanthropic activities to keep employees engaged.",
+      "monitoring": "Targets and scenarios require regular monitoring and reassessment. As the business forecast and overall strategy change over time, the defined sustainability KPIs will be affected and should be reassessed.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-002"
+    },
+    {
+      "title": "Build a simple & relevant ESG report - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Stakeholder engagement requires identifying who needs what type of sustainability information. An ESG report can be as simple as interpreting the materiality data so that the reader can understand the scope, the business context, why an issue is considered material, performance over time, reasons for good or poor performance and planned actions.",
+      "key_principles": [
+        "It is important to use neutral language to build trust",
+        "Do not overstate achievements and only highlight positive aspects",
+        "The report should be balanced and accurate"
+      ],
+      "report_components": [
+        "An introductory statement from the CEO setting out the overall content",
+        "Stakeholder engagement",
+        "Materiality matrix",
+        "Outcome of each topic over time and normalised values in graph format",
+        "Comments on each topic – actions taken, next steps, etc.",
+        "References to the framework used in an index format",
+        "Examples of employee engagement",
+        "Overall narrative on impact created"
+      ],
+      "ideal_outcome": "The ideal outcome is to present the sustainability report as an integrated part of the annual report.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-003"
+    },
+    {
+      "title": "Plan your sustainability communications - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Sustainability communication is much more than an ESG report. It should engage all stakeholders - customers, employees and the wider community - to build awareness and support for the company's sustainability efforts, and be delivered in a transparent and tailored way.",
+      "key_elements": [
+        {
+          "name": "Create the narrative",
+          "description": "Develop a clear, concise, and consistent message about the company's sustainability efforts that can be used in all communications, reports, and marketing materials. Monitor and evaluate the effectiveness of the company's sustainability communications and marketing efforts and make changes as needed to improve impact."
+        },
+        {
+          "name": "Communicate transparently",
+          "description": "Greenwashing can be defined as creating a false impression or providing misleading information to show that an organisation's products or services are good for the environment, or at least better than competitors. Transparency plays a key role in avoiding misleading advertising and/or ignorance."
+        },
+        {
+          "name": "Internal communications",
+          "description": "An effective internal communication strategy is essential to strengthen the culture of sustainability among employees and build morale and trust. Employee understanding of the sustainability strategy is a prerequisite for employee engagement and the integration of sustainable practices into day-to-day operations."
+        }
+      ],
+      "greenwashing_definition": "In essence, it is when a company or organisation spends more time and money marketing itself as sustainable than actually minimising its environmental impact.",
+      "eu_regulation": "Greenwashing is a threat to business because of the reputational risk it can cause, but even more so now that regulation is increasing, with the EU voting to 'ban greenwashing and improve consumer information on product durability'.",
+      "guidelines": "Industry guidelines for sustainable communications can be found on the PRCA APAC Sustainability Working Group website.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-004"
+    },
+    {
+      "title": "Integrate externalities in the accounting - ADVANCED",
+      "cost": "C2",
+      "effort": "E3",
+      "impact": "I3",
+      "description": "To enable a targeted action plan, the externalities, that have been previously valued, should be analytically accounted for in the accounts. Incorporating the externalities derived from valuation tools such as the internal carbon price or the living wage into the accounts allows the real cost of an activity, process or product to the company and its environment to be reflected in the company's reports, and progress on these externalities to be measured and disclosed over time.",
+      "purpose": "This is an essential step in the decision-making process to avoid making decisions based only on apparent costs, which can encourage the depletion of natural resources or the exploitation of resource-poor countries. It should lead to more sustainable business practices.",
+      "cost_allocation_methods": [
+        {
+          "name": "Activity Based Costing (ABC)",
+          "description": "Based on the activities that generate the costs, ABC allocates internal expenses to cost centres and cost drivers. For example, for the carbon emissions, ABC identifies potential activities that will generate carbon emissions and calculates their emissions data."
+        },
+        {
+          "name": "Material Flow Cost Accounting (MFCA)",
+          "description": "Is mainly used for manufacturing processes and focuses on identifying which processes can improve the use of raw materials, energy, water and waste. ISO 14051 outlines the requirements for an MFCA analysis, which is a useful tool for companies seeking a circular business model."
+        }
+      ],
+      "tool_selection": "The suitability of the tool depends on the type of business (products or services) and the area of impact (energy, water, waste) you are dealing with.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-005"
+    },
+    {
+      "title": "Invest into short, medium and long term initiatives - ADVANCED",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Sustainability is not a cost, it is an investment to future-proof your business. Today's business leaders must be prepared to answer questions from stakeholders about their sustainability strategy and priorities.",
+      "opportunities": [
+        "Attracting new customers who demand more responsible brands",
+        "Meeting the increasing demand from listed companies for insight into their suppliers' sustainability strategy",
+        "Attracting and retaining talent who seek purpose-driven employers",
+        "Reducing operating costs through, for example, energy efficiency or reduced packaging"
+      ],
+      "funding_strategy": "To ensure that the strategy is sustainable, it is important to drive initiatives with a long-term vision. Redirecting all or part of the cost savings or additional revenue generated by successful initiatives into a dedicated budget will allow other sustainable initiatives to be funded at no additional cost. This will create a ripple effect and accelerate your transition to a more sustainable business model.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-03-006"
+    },
+    {
+      "title": "Categorise data - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Sustainability accounting is based on relevant sustainability data that has been monitored over a period of time. It is important to ensure that sustainability accounting is part of the company's processes and that data collection is an ongoing activity in order to continuously identify improvements.",
+      "data_requirements": "Like other non-financial data and performance indicators, environmental, social and governance (ESG) data must be well understood in context, presented with a narrative of qualitative information and linked to financial data.",
+      "steps": [
+        "Identify data owners: which department is responsible for and owns the information? or which people in the organisation know the processes and can capture and interpret the sustainability data in its context?",
+        "Review what information is already available and what is already being measured",
+        "Define the set of characteristics for each data: definition of the metrics, the format, the quality criteria, the frequency..."
+      ],
+      "building_on_existing": "A company can often build on its existing resources and business metrics by adding some missing data to align with the standards and frameworks.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-04-001"
+    },
+    {
+      "title": "Secure a process to track, store, report data - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "This step aims to: 1) define the rules and procedures for collecting, storing, processing, analysing and reporting data (data governance); 2) implement the day-to-day data management processes in accordance with the defined rules (data stewardship).",
+      "objectives": [
+        "Ensure the security, integrity and quality of the data",
+        "Consider data compliance as sustainability data becomes part of mandatory reporting",
+        "Communicate and explain the process to data providers and users"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-04-002"
+    },
+    {
+      "title": "Upgrade the software environment - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "There is a wide range of software, carbon management tools, reporting questionnaires and benchmarking tools on the market to support sustainability efforts. Many of these facilitate integration, pulling data from other systems to reduce manual effort, and offer visually appealing dashboards to present performance.",
+      "sme_consideration": "For SMEs, such solutions can be costly and should not be a deterrent. For example, the most relevant calculations of your carbon footprint can be done with the GHG Protocol Excel-based tool available online!",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-04-003"
+    },
+    {
+      "title": "Perform regular audits - ADVANCED",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Both internal and external audits ensure compliance with sustainability reporting standards and provide credibility to stakeholders.",
+      "audit_types": [
+        {
+          "name": "Internal audits",
+          "description": "Internal auditors will ensure the compliance with the latest sustainability reporting standards. The Singapore Stock Exchange (SGX) requires sustainability information to be verified by internal auditors. They will ensure the integrity of the sustainability information and reporting processes and guard against greenwashing."
+        },
+        {
+          "name": "External Audits and Certifications",
+          "description": "If you want to have access to green financing tools, your sustainability reporting will be audited. Consider obtaining third-party certifications or conducting external audits to validate your sustainability efforts. Certifications such as LEED (Leadership in Energy and Environmental Design) or B Corp can demonstrate your commitment to sustainability and provide credibility to stakeholders."
+        }
+      ],
+      "additional_services": "You can also find support and certification services for carbon accounting (including the integration of externalities) and carbon tax from external audit firms.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-04-004"
+    },
+    {
+      "title": "Engage all your Employees - BASIC",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Embarking on the sustainability journey requires a change of mindset from everyone in the organisation. For any company to adopt a long-term integrated sustainability strategy, a top-down approach would be the preferred starting point. Top management needs to evaluate options, decide what to focus on and develop a strategy.",
+      "engagement_strategies": [
+        {
+          "name": "Define the purpose",
+          "description": "Clearly articulate the purpose of the sustainability agenda and what you hope to achieve. This will help employees stay focused and aligned on the goals."
+        },
+        {
+          "name": "Communicate progress",
+          "description": "Regularly communicate the progress of the sustainability initiatives to the employees and encourage everyone to get involved in these activities."
+        },
+        {
+          "name": "Analyse social KPIs",
+          "description": "Regularly assess the progress of your sustainability initiatives and make adjustments where necessary. Consider which KPIs, such as employee retention, productivity, and overall employee engagement, should be tracked alongside sustainability initiatives and their impact on the costs."
+        },
+        {
+          "name": "Incentivise",
+          "description": "Employees are the backbone of any business. Every employee action counts. Celebrate the successes by linking these actions to a reward system within the organisation. This will help keep everyone motivated and engaged in the effort."
+        },
+        {
+          "name": "Create a sense of belonging",
+          "description": "Helping employees see the business case for operating in a more sustainable way is not always easy, but it is critical. Create a dual mindset among the employees about 'doing good' and 'doing well' through the company's long-term purpose, values and transparent communication."
+        }
+      ],
+      "unilever_quote": "'Small actions can make a big difference' - Unilever's sustainability slogan",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-05-001"
+    },
+    {
+      "title": "Play a key role as Finance Department - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "The CFO and the finance function are often ideally placed to take the lead on sustainability accounting because they are numbers-oriented, know the ins and outs of the business, understand how to meet reporting and external requirements, and manage relationships with banks and investors.",
+      "finance_benefits": "By taking an active role in sustainability, they will help organisations adopt more sustainable business practices and advance the sustainability agenda. With some upskilling in sustainability reporting, they will be ready to increase the weight and importance of sustainability information and link it to the P&L in terms of risks and opportunities, cost reduction (carbon emissions, waste management, electricity consumption, etc.), long-term value creation, etc.",
+      "finance_roles": [
+        {
+          "role": "Business analysis / management controlling",
+          "description": "Will use their expertise to measure, analyse and report on the organisation's sustainability performance, helping to ensure that sustainability data is accurate and reliable. As business partners, they provide operational departments with the data and insights to make informed decisions, help monitor risks and capitalise on opportunities."
+        },
+        {
+          "role": "Accounting",
+          "description": "Is well equipped to integrate sustainability data into financial reporting for accountability purposes. They have a good understanding of business intelligence tools and software migration."
+        },
+        {
+          "role": "Internal audit",
+          "description": "Relies on in-depth knowledge of business processes and regulatory requirements. They will help identify the economic, social and environmental impacts of the company's activities and assess business risks. They will ensure that processes comply with governance and regulatory requirements, are efficient, known and regularly applied correctly, and that the resulting data is reliable."
+        },
+        {
+          "role": "Risk management",
+          "description": "Helps organisations identify and manage sustainability-related risks, such as reputational, regulatory and physical risks, by providing advice on how to minimise these risks and prepare for potential challenges."
+        }
+      ],
+      "professional_development": "In order to provide ongoing and effective support, it is important for finance to stay abreast of sustainability-related issues and trends by participating in continuing education and training opportunities. They also play a key role in promoting sustainability literacy within their organisations and beyond, helping to build a broader understanding of the importance of sustainable business practices.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-05-002"
+    },
+    {
+      "title": "Lead Cross-functional alignment - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Because sustainability requires systemic change and an entire organisation to change, silos need to be broken down.",
+      "cross_functional_approach": "While finance can enable internal decision-making through capital and resource allocation and monitor the company's financial performance, marketing and communications teams, which are at the heart of enabling the flow of business between internal teams and external stakeholders, can drive stakeholder management and build awareness through narratives. Working closely with operations, risk management and product development teams will help ensure that the company's sustainability efforts are integrated into all aspects of the business.",
+      "benefits": [
+        "Cross-functional alignment will also give teams a good overview of the issues that are material to the business",
+        "Improve employees' understanding of the company's progress and challenges",
+        "Strengthen the narratives to stakeholders"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-05-003"
+    },
+    {
+      "title": "Train employees on global sustainability challenges & personal action",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Understanding the science behind sustainability challenges is key for you and your team to engage people and reduce the cognitive biases that affect our perceptions of climate change.",
+      "training_approaches": [
+        "General awareness sessions such as lunch&learn talks can also help you identify future champions to integrate into your green team",
+        "Workshops to calculate the footprint of individual lifestyles (Individual Ecological Footprint) and identify key levers to learn, reduce and change habits are highly recommended",
+        "Creating a sense of belonging with green communities to share experiences and debate with others is also proving useful"
+      ],
+      "resources": [
+        "Find ideas for lunch&learn, videos to share, workshops and talks on The Matcha Initiative Sustainability Engagement Kit",
+        "Browse The Sustainable HR section of Matcha Initiative for more solutions"
+      ],
+      "benefits": "They contribute to give coherence to your corporate sustainability strategy and encourage people to take actions as a powerful tool against eco-fear.",
+      "url": "https://www.thematchainitiative.com/solutions-new/15-03-001"
+    },
+    {
+      "title": "Train employees on carbon management",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Carbon Management is a new field for most yet we do not have enough time to wait for the next generation to be educated about it. It is therefore vital to help your employees to quickly grasp the concepts of carbon management and become experts.",
+      "training_options": [
+        "Check out The Matcha Initiative's dedicated page to find out when the next public masterclass is",
+        "Attend a two-day training session at a Continuing Learning Centre",
+        "Organise an in-house training session with a training provider"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/15-03-002"
+    },
+    {
+      "title": "Build an engaged workforce",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Strengthen your sustainability strategy by building an engaged workforce: through collective brainstormings, trainings... but also compensation & green KPIs...",
+      "strategies": [
+        "Make sure all employees are aware of your sustainability targets & commitments. Through workshops and ideathons, they will be the ones to identify the relevant carbon reduction actions for your business.",
+        "Include sustainability goals in your Employee Performance Management. This will ensure alignment, clarity and focus on results for your carbon management and sustainability journey."
+      ],
+      "resources": [
+        "Browse our Sustainable HR section on Employee Engagement for ideas",
+        "Browse our Sustainable HR section on Performance, Reward and Recognition for how to implement it"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/15-03-003"
+    },
+    {
+      "title": "Take advantage of sustainability grants - BASIC",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "There are many advantages to being an early mover in sustainable business development in Singapore. One of these is the opportunity to benefit from available grants.",
+      "singapore_grants": [
+        {
+          "name": "Enterprise Development Grant (EDG)",
+          "description": "Under EDG, Enterprise Singapore has included a sustainability component in business strategy development which includes: Environmental, Social, and Governance Reporting Framework Development, Sustainability Risk Assessment, Material Foot printing, Sustainability Strategy Development, and Sustainability Value Creation.",
+          "requirement": "Companies applying for EDG support for consultancy-related costs must engage management consultants with Enterprise Singapore-recognised certification."
+        },
+        {
+          "name": "SG Eco Fund",
+          "description": "The SG Eco Fund was launched by Singapore's Ministry of Sustainability and Environment and is open to the private and public sectors. With a total value of S$50 million, it includes 2 categories: Sprout and Main.",
+          "criteria": "If your green project has significant environmental impact, works with the community and has not received funding from other government sources"
+        },
+        {
+          "name": "3R Fund",
+          "description": "The 3R Fund is a co-funding scheme open to all organisations in Singapore.",
+          "focus": "If your business is focused on implementing waste minimisation and recycling projects"
+        },
+        {
+          "name": "Energy Efficiency Fund",
+          "description": "If your company owns or operates an industrial facility and is also a partner in the National Energy Efficiency Partnership Programme."
+        },
+        {
+          "name": "Water Efficiency Fund",
+          "description": "Water Efficiency Fund was launched by PUB, supports research on water waste management, from exploration to implementation."
+        }
+      ],
+      "resource": "See in the resource section, all public funds and grants available in Singapore",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-07-001"
+    },
+    {
+      "title": "Look for a Green Loan as a funding source - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Green Loans are made to finance a 'green project' that promotes environmental sustainability. A green project can be anything that has a clear environmental benefit. Green loans can help the business to access liquidity and better economic conditions.",
+      "resources": [
+        "You can read more on the World Bank and DBS resources to understand the basics of a Green Loan",
+        "The Green Loan Principle Framework allows businesses to clearly understand the characteristics of a Green Loan"
+      ],
+      "regional_support": "In the region, EFS-Green and its partner financial institution, CIMB, are facilitating greater access to green finance for companies developing technologies and solutions that reduce waste, resource consumption or greenhouse gas emissions, particularly in the clean energy, circular economy, green infrastructure and clean transport sectors.",
+      "singapore_context": "Banks in Singapore are also encouraged to develop green and sustainability-linked lending frameworks to make such financing more accessible to small and medium-sized enterprises (SMEs).",
+      "advice": "Once you have a clear idea of your funding needs, it is advisable to look at the green and sustainability-linked loan schemes in Singapore that may be available to you to secure some funding for your projects.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-07-002"
+    },
+    {
+      "title": "Get familiar with Green Bonds - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Green bonds are public debt financing for an environmental project. Green bonds can offer tax advantages, providing incentives to invest in sustainable projects that are not available to other comparable types of bonds.",
+      "comparison_to_loans": "However, as the frameworks for green bonds and green loans are similar in nature, a green loan is based on a loan, typically smaller than a bond, in a private transaction, and the funds from green bonds are committed to environmental or climate change projects, such as investments in renewable energy.",
+      "singapore_support": "In Singapore, MAS will subsidise up to S$100,000 of additional costs for external audits of eligible green, social, sustainability and sustainability-linked bonds, and encourages the adoption of internationally accepted standards for green bonds of a minimum size of $200 million.",
+      "references": [
+        "Green Bonds - the reserve management perspective",
+        "ICMA - Voluntary Process Guidelines for Issuing Green Bonds",
+        "Sustainalytics - Simplifying Sustainable Finance – Explaining Green Bonds, Green Loans, Sustainability Linked Loans and Bonds and More",
+        "Sustainalytics - Sustainability-Linked Financial Instruments: Creating Targets and Measuring Your Company's Performance"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/04-07-003"
+    },
+    {
+      "title": "Gain access to sustainable investors - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "A business angel (also known as an angel investor) is an individual or group of individuals who invest a percentage of equity in early stage or start-up businesses. As with banks, entrepreneurs need a strong business plan. However, angel investors can offer different levels of funding and are usually more flexible than traditional banks.",
+      "benefits": "One of the benefits that some angel investors bring to the relationship is that they often act as mentors as well as providing seed funding and investment.",
+      "singapore_context": "In Singapore today, there are many ways to find a business angel who specialises in sustainability, or to attract one using the green aspect of your business.",
+      "key_kpis": "What they are most interested in is making sure that the company is not greenwashing, but also that the company is not emitting too much CO2. These are the 2 main KPIs that investors are looking for.",
+      "sec_accreditation": "Some business angels are SEC (Securities Exchange Commission) accredited. Being accredited by the SEC is a very good indicator of whether the business angel can provide funding to the company.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-07-004"
+    },
+    {
+      "title": "Communicate on long term value creation - ADVANCED",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "When communicating with stakeholders, it is important to link your sustainability efforts to the company's ability to create long-term value. Sustainability reporting alone will not help investors understand long-term value creation. What is needed is an explanation of how environmental and social impacts are linked to economic performance.",
+      "integrated_reporting": "Integrated Reporting <IR>, now part of the IFRS Foundation, can be a valuable framework to help you think about the business long-term value creation, and how to communicate about it to the board, banks and investors.",
+      "integrated_thinking": "Integrated Reporting is based on Integrated Thinking, which revolves around the relationships between the organisation and the different types of capital: Financial, Manufactured, Natural, Human, Social, and Intellectual capital.",
+      "benefits": "Analysing how the different natures of capital are affected by the company's operations will improve the quality of the reporting and make the allocation of investments more efficient and sustainable.",
+      "url": "https://www.thematchainitiative.com/solutions-new/04-07-005"
+    }
+  ],
+  "buddies_featured": [
+    {
+      "name": "Radhika Chavan",
+      "title": "Co-Founder - Tulya",
+      "expertise": "Sustainability Management Accounting (SMA) Services",
+      "background": "Develops tailored tools and practices that integrate material topics (ESG & Business) with accounting statements line items to demonstrate financial impact of action vs inaction. Previously worked with Lehman Brothers, Barclays and IT services companies. Graduate in Chemical Engineering, certified in SASB, PMP, CSM & Design Thinking-MIT.",
+      "contact": "tulya.io"
+    },
+    {
+      "name": "Anna Håkansson", 
+      "title": "Co-founder - Tulya",
+      "expertise": "Process improvement and data-driven insights",
+      "background": "Background in process development and operations as Quality Manager and COO. Studied Sustainable Business Development at University in Sweden and Sustainability Reporting Standards (GRI, SASB, TCFD, ISSB). Helps SMEs integrate sustainability into business strategy and operations.",
+      "contact": "tulya.io"
+    },
+    {
+      "name": "Lucile Batut",
+      "title": "Sustainable Performance Manager", 
+      "expertise": "Finance and sustainability transformation",
+      "background": "Supports finance departments in transformation towards sustainability. Management degree from top French business school, multi-faceted experience from auditor to consolidation accountant, project manager, management controller and finance director."
+    },
+    {
+      "name": "Ching Hu",
+      "title": "Head, Net Zero Transition – Singapore Business Federation (SBF)",
+      "expertise": "Decarbonisation and ESG ratings",
+      "background": "Drives initiatives to decarbonise Singapore and enterprises, including publishing Singapore Emission Factors Registry. Previously at Terrascope and EcoVadis. Graduate of London School of Economics, SciencesPo Paris, and Oxford University.",
+      "contact": "sbf.org.sg"
+    },
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Sustainability consultant, Founder - Sustainao",
+      "expertise": "Sustainability and decarbonisation strategies",
+      "background": "10 years experience helping businesses develop impactful sustainability strategies. Previously sustainability auditor at KPMG France. MBA in Corporate Sustainability, Master's in Environmental Management, Bachelor's in Chemistry and Biology.",
+      "contact": "sustainao.com"
+    }
+  ],
+  "scraped_at": "2025-07-09T10:45:00Z",
+  "file_path": "/Users/davidmarchesseau/Documents/Matchainitiative/solutions/sustainability-accounting-sustainable-corporate-finance.json"
+}

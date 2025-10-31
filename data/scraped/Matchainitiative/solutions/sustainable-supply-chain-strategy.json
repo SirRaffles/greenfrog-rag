@@ -1,0 +1,184 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-supply-chain-strategy",
+  "title": "Sustainable Supply Chain Strategy",
+  "category": "Sustainable Supply Chain & Logistics",
+  "subcategory": "Sustainable Supply Chain Strategy",
+  "overview": "Companies bear increasing responsibility for supply chain sustainability. The approach involves mapping current state, identifying opportunities, mitigating risks, and designing future state with actionable roadmaps. According to the ISCEA definition: 'orchestrating and continuously improving planning and execution of processes along an end-to-end value chain to achieve efficient resource use while minimizing waste.' Key requirement: Strong alignment between corporate strategy and supply chain strategy with clear priority understanding.",
+  "solutions": [
+    {
+      "title": "Understand Company Strategy & Define Priorities - BASIC",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Establish alignment between corporate ESG material topics and supply chain strategy. Conduct materiality assessments to prioritize environmental, social, and governance issues affecting business success and stakeholder interests. Identify SDGs with greatest impact and determine supply chain levers across procurement, manufacturing, logistics, and distribution."
+    },
+    {
+      "title": "Implement Supplier Code of Conduct - BASIC",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Create foundational supplier code of conduct establishing shared principles and values. This attracts aligned suppliers, provides clarity on value mismatches, protects against risks, and fosters transparent communication. Must cover labor, environment, and ethics minimum requirements."
+    },
+    {
+      "title": "Assess Sustainability Baseline of Existing Supply Chain - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E3",
+      "impact": "I3",
+      "description": "Evaluate current environmental and social impacts across end-to-end supply chain.",
+      "implementation_steps": [
+        {
+          "step": "Define Scope & Boundaries",
+          "details": [
+            "Identify key suppliers, manufacturers, distributors, customers",
+            "Determine geographic locations and product lines",
+            "Create visual supply chain representation showing material flow and impact connections"
+          ]
+        },
+        {
+          "step": "Identify Key Metrics",
+          "details": [
+            "Select KPIs aligned with sustainability goals",
+            "Reference 'Common Set of Core ESG Metrics from SGX' adapted to business scope",
+            "Track carbon emissions, energy use, water consumption, waste generation, social responsibility, ethical sourcing"
+          ]
+        },
+        {
+          "step": "Gather Data",
+          "details": [
+            "Collect information through surveys, interviews, data sharing agreements",
+            "Leverage technology and software solutions for streamlined collection and accuracy",
+            "Consider reporting platforms for efficiency"
+          ]
+        },
+        {
+          "step": "Assess Environmental Impacts",
+          "details": [
+            "Evaluate full supply chain environmental footprint",
+            "Use life cycle assessment (LCA) on representative products"
+          ]
+        },
+        {
+          "step": "Assess Social & Ethical Practices",
+          "details": [
+            "Examine labor conditions, human rights, ethical sourcing",
+            "Reference relevant certifications (Fair Trade, ISO 26000)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Map Supply Chain Risks & Develop Mitigation Plans - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Create structured risk management framework assessing supply chain vulnerabilities to current and future climate conditions. Establish transparency before risk assessment.",
+      "required_components": [
+        "Risk analysis: Hazard identification, exposure levels, associated risks",
+        "Risk assessment: Acceptable risk thresholds, current response mechanisms",
+        "Risk mitigation plan: Avoidance, reduction, transfer, or acceptance strategies"
+      ],
+      "typical_risk_categories": [
+        "Health and safety",
+        "Working conditions",
+        "Human rights",
+        "Environmental practices",
+        "Carbon footprint",
+        "Ethics",
+        "Compliance",
+        "Geopolitics"
+      ],
+      "note": "High probability/high severity risks require frequent monitoring and inform future state planning."
+    },
+    {
+      "title": "Establish Future State of Supply Chain - ADVANCED",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Redesign supply chain achieving step-change sustainability results balancing cost, responsiveness, and resilience.",
+      "implementation_steps": [
+        {
+          "step": "Step 1",
+          "description": "Gather business needs, sustainability objectives, risk mitigation requirements"
+        },
+        {
+          "step": "Step 2",
+          "description": "Translate to supply network requirements",
+          "requirements": [
+            "Manufacturing facility location near consumption areas with renewable energy access",
+            "Supplier proximity prioritizing high social performance",
+            "Low-carbon transport modes",
+            "Reverse supply chain design",
+            "Zero waste planning",
+            "Information systems enabling traceability and transparency"
+          ]
+        },
+        {
+          "step": "Step 3",
+          "description": "Document future state of supply chain"
+        },
+        {
+          "step": "Step 4",
+          "description": "Establish transition plan with financial implications and resource allocation"
+        }
+      ],
+      "note": "Multi-year complex journey potentially requiring supplier confirmation and new supplier introduction."
+    },
+    {
+      "title": "Control & Measure End-to-End Supply Chain Performance - ADVANCED",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Implement continuous improvement methods (Plan/Do/Check/Act) monitoring, controlling, and adjusting plans over time. Requires structured approach leveraging ERP systems or cloud-based ESG solutions. External connectivity critical for monitoring internal and external supply chain components. Reporting platform integration with ESG databases (e.g., GHG emissions factor databases) enables transparency for company and supplier base. Cross-supply chain collaboration captures joint targets and action plans.",
+      "common_kpis": [
+        "Percentage of suppliers endorsing Supplier Code of Conduct",
+        "Percentage of procurement team receiving sustainable procurement training",
+        "Percentage of suppliers with ESG risk assessments conducted",
+        "Percentage of suppliers with ESG contract clauses",
+        "Percentage of new suppliers screened using ESG criteria",
+        "Percentage of suppliers assessed via EcoVadis or questionnaires",
+        "Percentage of suppliers audited on human rights/ESG topics",
+        "Percentage of high-risk suppliers with established ESG action plans"
+      ]
+    }
+  ],
+  "featured_buddies": [
+    {
+      "name": "Adrien de Buttet",
+      "title": "Co-founder - Greenfinity",
+      "expertise": "Supply chain sustainability transformation specialist with 20 years multinational experience in industrial engineering and supply chain management"
+    },
+    {
+      "name": "Delphine Laurien",
+      "title": "ASEAN & MENA Head - Aden Services",
+      "expertise": "20+ years procurement and supply chain transformation expertise across facility management, food, textiles, hospitality"
+    },
+    {
+      "name": "Violaine Balland",
+      "title": "Head of Procurement - Wilhelmsen Ships Service",
+      "expertise": "15+ years procurement leadership across energy, rail, maritime sectors emphasizing sustainability influence"
+    },
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Founder - Sustainao",
+      "expertise": "10 years sustainability consulting developing strategies, embedding practices, sustainability reporting with chemistry and environmental management background"
+    },
+    {
+      "name": "Quentin Dumas",
+      "title": "Sustainable Value Chain Expert - Accenture",
+      "expertise": "15+ years responsible value chain and lifecycle experience"
+    },
+    {
+      "name": "Sammie Ho Dumas",
+      "title": "Social Impact & Sustainability Director - Williams-Sonoma",
+      "expertise": "20 years CSR practitioner focused on worker wellbeing programs across supply chain"
+    }
+  ],
+  "resources": [
+    "SGX Core ESG Metrics documentation",
+    "EcoVadis scoring system",
+    "Life Cycle Assessment (LCA) methodologies",
+    "Fair Trade and ISO 26000 certification frameworks",
+    "ISCEA supply chain sustainability definition"
+  ],
+  "scraped_at": "2025-10-31T00:00:00Z"
+}

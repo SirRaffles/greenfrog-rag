@@ -1,0 +1,24 @@
+{
+  "supplier_name": "Boon Poh Refuse Disposal Pte Ltd",
+  "description": "On-site food waste treatment systems",
+  "url": "https://www.thematchainitiative.com/supplier/boon-poh-refuse-disposal-pte-ltd",
+  "website": "https://boonpoh.com.sg",
+  "contact": null,
+  "locations": ["Singapore"],
+  "overview": "Environmental solutions provider focused on efficiency, performance, and productivity as a one-stop platform for environmental management needs",
+  "services": [
+    "Integrated waste management with recycling",
+    "Cleaning and conservancy services",
+    "Landscaping services",
+    "On-site food waste composters and digesters"
+  ],
+  "expertise_categories": [
+    "Food & Beverage",
+    "F&B Waste Management",
+    "Waste Management"
+  ],
+  "solution_codes": ["09.04", "05.03"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/boon-poh-refuse-disposal-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

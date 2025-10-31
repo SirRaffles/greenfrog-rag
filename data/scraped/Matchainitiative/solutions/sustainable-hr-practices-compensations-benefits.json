@@ -1,0 +1,88 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-hr-practices-compensations-benefits",
+  "title": "Sustainable HR Practices - Performance, Compensation, Benefits & Recognition",
+  "category": "Sustainable HR Practices",
+  "subcategory": "Performance, Compensation, Benefits & Recognition",
+  "overview": "This section focuses on recognizing and supporting positive behaviors and impactful involvement by aligning compensation and benefits policies with sustainability goals.",
+  "solutions": [
+    {
+      "title": "Define a Sustainable Compensation Policy",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Design sustainable compensation that promotes sustainable behaviors through balanced base/variable pay structures, ensuring compensation drives appropriate long-term development rather than short-term gains.",
+      "key_recommendations": [
+        "Develop compensation philosophy ensuring pay equity, particularly for employees with interrupted careers or underrepresented groups",
+        "Focus on skills required rather than experience years or educational credentials",
+        "Conduct gender-based compensation audits to identify and correct pay gaps",
+        "Publish salary ranges internally as a transparency commitment",
+        "Automate payment processes for efficiency and accuracy"
+      ]
+    },
+    {
+      "title": "Include Sustainable Goals in Your Performance Management",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Establish clear performance assessment criteria ensuring alignment and focus on deliverables through sustainable goal-setting.",
+      "implementation_steps": [
+        "Apply SMART framework: goals should be Specific, Measurable, Achievable, Relevant and Time-based",
+        "Implement standardized company-wide system ensuring equal treatment",
+        "Add sustainable metrics including volunteering hours, green initiative participation, diversity hiring/promotion"
+      ]
+    },
+    {
+      "title": "Adopt a Sustainable Approach for Benefits",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Integrate sustainability into employee benefits programs, encouraging responsible choices and social impact.",
+      "recommended_actions": [
+        "Support volunteering hours and matching gifts programs",
+        "Provide long-term financial planning advice with sustainable/green fund options",
+        "Allow unused PTO conversion to charitable grants",
+        "Source sustainable providers for employee gifts and celebrations",
+        "Encourage maternity/paternity and family leaves",
+        "Implement flexible work policies emphasizing outcomes over presence",
+        "Provide one paid day annually for volunteering activities"
+      ]
+    },
+    {
+      "title": "Recognize Sustainable Initiatives and Enable Sustainable Recognition",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Establish recognition programs that celebrate sustainable actions and contributions to company sustainability goals.",
+      "best_practices": [
+        "Create prizes for individuals or teams achieving sustainability objectives",
+        "Design sustainable rewards replacing physical objects with experiences (vouchers, meals)",
+        "Encourage team recognition alongside individual awards",
+        "Make sustainability contributors visible within organization",
+        "Link recognition to sustainability milestones and achievements"
+      ]
+    }
+  ],
+  "featured_buddies": [
+    {
+      "name": "Claire Kolly",
+      "title": "HR Consulting & Executive Coaching - EDLT.global",
+      "expertise": "Over 20 years HR experience; specializes in sustainable HR practices, development programs, and executive coaching with ESG focus"
+    },
+    {
+      "name": "Alvin Oh",
+      "title": "Founder - Wisdom International Group",
+      "expertise": "Certified management consultant in human capital development and social sustainability; adjunct associate professor in L&D, organizational development, and talent management"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "expertise": "12+ years Asia experience in technology sector; passionate about leveraging technology as force for good"
+    }
+  ],
+  "resources": [
+    "Complete solutions overview (PDF)",
+    "Corporate gifts guidance for sustainable employee recognition",
+    "External volunteering platform (giving.sg)"
+  ],
+  "scraped_at": "2025-10-31T00:00:00Z"
+}

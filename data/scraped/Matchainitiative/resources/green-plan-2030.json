@@ -1,0 +1,73 @@
+{
+  "title": "Green Plan 2030",
+  "url": "https://www.thematchainitiative.com/resources/singapore-regulations/green-plan-2030",
+  "type": "Resource Page - Singapore Regulations",
+  "summary": "Comprehensive overview of Singapore's Green Plan 2030, a whole-of-nation movement launched in February 2021 to advance sustainable development and meet UN 2030 Sustainable Development Agenda and Paris Agreement commitments.",
+  "launch_date": "February 10, 2021",
+  "description": "Whole-of-nation movement to advance sustainable development agenda",
+  "leading_ministries": [
+    "Ministry of Education (MOE)",
+    "Ministry of National Development (MND)", 
+    "Ministry of Sustainability and the Environment (MSE)",
+    "Ministry of Trade and Industry (MTI)",
+    "Ministry of Transport (MOT)"
+  ],
+  "climate_targets": {
+    "net_zero_by": "2050",
+    "2030_emissions_target": "Around 60 million tonnes of CO2 equivalent after peaking emissions earlier",
+    "ndc_status": "Revised 2030 Nationally Determined Contribution"
+  },
+  "five_key_pillars": [
+    {
+      "name": "City in Nature",
+      "goal": "Create a green, liveable and sustainable home for Singaporeans"
+    },
+    {
+      "name": "Sustainable Living", 
+      "goal": "Reduce carbon emissions, keep the environment clean, and make saving resources and energy a way of life"
+    },
+    {
+      "name": "Energy Reset",
+      "goal": "Use cleaner energy and increase energy efficiency to lower Singapore carbon footprint"
+    },
+    {
+      "name": "Green Economy",
+      "goal": "Seek green growth to create new jobs, transform industries and harness sustainability as competitive advantage"
+    },
+    {
+      "name": "Resilient Future",
+      "goal": "Build up Singapore's climate resilience and enhance food security"
+    }
+  ],
+  "key_initiatives": [
+    "Cleaner-energy cars with 60,000 EV charging points by 2030 (up from 28,000)",
+    "20% of schools to be carbon-neutral by 2030",
+    "Two-thirds reduction of net carbon emissions from schools by 2030",
+    "Eco Stewardship Programme for youth sustainability education",
+    "Enterprise Sustainability Programme for firms",
+    "GreenGov.SG initiative for public sector leadership",
+    "Singapore Green Building Masterplan enhancement",
+    "30% reduction in waste sent to landfill (20% by 2026)"
+  ],
+  "greengovsg_target": "Public-sector emissions to peak around 2025 (5 years ahead of national 2030 target)",
+  "waste_reduction_goals": {
+    "primary": "30% reduction in waste to landfill",
+    "interim": "20% reduction by 2026"
+  },
+  "public_engagement": {
+    "idea_submission": "Form available for Green Plan ideas",
+    "sectors": "Public, Private and People sectors co-creation",
+    "resources": "Infographics and reports available for download"
+  },
+  "achievements_2021": "Documented in infographs covering emissions, energy, transport, buildings, and waste",
+  "official_resources": [
+    "Green Plan 2030 website",
+    "Official video",
+    "MSE 2022 Sustainability Report", 
+    "Downloadable infographics",
+    "Target mapping document"
+  ],
+  "data_source_note": "Summary compiled from official SG Green Plan website",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

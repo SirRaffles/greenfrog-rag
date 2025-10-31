@@ -1,0 +1,104 @@
+{
+  "buddy_profile": {
+    "name": "Christine Amour-Levar",
+    "title": "Co-founder - Investors for Climate -- Founder & CEO - HER Planet Earth & CAL Consultancy",
+    "location": ["Singapore", "United Kingdom"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/63d0d6b962b7fa67ae66d092_Christine%20Amour-Levar.jpg",
+    "main_skills": [
+      "Sustainable Finance",
+      "Climate Tech",
+      "Leadership"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing",
+      "Kick Start Help"
+    ],
+    "contact": {
+      "email": "christine@herplanetearth.com",
+      "website": "http://www.christineamourlevar.com/"
+    },
+    "introduction": "Of French, Swiss and Filipino descent, I am a versatile purpose-driven leader with experience across a range of industry sectors. I have built a global career as a Marketing & Communications specialist and Social Entrepreneur intent on solving some of the world's most pressing issues. Today, I run my own consultancy business helping clients define their purpose, develop their marketing, communications, CSR and sustainability strategies and I am also a Board Member and Advisor to several purpose-led organisations in the Social Impact, ESG, Fintech and Cellular Agriculture spaces.",
+    "heritage": ["French", "Swiss", "Filipino"],
+    "professional_background": "Marketing & Communications specialist and Social Entrepreneur",
+    "current_roles": [
+      "Consultancy business owner",
+      "Board Member and Advisor to purpose-led organisations",
+      "Social Impact, ESG, Fintech and Cellular Agriculture spaces"
+    ],
+    "top_3_advice": [
+      "Choose to do something you are genuinely passionate about and put it at the core of your life",
+      "Work towards your goals every day. Putting in place lifelong habits are important to get you progressing towards your objectives",
+      "Be generous with your network, social capital and information - Givers succeed in ways that create a ripple effect influencing the success of others around them and this will lead you to build stronger relationships and many more allies"
+    ],
+    "how_to_help": "I would be happy to help by sharing my experience and opening up my network.",
+    "expertise_areas": [
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Responsible Marketing",
+      "Consultants"
+    ],
+    "organizations_founded": {
+      "woam": {
+        "name": "Women on a Mission (WOAM)",
+        "mission": "Empower women who have been subjected to violence and abuse",
+        "target_areas": "Afghanistan, Iraq, Syria, Rwanda, Sudan",
+        "focus": "Entrepreneurial and life-skills education for women in conflict-prone areas"
+      },
+      "her_planet_earth": {
+        "name": "HER Planet Earth",
+        "mission": "Raise awareness and funds for underprivileged women affected by climate change",
+        "focus": "Conservation and sustainable agriculture",
+        "activities": [
+          "Supporting elephant sanctuaries in Africa",
+          "Helping women farmers in Vietnam, Nepal, Bangladesh, Philippines become climate-resilient"
+        ]
+      }
+    },
+    "expedition_achievements": [
+      "First all-female team to bike across frozen Arctic Circle Trail of Greenland",
+      "First group to stand-up-paddle board down rivers in Kingdom of Bhutan",
+      "First to bike across Danakil Depression of Ethiopia (hottest place on earth)",
+      "Expeditions to Arctic Circle, Antarctica, Vietnam caves, Asia islands",
+      "Migrated with reindeer herders in Siberian winter",
+      "Rode with Kazakh Eagle Hunters in Mongolia",
+      "Climbed mountains in Himalayas, Iceland, Africa"
+    ],
+    "consulting_services": [
+      "Define purpose",
+      "Develop marketing and communications strategies",
+      "Build Sustainability, CSR and Diversity, Equity & Inclusion strategies",
+      "Find right partners and solutions"
+    ],
+    "client_base": "Startups, NGOs, government, academia, multinational corporations",
+    "southeast_asia_environmental_perspective": {
+      "challenges": [
+        "Global warming", "Urban excess", "Deforestation", "Water scarcity", "Overfishing", "Pollution"
+      ],
+      "government_struggle": "Balance economic growth with sustainable development",
+      "solutions": [
+        "Protection of rich biodiversity",
+        "Investment of $10B rising to $46B by 2030",
+        "Potential returns of $2.19 trillion annually",
+        "Focus on coral reefs and mangrove protection"
+      ]
+    },
+    "gender_climate_perspective": {
+      "statistics": "70% of world's 1.3 billion poor people are women",
+      "vulnerability": "Women hit hardest by climate crises, especially in agricultural workforce",
+      "solution": "Empowering, investing in and educating women is effective way to mitigate climate change"
+    },
+    "future_vision": "A fairer, more just and equitable future for society and environment where businesses, investors, non-profits and governments work together to solve biggest problems",
+    "current_investment_focus": {
+      "role": "Board member of Investible venture capital firm",
+      "focus": "Global climate tech fund in Singapore",
+      "target": "Six UN-identified sectors critical to combating climate change",
+      "region": "APAC-based start-ups",
+      "gender_commitment": "50% of backed companies have at least one female founder"
+    },
+    "solution_codes": [
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.07 - Sustainability Accounting Securing External Funding",
+      "13.00 - Responsible Marketing",
+      "16.01 - Consultants General"
+    ]
+  }
+}

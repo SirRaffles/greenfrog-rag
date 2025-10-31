@@ -1,0 +1,39 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-e-waste",
+  "title": "Waste Management - E-Waste",
+  "scraped_at": "2025-01-14T13:00:00Z",
+  "content": {
+    "overview": "Digital products contain up to 60 different elements including toxic ones (lead, cadmium, mercury but also PVC, brominated flame retardants...) and rare earth elements (Neodymium, Terbium, Dysprosium, etc.), which pose potential health risks to production workers, recyclers and environmental risks to water supplies near landfills where they are eventually dumped. The technologies used to recover those rare earth elements have been improved over time, as they represent a high resale value. Properly recycling them reduce the risks to harm the environment and the human health, and also the need to mine new raw materials.",
+    "solutions": [
+      {
+        "title": "Find a New Usage",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "If you wish to change your equipments, consider their after-life and prefer the following incentives: Sell obsolete/old hardware to your staff at a discounted price, Donate them to charities, Sell them to intermediates which will repair and recondition them. Before disassembling, conduct an assets audit and see what can be re-used, re-conditioned and what has to be recycled."
+      },
+      {
+        "title": "Properly Recycle Hardware Equipments (networking, server and storage...)",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I3",
+        "description": "Before disassembling, conduct an assets audit and see what can be re-used, re-conditioned and what has to be recycled. You can contract directly with a specialised recycler to dispose of your equipment or bring it back to your suppliers: under the Extended Producer Responsibility (EPR) on e-waste, suppliers of electronic goods must take back old products, and send them to a licensed recycler."
+      },
+      {
+        "title": "Properly Recycle Computers & Phones",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I3",
+        "description": "Before recycling, conduct an assets audit and see what can be re-used, re-conditioned and what has to be recycled. Electronic waste requires to be segregated from other waste, collected and treated properly, because they contain up to 60 different elements including toxic ones and rare earth elements. You can contract directly with a specialised recycler or bring back to suppliers under EPR on e-waste."
+      }
+    ],
+    "buddies_featured": [
+      "Andrew Tay - Business Development Director - KGS",
+      "Thibaut Meurgue - CEO – The Transmutation Principle",
+      "Rémi Cesaro - Founder & Director - Zero Waste City",
+      "Yasser Amin - Chief Stridy Officer",
+      "Wee Leng Tay - Founder - Upcircle",
+      "Shweta Agarwala - Sustainability Researcher (Circular Materials and E-waste Technologies)"
+    ]
+  }
+}

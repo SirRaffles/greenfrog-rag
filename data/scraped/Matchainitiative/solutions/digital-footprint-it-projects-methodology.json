@@ -1,0 +1,242 @@
+{
+  "category": "Digital Footprint & IT",
+  "subcategory": "IT Projects Methodology", 
+  "title": "IT Projects Methodology",
+  "url": "https://www.thematchainitiative.com/find-a-solution/digital-footprint-it-projects-methodology",
+  "description": "Solutions to develop IT Projects with a green mindset",
+  "overview": "Existing software engineering models do not pay much attention to green computing that focuses on the effective use of natural resources. However, making information systems greener is possible through different steps of projects: design, development per se, installation phase... On top of that, more and more models are being discussed and tested: green holistic methodologies, emergence of EI (environmental informatics) or Science Based Targets (SBT) methodology. Even if some models are being thought out, it is quite hard to enforce global green methodologies because there is no silver bullet yet. Before implementing any further big holistic methodologies, the section here should help you deploy quick-wins.",
+  "solutions": [
+    {
+      "title": "Deploy Sustainable Design Best Practices",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "Any IT project is made of design steps. Here are some tips to create quick wins:",
+      "details": [
+        "Audit your current website with Website Carbon for a fast overview of your website digital footprint",
+        "Audit your web flow and delete web pages that users never read",
+        "Reduce your website weight: remove what is not necessary (images, videos, texts...), choose fonts that are already used on most computers (thus not using more engine power to be uploaded), curb images / videos size and quality, design with a reduced number of colors and on degraded level on those colors",
+        "Have optimized architectures for your softwares in order to save energy usage and server computing power"
+      ],
+      "mobile_first_practices": [
+        "When designing, think Mobile first and consider what content and which transactions are most essential for a mobile experience",
+        "Keep in mind to make the interface lighter and go for UI/UX optimization",
+        "Prefer dithered images at best",
+        "Make sure your website is fast to load (less than 3s.)",
+        "Improve Findability & maximize user paths to find most useful information",
+        "Curb the number of features and be straightforward, relief technical debt by targeting must-have / high value features and cut the rest if you can",
+        "Get your SEO/SEM right to save time for users"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-001"
+    },
+    {
+      "title": "Deploy Sustainable Development Best Practices",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2", 
+      "description": "Developing a greener software relies on several focuses. There is no perfect methodology at the moment, but still, you can start following these steps:",
+      "focuses": [
+        {
+          "name": "Sustainability",
+          "description": "This means the software has to be created reliable, lifelong and efficient to fulfill the users' needs it is made for and, if possible, trying to aim at sustainable goals."
+        },
+        {
+          "name": "Frugality", 
+          "description": "Do not develop complex architectures for simple projects. Also build reliable structures if the solution is made to last and grow. It takes more time to build things twice rather than building one structure in the first place. Simplify your code as much as possible. Always design your solution the best way to reduce your carbon footprint."
+        },
+        {
+          "name": "Methodology revamp",
+          "description": "Waterfall and Agile methodologies are the most popular at the moment. Waterfall model is definitely very energy consuming (much work can be deployed for nothing, for instance), and Agile methodologies are flexible but can create extra work or additional tasks that could be merged. The solution is simple: to save time and energy, work and design your projects before going through. It will save steps and help all stakeholders see your vision."
+        },
+        {
+          "name": "Testing optimization",
+          "description": "Testing is practically one of the longest steps in software development. To save time and energy, prefer automated tests solution for large scales phases and use human brains for simple testing before using an entire infrastructure!"
+        },
+        {
+          "name": "Smart monitoring",
+          "description": "Deploy easy monitoring solutions or track your energy consumption yourself to make sure the software you maintain is on track."
+        }
+      ],
+      "alternatives": [
+        "Eco-design oriented software agencies",
+        "Agencies with teams locally-based (always better because supposedly, local agencies ensure better project management and resource saving by coordination)"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-002"
+    },
+    {
+      "title": "Look for existing business cases & softwares",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Before developing a new solution for your HR department or your faster-than-light traders, find out if you could merge different business cases together? Developing a new solution will need time, energy, money.",
+      "steps": [
+        "Map the ecosystem for the business case: businesses, teams involved, timelines, availability of IT infrastructures, teams...",
+        "Talk with your colleagues and IT teams to see if there is a solution that already exists and can fulfill your needs (most of the time, it actually does)",
+        "Engage business lines and analysts to make sure their need is real, and understand the priority of such development",
+        "If the need is real, think about existing solutions your company has and engage decision makers",
+        "Make sure existing solutions are stable and robust enough to support new features of your business cases"
+      ],
+      "benefits": "Buying an existing software is of course more sustainable than creating a new software. You need sometimes to adapt your own process to fit it. In addition to the sustainable benefits, buying an existing software is quite cheaper because it has been developed and upgraded for several customers.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-003"
+    },
+    {
+      "title": "Train your team on Green IT",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "Train your IT teams on the digital world footprint and impact, talk with them about digital sobriety, eco-responsibility design, development of best practices mentioned in our digital Footprint & IT part and also in other sections of the website, including but not limited to Paper & Printing Best Practices, how to increase lifespan of IT equipments (and why)...",
+      "importance": "If you are not aware of the problems, you cannot resolve them! Once they understand the problem, your IT team will eventually question their needs and habits. They will become great supporters and facilitators when conducting digital footprint audits, action plans implementation and monitoring.",
+      "workshop_option": "Sustainable IT collage workshops can be perfect to kick-off sustainable actions!",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-005"
+    },
+    {
+      "title": "Use AI & IoT with frugality and for upscale projects",
+      "cost": "C3",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "For the hardware they need and the data traffic they generate, AI and IoT are definitely power hungry. On top of that, some of business cases that are supposed to enforce greener processes deliberately boosted the rebound effect.",
+      "challenges": [
+        "AI and IoT require specific hardware (that need high performance and up-to-date versions)",
+        "The infrastructure they need (network, back-end, servers...) must be changed often",
+        "The competitive aspect of such technologies require companies to work on new processes and devices all the time"
+      ],
+      "green_guidelines": [
+        "Improving energy consumption efficiency",
+        "Using IoT and AI to reduce e-waste",
+        "Using IoT and AI to reduce food waste", 
+        "Deploying IoT and AI for agricultural projects based on sustainability or any species protection",
+        "Using IoT and AI for a better environment, cleaner air or water preservation",
+        "Enforcing safer solutions",
+        "Helping to develop new hardware that are more efficient (especially semi-conductors)"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-006"
+    },
+    {
+      "title": "Use blockchain with frugality",
+      "cost": "C2", 
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Over the past years, blockchain has been deployed tremendously in many fields of activities: logistics, banking, retail... Most large enterprises decided to go forth and use its powerful possibilities to ensure Smart contracts, safe processing and transactions or speculation.",
+      "environmental_concerns": [
+        "Blockchain does require much electricity. Mining such currencies involves huge amount of servers to mine and maintain the system",
+        "About 99% of the environmental impact come from the use of the mining equipment, with minimal contributions from production and recycling",
+        "Most of servers used for blockchain rely on fossil fuels"
+      ],
+      "positive_aspects": [
+        "The so-called proof of work is being rethought these days, in order to promote a greener mindset (proof of stake for instance)",
+        "Many environmental projects managed to emerge thanks to blockchain",
+        "Smart contracts to ensure sustainable legal structures for SME and bigger enterprises"
+      ],
+      "green_blockchain_examples": [
+        "Brooklyn Microgrids",
+        "PowerLedger", 
+        "PowerPeers"
+      ],
+      "conclusion": "It is quite hard to quantify the impact of blockchain on the environment. Depending on its usage, it can provide amazing breakthroughs or demonstrate a significant harmful impact on our planet. This is why it should be used with frugality for best purposes in order to save energy consumption in the end.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-02-007"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Thibaut Meurgue",
+      "title": "CEO – The Transmutation Principle",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/619e3b5019dd9ae7d25805db_07%20-%20Found%20n%20Seek%20-%20Antler%20Jun%202021%20-%20Stellar%20Photo%20-%20DSC_7794_1.JPG",
+      "description": "I am Thibaut, French bald since 26 & bold since forever! Right now, I am the CEO of The Transmutation Principle. I come from an IT & software agency background, so deeply into B2B and old-fashioned processes. I came to realize that sustainability cannot be only about consumers and half-hearted measures. I also realized IT sustainability was highly underrated and not understood by most companies. It came as quite a surprise for me, since I always considered IT sustainability to be one of the best ways to merge both ROI & sustainability to make the latter sound acceptable, actionable, and realistic. Having seen that, I wanted to make a change in my own way. My dedication came from the desire to be able to look my future kids in the eye and tell them that I tried to make the world a better place. I co-founded The Transmutation Principle, a Singapore-based consultancy, to support businesses in their quest for impact through actionable and tailor-made sustainability & ESG programs.",
+      "company": "The Transmutation Principle",
+      "linkedin": "https://www.linkedin.com/company/thetransmutationprinciple/?originalSubdomain=sg",
+      "profile_url": "https://www.thematchainitiative.com/buddies/thibaut-meurgue"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/621e05859790dcc7f19a1536_vincent%202%20-%20recadre.jpg",
+      "description": "I worked in Asia for 12 years (Shanghai, Hong Kong and Singapore) within the digital and technology space. I'm now the Europe Regional Managing Director at Palo IT. I have founded and run several companies in different sectors such as IT Consulting, Education, and the F&B business. I am passionate about how to use technology as a force for good.",
+      "company": "Palo IT",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/vincent-desclaux"
+    },
+    {
+      "name": "Radhika Chavan", 
+      "title": "Co-Founder - Tulya",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6343f35090ce1069bffc6f61_Radhika%20-%20Radhika%20Chavan%202.jpg",
+      "description": "Radhika is the Co-founder of Tulyā, A Sustainability Management Accounting (SMA) Services company. Her work includes measurement and understanding of the impact environmental and social factors will have on the value creation for SMEs. She develops tailored tools and practices that integrate material topics (ESG & Business) with accounting statements line items to demonstrate financial impact of action vs inaction. She has worked with Lehman Brothers, Barclays and IT services companies before starting her entrepreneurial journey in sustainability. She is a graduate in Chemical Engineering and has been certified in SASB , PMP, CSM &  Design Thinking-MIT.",
+      "company": "Tulya",
+      "email": "radhika@tulya.io",
+      "profile_url": "https://www.thematchainitiative.com/buddies/radhika-chavan"
+    },
+    {
+      "name": "Li Seng Heng",
+      "title": "Founder - Green Nudge", 
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/5ffff64f47d6c0d025b6bfb0_Li%20Seng.jpg",
+      "description": "Li Seng is the founder of Green Nudge, a social enterprise that supports businesses and communities to achieve positive environmental impact through activities such as coastal cleanups and workshops, outreach talks and sustainability consulting. By raising awareness and co-creating call-to-actions with various stakeholders on sustainability efforts, Green Nudge aims to create a normative shift in the way we create and deal with waste to achieve a low carbon, zero waste future for Singapore. Li Seng's previous experience in the public sector in the central bank of Singapore dealing with financial regulations, combined with his current roles in the community and social enterprise sector reinforced his belief that effective public policies need to be supported by ground-up actions and engagement. Playing an interfacing role within the tri-sector, Li Seng is able to provide sectoral knowledge through a system thinking lens to make informed decisions and strategies. He is happy to discuss disposables, sustainability of events, public education, and is familiar with corporate social responsibility and community / youth engagement.",
+      "company": "Green Nudge",
+      "website": "http://www.greennudge.sg/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/li-seng"
+    },
+    {
+      "name": "Barney Swan",
+      "title": "CEO - ClimateForce",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6554df5b51db774bed4dfa0c_Barney%20Headshot_%20Low%20Res%20-%20Barney%20Swan%20LIGHT.jpg",
+      "description": "I'm passionate about walking the talk, breaking the silos within sustainability and making pathways relevant for all walks of life (especially heavy industry) to diversify their current standard operating procedures.",
+      "company": "ClimateForce",
+      "website": "http://www.tropicalregen.org/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/barney-swan"
+    },
+    {
+      "name": "Patchareeboon Mam Sakulpitakphon",
+      "title": "Sustainability and Impact Lead - PALO IT Thailand",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/65645193a92192e691c83575_Mam%20Patchareeboon%20Sakulpitakphon%20-%20Mam%20Sakulpitakphon%20carre.jpeg",
+      "description": "Patchareeboon Mam has more than 16 years of experience on international development and sustainability projects, especially relating to business and human rights and corporate sustainability",
+      "company": "PALO IT Thailand",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/patchareeboon-mam-sakulpitakphon"
+    },
+    {
+      "name": "Leslie Beckman",
+      "title": "Founder - Sisloff International & The Eco-Marketing Project",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/667a2f70580326929902c33b_photo%20carree%20Leslie.jpg",
+      "description": "I grow the profitability of companies, leveraging data and sustainability. Harnessing 20+ years' experience, I've grown businesses ranging from local start-ups to $4b/100k-employee corporations. I've lived in USA, Australia, Singapore, China, Indonesia and worked with industries ranging from software to non-profit to consumer electronics. This diversity provides practical yet inspirational ideation to my work. As a systems-thinking expert, I drive sustainability improvements to help sales, product development, supply chain, compliance, and ultimately the bottom line. I thrive when empowering and collaborating with others. My achievements driving results-driven change through marketing, sustainability, and strategic leadership have been awarded locally and internationally. I am also GRI Certified for Sustainability Reporting, and am a member of the International Advertising Association's Sustainability Board.",
+      "company": "Sisloff International & The Eco-Marketing Project",
+      "website": "https://sisloff-intl.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/leslie-beckman"
+    },
+    {
+      "name": "David Marchesseau",
+      "title": "Industry and value advisory in Tech",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d17aff1dff905e485d5a75_IMG_1226%20-%20David%20Marchesseau.JPG",
+      "description": "With over two decades of experience in enterprise software and consulting, I've dedicated my career to helping organizations leverage technology to achieve their business and sustainability goals. At SAP, I led the launch and growth of Sustainability Cloud solutions across 25 industries. My expertise spans digital transformation, strategic advisory around business models and process change which is crucial for any company that wants to embed sustainability in their core business strategy and operations. IT solutions that cover sustainability have become essential for any company, big and small, and I can guide companies to find the right one, being an expert in solutions that cover Holistic ESG steering and reporting, Climate action and carbon accounting, Circular economy processes like responsible design, waste management, recommerce, and material traceability, Sustainable procurement and responsible supply chain, Protecting employee health and safety. Currently, I'm working on GreenFrog.ai, a program exploring 3 domains: how to make IT greener, how to use IT to greenify your business (\"IT for Green\") and how AI can accelerate sustainability strategy, transformation roadmap definition, and solution identification for companies. I am keen to work with any CSO or sustainability consultant to discuss how to augment their impact using tech, and especially AI agents.",
+      "company": "Independent",
+      "profile_url": "https://www.thematchainitiative.com/buddies/david-marchesseau"
+    },
+    {
+      "name": "Audrey Yang",
+      "title": "Founder, Sustainability Consultant - Thought Partner Eco",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d188381d18f7757652ec7a_Audrey%20Yang%20Headshot-sq%20-%20Audrey%20%7C%20Thought%20Partner.jpeg",
+      "description": "I'm a Sustainability Consultant & Speaker, founder of Thought Partner Eco — an SME's partner in sustainability. 99% of businesses are made up of SMEs who could collectively make a huge impact in lowering the carbon footprint of the world's economy. Yet, existing resources are more applicable to large corporations with large budgets, who have staff in sustainability roles to develop and execute on those initiatives. SMEs usually have neither. I fill this gap by providing relevant educational and strategic support at an affordable rate. I've supported clients across industries — creative, tech, health care and fashion —on education, strategy and sustainability communications. Play-based learning workshops are available too. Other than consulting, I'm an experienced speaker, workshop facilitator, and I have been featured in AsiaOne, CNA, The Straits Times, Eco Business and more.",
+      "company": "Thought Partner Eco",
+      "topics": ["Consumerism", "Greenwashing", "Digital Sustainability", "Advocacy and Activism", "Corporate Sustainability", "Sustainability in Fashion", "Sustainable Events"],
+      "website": "https://thoughtpartner.eco/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/audrey-yang"
+    },
+    {
+      "name": "Willoughby Niki Lee",
+      "title": "Founder, Lead Researcher - TinkerThings Global",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67d782ab786359ddba0264c0_Willoughby_Niki_Lee%20-%20Niki%20Lee.jpg",
+      "description": "I am Willoughby Niki Lee, a sustainability and technology advocate with a deep commitment to community development and digital trust-building. My journey spans roles in the private, public, and non-profit sectors, where I've combined my expertise in engineering and AI to create impactful social initiatives. As the founder of TinkerThings Global and a trainer with Singapore International Foundation, I work to bridge technology and community needs, focusing on projects that empower youth, seniors, and underserved groups. My goal is to leverage digital tools to foster inclusivity and resilience, aligning with the Sustainable Development Goals and promoting sustainable futures.",
+      "company": "TinkerThings Global",
+      "website": "https://tinkerthings.global/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/willoughby-niki-lee"
+    },
+    {
+      "name": "Sylvain Mahe",
+      "title": "Head of Sustainability - Palo IT", 
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/682d4a549382f36bdba2621d_Sylvain%20Mahe%20-%20Sylvain%20Mahe.png",
+      "description": "With a foundation in software engineering, I've journeyed through agile coaching to conscious leadership and systems thinking. Now, I guide organizations through complex transformations — agile, sustainability, and AI — by fostering human-centric approaches and systemic understanding. I'm passionate about evolving leadership to navigate our increasingly technological and interconnected world responsibly. I am absolutely convinced that the solutions to our current global predicaments do not primarily lie in \"doing\" more or focusing solely on actions. Instead, I believe the answers are found in our \"beingness\" — our mindsets and underlying belief systems. Addressing our challenges effectively requires a fundamental shift in consciousness. Once that internal shift occurs, the right actions will naturally follow. Simply starting with \"doing\" or concentrating too much on technical solutions, without this deeper shift, won't lead us to the desired outcomes.",
+      "company": "Palo IT",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/sylvain-mahe"
+    }
+  ],
+  "created_at": "2025-06-24",
+  "status": "complete"
+}

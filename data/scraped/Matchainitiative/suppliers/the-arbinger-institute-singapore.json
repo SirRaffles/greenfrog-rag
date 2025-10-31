@@ -1,0 +1,64 @@
+{
+  "name": "The Arbinger Institute, Singapore",
+  "tagline": "Enabling Mindset Change Transformation",
+  "location": [
+    "Singapore",
+    "Malaysia",
+    "Indonesia",
+    "Philippines",
+    "India"
+  ],
+  "contact": {
+    "email": "clientrelations@arbingersea.com",
+    "website": "http://arbingersea.com/"
+  },
+  "description": "The Arbinger Institute was founded in 1979 by Dr. C. Terry Warner, the scholar who solved the central problem at the heart of the human sciences: the problem of self-deception. That work revealed two distinct mindsets from which people and organizations operate — a self-focused inward mindset, and an others-inclusive outward mindset —and the path to sustainably changing mindsets and results. We help individuals, teams, and organizations move away from the default self focus of an inward mindset to the results focus of an outward mindset. Through training, coaching, consulting and a suite of implementation tools, we enable organizations and their people to achieve results that are only possible with an outward mindset.",
+  "founding": {
+    "year": 1979,
+    "founder": "Dr. C. Terry Warner",
+    "core_discovery": "Solved the central problem of self-deception in human sciences"
+  },
+  "methodology": {
+    "mindsets": {
+      "inward": "Self-focused inward mindset",
+      "outward": "Others-inclusive outward mindset"
+    },
+    "approach": "Path to sustainably changing mindsets and results"
+  },
+  "services": [
+    "Training programs",
+    "Coaching",
+    "Consulting",
+    "Implementation tools",
+    "Mindset transformation",
+    "Organizational development"
+  ],
+  "research_foundation": {
+    "psychology_research": "45 years of research in psychology of human behavior and motivation",
+    "organizational_experience": "35+ years working with organizations worldwide"
+  },
+  "sectors_served": [
+    "Corporate",
+    "Healthcare",
+    "Education",
+    "Government",
+    "Public safety",
+    "Nonprofit"
+  ],
+  "expertise_areas": [
+    "Corporate Governance, Mission & Strategy",
+    "Sustainable HR Practices",
+    "Consultants"
+  ],
+  "solution_categories": {
+    "corporate_governance": ["12.00"],
+    "sustainable_hr": ["14.00", "14.03", "14.05"],
+    "consultants": ["16.01", "16.03"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/supplier/the-arbinger-institute-singapore",
+    "profile_type": "supplier",
+    "data_completeness": "complete"
+  }
+}

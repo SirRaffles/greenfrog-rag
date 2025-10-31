@@ -1,0 +1,62 @@
+{
+  "supplier_name": "TerraCycle Foundation",
+  "description": "Ocean Plastic Prevention, Collection, Recycling, and Education",
+  "url": "https://www.thematchainitiative.com/supplier/terracycle-foundation",
+  "website": "http://www.terracyclefoundation.org/",
+  "contact": "info@terracyclefoundation.org",
+  "organization_type": "Registered non-profit organization",
+  "focus_areas": [
+    "Prevention",
+    "Collection", 
+    "Recycling",
+    "Education to prevent ocean waste/plastics"
+  ],
+  "locations": [
+    "Australia", "Cambodia", "Hong Kong", "India", "Indonesia", "Japan",
+    "Mainland China", "Malaysia", "New Zealand", "Philippines", "Singapore",
+    "South Korea", "Thailand", "Vietnam"
+  ],
+  "services": [
+    "Ocean Cleanup CSR activities",
+    "School waste bank programs",
+    "Community waste bank programs",
+    "Ocean plastic solutions setup and management",
+    "Outsource contracting for other organizations"
+  ],
+  "business_model": [
+    "Own non-profit operations",
+    "Outsource contractor for other organizations"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Carbon Management & Carbon Footprint",
+    "Sustainable HR Practices"
+  ],
+  "specific_solutions": [
+    "General (Green office)",
+    "Waste Management (Green office)",
+    "All (Local Community)",
+    "All Solutions (Carbon Management)",
+    "Employees Engagement, Development & Training",
+    "Awareness & Training (Carbon Management)"
+  ],
+  "solution_codes": [
+    "01.00",
+    "01.07",
+    "10.00", 
+    "15.00",
+    "14.03",
+    "15.03"
+  ],
+  "geographic_reach": "Asia-Pacific focused with 14 countries coverage",
+  "target_audiences": [
+    "Schools",
+    "Communities",
+    "Corporations seeking CSR activities",
+    "Other non-profit organizations"
+  ],
+  "environmental_impact": "Ocean plastic waste prevention and recycling",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

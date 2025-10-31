@@ -1,0 +1,30 @@
+{
+  "supplier_name": "A1 Environment Pte Ltd",
+  "description": "Used Coffee Recycling Services",
+  "url": "https://www.thematchainitiative.com/supplier/a1-environment-pte-ltd",
+  "website": "https://a1environment.com.sg",
+  "contact": "yenlyng@a1environment.com.sg",
+  "locations": ["Singapore"],
+  "founded": "2012",
+  "background": "Established by a team with over 20 years of recycling experience to deliver flexible, specialized coffee waste recycling solutions for organizations",
+  "expertise_categories": [
+    "Green Office",
+    "Eat & Drink at the office",
+    "Food & Beverage",
+    "F&B Waste Management",
+    "Waste Management"
+  ],
+  "services": [
+    "Used coffee grounds collection and recycling",
+    "Food service waste streams management",
+    "Sustainable waste management practices for organizations"
+  ],
+  "solution_codes": [
+    "01.03",
+    "09.04",
+    "05.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/a1-environment-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

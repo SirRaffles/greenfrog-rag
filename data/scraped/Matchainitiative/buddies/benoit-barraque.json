@@ -1,0 +1,108 @@
+{
+  "buddy_profile": {
+    "name": "Benoit Barraque",
+    "title": "Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform",
+    "location": ["France"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6035f5e3b708722983c37a9e_Benoit-Nov-2020%20centre.jpg",
+    "main_skills": [
+      "Employee Engagement",
+      "IT Ecodesign",
+      "Digital Footprint"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "team@thematchainitiative.com",
+      "website": "https://www.ca-groupinfrastructureplatform.fr/"
+    },
+    "introduction": "With 20 years of experience in IT across different sectors and industries, Benoit had managed teams focusing on project management and production and now is responsible for IT projects accross departments. Benoit is a strong sustainability advocate: in 2017, he was one of the founders and, later on, leader of Credit Agricole CIB's first green team in Singapore. In 2024, Benoit was an ECODESIGN Coach within Credit Agricole Assurances (CAA) where he contribute to create and deploy a framework for all IT projects to add a sustainability dimension to reduce their environmental footprint. This will help managers and management to understand both financial and carbon impacts and take decisions with wide insights.",
+    "top_3_advice": [
+      "Build a community and ask your colleagues what should be done.",
+      "Get inspired by what others do: connect with different companies, networks, countries to stimulate ideas.",
+      "Understand your management, their constraints and their limits."
+    ],
+    "how_to_help": "I will be glad to share my experience or help others to move towards a better and sustainable environment if I can. Let's keep in touch.",
+    "expertise_areas": [
+      "Green office",
+      "Digital Footprint & IT",
+      "Sustainable HR Practices"
+    ],
+    "green_team_experience": {
+      "founding_year": 2017,
+      "role": "Founder and leader of Credit Agricole CIB's first green team in Singapore",
+      "motivation": "Started out of curiosity, became a necessity to align work with personal convictions",
+      "approach": "Built a community to understand colleague interests and gather ideas"
+    },
+    "ecodesign_work": {
+      "year": 2024,
+      "role": "ECODESIGN Coach within Credit Agricole Assurances (CAA)",
+      "contribution": "Created and deployed framework for IT projects to add sustainability dimension and reduce environmental footprint",
+      "impact": "Helps managers understand both financial and carbon impacts for better decision making"
+    },
+    "implemented_changes": [
+      "Raised awareness of sustainability from employees to top management",
+      "Introduced environmental criteria alongside cost considerations",
+      "Increased conscious effort to minimize environmental impact",
+      "Improved employee well-being"
+    ],
+    "challenges_and_solutions": {
+      "challenges": [
+        "Finding people who understand and trust you",
+        "Getting management sponsorship",
+        "Working with limited budget and volunteer team",
+        "Keeping people motivated over time"
+      ],
+      "solutions": [
+        "Recruiting new green team members",
+        "Earning trust from management and community",
+        "Showing real, measurable impacts",
+        "Commitment and continuous learning",
+        "Innovation and network expansion"
+      ]
+    },
+    "initiatives_by_year": {
+      "2019": [
+        "Environment Week (upcycling workshop, climate change talks, fast fashion awareness, e-waste education, green market)",
+        "Newspaper recycling",
+        "Documentary screening about plastic issues",
+        "First beach cleanup"
+      ],
+      "2020": [
+        "Book and movie recommendations on sustainability topics",
+        "Electricity consumption reduction tips",
+        "Alternative browser introduction",
+        "Food environmental impact information",
+        "Earth Hour participation",
+        "DIY plants and hygiene/care products webinars",
+        "Disposable mask problem awareness",
+        "Partnership with barePack to fight single-use plastic",
+        "1,000 trees planted in India forest",
+        "2,000 sheets of paper saved through process change",
+        "100% recycled paper introduction",
+        "200 pairs of shoes collected for local association"
+      ],
+      "2021": [
+        "Became official Climate Collage animator",
+        "Conducted climate change awareness workshops"
+      ],
+      "2023": [
+        "Created framework for environmentally respectful coding",
+        "Green IT training and sensitization",
+        "Email impact reduction initiatives"
+      ]
+    },
+    "certifications": [
+      "Climate Collage animator (2021)"
+    ],
+    "solution_codes": [
+      "01.01 - Green Office Office Supplies",
+      "01.02 - Green Office Paper & Printing",
+      "01.03 - Green Office Eat & Drink at the office",
+      "02.01 - Digital Footprint Best Practices & Energy Reduction",
+      "14.01 - Sustainable HR Practices People Strategy Culture & Values",
+      "14.03 - Sustainable HR Practices Engagement Development Training"
+    ]
+  }
+}

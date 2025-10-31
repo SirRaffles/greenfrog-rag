@@ -1,0 +1,44 @@
+{
+  "name": "Ecoworks",
+  "tagline": "Automated refill stations",
+  "location": "Singapore",
+  "contact": {
+    "email": "kopi@ecoworks.sg",
+    "website": "https://www.ecoworks.sg/"
+  },
+  "description": "Ecoworks eliminates single-use plastic waste in home care by enabling consumers to refill cleaning detergents. They deploy refill stations in residential areas for consumers to reuse their existing bottles to refill — consumers need the detergent, not the packaging. Ecoworks also partners consumer detergent brands to help them transition to zero-waste, packaging-free retail.",
+  "services": [
+    "Automated refill stations for cleaning detergents",
+    "Single-use plastic waste elimination",
+    "Zero-waste retail solutions",
+    "Brand partnership for packaging-free transitions",
+    "Residential area deployment"
+  ],
+  "key_features": [
+    "Eliminates single-use plastic waste",
+    "Consumer bottle reuse model",
+    "Residential area deployment",
+    "Brand partnership programs",
+    "Zero-waste retail solutions"
+  ],
+  "value_proposition": "Consumers need the detergent, not the packaging",
+  "market_focus": "Home care products",
+  "expertise_areas": [
+    "Circular Economy",
+    "Waste Management",
+    "Sustainable Supply Chain & Logistic",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "solution_categories": {
+    "circular_economy": ["03.00", "03.02"],
+    "waste_management": ["05.08"],
+    "sustainable_supply_chain": ["06.00", "06.02"],
+    "carbon_management": ["15.04"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/supplier/ecoworks",
+    "profile_type": "supplier",
+    "data_completeness": "complete"
+  }
+}

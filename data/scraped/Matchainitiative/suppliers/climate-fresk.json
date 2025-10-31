@@ -1,0 +1,52 @@
+{
+  "supplier_name": "Climate Fresk",
+  "description": "Climate Change Awareness Workshop",
+  "url": "https://www.thematchainitiative.com/supplier/climate-fresk",
+  "website": "https://climatefresk.org/",
+  "contact": "thibautmg@gmail.com",
+  "locations": [
+    "Indonesia",
+    "Malaysia", 
+    "Singapore",
+    "Thailand",
+    "Japan",
+    "Worldwide"
+  ],
+  "mission": "To raise awareness about climate change as the defining problem of our time, and mobilize people into action. We believe that information precedes action, and that when people are empowered with enhanced knowledge, better decisions are made.",
+  "workshop_format": {
+    "approach": "Interactive and collaborative workshop",
+    "methodology": "42 cards game based on IPCC reports",
+    "duration": "3 hours",
+    "outcome": "Fundamental overview of climate change, impacts, and solutions"
+  },
+  "expertise_categories": [
+    "Local Community Involvement - CSR - Philanthropy",
+    "Sustainable HR Practices",
+    "Consultants",
+    "Carbon Management & Carbon Footprint",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "specific_solutions": [
+    "All (Local Community)",
+    "Employees Engagement, Development & Training",
+    "Consulting - Environmental Pilar",
+    "General Consulting",
+    "Consulting - Social & People Pilar",
+    "Awareness & Training (Carbon Management)",
+    "Organisation Engagement (Supply Chain)"
+  ],
+  "solution_codes": [
+    "10.00",
+    "14.03",
+    "16.04",
+    "16.01", 
+    "16.03",
+    "15.03",
+    "06.06"
+  ],
+  "educational_foundation": "Based on IPCC reports",
+  "target_audience": "Organizations seeking climate awareness training",
+  "geographic_reach": "Global with focus on Southeast Asia",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

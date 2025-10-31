@@ -1,0 +1,66 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/food-beverage-general",
+  "title": "Food & Beverage - General",
+  "scraped_at": "2025-01-14T13:30:00Z",
+  "content": {
+    "overview": "Food & beverages are vulnerable to climate change, resources scarcity and consumer-preference factors. F&B companies, offices and companies offering in-house catering need to implement a green strategy that encompasses all aspects of their operations. Besides, more sustainable choices often result in cost saving.",
+    "subcategories": [
+      "General",
+      "Food & Drink Sourcing",
+      "General Equipment", 
+      "F&B Waste Management"
+    ],
+    "solutions": [
+      {
+        "title": "Measure & Monitor",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Measuring your carbon footprint is a key step for an efficient environmental management: if you don't measure it, you can't manage it! It requires methodology and proper data collection: goods purchase, waste but also energy & electricity consumption especially by refrigeration, transport fleet's emissions. You may want to categorize them under your scopes 1, 2 and 3 emissions. Key steps: Implement an adequate procedure to accurately measure across all departments, Set annual reduction targets, Continuously monitor and improve."
+      },
+      {
+        "title": "Set up a sustainable purchasing policy",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Analyze consumption and existing practices with suppliers' support: Identify your most purchased products/services and the ones with the biggest environmental impact. Involve your employees and suppliers in the sustainable purchasing policy. Define targets and KPIs evolution. Limit the number of references for food and beverage items and define a green list. Include sustainable criteria in suppliers' offers analysis from 10 to 20% of the total scoring."
+      },
+      {
+        "title": "Reduce F&B Purchase, Consumption and Footprint",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Buy adequate amounts of drinks and food (no over-purchasing), Review portions and plate sizes, Offer different portion sizes options, Design menus to optimise ingredients' usage, Shrink your menu size to keep Inventory levels low, Include meat-free, dairy-free or plant-based menu, Set up targets to increase the share of sustainable proteins and plant-rich foods in menus, Source locally grown products."
+      },
+      {
+        "title": "Get Employees' buy-in",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Make sure that everyone in charge of food preparation is on the same track to reduce food waste. According to WRAP 45% of food waste come from Food Preparation. Write and share clear procedures & checklists, Raise awareness, train and mobilize all employees, Share progress reporting and action plan definition at all involved operational levels."
+      },
+      {
+        "title": "Educate Consumers",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Use canteen space to explain through posters your sustainable actions, Provide key figures, Explain the environmental impact of meat production and hence why its consumption should be reduced, Make recycling easy in your office canteen/restaurant with adequate signage. If you have an on-site composter, provide a specific bin for organic waste."
+      },
+      {
+        "title": "Choose sustainable food service contractors",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Prefer certified suppliers, Ask them for a standard evaluation such as Ecovadis, Evaluate their sustainable practices. Detail sustainable factors: local produces, short food supply chain, certified products, buy in bulk, track food waste, prevent waste with last-minute deals, donate surplus food, avoid single-use crockery/utensils, make recycling easy, choose green cleaning products, monitor energy consumption."
+      }
+    ],
+    "buddies_featured": [
+      "Shen Hui Tan - Founder - Kizuna",
+      "Claire Chabrières - Founder – ShiokFarm",
+      "Ivona Balint-Kowalczyk - Sustainability consultant, Founder - Sustainao",
+      "Li Seng Heng - Founder - Green Nudge",
+      "Samuel Chauffaille - Managing Director AsiaPacific (excl. China) - Ecocert",
+      "Duncan Craig - Co-founder & Design Director - ReXtore"
+    ]
+  }
+}

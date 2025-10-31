@@ -1,0 +1,52 @@
+{
+  "name": "Ecocert",
+  "tagline": "Organic and Sustainable Certification",
+  "description": "ECOCERT is pioneer and a world leader in the certification of organic and sustainable products in the agri-food, cosmetics and textile industries. Through its consulting and training expertise, ECOCERT can also assist stakeholders in the implementation and promotion of sustainable practices, especially with the de-risking of their supply chain.",
+  "global_presence": {
+    "countries": 130,
+    "employees": 2200,
+    "description": "ECOCERT's global footprint helps companies with consistent high-quality services all over the world"
+  },
+  "website": "http://www.ecocert.com/",
+  "contact": "apac@ecocert.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/65c258adfd7c050b7a04ccb5_Ecocert_bloc-marque_couleurs_EN_RVB%20-%20sam%20chauffaille.png",
+  "countries": [
+    "Singapore",
+    "Worldwide"
+  ],
+  "industries": [
+    "Agri-food",
+    "Cosmetics",
+    "Textile"
+  ],
+  "services": [
+    "Organic product certification",
+    "Sustainable product certification",
+    "Consulting services",
+    "Training expertise",
+    "Supply chain de-risking",
+    "Implementation of sustainable practices"
+  ],
+  "expertise_categories": [
+    "Sustainable Supply Chain & Logistic",
+    "Circular Economy",
+    "Food & Beverage",
+    "Consultants",
+    "Sustainability Accounting & Sustainable Corporate Finance"
+  ],
+  "solution_codes": [
+    "06.00",
+    "03.06",
+    "09.01",
+    "09.02",
+    "16.01",
+    "16.03",
+    "16.04",
+    "04.02",
+    "06.01",
+    "06.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/ecocert",
+  "scraped_date": "2025-07-10"
+}

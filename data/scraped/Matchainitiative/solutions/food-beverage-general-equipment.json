@@ -1,0 +1,152 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/food-beverage-general-equipment",
+  "category": "Food & Beverage",
+  "subcategory": "General Equipment", 
+  "scraped_at": "2025-06-24T14:00:00Z",
+  "introduction": {
+    "importance": "Energy management and preservation of natural resources should be prioritised by organisations: it reduces wastage and leads to costs savings.",
+    "focus": "Choosing energy efficient equipment, avoiding disposable utensils and harmful substances are some impactful actions you can take.",
+    "resource": "The NEA provides guidelines and resources to take action towards more energy efficiency."
+  },
+  "solutions": [
+    {
+      "title": "Target Energy Efficiency in the Kitchen",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "actions": [
+        "Audit and monitor the energy consumption of the whole kitchen and set targets for reduction",
+        "Optimize the energy usage of equipment such as chillers, exhaust, aircon, ventilation, cool rooms, heat stoves...",
+        "Thanks to Artificial Intelligence (AI), systems like Smart Energy Management or Smart Sensors & Controls can contribute to achieve energy efficiency, cost savings and operational excellence"
+      ],
+      "equipment_purchasing": [
+        "If you must purchase new equipment, choose energy efficient certified items and consider the equipment's life-cycle costs in your buying decision process",
+        "Retrofit old equipment with high efficiency parts and accessories"
+      ],
+      "professional_help": "Seek professional help to identify and incorporate kitchen equipment or design features that use less energy and recover capital costs more quickly."
+    },
+    {
+      "title": "Use reusable or compostable crockery / utensils",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I3",
+      "primary_option": "Consider investing in reusable compartmentalised trays and crockery instead of disposable ones. If you contract your canteen, take a look in the General section at the 'Choose sustainable food service contractors' solution.",
+      "dispensers": "Use dispenser for sauces, soft beverage, ice cream, coffee and tea instead of single dose packaging. Allow self service for napkins, bread, sugar, etc.",
+      "alternative": "If reusable is REALLY not an option, consider using compostable dining ware suitable for a food waste digester if used. Otherwise, use disposable ware with first lower carbon footprint and then from sustainable sources"
+    },
+    {
+      "title": "Source Responsibly",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "influence": "By influencing the behaviour of your suppliers towards the environment, you can shape a more sustainable way of doing business.",
+      "equipment": "When purchasing new equipment, choose items that are certified as energy efficient and consider the equipments' life-cycle costs in your buying decision process.",
+      "broader_impact": "All furniture, fixtures and fittings have socio-economic and environmental impacts associated with their manufacture, use and disposal. By considering these issues as part of the purchasing process, you can greatly reduce your overall environmental impact."
+    },
+    {
+      "title": "Buy secondhand or Rent",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "reclaimed": "Prefer reclaimed materials for flooring, fixtures and restaurant furniture, instead of purchasing something brand new.",
+      "rental_benefits": [
+        "For temporary needs, renting equipment, furniture or fixtures can be a sustainable alternative to buying and may contribute to a more circular economy",
+        "Since rental companies will repair their goods hence extend their longevity, natural resources will be preserved and waste will be avoided",
+        "Renting also allows you to upgrade the equipment at any time or stay well along with the trend"
+      ]
+    },
+    {
+      "title": "Repair, Resell / Bless or Recycle",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "functioning_equipment": "Instead of throwing away properly functioning kitchen equipments, do consider selling/blessing them to give them a second life or trade them in.",
+      "broken_items": "Broken items can be repaired or, as a last resort, disposed through Public Waste Collectors, depending on the type of waste."
+    },
+    {
+      "title": "Choose Green Cleaning Products (Floor)",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "preferences": "Prefer non-toxic, chemicals-free or biodegradable material.",
+      "packaging": "For packaging, opt for refillable options or recycled ones.",
+      "cleaning_agents": "If the choice of cleaning products is made by your cleaning agents, discuss with them how to use eco-friendly products.",
+      "policy_reference": "If you haven't set up a Sustainable Procurement Policy yet, please refer to the global Sustainable Procurement Policy page in the Resources section for a step-by-step guidance."
+    },
+    {
+      "title": "Choose Green Cleaning Products (Others)",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "preferences": [
+        "refillable solutions (e.g. soap dispenser)",
+        "recycled products (e.g. toilet paper)",
+        "non-toxic, chemicals-free, tree-free, plastic-free products (e.g. bamboo pulp toilet paper)"
+      ],
+      "cleaning_agents": "If the choice of cleaning products is made by your cleaning agents, discuss with them how to use eco-friendly products.",
+      "policy_reference": "If you haven't set up a Sustainable Procurement Policy yet, please refer to the global Sustainable Procurement Policy page in the Resources section for a step-by-step guidance."
+    },
+    {
+      "title": "Choose Eco-friendly Uniforms",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I1",
+      "materials": [
+        "organic cotton",
+        "upcycled fabrics",
+        "recycled material: coffee grounds, polyester...",
+        "natural material: seaweed, linen, hemp…"
+      ],
+      "certification": "Opt for eco-certified products, e.g. the Global Organic Textile Standard (GOTS).",
+      "logistics": "For logistics, go for local sourcing.",
+      "manufacturer_criteria": [
+        "safe work environment to prevent work accidents or illness",
+        "employees wellbeing",
+        "ethical work conditions (minimum salaries levels, no forced labor, no child work...)"
+      ]
+    },
+    {
+      "title": "Reuse or Recycle your uniforms",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "description": "Consider giving a second life to your old uniforms by having them reused or recycled. Good quality recyclables can be sold to second-hand importers in developing countries to enable the less fortunate to buy clothing at an affordable price. Textile that cannot be reused can be recycled and used as industrial cleaning cloth."
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Shen Hui Tan",
+      "title": "Founder - Kizuna",
+      "expertise": "consulting, sustainable textiles, merchandise made from seaweed, organic cotton, recycled fishing nets",
+      "background": "first job was with a major consulting company in Japan",
+      "website": "instagram.com/kizunasg"
+    },
+    {
+      "name": "Duncan Craig",
+      "title": "Co-founder & Design Director - ReXtore",
+      "expertise": "circular design, sustainable innovation, events and exhibitions, modular building systems, ocean-bound plastic recycling",
+      "focus": "rethinking how we design, build, and consume — through the lens of circularity, reusability, and impact reduction",
+      "website": "rextore.org"
+    },
+    {
+      "name": "Tomo Hamakawa",
+      "title": "Managing Director - Earth Company / Mana Earthly Paradise",
+      "expertise": "development, NGO work, social impact, global leadership",
+      "background": "seasoned development professional having lived and worked from the Tibetan plateau, Indian drylands, Indonesian tropics, to Japanese metropolises",
+      "awards": "In 2014 Tomo was awarded the Dalai Lama's Unsung Heroes of Compassion Award",
+      "website": "earthcompany.info"
+    },
+    {
+      "name": "Zofia Chlapowski",
+      "title": "Stakeholder Engagement",
+      "expertise": "change management, transformation, stakeholder engagement, sustainability",
+      "experience": "more than 20 years experience leading change and transformation in Europe, Africa and Asia"
+    },
+    {
+      "name": "Sarah Woolmington",
+      "title": "Founder & Director - Impact Dragonfly", 
+      "expertise": "sustainability consulting, strategic coaching, collaborative design",
+      "website": "impactdragonfly.com.au"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-as-an-individual",
+  "title": "Waste Management - As an Individual",
+  "scraped_at": "2025-06-24T14:00:00Z",
+  "content": {
+    "overview": "We are a B2B Platform and focus on companies, yet while working on the waste management solutions, we ended up asking a lot of questions to our experts on our waste as individuals. The average recycling rate for individuals in Singapore was only 17% in 2019 and therefore, we, as individuals, can make a difference.",
+    "solutions": [
+      {
+        "title": "Understand the Problem",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "If we want to address a problem, we need to understand it. Key insights: re-usable plastic bags are the best environmental option in Singapore (provided reused over 50 times), biodegradable products are often NOT a good solution at home because they need industrial composting, glass/cardboard/metals/hard plastics collected in blue bins are sorted at MRF and sent to overseas recycling plants, soft plastics currently get incinerated in Waste-to-Energy plants, first solution is to REDUCE usage."
+      },
+      {
+        "title": "Properly Recycle Household Waste",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Common recyclable items: toilet/kitchen roll tubes, empty detergent/soap/condiment bottles, aluminium cans, flyers/letters/envelopes, plastic packaging, TetraPak beverage cartons. Items that can be recycled but shouldn't go in blue bins: textiles, e-waste. Items that CANNOT be recycled: used paper disposables contaminated with food, greasy pizza boxes, styrofoam, used tissue paper, soft plastics, disposable plastic plates/straws. Must rinse all containers before recycling."
+      },
+      {
+        "title": "Tackle your Food Waste",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Food Waste constitutes about 20% of waste disposed of in Singapore. It has strictly no value for waste-to-energy strategy as food waste is mainly composed of water and requires a lot of energy to burn. First, make sure we order or cook what we need to significantly decrease waste. Second, by composting waste (at least the veggie part), we can decrease food waste sent to incineration."
+      },
+      {
+        "title": "Repair as much as possible",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Repair should be the first option considered before throwing away an item. For electrical repair, fabric repair or mechanical repair, get in touch with repair kopitiam."
+      },
+      {
+        "title": "Freecycle & Donate as much as possible",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I3",
+        "description": "Your item is in good condition but you do not use it anymore. Don't throw it! Browse Stikyrice to find where to freecycle or donate it. Options include: Blessing of Items for Low Income Families, Salvation Army, Donation of books in Singapore, itsrainingcoats."
+      },
+      {
+        "title": "Recycle as much as possible",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I3",
+        "description": "Too busy or overwhelmed to sort recyclables? There are convenient recyclables dropping points or collection services in Singapore: recycling sustainability day (Tzu Chi Foundation), Ezi collection system mobile app (Sembcorp), Step up App (Alba WH). For e-waste, find all dropping points on NEA website."
+      },
+      {
+        "title": "Properly Dispose Medicines",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I1",
+        "description": "Antibiotics and anti-cancer medicines cannot be disposed of at home but other standard medicines can be. Tips: Remove personal data from medicine package, Put medicine in a bag and secure properly, Return medicine to nearby pharmacy."
+      }
+    ],
+    "buddies_featured": [
+      "Alya Annabi - Founder - GreenPush",
+      "Wee Leng Tay - Founder - Upcircle",
+      "Benoit Barraque - Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform",
+      "Nadège Claudel - Head of Sustainability APAC - Chanel",
+      "Package Pals Trio - Founders – Package Pals",
+      "Carolin Barr - Founder - SusGain",
+      "Elly Both - Founder - Bright Green",
+      "Bhavani Prakash - Co-founder - Sustainable Gaia",
+      "Tatiana Siufi - Chief Strategy Officer - Vidacity",
+      "Claire Quillet - CEO - TSB"
+    ]
+  }
+}

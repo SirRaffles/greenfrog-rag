@@ -1,0 +1,102 @@
+{
+  "buddy_profile": {
+    "name": "David Marchesseau",
+    "title": "Industry and value advisory in Tech",
+    "location": ["Australia", "India", "Singapore", "South Korea", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d17aff1dff905e485d5a75_IMG_1226%20-%20David%20Marchesseau.JPG",
+    "main_skills": [
+      "Roadmap",
+      "Strategy",
+      "IT Solutions"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing",
+      "Kick Start Help"
+    ],
+    "contact": {
+      "email": "david.marchesseau@gmail.com"
+    },
+    "introduction": "With over two decades of experience in enterprise software and consulting, I've dedicated my career to helping organizations leverage technology to achieve their business and sustainability goals. At SAP, I led the launch and growth of Sustainability Cloud solutions across 25 industries. My expertise spans digital transformation, strategic advisory around business models and process change which is crucial for any company that wants to embed sustainability in their core business strategy and operations.",
+    "experience": "20+ years in enterprise software and consulting",
+    "sap_experience": "Led launch and growth of Sustainability Cloud solutions across 25 industries",
+    "current_project": {
+      "name": "GreenFrog.ai",
+      "focus": "Exploring 3 domains: making IT greener, using IT to greenify business ('IT for Green'), and how AI can accelerate sustainability strategy, transformation roadmap definition, and solution identification"
+    },
+    "it_solutions_expertise": [
+      "Holistic ESG steering and reporting",
+      "Climate action and carbon accounting", 
+      "Circular economy processes (responsible design, waste management, recommerce, material traceability)",
+      "Sustainable procurement and responsible supply chain",
+      "Protecting employee health and safety"
+    ],
+    "top_3_advice": [
+      "Invest in robust data management for transparency",
+      "Integrate sustainability into core strategy and operations – showing each business area along the value chain \"what's in it for them\"",
+      "Think big and bold with ambitious, science-based targets"
+    ],
+    "how_to_help": [
+      "Share best practices and lessons learned",
+      "Provide guidance for technology choices, with a value-based approach (no tech for the sake of tech)",
+      "Green Ventures coaching",
+      "Facilitate collaborations and introductions",
+      "Serve as a thought partner and sounding board",
+      "Evangelize and amplify user efforts"
+    ],
+    "expertise_areas": [
+      "Digital Footprint & IT",
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Sustainable Supply Chain & Logistic",
+      "Consultants",
+      "Carbon Management & Carbon Footprint"
+    ],
+    "sustainability_journey": {
+      "start": "2008 - carbon accounting project for Danone",
+      "pivotal_moments": [
+        "COVID-19 pandemic - showed global determination to tackle crisis",
+        "Launching SAP's sustainability solutions across 8 industries - demonstrated potential for integrating ESG into core business processes"
+      ],
+      "philosophy": "Every company can benefit from sustainable practices while reducing environmental footprint. Technology for sustainability is a great imperative and opportunity of our time."
+    },
+    "sap_responsibilities": {
+      "role": "Industry and value advisor + global go-to-market leader",
+      "scope": "Sustainability solutions across many industries",
+      "solutions_covered": [
+        "Holistic ESG steering and reporting",
+        "Climate action and carbon accounting",
+        "Enabling circular economy processes",
+        "Sustainable procurement and responsible supply chains",
+        "Protecting employee health and safety"
+      ]
+    },
+    "challenges_and_solutions": {
+      "challenge_1": {
+        "problem": "Moving sustainability from peripheral to core business priority",
+        "solution": "Focus on business model transformation and ROI-positive business cases"
+      },
+      "challenge_2": {
+        "problem": "Change management and upskilling employees",
+        "solution": "Comprehensive sustainability training and internal champion networks"
+      }
+    },
+    "proudest_achievement": "Being part of creating SAP's sustainability solutions, seeing immense traction from customers (190% growth year over year), and tangible results at customers like reducing waste by 20% and implementing closed-loop takeback programs.",
+    "ai_sustainability_focus": "How AI can democratize sustainability transformation roadmaps and accelerate strategy development",
+    "solution_codes": [
+      "02.00 - Digital Footprint & IT",
+      "02.01 - Digital Footprint Best Practices & Energy Reduction",
+      "02.02 - Digital Footprint IT Projects Methodology",
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.01 - Sustainability Accounting Strategic Analysis",
+      "04.03 - Sustainability Accounting Integrated Financial Planning",
+      "04.04 - Sustainability Accounting Data Management & Processes",
+      "04.05 - Sustainability Accounting Teams Alignment",
+      "06.00 - Sustainable Supply Chain",
+      "06.01 - Sustainable Supply Chain Strategy",
+      "06.03 - Sustainable Supply Chain Procurement",
+      "06.04 - Sustainable Supply Chain Manufacturing",
+      "15.01 - Carbon Management Measure & Report",
+      "15.02 - Carbon Management Goal Settings",
+      "16.01 - Consultants General"
+    ]
+  }
+}

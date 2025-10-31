@@ -1,0 +1,41 @@
+{
+  "buddy_profile": {
+    "name": "Armelle Le Comte",
+    "title": "Senior Consultant - Freelance",
+    "location": ["Singapore", "United Kingdom", "France"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67e3a9764e042ab36dbc6527_Photo%20profil%20-%20Armelle%20Le%20Comte.jpeg",
+    "main_skills": [
+      "Educational Environment",
+      "Strategy",
+      "Communications"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "armelle.lecomte@gmail.com"
+    },
+    "introduction": "I am an independent consultant specializing in the non-profit sector, mostly in green policies. With 15 years of experience in international NGOs, I have an in-depth understanding of climate and energy issues in Europe and the Global South. I also have experience teaching at French universities, focusing on climate and development policies. Having worked in a fast-paced and multicultural environment, I have managed teams and complex projects, as well as developed solid skills in advocacy, policy, research, media, and communications. I developed simulation exercises such as COP (Conference of Parties) negotiations to equip young people with the necessary skills for environmental advocacy.",
+    "top_3_advice": [
+      "Keep calm and carry on. Working on climate action can be disheartening at times, so it is important to focus on the positive elements and understand that you cannot solve it all by yourself.",
+      "Find support in your peers. Sharing your doubts and challenges and exchanging ideas can be powerful, and help you find solutions. So here comes the Matcha Initiative ;)",
+      "Give back. Sharing your knowledge with others, especially young people, can be very rewarding."
+    ],
+    "how_to_help": "In terms of experience sharing, I am happy to share about my work for and with nonprofit organisations, involvement in a climate litigation case on climate inaction, COP attendance, UN (United Nations) involvement and multilateral summits on climate as part of an NGO delegation. I also have expertise in climate diplomacy/international climate negotiations, climate finance (public and private), climate adaptation, linking climate and social issues (e.g. inequality), and running public campaigns/design communication strategies.",
+    "expertise_areas": [
+      "Local Community Involvement - CSR - Philanthropy",
+      "Corporate Governance, Mission & Strategy",
+      "Consultants"
+    ],
+    "sustainability_motivation": "A campaigner at heart, I started my career with global organizations, fighting poverty and inequality with a focus on child protection and education. Progress made in the last 60 decades to reduce poverty across the globe is now at risk because of the consequences of climate change on agriculture, health, livelihoods, biodiversity, etc.. As I witnessed the increasingly profound impacts of human-induced environmental degradation, especially on marginalized communities, I decided to work on climate change-related issues in the early 2010s, just after the failed Copenhagen summit.",
+    "organizational_responsibilities": "I have worked for nonprofit organizations, designing and delivering advocacy and communication strategies, as well as public campaigns. I have done these at the national and global levels over the years, focusing on climate finance. I love sharing my passion for climate justice, so I started teaching at a university in France and trained as a public speaking coach to continue raising awareness among those around me.",
+    "challenges_and_solutions": "The main challenges I have met are in convincing decision-makers, particularly politicians, to be more ambitious on green public policies and delivering on climate commitments, and also in finding the right messages to raise awareness about the need for climate action. I have learned to meet people where they are, whether they are politicians, CEOs, a neighbor or a student. It is crucial to understand where they're coming from, and which messages or arguments can actually make a difference.",
+    "proudest_achievement": "In the mid-2010s, with colleagues from various countries around the world, I helped put the issue of climate adaptation finance front and center, and secure more money from developed countries in pursuit of it. As a result of my work, alongside other French organisations, public funding for climate adaptation in France increased almost fourfold between 2015 and 2022.",
+    "solution_codes": [
+      "10.00 - Local Community Involvement - CSR - Philanthropy",
+      "12.00 - Corporate Governance, Mission & Strategy",
+      "16.01 - Consultants General",
+      "16.04 - Consultants Environmental Pilar"
+    ]
+  }
+}

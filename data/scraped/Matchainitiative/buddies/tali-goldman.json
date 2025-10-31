@@ -1,0 +1,71 @@
+{
+  "buddy_name": "Tali Goldman",
+  "title": "Founder and Managing Director - Market for Good",
+  "url": "https://www.thematchainitiative.com/buddies/tali-goldman",
+  "locations": ["Singapore", "Worldwide"],
+  "contact": {
+    "email": "tali@marketforgood.com",
+    "website": "https://marketforgood.com/"
+  },
+  "main_skills": [
+    "Impact Procurement",
+    "Carbon Calculation"
+  ],
+  "guidance_areas": [
+    "Best Practices",
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "My name is Tali Goldman and I am a mother, entrepreneur and businesswoman. I strongly believe that businesses have a responsibility to make a positive impact through their products and services, and that corporations are in the best position to drive this change while delivering on business objectives. I have established Market for Good with two key objectives: help corporations implement ESG goals using purchasing power, and enable social organizations to scale up and make sustainable impact.",
+  "company_mission": {
+    "market_for_good_objectives": [
+      "Help corporations implement ESG goals by using purchasing power to empower",
+      "Enable social organizations to scale up and make sustainable impact"
+    ]
+  },
+  "top_3_advice": [
+    "Simplify and educate. The world of sustainability can be overwhelming with the amount of information, regulations, and metrics available. Focus on simplifying complexity for stakeholders. Provide clear, digestible information and metrics allowing them to compare options to make informed decisions.",
+    "Build trust through transparency. Be transparent about your work's impact and the solutions you offer. Clients and partners value authenticity, especially in an era where greenwashing is common.",
+    "Collaborate for greater impact. No one can solve global challenges alone. Work with like-minded organizations, leverage others' expertise, and build partnerships to amplify your efforts."
+  ],
+  "how_can_help": [
+    "Simplifying sustainability concepts: Break complex sustainability topics down into clear, actionable steps",
+    "Sharing strategies for scaling impact: Guide on building strategic partnerships and leveraging corporate procurement channels",
+    "Combating greenwashing and building trust: Help establish transparency and authenticity in sustainability efforts"
+  ],
+  "expertise_categories": [
+    "Circular Economy",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Responsible Marketing",
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "career_background": {
+    "education": "Industrial engineering",
+    "previous_experience": ["Defense and aerospace companies", "Global sales operations", "Environmental consulting"],
+    "singapore_move": "2008",
+    "current_focus": "Harnessing corporate power to drive sustainable impact"
+  },
+  "sustainability_motivation": "Sustainability has always been deeply personal to me. I believe that the environment is an extension of our bodies—everything we put into it comes back to us. We either eat it, drink it, or breathe it in. If we don't act now, we're not just poisoning the planet, but ourselves and generations to come too.",
+  "vision": "To disrupt firms' approach to sustainability and show that businesses can achieve objectives while making a meaningful difference",
+  "implemented_actions": "Founder and Managing Director of Market for Good, a social enterprise that helps companies use their procurement power to transform lives and the planet",
+  "main_challenges": [
+    "Complexity of sustainability education with overwhelming information and evolving regulations",
+    "Cost perception where sustainability is viewed as 'nice-to-have' rather than critical investment",
+    "Greenwashing making it harder to discern genuine impact"
+  ],
+  "solutions_approach": [
+    "Focusing on education and transparency",
+    "Developing simple yet powerful metrics and frameworks",
+    "Making sustainability an investment in long-term resilience rather than added expense"
+  ],
+  "most_proud": "The progress we've made and the trust we've built. Every time a client chooses to work with us, it's validation of our mission. What brings me greatest pride is the impact we've amplified for other organizations - helping social enterprises scale through the right channels.",
+  "legacy_goal": "Impact millions globally and leave a legacy inspiring individuals and organizations to care for one another and our planet",
+  "solution_codes": [
+    "03.00", "03.01", "10.00", "13.00", "14.03", "15.00", "15.01", 
+    "15.04", "15.05", "16.01", "16.04", "06.03"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

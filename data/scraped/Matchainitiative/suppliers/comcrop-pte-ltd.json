@@ -1,0 +1,24 @@
+{
+  "supplier_name": "ComCrop Pte Ltd",
+  "description": "The first urban commercial rooftop farm in Southeast Asia",
+  "url": "https://www.thematchainitiative.com/supplier/comcrop-pte-ltd",
+  "website": "https://comcrop.com",
+  "contact": null,
+  "locations": ["Singapore"],
+  "key_differentiator": "Operates in marginalised spaces, prioritises proximity to communities to reduce transport, and partners with organisations supporting vulnerable populations like M.I.N.D.S.",
+  "services": [
+    "Urban farming (vegetables & herbs)",
+    "Hydroponic growing systems (90% less water than traditional farming)",
+    "Climate-controlled, pesticide-free cultivation",
+    "Community-focused food production near residential areas"
+  ],
+  "expertise_categories": [
+    "Food & Beverage",
+    "Sustainable Buildings & Resilient Cities",
+    "Local Community Involvement - CSR - Philanthropy"
+  ],
+  "solution_codes": ["09.02", "11.00", "10.00"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/comcrop-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

@@ -1,0 +1,14 @@
+{
+  "supplier_name": "Dell Factory Outlet",
+  "description": "Refurbished Dell devices marketplace",
+  "url": "https://www.thematchainitiative.com/supplier/dell-factory-outlet",
+  "website": "https://dell.com/en-sg/outlet",
+  "contact": null,
+  "locations": ["Singapore", "Worldwide"],
+  "services": ["Refurbished Dell computers", "Monitors", "Desktop stations", "Workstations", "Servers", "Storage", "1-year warranty"],
+  "expertise_categories": ["Digital Footprint & IT", "Sustainable Supply Chain & Logistics"],
+  "solution_codes": ["02.03", "06.03"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/dell-factory-outlet",
+  "scraped_date": "2025-10-31"
+}

@@ -1,0 +1,15 @@
+{
+  "supplier_name": "D2L.sg",
+  "description": "One-Stop Manager for Food Surplus/Waste",
+  "url": "https://www.thematchainitiative.com/supplier/d2l-sg",
+  "website": "http://d2l.sg/",
+  "contact": "hello@d2l.sg",
+  "locations": ["Singapore"],
+  "company_description": "Social enterprise focused on diverting food surplus or waste to its best and highest value across corporate offices, hospitality, food service, and retail sectors",
+  "services": ["Food surplus/waste management", "Impact reports and analytics dashboard", "Corporate CSR programs", "Employee engagement programmes", "Surplus food catering", "Talks and workshops"],
+  "expertise_categories": ["Green Office", "Waste Management", "Food & Beverage"],
+  "solution_codes": ["01.03", "01.07", "05.03", "09.02", "09.04"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/d2l-sg",
+  "scraped_date": "2025-10-31"
+}

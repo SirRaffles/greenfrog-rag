@@ -1,0 +1,50 @@
+{
+  "name": "Mind Up Consulting",
+  "tagline": "Bespoke solutions for sustainable purchasing",
+  "description": "Mind Up Consulting develops supply chain resilience and purchasing sustainable performance through partnerships, fairer risks management strategies and people-oriented solutions. Upstream, we guide brands in their purchasing, risk management and traceability strategies development. Downstream, we work on the field to evaluate, support and empower manufacturers and farmers in their social practices and overall performance.",
+  "scope": "multi-industries, worldwide",
+  "website": "http://www.mindupconsulting.com/",
+  "contact": "marjorie@mindupconsulting.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6613bc39f74bf2288f842500_MindUP_LOGO%20copy%20-%20Marjorie%20Hobin.jpg",
+  "countries": [
+    "Singapore",
+    "Worldwide"
+  ],
+  "client_industries": [
+    "Wood",
+    "Metal", 
+    "Textile",
+    "Decoration",
+    "Printing",
+    "Construction",
+    "Renovation"
+  ],
+  "services": [
+    "Supply chain resilience development",
+    "Purchasing sustainable performance enhancement",
+    "Risk management strategies",
+    "Traceability strategies development",
+    "Manufacturer and farmer evaluation and support",
+    "Social practices empowerment"
+  ],
+  "target_clients": "SMEs operating in various industries",
+  "expertise_categories": [
+    "Sustainable Supply Chain & Logistic",
+    "Sustainable HR Practices",
+    "Consultants"
+  ],
+  "solution_codes": [
+    "06.00",
+    "14.00",
+    "14.03",
+    "14.05",
+    "16.01",
+    "16.03",
+    "06.01",
+    "06.03",
+    "06.04"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/mind-up-consulting",
+  "scraped_date": "2025-07-10"
+}

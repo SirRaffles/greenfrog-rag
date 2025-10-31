@@ -1,0 +1,146 @@
+{
+  "title": "Celebrate ESG!",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/esg-celebration-dates",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive calendar of ESG-related international observance days from March to June, with themes, celebration ideas, and resources for organizations to raise awareness on environmental and social topics.",
+  "calendar_overview": "ESG celebration dates organized by month with specific themes, activities, and resources for corporate engagement",
+  "march_events": [
+    {
+      "date": "March 3rd",
+      "event": "World Wildlife Day",
+      "theme": "Wildlife Conservation Finance: Investing in People and Planet",
+      "resources": "Outreach material from wildlifeday.org"
+    },
+    {
+      "date": "March 8th", 
+      "event": "Women's Day",
+      "themes": ["UN: For ALL Women and Girls: Rights. Equality. Empowerment.", "IWD: Accelerate Action"],
+      "significance": "Major ESG celebration date"
+    },
+    {
+      "date": "March 18th",
+      "event": "Global Recycling Day", 
+      "theme": "Recycling Heroes",
+      "activities": "#RecyclingHeroes nominations, hero discovery"
+    },
+    {
+      "date": "March 21st",
+      "event": "International Day of Forests",
+      "theme": "Forests and Food",
+      "activities": "Tree planting campaigns, nature hikes"
+    },
+    {
+      "date": "March 22nd",
+      "event": "World Water Day",
+      "theme": "Glacier Preservation"
+    },
+    {
+      "date": "March 26th",
+      "event": "Earth Hour",
+      "activity": "Switch off all lights at 8:30pm local time",
+      "corporate_action": "Remind teams, make it office habit"
+    }
+  ],
+  "april_events": [
+    {
+      "date": "April 7th",
+      "event": "World Health Day",
+      "theme": "Healthy Beginnings, Hopeful Futures"
+    },
+    {
+      "date": "April 18-20th",
+      "event": "Asia Climate Forum",
+      "description": "Knowledge sharing on climate change mitigation and adaptation"
+    },
+    {
+      "date": "April 22nd",
+      "event": "World Earth Day",
+      "theme": "Invest in our Planet",
+      "corporate_activities": [
+        "Company Earth Day cleanup (GreenNudge)",
+        "Climate Conversations for teams",
+        "Climate Fresk workshop",
+        "Tree planting campaigns"
+      ]
+    },
+    {
+      "date": "April 28th",
+      "event": "World Day for Safety and Health at Work",
+      "theme": "Revolutionizing health and safety: the role of AI and digitalization at work"
+    }
+  ],
+  "may_events": [
+    {
+      "date": "May 5-8th",
+      "event": "Ecosperity Week",
+      "theme": "Asia's Race towards 2030: All Systems Go",
+      "description": "Annual Temasek conference on sustainability"
+    },
+    {
+      "date": "May 22nd",
+      "event": "International Biodiversity Day",
+      "activities": [
+        "Share biodiversity education materials",
+        "Organize dedicated events",
+        "Adopt 22 actions from global biodiversity framework",
+        "Social media awareness with #BiodiversityDay"
+      ]
+    }
+  ],
+  "june_events": [
+    {
+      "date": "June 5th",
+      "event": "Environment Day",
+      "theme": "Beat Plastic Pollution",
+      "significance": "Primary environmental celebration date",
+      "host_country": "Republic of Cote d'Ivoire"
+    },
+    {
+      "date": "June 8th",
+      "event": "World Oceans Day",
+      "theme": "Wonder: Sustaining what sustains us"
+    },
+    {
+      "date": "June 12th",
+      "event": "World Day against Child Labour",
+      "statistics": "160 million children involved globally (1 in 10 children)"
+    },
+    {
+      "date": "June 17th",
+      "event": "Desertification & Drought World Day",
+      "facts": "23% of land no longer productive, 99% of calories come from land"
+    },
+    {
+      "date": "June 20th",
+      "event": "World Refugee Day",
+      "focus": "Fundamental rights and asylum for vulnerable populations"
+    },
+    {
+      "date": "June 27th",
+      "event": "Micro-, Small and Medium-sized Enterprises Day",
+      "statistics": "MSMEs: 90% of companies, 70% employment, 50% GDP"
+    }
+  ],
+  "conferences": [
+    {
+      "date": "June 4-6th",
+      "event": "Singapore International Water Week",
+      "description": "Leading water event for sustainable urban water solutions"
+    }
+  ],
+  "key_months": {
+    "march": "6 different ESG dates including Women's Day and Earth Hour",
+    "april": "World Earth Day focus",
+    "may": "Biodiversity emphasis",
+    "june": "7 different dates plus Singapore water conference"
+  },
+  "corporate_applications": [
+    "Internal awareness campaigns",
+    "Team building activities",
+    "Social media engagement",
+    "Partnership opportunities",
+    "Employee engagement programs"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

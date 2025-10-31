@@ -1,0 +1,111 @@
+{
+  "buddy_name": "Saivya Chauhan",
+  "profile_url": "https://www.thematchainitiative.com/buddies/saivya-chauhan",
+  "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/682eac0dcd2c7cf063b87c71_Screenshot_2025-05-17_at_19.52.48_optimized%20-%20Saivya%20Chauhan.png",
+  "company": "Blitz Electric Mobility",
+  "position": "CEO",
+  "location": "Indonesia, Singapore",
+  "contact_email": "saivya@rideblitz.com",
+  "website": "https://rideblitz.com/",
+  "main_skills": [
+    "Carbon Reduction",
+    "EV Logistics"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "I'm the founder of Blitz, Southeast Asia's first electric logistics enabler delivering across 28 cities with over 4,000 EVs. Previously, I worked at Tesla and Hyperloop, where I led engineering projects. Now, I focus on scaling clean tech solutions for emerging markets, combining EV hardware, routing AI, and inclusive fintech. I was named a Forbes 30 Under 30 Asia 2025 finalist for my work in sustainable mobility.",
+  "company_description": "Blitz - Southeast Asia's first electric logistics enabler",
+  "company_scale": {
+    "cities": "28 cities",
+    "fleet_size": "Over 4,000 EVs"
+  },
+  "previous_experience": [
+    "Tesla - led engineering projects",
+    "Hyperloop - led engineering projects"
+  ],
+  "current_focus": "Scaling clean tech solutions for emerging markets, combining EV hardware, routing AI, and inclusive fintech",
+  "recognition": "Forbes 30 Under 30 Asia 2025 finalist for work in sustainable mobility",
+  "top_3_advice": [
+    "Start small but think big — pilot sustainable practices in focused ways before scaling.",
+    "Make sustainability commercially viable — align your green initiatives with clear business value.",
+    "Partnerships are key — collaborate across industries to build resilient ecosystems."
+  ],
+  "how_help_users": "I can share insights on building scalable, sustainable logistics infrastructure in emerging markets using electric vehicles. I'm happy to advise on fleet electrification, last-mile delivery optimization, and how to integrate sustainability into tech products and business models. I can also share best practices for green growth, including financing mechanisms for inclusive EV access, and building partnerships across public and private sectors. Additionally, I would love to discuss innovations in sustainable mobility and clean tech financing for underserved markets.",
+  "advisory_areas": [
+    "Scalable, sustainable logistics infrastructure in emerging markets",
+    "Fleet electrification",
+    "Last-mile delivery optimization",
+    "Integrating sustainability into tech products and business models",
+    "Green growth best practices",
+    "Financing mechanisms for inclusive EV access",
+    "Public-private sector partnerships",
+    "Innovations in sustainable mobility",
+    "Clean tech financing for underserved markets"
+  ],
+  "expertise_areas": [
+    "Sustainable Buildings & Resilient Cities",
+    "Sustainable Supply Chain & Logistic",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "sustainability_journey": "I grew up in Jakarta, where pollution and congestion were daily realities. After working as a mechanical engineer at Tesla and Hyperloop, I returned to Southeast Asia during the pandemic and saw how broken last-mile delivery was — costly, unsustainable, and dominated by gas-powered fleets. I realized that to drive systemic change, we needed to reimagine logistics from the ground up — powered by EVs, driven by software, and made accessible to gig workers. That's why I founded Blitz: to decarbonize urban mobility while empowering frontline workers. Sustainability isn't just a goal for me — it's a lens through which I build businesses.",
+  "personal_background": {
+    "grew_up": "Jakarta",
+    "environmental_awareness": "Pollution and congestion were daily realities",
+    "professional_background": "Mechanical engineer at Tesla and Hyperloop"
+  },
+  "pandemic_insight": "Saw how broken last-mile delivery was — costly, unsustainable, and dominated by gas-powered fleets",
+  "business_philosophy": {
+    "systemic_change": "Reimagine logistics from the ground up",
+    "technology_stack": "Powered by EVs, driven by software, and made accessible to gig workers",
+    "dual_mission": "Decarbonize urban mobility while empowering frontline workers",
+    "lens": "Sustainability isn't just a goal — it's a lens through which I build businesses"
+  },
+  "sustainable_actions": "I led the development of Blitz's EV-first logistics platform that now enables more than 500,000 monthly deliveries using zero-emission vehicles. We've built Southeast Asia's first distributed charging network for 2-wheel EVs, deployed over 4,000 electric bikes, and created a Mobile Selling model that reduces food waste and brings micro-entrepreneurs directly to customers. We've also digitized delivery performance to reduce idle time, optimize energy use, and lower per order emissions.",
+  "blitz_achievements": {
+    "monthly_deliveries": "More than 500,000 monthly deliveries using zero-emission vehicles",
+    "charging_network": "Southeast Asia's first distributed charging network for 2-wheel EVs",
+    "fleet_deployment": "Over 4,000 electric bikes deployed",
+    "mobile_selling": "Model that reduces food waste and brings micro-entrepreneurs directly to customers",
+    "performance_optimization": "Digitized delivery performance to reduce idle time, optimize energy use, and lower per order emissions"
+  },
+  "challenges_overcome": {
+    "ev_accessibility": {
+      "challenge": "Making EV adoption accessible for delivery drivers who typically lack access to credit",
+      "solution": "Built a lease-to-own model tied to driver income, derisking repayments through enterprise delivery contracts"
+    },
+    "ev_performance_trust": {
+      "challenge": "Building trust in EV performance for logistics",
+      "solution": "Investing in charging infrastructure and battery swap hubs, and tightly integrating route planning tech to reduce range anxiety"
+    }
+  },
+  "financial_innovation": "Lease-to-own model tied to driver income, derisked through enterprise delivery contracts",
+  "infrastructure_solutions": [
+    "Charging infrastructure",
+    "Battery swap hubs",
+    "Route planning technology integration"
+  ],
+  "proudest_achievement": "I am proud of the work my company does, as well as of its achievements.",
+  "technology_integration": [
+    "EV hardware",
+    "Routing AI",
+    "Inclusive fintech"
+  ],
+  "market_focus": "Emerging markets in Southeast Asia",
+  "solution_categories_covered": [
+    "Sustainable Buildings & Resilient Cities - All",
+    "Sustainable Supply Chain & Logistic - Logistics & Distribution",
+    "Sustainable Supply Chain & Logistic - All Solutions",
+    "Carbon Management & Carbon Footprint - Reduction Strategy Overview",
+    "Carbon Management & Carbon Footprint - All Solutions"
+  ],
+  "countries_covered": [
+    "Indonesia",
+    "Singapore"
+  ],
+  "social_impact": "Empowering frontline workers and micro-entrepreneurs",
+  "environmental_impact": "Decarbonizing urban mobility through zero-emission deliveries",
+  "scraped_date": "2025-07-10",
+  "source": "The Matcha Initiative Buddy Profile"
+}

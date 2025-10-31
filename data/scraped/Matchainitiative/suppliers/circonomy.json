@@ -1,0 +1,27 @@
+{
+  "supplier_name": "Circonomy",
+  "description": "Carbon Removal project to regenerate soils and support local communities development",
+  "url": "https://www.thematchainitiative.com/supplier/circonomy",
+  "website": "https://circonomy.co",
+  "contact": "hello@circonomy.co",
+  "locations": ["India", "Singapore", "Worldwide"],
+  "headquarters": "Singapore",
+  "operations": "India (primary)",
+  "company_description": "Climate tech startup specializing in carbon removal through biochar projects, partnering with farmer organizations and smallholder farmers in India to convert agricultural waste into biochar while emphasizing co-benefits, traceability, and quality",
+  "services": [
+    "Biochar production from organic waste",
+    "Training and digital solutions",
+    "Equipment provision",
+    "Financing solutions",
+    "Carbon removal credits and revenue generation"
+  ],
+  "expertise_categories": [
+    "Waste Management",
+    "Carbon Management & Carbon Footprint",
+    "Carbon Offset"
+  ],
+  "solution_codes": ["05.05", "15.00", "15.05"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/circonomy",
+  "scraped_date": "2025-10-31"
+}

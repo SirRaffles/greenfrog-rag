@@ -1,0 +1,38 @@
+{
+  "supplier_name": "Asuene",
+  "description": "Climate cloud platform",
+  "url": "https://www.thematchainitiative.com/supplier/asuene",
+  "website": "https://earthene.com/apac",
+  "contact": "sg-sales@asuzero.com",
+  "locations": ["Hong Kong", "Japan", "Singapore", "Thailand"],
+  "business_description": "Comprehensive platform for enterprises pursuing net-zero objectives. Delivers bespoke consulting to help companies comprehend their carbon footprint and greenhouse gas emissions across all three scopes, with particular emphasis on Scope 3 emissions through vendor engagement and assessments",
+  "expertise_categories": [
+    "Digital Footprint & IT",
+    "Circular Economy",
+    "Sustainability Accounting & Corporate Finance",
+    "Carbon Management & Carbon Footprint",
+    "Consulting"
+  ],
+  "services": [
+    "Carbon footprint and GHG emissions calculation",
+    "Scope 3 emissions management and vendor engagement",
+    "Life Cycle Assessment (LCA) functionality",
+    "Supply chain sustainability tracking",
+    "Sustainability ratings and certifications (CDP and TCFD certified)",
+    "Decarbonization guidance and consulting"
+  ],
+  "solution_codes": [
+    "02.00",
+    "02.01",
+    "03.01",
+    "04.00",
+    "15.00",
+    "15.01",
+    "15.02",
+    "16.01",
+    "16.04"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/asuene",
+  "scraped_date": "2025-10-31"
+}

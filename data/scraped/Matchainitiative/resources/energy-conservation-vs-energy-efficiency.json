@@ -1,0 +1,46 @@
+{
+  "title": "Energy conservation vs Energy efficiency",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/energy-conservation-vs-energy-efficiency",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Guide explaining the difference between energy efficiency (technological improvements) and energy conservation (behavioral/operational changes), with focus on building optimization strategies and predictive control systems.",
+  "key_concepts": {
+    "energy_efficiency": "Replacing equipment with more efficient alternatives (e.g., LED lightbulbs)",
+    "energy_conservation": "Reducing energy use through behavioral changes (e.g., turning off lights)",
+    "predictive_control": "Software that anticipates conditions and adjusts equipment operation in advance"
+  },
+  "main_problems": [
+    "Modern buildings are efficient but wasteful (e.g., overcooling malls)",
+    "Difficulty measuring conservation progress due to external factors",
+    "Government incentives favor efficiency over conservation",
+    "Tendency to replace rather than optimize existing equipment"
+  ],
+  "conservation_strategies": [
+    "Education & change of habits (closing windows during heating)",
+    "Reassessing actual needs (lights at 3am?)",
+    "Smart & dynamic control systems",
+    "Predictive control software"
+  ],
+  "measurement_challenges": {
+    "issue": "Hard to quantify conservation when external factors (like COVID) affect consumption",
+    "solution": "Internationally recognized standards for building reference baselines"
+  },
+  "equipment_lifecycle": {
+    "chiller_lifespan": "15-20 years",
+    "problem": "Replacing after 5 years for newer models is unsustainable",
+    "better_approach": "Optimize existing equipment first"
+  },
+  "software_advantages": [
+    "Simple interfacing with existing equipment",
+    "No operational interruptions",
+    "No significant hardware investment required",
+    "Combines efficiency and conservation benefits"
+  ],
+  "key_insight": "Even the most modern and efficient facilities have room for improvement through proper energy conservation strategies",
+  "author": {
+    "organization": "BeeBryte",
+    "description": "Provider of remote operation & maintenance services (O&M) for heating-cooling systems (HVAC-R) in commercial buildings and factories",
+    "website": "https://www.beebryte.com/"
+  },
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

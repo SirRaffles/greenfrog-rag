@@ -1,0 +1,93 @@
+{
+  "buddy_name": "Package Pals Trio",
+  "title": "Founders – Package Pals",
+  "url": "https://www.thematchainitiative.com/buddies/package-pals-trio",
+  "location": "Singapore",
+  "contact": {
+    "email": "packagepalssg@gmail.com",
+    "website": "https://www.packagepals.co/"
+  },
+  "main_skills": [
+    "Circularity",
+    "Entrepreneurial Mindset"
+  ],
+  "guidance_areas": [
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Package Pals is a circular packaging initiative that seeks to extend the life cycle of packaging. We collect used e-commerce packaging from members of the public, distributing it back to businesses seeking eco-friendly, second hand packaging options. Started in May 2020, Package Pals has worked with multiple large and small businesses, schools, NGOs and governmental organisations.",
+  "business_model": {
+    "concept": "Circular packaging initiative extending packaging lifecycle",
+    "process": "Collect used e-commerce packaging from public, distribute to businesses",
+    "packaging_categories": [
+      "Poly mailers (<A4)",
+      "Paper envelopes (<A4)",
+      "Plastic wrappers (<A4)",
+      "Bubble wrap",
+      "Padded envelopes"
+    ]
+  },
+  "company_statistics": {
+    "founded": "May 2020",
+    "audience_size": "4k-strong social media audience",
+    "client_types": ["Large businesses", "Small businesses", "Schools", "NGOs", "Governmental organisations"]
+  },
+  "top_3_advice": [
+    "The first step to taking action is a willingness to act on gaps or issues identified. Also, never disregard the value of collaboration! - Rachel Han",
+    "The best environmental solutions start with using what you already have. Make use of the resources on hand to reduce your environmental impact. - Rachel Lee",
+    "Social media is such a powerful tool. Use your platforms to gain a wider outreach and to spread the ideas that you believe in. - Puan Xin"
+  ],
+  "how_can_help": [
+    "Provide eco-friendly packaging needs",
+    "Supply second-hand packaging",
+    "Help set up drop-off points in offices, schools, or businesses",
+    "Establish take-back systems for branded packaging",
+    "Share experiences on eco-friendly packaging topics"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Waste Management", 
+    "Circular Economy"
+  ],
+  "founding_story": "Started after co-founders observed packaging waste from online shopping rise during COVID-19, while 2nd-hand sellers faced shortage of mailers. Began with a Telegram group message about recycling poly mailers.",
+  "main_challenges": [
+    "Receptiveness of second-hand packaging concept from consumers and businesses",
+    "Oversupply of certain packaging types (bubble wrap, plastic wrappers) vs lack of others",
+    "Unwanted donations including non-accepted items and inappropriate donations"
+  ],
+  "education_approach": {
+    "channels": ["Social media", "DM/email corrections", "Public announcements"],
+    "business_engagement": "Demonstrate demand and customer receptiveness for sustainable packaging",
+    "advocacy": "Companies reuse packaging from customers via drop-off points or mail-back systems"
+  },
+  "current_partnerships": [
+    "Esse (clothing business)",
+    "Kinquo (clothing business)",
+    "NTU (drop-off collection point)",
+    "Our Tampines Hub (drop-off point)"
+  ],
+  "future_plans": [
+    "Education and outreach focus",
+    "Shift customer perception of second-hand packaging",
+    "Expand to more schools, businesses and malls",
+    "Drive impact in mass consumer market",
+    "Work with retailers on operational level"
+  ],
+  "impact_achievements": {
+    "individual_level": "Inspired green journeys",
+    "community_level": "Instagram followers and packaging donation/distribution numbers",
+    "organisational_level": "Business partnerships and speaking opportunities"
+  },
+  "solution_codes": [
+    "01.01",
+    "01.02",
+    "01.07",
+    "05.02",
+    "05.08",
+    "03.02",
+    "01.00"
+  ],
+  "age_note": "Started by 19-year-olds, now scaling to corporate impact",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

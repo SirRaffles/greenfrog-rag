@@ -1,0 +1,70 @@
+{
+  "title": "Glossary",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/glossary",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive sustainability glossary providing definitions of key terms used in environmental, social, and governance (ESG) contexts, organized alphabetically with practical explanations.",
+  "purpose": "To provide brief definitions of the main terms used in sustainability, helping users understand differences and similarities between concepts",
+  "disclaimer": "Many sustainability concepts lack commonly accepted international definitions, leading to dozens of similar or contradictory definitions",
+  "key_categories": [
+    "Environmental terms",
+    "Carbon and climate concepts",
+    "Reporting frameworks and standards",
+    "Financial instruments",
+    "Certification systems",
+    "Waste management",
+    "Circular economy"
+  ],
+  "major_concepts": {
+    "3Rs": "Reduce, Reuse, Recycle - hierarchy for better resource management",
+    "Carbon_Footprint": "Total amount of GHG including CO2 and methane produced by individuals/organizations/products",
+    "Carbon_Neutral": "State where GHG released equals amount removed/reduced",
+    "Circular_Economy": "Closed-loop system: make, use, reuse, remake, recycle based on Ellen MacArthur Foundation principles",
+    "ESG": "Environmental, Social and Governance factors for evaluating corporate sustainability",
+    "Net_Zero": "Balance between GHG produced and removed from atmosphere",
+    "Scope_1_2_3": "Three categories of GHG emissions defined by GHG Protocol",
+    "Science_Based_Targets": "Emission reduction targets aligned with Paris Agreement goals",
+    "Zero_Waste": "Waste prevention principles focused on responsible production/consumption"
+  },
+  "reporting_frameworks": [
+    "GRI - Global Reporting Initiative",
+    "SASB - Sustainability Accounting Standards Board", 
+    "TCFD - Task force on Climate-related Financial Disclosure",
+    "CSRD - Corporate Sustainability Reporting Directive",
+    "ESRS - European Sustainability Reporting Standards",
+    "ISSB - International Sustainability Standards Board"
+  ],
+  "singapore_specific": [
+    "ACRA - Accounting and Corporate Regulatory Authority",
+    "Green Mark Certification - Building rating system",
+    "3R communication tool for waste management"
+  ],
+  "certification_systems": [
+    "B Corp - B Corporation certification",
+    "CEMARS - Certified Emissions Measurement And Reduction Scheme",
+    "LEED - Leadership in Energy and Environmental Design",
+    "Green Mark - Singapore green building rating"
+  ],
+  "financial_instruments": [
+    "Green Bonds - Fixed-income for environmental projects",
+    "Carbon Credits - Electronic units representing CO2 reduction",
+    "REC - Renewable Energy Certificate",
+    "SRI - Socially Responsible Investment"
+  ],
+  "climate_science": [
+    "IPCC - Intergovernmental Panel on Climate Change",
+    "RCP - Representative Concentration Pathway",
+    "SSP - Shared Socioeconomic Pathways",
+    "NDC - Nationally Determined Contribution"
+  ],
+  "business_concepts": [
+    "Servitization - Shift from products to services",
+    "Reverse Logistics - Managing product returns",
+    "Internal Carbon Price - Monetary value per tonne CO2",
+    "Materiality - Identifying most relevant ESG factors"
+  ],
+  "total_definitions": "60+ comprehensive sustainability terms",
+  "cross_references": "Links to related TMI pages for deeper understanding",
+  "target_audience": "Businesses and individuals seeking sustainability literacy",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

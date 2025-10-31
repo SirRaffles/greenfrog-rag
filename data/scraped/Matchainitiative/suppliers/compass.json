@@ -1,0 +1,25 @@
+{
+  "supplier_name": "Compass Group Singapore",
+  "description": "Food & Support Services (dining, catering, management...)",
+  "url": "https://www.thematchainitiative.com/supplier/compass",
+  "website": "https://compass-group.sg",
+  "contact": null,
+  "contact_page": "https://compass-group.sg/contact-us/",
+  "locations": ["Singapore"],
+  "brands": ["Eurest", "Chartwells", "ESS"],
+  "key_commitments": [
+    "50% reduction in food waste by 2030",
+    "Partnered with Ellen MacArthur Foundation to advance circular economy practices in food services"
+  ],
+  "services": [
+    "Dining and catering services",
+    "Management services",
+    "Food waste reduction",
+    "Circular economy promotion"
+  ],
+  "expertise_categories": ["Food & Beverage"],
+  "solution_codes": ["09.01"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/compass",
+  "scraped_date": "2025-10-31"
+}

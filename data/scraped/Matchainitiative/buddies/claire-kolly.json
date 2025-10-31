@@ -1,0 +1,91 @@
+{
+  "buddy_profile": {
+    "name": "Claire Kolly",
+    "title": "HR Consulting & Executive Coaching - EDLT.global",
+    "location": ["Australia", "Japan", "Malaysia", "Philippines", "Singapore", "Thailand"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/654854a328adc2157b941cf8_AnneValluy_CPCK-4sq2WEB.jpg",
+    "main_skills": [
+      "Coaching",
+      "HR",
+      "Change Management"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "contact@edlt.global",
+      "website": "https://www.edlt.global/"
+    },
+    "introduction": "Claire has spent more than 20 years in the HR field working in global environments, accompanying businesses in their -always complex!- development and transformations. Working across teams and cultural boundaries, she became passionate about helping teams and leaders navigate through changes and make sustainable decisions for themselves and their teams, balancing the short-term and long-term impacts in organisations. Back in 2016, she added a coaching hat to her HR experience, got trained and certified (PCC-ICF) with the idea that most of the time what employees and leaders are missing is a space to reconnect with what is really important for them, what makes them successful, or on the contrary slows them down.",
+    "career_progression": {
+      "hr_experience": "20+ years in global HR environments",
+      "coaching_start": "2016 - added coaching certification (PCC-ICF)",
+      "business_launch": "2021 - launched own executive HR and coaching business",
+      "climate_training": "2024 - trained as Climate Change Coach"
+    },
+    "certifications": [
+      "PCC-ICF certified coach",
+      "Hogan certified",
+      "Gallup Clifton Strengths certified",
+      "Individual and Team Coaching certified",
+      "Climate Change Coach (2024)"
+    ],
+    "business_focus": "Helping organizations and individuals develop the 'S' in ESG through sustainable, human-centred HR Practices, development programs and coaching",
+    "services": [
+      "Strategic HR consulting",
+      "Executive coaching",
+      "Training and advisory",
+      "Climate change coaching for organizations and leaders"
+    ],
+    "top_3_advice": [
+      "Spend some time browsing and reading the materials. I really like the pragmatic approach taken by the TMI contributors, there is so much to learn!",
+      "Start small and don't freeze by thinking that the issue is too big - Start with small parts of a project and build around it. Take an iterative approach.",
+      "Give back - If you are grateful for all the information that you receive from TMI, share your feedback in return, and spread the knowledge. The more do-gooders, the better!"
+    ],
+    "how_to_help": "People can reach out to me for HR/ People projects that they would like to embark on, any change they would like to engage in their organisation and are not sure of how it would work, I will be happy to share my experience, advice and coaching as I have faced a fair deal of HR challenges in various organisations.",
+    "expertise_areas": [
+      "Sustainable HR Practices",
+      "Local Community Involvement - CSR - Philanthropy",
+      "Consultants",
+      "Green office"
+    ],
+    "professional_philosophy": "Making decisions that have a positive impact in the long run, for people, ecosystems and communities",
+    "post_covid_management_tips": {
+      "outcome_focus": "Focus on outcome more than daily tasks - trust people with clear direction and goals",
+      "flexibility_balance": "Provide flexibility for better work-life balance - shorter meetings, no-meeting half-days, time between meetings",
+      "active_listening": "Really listen to understand support needs - adapt responses to individual situations",
+      "golden_rule": "Treat others the way you would like to be treated"
+    },
+    "sustainable_hr_approach": {
+      "foundation": "Culture and values - where they come from, how to embody them, help employees connect",
+      "employee_commitment": "Committed employee understands what they're doing, why it matters, how they contribute",
+      "authenticity": "Avoid 'HR greenwashing' - be genuine about commitments, walk the talk",
+      "holistic_approach": "Experiment, be genuine, don't over promise but be consistent"
+    },
+    "mental_health_focus": {
+      "policy_coverage": "Ensure treatments and specialist consultations covered by HR policies",
+      "eap_programs": "Employee Assistance Programs for external counselling and support",
+      "coaching_support": "Coaching for teams/individuals facing stress, burnout, change management",
+      "open_communication": "Actively communicate 'it's ok not to be ok'",
+      "inclusion": "Support minorities and address stigmas to ensure all feel valued"
+    },
+    "covid_impact_insights": "Pushed companies to rethink HR practices, accelerated trends that would have taken much longer, increased focus on well-being, resilience, flexible working",
+    "proudest_achievements": [
+      "My kids definitely, as I believe they will become good adults",
+      "Having been able to switch from a big organisation, to taking the leap of faith to start my own business, because that is what I wanted to do… and being successful and happy in doing it"
+    ],
+    "solution_codes": [
+      "14.01 - Sustainable HR Practices People Strategy Culture & Values",
+      "14.02 - Sustainable HR Practices Recruiting & Onboarding",
+      "14.03 - Sustainable HR Practices Engagement Development Training",
+      "14.04 - Sustainable HR Practices Performance Compensation Benefits Recognition",
+      "14.05 - Sustainable HR Practices Health Safety & Wellbeing",
+      "14.06 - Sustainable HR Practices Operations",
+      "10.00 - Local Community Involvement CSR Philanthropy",
+      "16.03 - Consultants Social & People Pilar",
+      "01.09 - Green Office Sustainable Mobility & Travel"
+    ]
+  }
+}

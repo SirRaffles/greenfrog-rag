@@ -1,0 +1,45 @@
+{
+  "name": "Blitz Electric Mobility",
+  "tagline": "EV Logistics",
+  "location": "Indonesia",
+  "contact": {
+    "email": "effendi.tan@rideblitz.com",
+    "website": "http://rideblitz.com/"
+  },
+  "description": "Blitz is Southeast Asia's largest and fastest-growing EV logistics platform — we created the category and we're leading it. We drive mass EV adoption through instant and same-day deliveries powered by our proprietary last-mile AI technology. We're reshaping logistics with a mission to create a sustainable, tech-enabled, driver-first ecosystem.",
+  "services": [
+    "Electric vehicle logistics platform",
+    "Instant and same-day deliveries",
+    "Last-mile AI technology",
+    "EV fleet management",
+    "Sustainable logistics solutions"
+  ],
+  "key_features": [
+    "Southeast Asia's largest EV logistics platform",
+    "Proprietary last-mile AI technology",
+    "Mass EV adoption driver",
+    "Tech-enabled ecosystem",
+    "Driver-first approach"
+  ],
+  "market_position": {
+    "region": "Southeast Asia",
+    "status": "Largest and fastest-growing EV logistics platform",
+    "category_leadership": "Created the EV logistics category"
+  },
+  "expertise_areas": [
+    "Sustainable Supply Chain & Logistic",
+    "Sustainable Buildings & Resilient Cities",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "solution_categories": {
+    "sustainable_supply_chain": ["06.00", "06.05"],
+    "sustainable_buildings": ["11.00"],
+    "carbon_management": ["15.04"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/supplier/blitz-electric-mobility",
+    "profile_type": "supplier",
+    "data_completeness": "complete"
+  }
+}

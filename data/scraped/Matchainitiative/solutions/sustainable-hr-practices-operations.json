@@ -1,0 +1,131 @@
+{
+  "subcategory": "Operations",
+  "category": "Sustainable HR Practices",
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-hr-practices-operations",
+  "description": "As all departments, HR department has its role to play to reduce consumption, avoid waste or better manage it, decrease carbon footprint... Here are a few tips.",
+  "solutions": [
+    {
+      "title": "Automate HR processes, Eliminate all papers",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "HR operations can generate a lot of paper. Remember that e-signature on official documents is recognised in Singapore, ensuring you do not take a legal risk on important documents. Opt for e-solutions whenever possible, like e-contracts, e-payslips, e-reimbursements to avoid unnecessary printing and life long storage (for both the company and the employees). Promote self service rather than providing by default a lot of policies, documents, etc.. Store the documents your employees need to access to on a repository / intranet where they can easily consult them.",
+      "link": "https://www.thematchainitiative.com/solutions-new/automate-hr-processes-eliminate-all-papers"
+    },
+    {
+      "title": "Adopt sustainable policy for travels and moves",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Decrease business trips frequency & favor longer stays. Continue using videoconference as much as possible. Incentivize your employees to travel less by setting up objectives in terms of travels (example : max 2 regional flights per month...). Invest the savings made in other areas (brainstorm ideas with a sustainable give back outlook). Measure and offset the travels' Carbon Footprint of your employees travelling abroad or relocating. Offset the CO2 emissions with some mechanisms (example : Plant a tree for each longhaul flight, or for each tradeshow you exhibit). When relocating, favor to use recycled boxes for packing and shipping option (less emissions) than air freight.",
+      "link": "https://www.thematchainitiative.com/solutions-new/adopt-sustainable-policy-for-travels-and-moves"
+    },
+    {
+      "title": "Promote Sustainable Employees commutes",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Use car less : offer incentives to employees coming by bike, public transports or walking. Provide bicycle parkings, showers places. If a car is necessary for meetings, rent a shared car or taxi. Replace private car allowances with a packaged allowance for public transport, car sharing and ride hailing. Raise awareness on commutes carbon footprint and teach staff how to track their daily carbon footprint based on their mobility choices, and how to offset their carbon emissions",
+      "link": "https://www.thematchainitiative.com/solutions-new/promote-sustainable-employees-commutes"
+    },
+    {
+      "title": "Implement sustainable practices with your outsourced services",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Select socially responsible vendors for your outsourced essential services (cleaning, security and landscape). If you do not have yet a sustainable procurement policy, see our sustainable procurement page on how to write one. For services, prefer providers conscious of environmental and social challenges: using water & energy efficient equipment, using eco-friendly cleaning products (see solutions Choose Green Cleaning Products in green office category), training their employees on eco-friendly practices, natural resources' preservation & waste segregation, adopting clear human resources social engagements such as a safe work environment, inclusiveness and diversity policy, and real competencies development plans",
+      "link": "https://www.thematchainitiative.com/solutions-new/implement-sustainable-practices-with-your-outsourced-services"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Claire Kolly",
+      "title": "HR Consulting & Executive Coaching - EDLT.global",
+      "description": "Claire has spent more than 20 years in the HR field working in global environments, accompanying businesses in their -always complex!- development and transformations. Working across teams and cultural boundaries, she became passionate about helping teams and leaders navigate through changes and make sustainable decisions for themselves and their teams, balancing the short-term and long-term impacts in organisations.",
+      "website": "https://www.edlt.global/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/claire-kolly"
+    },
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Sustainability consultant, Founder - Sustainao",
+      "description": "I am the founder of Sustainao, a sustainability consulting firm based in Singapore. With 10 years of experience in the field, I help businesses develop impactful sustainability and decarbonisation strategies, embed sustainable practices into operations, and report their performance to stakeholders in a meaningful way. Previously, I worked as a sustainability auditor at KPMG France, where I conducted audits across 15 countries within Europe, Africa, and Asia. I hold an MBA in Corporate Sustainability, a Master's in Environmental Management, and a Bachelor's degree in Chemistry and Biology.",
+      "website": "https://www.sustainao.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/ivona-balint-kowalczyk"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "description": "I worked in Asia for 12 years (Shanghai, Hong Kong and Singapore) within the digital and technology space. I'm now the Europe Regional Managing Director at Palo IT. I have founded and run several companies in different sectors such as IT Consulting, Education, and the F&B business. I am passionate about how to use technology as a force for good.",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/vincent-desclaux"
+    },
+    {
+      "name": "Géraldine Pelissier",
+      "title": "Agrivoltaics - Business Development Manager",
+      "description": "Most of my professional career was in Sales and Marketing for emissions-intensive sectors (automotive, telecom, oil and gas industries) to say the least…. But I always knew I had to look for a greater purpose. Covid19 slowed down my professional activities and helped me to follow my passion. I decided to open a new chapter and follow a new career path, but to do so, I had to study sustainability. I particularly like innovation and tech, so I wish to pursue my career with a tech for good angle.",
+      "website": "https://www.re-sto.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/geraldine-pelissier"
+    },
+    {
+      "name": "Duncan Craig",
+      "title": "Co-founder & Design Director - ReXtore",
+      "description": "Duncan, originally from the UK, has been based in Asia for the past 20 years. He is the Co-Founder and Design Director of reXtore, a Singapore-based circular design studio pioneering sustainable innovation in the events and exhibitions space. Duncan is also the creator of STAXX, a revolutionary modular building system made from 100% recycled ocean-bound plastic. Designed from scratch to solve the waste challenges of temporary structures, STAXX is now helping transform how brands and organisers build — block by block — with zero tools, minimal waste, and maximum creativity.",
+      "website": "https://www.rextore.org/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/duncan-craig"
+    },
+    {
+      "name": "Carolin Barr", 
+      "title": "Founder - SusGain",
+      "description": "Carolin is a passionate and driven entrepreneur and sustainability advocate. She is involved in many projects and initiatives that contribute to reducing our environmental impact.",
+      "website": "http://www.susgain.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/carolin-barr"
+    },
+    {
+      "name": "Elly Both",
+      "title": "Founder - Bright Green", 
+      "description": "I run a business called Bright Green where I work with corporates to engage employees in impact projects in the areas of environmental and social impact.",
+      "website": "http://www.workbrightgreen.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/elly-both"
+    },
+    {
+      "name": "Mimi Nguyen",
+      "title": "General Manager - Handprint -- Founding Member - The Matcha Initiative",
+      "description": "I was born in Vietnam and grew up in France in Paris' low income suburbs. Then I really realised how passionate I was about sustainability and for the first time, I considered making it my job. Nothing is easy when you don't hold the right degrees or the right amount of money, so I co-created The Matcha Initiative to jump into action instead of procrastinating.",
+      "website": "https://handprint.tech/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/mimi-nguyen"
+    },
+    {
+      "name": "Holly Naylor",
+      "title": "Founder - Inspire & Create",
+      "description": "As a sustainability communicator and content writer, I believe in the power of words to drive real change. With my background in corporate operations, I understand how to optimize from the inside out.",
+      "website": "https://theinspireandcreate.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/holly-naylor"
+    },
+    {
+      "name": "Patchareeboon Mam Sakulpitakphon",
+      "title": "Sustainability and Impact Lead - PALO IT Thailand",
+      "description": "Patchareeboon Mam has more than 16 years of experience on international development and sustainability projects, especially relating to business and human rights and corporate sustainability",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/patchareeboon-mam-sakulpitakphon"
+    },
+    {
+      "name": "Boon Siong Wee",
+      "title": "CEO - Aeterni.eco",
+      "description": "I am an IMCS (Institute of Management Consultants) Registered Management Consultant with over 25 years of experience in various industries including government, financial services, info-comm and sustainability.",
+      "website": "http://www.aeterni.eco/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/boon-siong-wee"
+    },
+    {
+      "name": "Alvin Oh",
+      "title": "Founder - Wisdom International Group",
+      "description": "I am a certified management consultant in human capital development and social sustainability, as well as an academic fellow in management consulting with the International Council of Management Consulting Institutes (ICMCI).",
+      "website": "http://www.wisdom-consultancy.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/alvin-oh"
+    }
+  ],
+  "metadata": {
+    "scraped_date": "2025-07-09",
+    "total_solutions": 4,
+    "rating_system": "Cost (C1-C3), Effort (E1-E3), Impact (I1-I3)"
+  }
+}

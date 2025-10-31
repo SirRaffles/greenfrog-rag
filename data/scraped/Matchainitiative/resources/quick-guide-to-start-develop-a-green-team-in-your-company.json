@@ -1,0 +1,107 @@
+{
+  "title": "Quick Guide to start & develop a green team",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/quick-guide-to-start-develop-a-green-team-in-your-company",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive 3-step guide for establishing and managing corporate green teams, covering setup, communication strategies, and practical implementation tips for sustainable business transformation.",
+  "structure": "3-step framework: Setting up, Communication, Getting started",
+  "step_1_setup": {
+    "why_questions": [
+      "Define Green Team vision and missions aligned with business direction",
+      "Define mission statement and focus areas"
+    ],
+    "what_questions": [
+      "Define roadmap with goals, priorities and actions",
+      "Define clear and understandable KPIs with regular reporting"
+    ],
+    "how_questions": [
+      "Find Executive sponsor for visibility and engagement",
+      "Define communication channels and methods",
+      "Determine budget requirements and project funding"
+    ],
+    "who_questions": [
+      "Start with 7-12 motivated people taskforce",
+      "Define participant roles (leader, sponsor, contributors, consultants, PMs, influencers)",
+      "Include various profiles from different departments (Tech, Creative, Finance, HR, Sales)"
+    ],
+    "when_questions": [
+      "Agree on time commitment and cadence",
+      "Have 1 person officially dedicating time (others 1-2 hours/week)"
+    ]
+  },
+  "step_2_communication": {
+    "communication_levels": [
+      "Executive team roadmap updates",
+      "Internal comm channels (Teams, Slack, newsletters)",
+      "Internal events for awareness and engagement"
+    ],
+    "signature_events": [
+      "Earth Day (April 22)",
+      "Ocean Day (June 8)",
+      "Industry-specific events"
+    ],
+    "engagement_categories": [
+      "Movie screenings",
+      "I play my part: recycling, stationary amnesty",
+      "Outside activities: beach cleaning",
+      "Food waste initiatives"
+    ],
+    "consistency_principles": [
+      "Recognizable messaging (banner, logo, tagline)",
+      "Agreed communication cadence",
+      "Celebrate successes and follow-up progress"
+    ]
+  },
+  "step_3_implementation": {
+    "make_it_fun": [
+      "Gamification and team competitions",
+      "Reward best daily sustainability tips",
+      "Trivia games with winners"
+    ],
+    "communicate": [
+      "Regular updates via internal tools",
+      "Calendar approach for monthly topics",
+      "Quarterly meetings for wins and next steps",
+      "Celebrate key environmental days"
+    ],
+    "collaborate_engage": [
+      "Ideation contests with funding for winning projects",
+      "Webinar series with external speakers",
+      "Engaging movie projections",
+      "Cross-department projects"
+    ],
+    "walk_the_talk": [
+      "Use office as lab for best practices",
+      "Create green zones with recycling bins",
+      "Provide ceramic mugs and branded tumblers",
+      "Calculate and reduce office energy consumption"
+    ]
+  },
+  "team_size_recommendation": "7-12 motivated people",
+  "time_commitment": "1-2 hours per week average, with 1 person dedicating official time",
+  "success_factors": [
+    "Executive sponsorship",
+    "Clear KPIs and reporting",
+    "Diverse team composition",
+    "Consistent communication",
+    "Fun and engaging activities"
+  ],
+  "additional_resources": [
+    "Green Harvard - 10 tips for successful green team",
+    "B Corp impact assessment (free)",
+    "TMI Sustainability Week Kit"
+  ],
+  "b_corp_pillars": ["Governance", "Workers", "Community", "Environment", "Customers"],
+  "authors": [
+    {
+      "name": "Claire Kolly",
+      "title": "Director, HR Consulting & Executive Coaching, EDLT.global"
+    },
+    {
+      "name": "Mary Kon-Sun-Tack", 
+      "title": "Asia Customer Experience Director, Sustainability Ambassador, Lyreco"
+    }
+  ],
+  "target_audience": "Companies wanting to establish internal sustainability teams",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

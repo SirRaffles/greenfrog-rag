@@ -1,0 +1,33 @@
+{
+  "supplier_name": "Alba",
+  "description": "E-Waste Collection - PRS Operator for E-Waste",
+  "url": "https://www.thematchainitiative.com/supplier/alba",
+  "website": "https://alba-ewaste.sg",
+  "contact": "contact@alba-ewaste.sg",
+  "locations": ["Singapore"],
+  "company_background": "The ALBA Group was established in 1968 and operates Producer Responsibility Schemes internationally, including in Germany and Hong Kong. Since July 1st, 2021, the National Environment Agency (NEA) designated Alba as the official e-waste PRS operator in Singapore",
+  "expertise_categories": [
+    "Waste Management",
+    "Digital Footprint & IT",
+    "Green Office",
+    "Resources Management",
+    "E-waste management"
+  ],
+  "services": [
+    "Free e-waste collection for regulated materials exceeding 1 cubic meter in volume",
+    "Producer Responsibility Scheme (PRS) management for electronic waste",
+    "Green hardware solutions",
+    "E-waste handling"
+  ],
+  "solution_codes": [
+    "05.02",
+    "02.03",
+    "01.07",
+    "05.06",
+    "02.04",
+    "08.00"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/alba",
+  "scraped_date": "2025-10-31"
+}

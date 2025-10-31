@@ -1,0 +1,83 @@
+{
+  "buddy_profile": {
+    "name": "Dominica Drazal",
+    "title": "Communications & Partnerships for Start-Ups in Emerging Markets",
+    "location": ["Mainland China", "Indonesia", "Singapore", "Thailand"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/65d6aeb7aa594120635f6d9f_IMG_8792%20-%20Dominica%20Drazal%20carre.jpeg",
+    "main_skills": [
+      "Creativity",
+      "Stakeholder Engagement",
+      "Communication"
+    ],
+    "guidance_types": [
+      "Kick Start Help",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "ddrazal@gmail.com"
+    },
+    "introduction": "Raised in the Middle East by Eastern European parents, I was surrounded by layers of diversity. Extensive traveling throughout my childhood stimulated a fascination for cultures, languages and geopolitics, and I continued living a pseudo-nomadic life as an adult. While I began my career on the trading floor in NYC, I later worked in Africa, Asia, Europe and South America in diverse roles (investments, micro-finance, communications, and business development). Fluent in five languages, I graduated from the University of Pennsylvania and later completed a Masters in International Affairs from Fletcher (Tufts), and have a number of Sustainability related certificates.",
+    "background": {
+      "upbringing": "Middle East, raised by Eastern European parents",
+      "childhood": "Extensive traveling, surrounded by layers of diversity",
+      "lifestyle": "Pseudo-nomadic adult life",
+      "career_start": "Trading floor in NYC"
+    },
+    "global_experience": {
+      "continents": ["Africa", "Asia", "Europe", "South America"],
+      "roles": ["investments", "micro-finance", "communications", "business development"],
+      "languages": "Fluent in five languages"
+    },
+    "education": [
+      "University of Pennsylvania (graduated)",
+      "Masters in International Affairs from Fletcher (Tufts)",
+      "Number of Sustainability related certificates"
+    ],
+    "cultural_fascination": "Cultures, languages and geopolitics",
+    "top_3_advice": [
+      "Be flexible",
+      "Be patient",
+      "Be humble and kind"
+    ],
+    "how_to_help": "Since I have extremely diverse experience, I could help Matcha users with perspective, thinking out of the box, and finding partners. I am also keen to help them find their purpose and create supporting marketing & communication materials.",
+    "expertise_areas": [
+      "Sustainable HR Practices",
+      "Consultants",
+      "Food & Beverage",
+      "Local Community Involvement - CSR - Philanthropy",
+      "Sustainable Buildings & Resilient Cities",
+      "Responsible Marketing"
+    ],
+    "sustainability_motivation": "Growing up my parents exposed me to the concept of sustainability before it was coined as such. Exposed to the world and its injustices, but more importantly, its potential, I purposefully looked for ways in which I could make an impact, both professionally and personally. I have worked \"on the field\" for multi-lateral organisations and NGOs as well as for large private-sector financial and consulting groups: learning to \"see\" sustainability from both perspectives has been powerful in creating unity, partnerships and action oriented programs.",
+    "organizational_experience": [
+      "Multi-lateral organisations",
+      "NGOs", 
+      "Large private-sector financial groups",
+      "Consulting groups"
+    ],
+    "dual_perspective": "Learning to 'see' sustainability from both NGO and private-sector perspectives has been powerful in creating unity, partnerships and action oriented programs",
+    "organizational_responsibilities": "As a communicator, editor, and marketer, I have learned to harness the power of words and positioning to drive change in perspective, direction and action. I have encouraged colleagues or partners to consider the human and environmental elements in their decision making processes, recognising that most people are unaware but not uninterested.",
+    "professional_skills": ["communicator", "editor", "marketer"],
+    "approach": "Harness power of words and positioning to drive change",
+    "philosophy": "Most people are unaware but not uninterested",
+    "challenges_and_solutions": "Learning how to balance an immediate emotional need to react with a practical approach based on strategy and reason, while appreciated the cultural insights.",
+    "proudest_achievement": "Taking my son on multiple impact trips in which he was exposed to the realities faced by his peers in other countries around the globe. Pushing up his sleeves, he built, taught and grew as a human. I am proud that he, as a representative of the next generation, is aware, responsible and proactive in pushing forward sustainability.",
+    "next_generation_impact": {
+      "approach": "Multiple impact trips with son",
+      "activities": "Built, taught, grew as human",
+      "outcome": "Son is aware, responsible and proactive in pushing forward sustainability",
+      "significance": "Representative of next generation"
+    },
+    "solution_codes": [
+      "14.01 - Sustainable HR Practices People Strategy Culture & Values",
+      "16.01 - Consultants General",
+      "16.02 - Consultants Standards & Certification",
+      "16.03 - Consultants Social & People Pilar",
+      "09.01 - Food & Beverage General",
+      "09.02 - Food & Beverage Food & Drink Sourcing",
+      "10.00 - Local Community Involvement CSR Philanthropy",
+      "11.00 - Sustainable Buildings & Resilient Cities",
+      "13.00 - Responsible Marketing"
+    ]
+  }
+}

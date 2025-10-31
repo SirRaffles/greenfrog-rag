@@ -1,0 +1,29 @@
+{
+  "name": "Andrew Tay",
+  "title": "Business Development Director - KGS",
+  "main_skills": ["Circularity Strategies", "e-waste", "ITAD"],
+  "locations": ["Singapore"],
+  "guidance_types": ["Experience & Expertise Sharing", "Sustainability Career Advisor", "Kick Start Help"],
+  "contact": {
+    "email": "andrew@kgs.com.sg",
+    "website": "http://www.kgs.com.sg/"
+  },
+  "introduction": "I'm a Director at KGS, a leading e-waste recycling company specializing in ITAD, e-waste recycling, data destruction, and battery recycling. My background is in Mechanical Engineering (BEng) and Management of Technology (MSc). I'm passionate about driving sustainability and helping others adopt more environmentally responsible practices. I believe in the power of technology and innovation to create a circular economy. I'm always looking for opportunities to connect with others who share this vision.",
+  "top_advice": [
+    "Start the conversation with someone in this network and you might be surprised where it leads.",
+    "Sustainability is a journey and not a quick fix. Many efforts will be required.",
+    "As consumers of products or services, we all have the power to vote with our dollars. Vote green."
+  ],
+  "how_they_help": "I can help to start the sustainability conversation and connect to any solutions I might have in my network.",
+  "expertise": [
+    "Digital Footprint & IT",
+    "Waste Management",
+    "Resources Management", 
+    "Circular Economy",
+    "Green office"
+  ],
+  "sustainability_journey": "KGS started in 2016 with the vision to be the answer to the e-waste problem. Main e-waste we collect is ICT equipment ranging from laptops to servers. With ICT equipment, it often contains data so data sanitization services such as magnetic degaussing are value added services we provide when we help clients recycle e-waste. From Dec 2020 to June 2021, we have been instrumental in executing and promoting the PMD disposal and recycling program with the support of NEA and LTA.",
+  "achievements": "I am most proud to be playing a part of some of these projects and initiatives to help improve sustainability in Singapore.",
+  "profile_url": "https://www.thematchainitiative.com/buddies/andrew-tay",
+  "scraped_date": "2025-07-09"
+}

@@ -1,0 +1,50 @@
+{
+  "buddy_profile": {
+    "name": "Asiyah Wong",
+    "title": "Environmental Strategist",
+    "location": ["Indonesia", "Mainland China", "Malaysia", "Singapore", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d18593446ad9e2a2634fcd_262748107_470876854397118_2451012143081571063_n%20-%20Asiyah%20Tr%C3%86%C2%B0ng.jpg",
+    "main_skills": [
+      "Strategy (regional/national level)"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "asiya@posteo.sg",
+      "website": "https://asiyahthoughts.substack.com/"
+    },
+    "introduction": "I'm an environmental strategist with ten years of experience transforming small teams to become more sustainable via capacity-building, learning from best practices of other teams elsewhere, as well as agile team management methods with scientific experimentation in person to verify hypotheses from case studies.",
+    "top_3_advice": [
+      "Don't give up learning about the environment",
+      "There is always hope",
+      "Every voice matters no matter how small"
+    ],
+    "how_to_help": "Share my experiences and encourage peer learning",
+    "expertise_areas": [
+      "Sustainable HR Practices",
+      "Green office",
+      "Food & Beverage",
+      "Circular Economy",
+      "Carbon Management & Carbon Footprint",
+      "Waste Management"
+    ],
+    "sustainability_motivation": "I became interested in sustainability after watching videos on animals and how they are treated in the industrial modern food system - that is to say, very cruelly. That sparked my journey towards rethinking not just food and drink but also every little part of our daily life such as transport, circular economy, and food waste composting rather than incineration. I've led teams working on topics as diverse as plastic pollution in the Citarum in Java, Indonesia, to carbon divestment activism on university campuses building capacity based on successes in the US and Malaysia.",
+    "organizational_responsibilities": "My entire family has been recycling food waste as compost for about two years now!",
+    "challenges_and_solutions": "Building a good habit is the most important part - taking time out every day to journal and reflect on what I would like to grow towards has been a critical part of my praxis.",
+    "proudest_achievement": "Being able to bring in good ideas from sustainability success stories abroad, to Singapore.",
+    "solution_codes": [
+      "14.05 - Sustainable HR Practices Health, Safety & Wellbeing",
+      "01.03 - Green Office Eat & Drink at the office",
+      "01.07 - Green Office Waste Management",
+      "09.02 - Food & Beverage Food & Drink Sourcing",
+      "03.00 - Circular Economy",
+      "03.04 - Circular Economy Intensify Usage",
+      "03.07 - Circular Economy Awareness & Training",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "05.03 - Waste Management Pantry Dining Area Kitchen",
+      "05.06 - Waste Management E-Waste"
+    ]
+  }
+}

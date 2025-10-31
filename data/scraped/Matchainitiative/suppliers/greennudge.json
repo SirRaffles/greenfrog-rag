@@ -1,0 +1,54 @@
+{
+  "name": "Green Nudge",
+  "tagline": "Supporting employee and community engagement through coastal cleanups, workshops, and outreach talks",
+  "business_type": "Social enterprise",
+  "description": "Green Nudge is a social enterprise that supports businesses and communities to achieve positive environmental impact through activities such as coastal cleanups and workshops, outreach talks and sustainability consulting.",
+  "mission": "By raising awareness and co-creating call-to-actions with various stakeholders on sustainability efforts, Green Nudge aims to create a normative shift in the way we create and deal with waste to achieve a low carbon, zero waste future for Singapore",
+  "website": "https://greennudge.sg/",
+  "contact": "team@greennudge.sg",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/61249f3cf505fcc1cd04a29c_logo%20greenudge.png",
+  "countries": [
+    "Singapore"
+  ],
+  "services": [
+    "Coastal cleanups",
+    "Workshops",
+    "Outreach talks",
+    "Sustainability consulting",
+    "Employee engagement activities",
+    "Community engagement"
+  ],
+  "target_clients": [
+    "Businesses",
+    "Communities"
+  ],
+  "goals": [
+    "Low carbon future for Singapore",
+    "Zero waste future for Singapore",
+    "Normative shift in waste creation and management"
+  ],
+  "expertise_categories": [
+    "Waste Management",
+    "Food & Beverage",
+    "Green office",
+    "Sustainable HR Practices",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Carbon Management & Carbon Footprint",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "solution_codes": [
+    "05.01",
+    "09.01",
+    "01.07",
+    "14.03",
+    "10.00",
+    "15.00",
+    "15.03",
+    "04.05",
+    "06.06"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/greennudge",
+  "scraped_date": "2025-07-10"
+}

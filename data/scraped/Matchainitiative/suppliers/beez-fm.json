@@ -1,0 +1,48 @@
+{
+  "supplier_name": "Beez-fm",
+  "description": "Reducing energy consumption in buildings",
+  "url": "https://www.thematchainitiative.com/supplier/beez-fm",
+  "website": "https://beez-fm.com",
+  "contact": "info@beez-fm.com",
+  "locations": [
+    "Australia",
+    "India",
+    "Indonesia",
+    "Malaysia",
+    "Philippines",
+    "Singapore",
+    "South Korea",
+    "Thailand",
+    "Vietnam"
+  ],
+  "headquarters": "Singapore",
+  "business_description": "Facility management company specializing in Building Management Systems as a Service (BaaS). The firm delivers energy-efficient solutions through IoT, cloud technology, and AI, operating on an operational expense (OPEX) model where fees represent a portion of realized energy savings",
+  "service_model": "Rent-to-own approach based on ESCo (Energy Saving Contracting) principles, enabling customers to achieve energy and cost reductions without upfront capital investment",
+  "expertise_categories": [
+    "Green Office / Sustainable Workplace",
+    "Digital Footprint & IT",
+    "Consulting",
+    "Carbon Management & Carbon Footprint",
+    "Energy & Electricity",
+    "Sustainable Buildings & Resilient Cities"
+  ],
+  "services": [
+    "Building Management Systems as a Service (BaaS)",
+    "Energy efficiency solutions",
+    "IoT and cloud technology implementation",
+    "AI-powered facility management"
+  ],
+  "solution_codes": [
+    "01.06",
+    "02.01",
+    "16.01",
+    "16.04",
+    "15.03",
+    "15.04",
+    "07.00",
+    "11.00"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/beez-fm",
+  "scraped_date": "2025-10-31"
+}

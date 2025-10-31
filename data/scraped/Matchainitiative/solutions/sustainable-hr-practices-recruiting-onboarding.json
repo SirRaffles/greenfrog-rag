@@ -1,0 +1,94 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-hr-practices-recruiting-onboarding",
+  "title": "Sustainable HR Recruiting & Onboarding",
+  "category": "Sustainable HR Practices",
+  "subcategory": "Recruiting & Onboarding",
+  "overview": "Recruiting represents the initial engagement with prospective talent and serves as an opportunity to communicate company values and commitment to sustainability. Even candidates who aren't hired should experience quality interactions that reflect positively on the organization.",
+  "solutions": [
+    {
+      "title": "Adapt Your Job Descriptions",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Focus on essential behaviors and competencies rather than exhaustive requirements.",
+      "best_practices": [
+        "Focus on behaviors and competencies rather than exhaustive requirements",
+        "Excessive criteria discourage female applicants from applying",
+        "Highlight organizational values and sustainability commitments",
+        "Offer flexible arrangements and limited travel expectations to attract diverse candidates",
+        "Promote opportunities for pro-bono work and professional development"
+      ]
+    },
+    {
+      "title": "Adopt a Sustainable Hiring and Interview Process",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Source social companies that can find diverse profiles or allow workers with particular needs to work from home.",
+      "sustainable_practices": [
+        "Partner with social enterprises sourcing underrepresented groups",
+        "Conduct virtual interviews or consolidate in-person meetings",
+        "Discuss sustainability goals during interviews",
+        "Assemble diverse interviewer panels",
+        "Equip interviewers with unified messaging toolkits",
+        "Use e-signature solutions for contracts and documentation"
+      ]
+    },
+    {
+      "title": "Set Up a Sustainable Onboarding Pack",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Incorporate values and sustainable initiatives in your onboarding pack. Go digital as much as possible.",
+      "onboarding_plan_components": [
+        "Explanation of the different departments of the company, their roles and main stakeholders",
+        "Important persons to meet during the first weeks",
+        "Culture of the company (ways of working, where to find the information, tools used...)",
+        "Expectations of the role (objectives at 30/60/90 days)",
+        "Regular touch points",
+        "Buddy system if there is one (someone different from the manager to allow more openness)"
+      ],
+      "sustainable_pack": "If you still need to provide a physical onboarding pack, think about initiatives to provide a sustainable branded pack (T-shirt, notebook, gift card for charities, etc...)",
+      "purpose": "Define a proper onboarding plan to speed up inclusion, allow performance and drive longer retention."
+    }
+  ],
+  "featured_buddies": [
+    {
+      "name": "Claire Kolly",
+      "title": "HR Consulting & Executive Coaching - EDLT.global",
+      "expertise": "Over 20 years in global HR, now specializing in sustainable human-centered practices and climate change coaching"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "expertise": "12+ years in Asian technology sector; focused on leveraging technology for social good"
+    },
+    {
+      "name": "Mimi Nguyen",
+      "title": "General Manager - Handprint; Founding Member - The Matcha Initiative",
+      "expertise": "Background in Vietnamese pragmatic sustainability; now advancing corporate regeneration practices"
+    },
+    {
+      "name": "Jing Ying Lim",
+      "title": "Founder - Lumos",
+      "expertise": "10+ years marketing experience; led B-Corp certification efforts and CSR/ESG initiatives"
+    },
+    {
+      "name": "Elly Both",
+      "title": "Founder - Bright Green",
+      "expertise": "Background in HR and change management; facilitates employee sustainability engagement and education"
+    },
+    {
+      "name": "Alvin Oh",
+      "title": "Founder - Wisdom International Group",
+      "expertise": "Certified management consultant in human capital development with focus on organizational transformation and AI applications"
+    },
+    {
+      "name": "Boon Siong Wee",
+      "title": "CEO - Aeterni.eco",
+      "expertise": "25+ years consulting experience; specializes in sustainability strategy, carbon footprint analysis, and green finance"
+    }
+  ],
+  "resources": [],
+  "scraped_at": "2025-10-31T00:00:00Z"
+}

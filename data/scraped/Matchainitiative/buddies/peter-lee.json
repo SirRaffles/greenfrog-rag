@@ -1,0 +1,63 @@
+{
+  "name": "Peter Lee",
+  "position": "Advisor - Catalyst for Change",
+  "location": [
+    "Singapore",
+    "UAE"
+  ],
+  "contact": {
+    "email": "peter.lee@catalyst-for-change-singapore.com",
+    "website": "https://tinyurl.com/94dhrbf2"
+  },
+  "main_skills": [
+    "DEI",
+    "Cybersecurity", 
+    "AI Ethics"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "I am the founder of Catalyst for Change, which is committed to elevating human capital competency and emotional well-being, empowering individuals and organizations to navigate and excel in today's VUCA world. My leadership journey within my career spans Fortune 500 companies, and brings deep expertise in Advisory, Executive, and Non-Executive Board roles, helping businesses start, scale and transform. I also have experience in corporate governance, strategic foresight and operational discipline, which equips clients with the structure needed to stay fundable, scalable, and sustainable — without stifling agility.",
+  "top_advice": [
+    "Integrate ESG into core business strategy. Treat ESG as a business enabler — not just compliance. Align sustainability goals with core operations, innovation, and customer value. Start by identifying material ESG issues, and then embed measurable KPIs into leadership dashboards to ensure accountability, investor confidence, and long-term resilience.",
+    "Build ESG governance from the top. Strong ESG starts in the boardroom. Establish oversight by nominating ESG-savvy board members, or by forming a Sustainability committee. Equip leadership with the right expertise to integrate ESG risks and opportunities into strategic planning, enterprise risk management, and stakeholder engagement.",
+    "Champion a transparent, credible DEI narrative. Authenticity matters. Don't just talk about DEI — show it. Use data to highlight representation, pay equity, and inclusive practices across your organization. Share lived experiences and progress openly. A transparent DEI narrative builds trust, attracts top talent, and signals cultural maturity to investors and stakeholders alike."
+  ],
+  "how_they_help": "I am committed to helping users of The Matcha Initiative through short chats on the following topics: How to align ESG with company business objectives, how to position for impact, how to improve operational efficiency, and how to build an eco-system.",
+  "expertise_areas": [
+    "Circular Economy",
+    "Sustainable Supply Chain & Logistic",
+    "Energy & Electricity",
+    "Corporate Governance, Mission & Strategy",
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "sustainability_journey": "I thrive on disruption and innovation, which aligns with my passion and hunter's instinct for transformation and high-impact decision-making. As such, as an ESG.D-certified Advisor, I integrate sustainability, governance, and ethical leadership into startup strategies to ensure alignment with impact-driven Investment trends.",
+  "value_proposition": "Here is how I make a difference, and why: 1. Building from the ground up – Startups offer a blank slate to embed ESG, culture, and innovation from inception, setting the foundation for long-term impact. 2. Investor & market positioning – ESG-aligned startups are more attractive to institutional investors, impact funds, and corporate partnerships — a key driver for funding success 3. Operational excellence – ESG-driven businesses benefit from better risk management, cost efficiency, and employee engagement, strengthening resilience and scalability.",
+  "mission": "My goal? To help startups scale sustainably, secure investor confidence, and drive industry transformation — without losing their entrepreneurial spirit.",
+  "implemented_actions": [
+    "Understanding Core Challenges: I guide startups in defining the specific biodiversity or sustainability issues they are addressing, such as habitat destruction, species loss, and climate resilience.",
+    "Leveraging Innovative Solutions for Maximum Impact: I encourage the use of cutting-edge technologies like AI, drones, IoT, and blockchain for scalable and impactful solutions.",
+    "Balancing Profitability with UN SDG Goals: I mentor startups to develop dual-value propositions— generating financial returns while positively impacting ecosystems.",
+    "Engaging Broad Stakeholders: I stress the importance of working with local communities to ensure projects are socially inclusive and sustainable.",
+    "Developing Strategic Partnerships: I guide startups to collaborate with governments, NGOs, corporations, and academic institutions to scale their solutions.",
+    "Building Market Awareness: I advise on educating consumers and businesses about biodiversity's importance through storytelling and data-driven marketing campaigns."
+  ],
+  "challenges_overcome": "Acquiring an understanding of fundamental ESG concepts, aligning them to strategy and positioning themselves for opportunities is a challenge for startups. Hence, I mentor them to tackle these issues strategically.",
+  "proudest_achievement": "I am most proud of having successfully guided startups in deep tech and clean tech.",
+  "solution_categories": {
+    "circular_economy": ["03.00", "03.01"],
+    "sustainable_supply_chain": ["06.00", "06.01"],
+    "energy_electricity": ["07.00"],
+    "corporate_governance": ["12.00"],
+    "sustainable_hr": ["14.00", "14.01"],
+    "carbon_management": ["15.04"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/peter-lee",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

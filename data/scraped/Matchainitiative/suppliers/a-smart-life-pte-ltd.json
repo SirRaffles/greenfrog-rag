@@ -1,0 +1,27 @@
+{
+  "supplier_name": "A-Smart Life Pte Ltd",
+  "description": "On-site food waste treatment systems",
+  "url": "https://www.thematchainitiative.com/supplier/a-smart-life-pte-ltd",
+  "website": "http://www.a-smart.sg/A-SmartLife.aspx",
+  "contact": null,
+  "locations": ["Singapore"],
+  "founded": "2017",
+  "business_focus": "On-site food waste treatment systems - compact recycling machines that allow low-energy, high-speed processing of food waste for conversion to natural, healthy fertilizers",
+  "key_differentiator": "NEA-approved vendor offering energy-efficient, on-site food waste conversion technology for organic fertilizer production",
+  "expertise_categories": [
+    "Food & Beverage",
+    "Food & Beverage Waste Management",
+    "Waste Management"
+  ],
+  "services": [
+    "Pantry, Dining Area, and Kitchen Corner waste solutions",
+    "Food waste conversion to fertilizer"
+  ],
+  "solution_codes": [
+    "09.04",
+    "05.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/a-smart-life-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-supply-chain",
+  "title": "Sustainable Supply Chain & Logistic - All Solutions",
+  "scraped_at": "2025-01-14T12:00:00Z",
+  "content": {
+    "overview": "An organisation's impact on the world extends far beyond its core operations. In fact, apart from a very few specific industries, the vast majority of businesses' carbon emissions reside in their scope 3. If you look at the upstream value chain right down to the hands of the end user, there are many sustainability measures to consider. In this Sustainable Supply Chain Best Practices Category, we look at how to establish a sustainable supply chain strategy and measure performance, as well as detailing opportunities related to Procurement, Manufacturing, Logistics & Distribution.",
+    "subcategories": [
+      "Sustainable Supply Chain Strategy",
+      "Eco Design & Circularity", 
+      "Procurement",
+      "Manufacturing",
+      "Logistics & Distribution",
+      "Organisation Engagement"
+    ],
+    "solutions": [
+      {
+        "title": "Understand the company strategy & define priorities within supply chain areas - BASIC",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "According to the International Supply Chain Education Alliance (ISCEA), sustainability in supply chain management is about 'orchestrating and continuously improving the planning and execution of processes at strategic, tactical and operational levels along an end-to-end value chain to achieve the most efficient use of resources in terms of utilisation and cost, while minimising waste and carbon footprint'. End-to-end covers the entire supply chain process: from product design and raw material sourcing to manufacturing, delivery of the final product and after-sales service (including end-of-life disposal)."
+      },
+      {
+        "title": "Implement a Supplier Code of Conduct - BASIC",
+        "cost": "C1",
+        "effort": "E2", 
+        "impact": "I2",
+        "description": "Creating and implementing a supplier code of conduct is the first step to take for a sustainable supply chain. Establishing a supplier code of conduct presents a chance for your company to foster a shared understanding with your suppliers regarding your fundamental principles and values."
+      },
+      {
+        "title": "Assess the sustainability baseline of existing supply chain - INTERMEDIATE",
+        "cost": "C2",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "Conducting a baseline assessment of your company's supply chain sustainability involves assessing and understanding the current state of environmental and social impacts in your end-to-end supply chain."
+      },
+      {
+        "title": "Map the supply chain risks and develop mitigation plans - INTERMEDIATE",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "A structured approach to supply chain risk management is required to assess all the vulnerabilities of the existing supply chain to current and future climate conditions."
+      },
+      {
+        "title": "Establish the future state of supply chain - ADVANCED",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Redesigning the supply chain is required to achieve a step change in your sustainability results. Redesign takes into account sustainability needs, cost objectives, responsiveness requirements and resiliency objectives."
+      },
+      {
+        "title": "Control & measure the End to End Supply Chain Performance - ADVANCED",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Once the transformation action plan is in place, a continuous improvement method such as Plan/Do/Check/Act (PCDA) is required to monitor, control, and adjust the plan over time."
+      }
+    ],
+    "buddies_featured": [
+      "Adrien de Buttet - Sustainable Supply Chain Transformation - Greenfinity",
+      "Delphine Laurien - ASEAN & MENA Head of Procurement & Supply Chain - Aden Services",
+      "Mun Wei Chan - Founder & Principal Consultant - SustainableSG",
+      "Violaine Balland - Head of Procurement - Wilhelmsen Ships Service"
+    ]
+  }
+}

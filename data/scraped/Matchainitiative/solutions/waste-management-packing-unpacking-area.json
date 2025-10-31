@@ -1,0 +1,64 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-packing-unpacking-area",
+  "title": "Waste Management - Packing & Unpacking Area",
+  "scraped_at": "2025-06-24T13:45:00Z",
+  "content": {
+    "overview": "The quantity of waste produced by packaging is an important one. For example, plastic packaging represents 26% of the total volume of plastics used (Ellen Mac Arthur Foundation). Most of the time the use of pallets or cardboard as packaging is not well optimized and this results in an important amount of waste being created. Companies that aim to be more sustainable should tackle this issue and take action to reduce packaging waste and better manage it. It will also result in cost savings.",
+    "solutions": [
+      {
+        "title": "Pallets (wooden, plastic, metal) - Adopt a Sustainable Approach",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Upstream: Use wooden pallet with lighter wood (ensure load capacity requirements), Use returnable pallets (typically plastic) - highly suitable for local and regular partners. Downstream: Resell/Return excess pallets to second-hand suppliers, Contact neighbouring facilities to exchange pallets, Send broken pallets to recycling."
+      },
+      {
+        "title": "Cardboard (pad, boxes) - Adopt a Sustainable Approach",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Upstream: Use returnable packaging, Go from triple-wall to double-wall to single-wall cardboard box, Use 3D Packing Machine to optimise cardboard use, Reuse cardboard pads from other suppliers, Use second-hand cardboard boxes. Downstream: Reuse cardboard boxes from suppliers, Use old cardboard as fillers to remove need for bubble wrap, Collect and sell to recycler."
+      },
+      {
+        "title": "Shrink Wrap (LDPE - plastic) - Adopt a Sustainable Approach",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Upstream: If products not susceptible to moisture, consider removing shrink wrap and use only pallet strapping, Consider returnable pallet covers, Use wrapping machine instead of manual wrapping, Use pre-stretched plastic shrink wrap. Downstream: Collect separately plastic wrap and sell to recycler."
+      },
+      {
+        "title": "Improve Product packaging (upstream)",
+        "cost": "C2",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "REDESIGN: Redesign packaging to make it reusable, recyclable, or compostable. Use PREP from Label for Recycling for assessing recyclability. Reduce number of materials used. REDUCE: Eliminate unnecessary packaging, reduce use of materials, aim for packaging free. REUSE: For B2B with high frequency local partners, implement reusable packaging that can be picked up at next delivery."
+      },
+      {
+        "title": "Recycle Product Packaging (downstream)",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Downstream: Collect, segregate and recycle materials from out of specs products."
+      },
+      {
+        "title": "Tackle Product Loss (from faulty machinery or products mismanagement)",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Upstream: If you have large volume of lost products, investigate the reasons and address them. Downstream: If possible repair, repack and redirect towards second-hand or refurbished branches, Collect and send to recycling."
+      }
+    ],
+    "buddies_featured": [
+      "Rémi Cesaro - Founder & Director - Zero Waste City",
+      "Andrew Tay - Business Development Director - KGS",
+      "Zofia Chlapowski - Stakeholder Engagement",
+      "Claire Quillet - CEO - TSB",
+      "Suman Majumdar - Sustainability Facilitator",
+      "Vishnu Sridhar - Director - Sustainability & Innovation - Procter & Gamble",
+      "Quentin Dumas - Sustainable Value Chain Expert - Accenture",
+      "Delphine Pernot - Circular Economy Expert",
+      "Caroline Struye - Singapore Country Director - Muuse",
+      "Audrey Yang - Founder, Sustainability Consultant - Thought Partner Eco"
+    ]
+  }
+}

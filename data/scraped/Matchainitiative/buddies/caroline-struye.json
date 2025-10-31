@@ -1,0 +1,71 @@
+{
+  "buddy_profile": {
+    "name": "Caroline Struye",
+    "title": "Singapore Country Director - Muuse",
+    "location": ["Hong Kong", "Singapore"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d180f5725fa9a910acf025_picture%20Profile%20Muuse%20-%20Caroline%20Struye.png",
+    "main_skills": [
+      "Strategy",
+      "Circularity",
+      "Reporting"
+    ],
+    "guidance_types": [
+      "Kick Start Help",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "caroline@muuse.io",
+      "website": "http://www.muuse.io/"
+    },
+    "introduction": "I am French, recently arrived in Singapore after 14 years of international experience across Europe and Canada. I spent 14 years in the aeronautical industry before joining a start up offering reusable packaging for the Food & Beverage industry. Passionate by nature, I am always enthusiast to meet new people, share and learn also more.",
+    "background": {
+      "nationality": "French",
+      "location_transition": "Recently arrived in Singapore after 14 years across Europe and Canada",
+      "industry_experience": "14 years in aeronautical industry",
+      "current_focus": "Start-up offering reusable packaging for Food & Beverage industry"
+    },
+    "top_3_advice": [
+      "Use this wonderful Network. It can give you much more than what you suspect.",
+      "Dont forget to give back ...",
+      "It's all about circularity!"
+    ],
+    "how_to_help": "Engage the conversation :) I can share my experience at personal level or advise at profesionnal level.",
+    "expertise_areas": [
+      "Circular Economy",
+      "Resources Management",
+      "Corporate Governance, Mission & Strategy",
+      "Food & Beverage",
+      "Consultants",
+      "Waste Management"
+    ],
+    "sustainability_awakening": {
+      "event": "Worldwide summit of aeronautics logistics in Montreal",
+      "moment": "When the Head of Procurement of Bombardier challenged an entrepreneur offering sustainable aircraft materials by asking 'why shall we care about recycled material when we are the biggest polluters?'",
+      "realization": "Had the 'Declic' - realized need to join biggest players to change industry from inside"
+    },
+    "professional_responsibilities": {
+      "past": "Managed environmental roadmap of Waste and Water Management at European level for Airbus Defence & Space, covering all production & office scope",
+      "current": "Offer solution to divert waste from single use packaging to end up into landfills"
+    },
+    "challenges_and_solutions": "Human is by definition resistant to change, unless we see an individual and personal advantage to it. It's all about resilience, persuasion et data. Your case get more complicating when the business case is not profitable, and it s not that often profitable on short term when you talk about sustainability.",
+    "proudest_achievement": "Standing for my personal values.",
+    "company_details": {
+      "name": "Muuse",
+      "focus": "Reusable packaging for Food & Beverage industry",
+      "mission": "Divert waste from single-use packaging ending up in landfills"
+    },
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "08.00 - Resources Management",
+      "12.00 - Corporate Governance Strategy Mission",
+      "09.01 - Food & Beverage General",
+      "16.01 - Consultants General",
+      "16.04 - Consultants Environmental Pilar",
+      "05.01 - Waste Management General Management & Infrastructures",
+      "05.04 - Waste Management Packing & Unpacking Area",
+      "05.05 - Waste Management Production Area",
+      "05.07 - Waste Management Miscellaneous Waste",
+      "05.08 - Waste Management As an Individual"
+    ]
+  }
+}

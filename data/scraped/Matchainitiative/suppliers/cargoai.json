@@ -1,0 +1,24 @@
+{
+  "supplier_name": "CargoAi",
+  "description": "Enabling airfreight carbon emission calculation and reduction strategy with Cargo2ZERO",
+  "url": "https://www.thematchainitiative.com/supplier/cargoai",
+  "website": "https://cargoai.co/products/cargo2zero/",
+  "contact": "contact@cargoai.co",
+  "locations": ["Singapore", "Worldwide"],
+  "services": [
+    "Cargo2ZERO platform (API-integrated solution)",
+    "Calculating airfreight CO2 emissions",
+    "Comparing carbon-efficient shipping options",
+    "Facilitating Sustainable Aviation Fuel (SAF) purchases during booking"
+  ],
+  "expertise_categories": [
+    "Sustainable Supply Chain & Logistics",
+    "Carbon Management & Carbon Footprint",
+    "Procurement",
+    "Logistics & Distribution"
+  ],
+  "solution_codes": ["06.00", "15.04", "06.03", "06.05"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/cargoai",
+  "scraped_date": "2025-10-31"
+}

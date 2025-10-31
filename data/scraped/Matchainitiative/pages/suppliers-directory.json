@@ -1,0 +1,60 @@
+{
+  "url": "https://www.thematchainitiative.com/tmi-solutions/suppliers-directory",
+  "title": "Suppliers Directory - The Matcha Initiative",
+  "scraped_at": "2025-01-14T11:00:00Z",
+  "content": {
+    "description": "Suppliers go through a Validation process before they are listed here. You may contact them directly, kindly note that The Matcha Initiative does not earn any commission, nor take part in any quotation or negotiation with them.",
+    "categories": [
+      "Sustainable Supply Chain & Logistic",
+      "Sustainability Accounting & Corporate Finance", 
+      "Green office",
+      "Digital Footprint & IT",
+      "Food & Beverage",
+      "Waste Management",
+      "Sustainable HR practices",
+      "Carbon Management & Carbon Footprint",
+      "Consultants",
+      "Circular Economy",
+      "Responsible Marketing",
+      "Energy & Electricity",
+      "Corporate Governance, Mission & Strategy",
+      "Sustainable Buildings & Resilient Cities",
+      "Resources Management",
+      "Local Community Involvement, CSR & Philanthropy"
+    ],
+    "suppliers_sample": [
+      {
+        "name": "A-Smart Life Pte Ltd",
+        "category": "On-site food waste treatment systems",
+        "description": "Established in 2017, A-Smart Life provides compact recycling machines that allow low- energy, high-speed processing of food waste for conversion to natural, healthy fertilizers. They are an approved vendor under the NEA listing.",
+        "website": "http://www.a-smart.sg/A-SmartLife.aspx"
+      },
+      {
+        "name": "A1 Environment Pte Ltd", 
+        "category": "Used Coffee Recycling Services",
+        "description": "A1 Environment was created in 2012 by a team with over 20 years' experience in recycling. A1 Environment was set up to provide more flexibility and better used coffee recycling services to organizations.",
+        "website": "https://a1environment.com.sg/"
+      },
+      {
+        "name": "ACT Group",
+        "category": "Sustainability solutions provider",
+        "description": "With seven global offices and 15 years of expertise, ACT has empowered thousands of companies to decarbonize with their comprehensive sustainability solutions, tailored to their clients' unique needs.",
+        "website": "http://www.actgroup.com/"
+      },
+      {
+        "name": "Aeterni.eco",
+        "category": "Sustainability consultancy and financing",
+        "description": "Aeterni is a sustainability and impact advisory company, providing strategic guidance to organizations aiming to integrate sustainability into their core business practices.",
+        "website": "https://aeterni.eco/"
+      },
+      {
+        "name": "Alba",
+        "category": "E-Waste Collection - PRS Operator for E-Waste",
+        "description": "Since July 1st 2021, NEA appointed Alba as E-waste PRS operator. The ALBA Group, formed in 1968, has been operating such Producer Responsibility Schemes in countries such as Germany and Hong Kong.",
+        "website": "http://www.alba-ewaste.sg/"
+      }
+    ],
+    "validation_process": "Suppliers go through a Validation process before they are listed",
+    "commission_policy": "The Matcha Initiative does not earn any commission, nor take part in any quotation or negotiation with suppliers"
+  }
+}

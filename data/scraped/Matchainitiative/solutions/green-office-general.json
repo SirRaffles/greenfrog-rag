@@ -1,0 +1,42 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-general",
+  "title": "Green Office - General",
+  "scraped_at": "2025-01-14T13:15:00Z",
+  "content": {
+    "overview": "The office is, very often, the first visible part of your company. There you can make your commitment towards sustainability visible to your team & colleagues, as well as to your visitors. A category easy to start with, with quick-wins to embark further your teams on your sustainability journey.",
+    "subcategories": [
+      "General",
+      "Office Supplies", 
+      "Paper & Printing",
+      "Eat & Drink at the office",
+      "Sustainable Work Place (office design & furnitures)",
+      "Waste Management",
+      "Corporate Gifts",
+      "Sustainable Mobility & Travel"
+    ],
+    "solutions": [
+      {
+        "title": "Measure & Monitor",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Measuring your office carbon footprint is a key step for a greener office. It is of high importance for an efficient environmental management: if you don't measure it, you can't manage it! It requires methodology and proper data collection: papers expenses, electronic equipments, electricity charges, office supplies. Implement an adequate procedure to measure across all departments. Set annually reduction targets to continuously improve."
+      },
+      {
+        "title": "Set up a Sustainable Procurement Policy - BASIC",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Although some sustainable products may still be more expensive than non-sustainable ones, this 'extra cost' will be offset in the long run by better procurement practices. Steps include: 1- Analyse your current consumption and existing practices 2- Define Targets and KPI evolution 3- Prefer recyclable materials, biodegradable materials, refillable materials, certified products 4- Make it simpler by limiting orders and suppliers 5- Involve all stakeholders in the sustainable purchasing policy and train them."
+      }
+    ],
+    "buddies_featured": [
+      "Benoit Barraque - Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform",
+      "Jing Ying Lim - Founder - Lumos",
+      "Ivona Balint-Kowalczyk - Sustainability consultant, Founder - Sustainao",
+      "Mun Wei Chan - Founder & Principal Consultant - SustainableSG",
+      "Nadège Claudel - Head of Sustainability APAC - Chanel",
+      "Package Pals Trio - Founders – Package Pals"
+    ]
+  }
+}

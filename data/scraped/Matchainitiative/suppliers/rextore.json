@@ -1,0 +1,53 @@
+{
+  "name": "ReXtore",
+  "tagline": "one stop shop for recovery, restoration and re-use of furniture, fixtures and equipment used across key industries such as Retail, F&B, Education and Hospitality",
+  "description": "reXtore provides a collection service for unwanted items (subject to appraisal) and restores, re-sells, rents through our re-commerce marketplace. We also offer a sustainable design and build service for the retail, commercial, travel and hospitality sectors.",
+  "website": "http://www.rextore.org/",
+  "contact": "chris@rextore.org",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/627f2b6e1c9a9cea2acaeb15_MicrosoftTeams-image%20(8).png",
+  "countries": [
+    "Singapore"
+  ],
+  "key_industries": [
+    "Retail",
+    "F&B (Food & Beverage)",
+    "Education",
+    "Hospitality"
+  ],
+  "services": {
+    "circular_economy": [
+      "Collection service for unwanted items (subject to appraisal)",
+      "Restoration of furniture, fixtures and equipment",
+      "Re-selling through re-commerce marketplace",
+      "Rental services through re-commerce marketplace"
+    ],
+    "design_and_build": [
+      "Sustainable design and build service",
+      "Retail sector solutions",
+      "Commercial sector solutions",
+      "Travel sector solutions",
+      "Hospitality sector solutions"
+    ]
+  },
+  "business_model": "Re-commerce marketplace with collection, restoration, and redistribution",
+  "expertise_categories": [
+    "Circular Economy",
+    "Sustainable Supply Chain & Logistic",
+    "Resources Management",
+    "Food & Beverage",
+    "Sustainable Buildings & Resilient Cities",
+    "Responsible Marketing"
+  ],
+  "solution_codes": [
+    "03.02",
+    "06.00",
+    "08.00",
+    "09.03",
+    "06.02",
+    "11.00",
+    "13.00"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/rextore",
+  "scraped_date": "2025-07-10"
+}

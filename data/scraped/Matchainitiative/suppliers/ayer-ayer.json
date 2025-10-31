@@ -1,0 +1,34 @@
+{
+  "supplier_name": "Ayer Ayer",
+  "description": "Upcycled interior products designer. Trainings on art, design and plastic waste",
+  "url": "https://www.thematchainitiative.com/supplier/ayer-ayer",
+  "website": "https://ayerayer.com",
+  "contact": "ernest@ayerayer.com",
+  "locations": ["Singapore"],
+  "business_description": "A multidisciplinary organization operating at the intersection of art, design, and science. They manufacture upcycled interior furnishings and construction materials derived from post-consumer plastic waste, including tables, chairs, and wall tiles. Additionally, they provide advisory services and educational workshops focused on art, design, and plastic waste transformation",
+  "expertise_categories": [
+    "Waste Management",
+    "Green Office",
+    "Sustainable HR Practices",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "services": [
+    "Upcycled product design",
+    "Waste consultancy",
+    "Hands-on educational workshops",
+    "Training programs",
+    "Interior furnishings from plastic waste",
+    "Construction materials manufacturing"
+  ],
+  "solution_codes": [
+    "05.01",
+    "01.07",
+    "14.03",
+    "10.00",
+    "15.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/ayer-ayer",
+  "scraped_date": "2025-10-31"
+}

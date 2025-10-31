@@ -1,0 +1,194 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-paper-printing",
+  "category": "Green Office",
+  "subcategory": "Paper & Printing", 
+  "scraped_at": "2025-06-24T12:15:00Z",
+  "introduction": {
+    "global_context": "Annually 500,000,000 m3 of wood is used by the paper industry world-wide (15% of total logging) from which almost 40% is used for coated and uncoated paper",
+    "toner_context": "Production of typical toner cartridges from Original Equipment Manufacturers (OEMs) consume a significant amount of energy (production burns approximately 3 quarts of oil per cartridge) and are composed of various natural resources: approximately 40% plastic, 40% metal and 20% rubber, foam and paper",
+    "key_environmental_impacts": [
+      "Forest destruction and potential loss of biodiversity",
+      "Energy and water consumption during production", 
+      "Waste from disposal (unless reprocessed or recycled)",
+      "Packaging (plastics)",
+      "Heavy metals (e.g. mercury, cadmium, lead, nickel) and chemicals (e.g. chlorine substances, colorants and dyes)",
+      "Hazardous substances"
+    ],
+    "focus": "Find out in this section how to reduce your consumption, buy more sustainably and properly recycle",
+    "source": "UNEP-DTIE, Sustainable Procurement Guidelines for Office Stationery"
+  },
+  "solutions": [
+    {
+      "title": "Reduce Paper Usage",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "goal": "Target a paperless office",
+      "actions": [
+        "Digitalise processes and documents (e.g. corporate reports)",
+        "Flash presentations on a screen during meetings",
+        "Unsubscribe to magazines & newspapers when applicable",
+        "Optimize necessary printing (e.g. don't print ads and images from an email, reduce number of copies, print both sides, etc.)",
+        "Opt for digital name cards or QR codes (e.g. LinkedIn)"
+      ]
+    },
+    {
+      "title": "Reduce Ink Usage",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "rationale": "As ink generates hazardous waste and packaging waste, it's important to increase your ink cartridges & toners lifetime",
+      "actions": [
+        "Set printers default settings to duplex and grayscale",
+        "Extend toners lifespan by shaking gently to redistribute ink",
+        "Change for frugal fonts on your document before printing such as Times New Roman, Cambria, Century Gothic (in size 10), Garamond, Ryman Eco...",
+        "Reduce font size",
+        "Use grayscale instead of black"
+      ]
+    },
+    {
+      "title": "Save Energy (printers)",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "description": "Some simple practices to follow to decrease your printers energy consumption",
+      "actions": [
+        "Put printers in sleep mode by default",
+        "Switch printers off after work hours"
+      ]
+    },
+    {
+      "title": "Implement Good Printing Practices",
+      "cost": "C1", 
+      "effort": "E1",
+      "impact": "I1",
+      "overview": "Train your staff on good printing practices and display visible, permanent guidelines nearby printers: implementing good printing practices is possible!",
+      "paper_reduction": [
+        "printing front & back / on 2 sides",
+        "printing several pages on one sheet", 
+        "re-using paper"
+      ],
+      "ink_reduction": [
+        "reducing the font size",
+        "using grayscale colour in place of black (much lighter)",
+        "changing regular fonts (like Arial, Comic Sans) for frugal fonts before printing such as Times New Roman, Cambria, Century Gothic (in size 10), Garamond, Ryman Eco..."
+      ],
+      "font_savings": {
+        "garamond": "24% less ink needed than Times New Roman/Comic Sans/Cambria",
+        "ryman_eco": "33% less ink needed than Garamond!"
+      },
+      "it_enforcement": "IT teams can deploy/update relevant laptops masters. By enforcing such masters, employees cannot change some printing settings. This practice can save a lot of resources in the end because it 'automatically' enforces a sober mode for printing: two-side mode, Black & White mode, blank pages feature removed",
+      "access_controls": "Deploy sign up/check-in processes to prevent people from printing at anytime for anything. If we have to walk to the printer to start the printing job, if we have a quota on printing jobs... we will think twice before printing it!",
+      "monitoring_software": "Deploy specific printing softwares to monitor printing consumption. We recommend Paper Cut."
+    },
+    {
+      "title": "Design Reusable Marketing Materials",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1", 
+      "description": "Create banners, collaterals, posters... that can be easily reused for other events, advertisement, campaign... or repurposed (e.g. shredded leaflets used as cushion paper for packaging)"
+    },
+    {
+      "title": "Choose Eco-Friendly Paper Products",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "preferences": [
+        "Opt for recycled paper (less fresh pulp from cut-down trees) or upcycled paper (e.g. made from waste)",
+        "Buy recyclable paper"
+      ],
+      "certifications": [
+        "at least ECF Paper (Elemental Chlorine Free)",
+        "PCF Paper (Processed Chlorine Free)", 
+        "FSC (Forest Stewardship Council)"
+      ],
+      "second_choice": "If recycled paper is not available, PEFC-certified (Program for the Endorsement of Forest Certification) paper should be your second choice",
+      "best_practices": [
+        "Try to limit paper orders",
+        "educate employees", 
+        "communicate your annual paper consumption volumes and costs to raise awareness on waste and propose improvement plans"
+      ]
+    },
+    {
+      "title": "Choose Eco-friendly Ink Cartridges & Toners",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "principle": "Take into account the whole life cycle of your cartridges and toners, from manufacturing to end of product life. Ask your suppliers what are their lowest carbon footprint products",
+      "preferences": [
+        "Plant-based ink",
+        "Refurbished/ reconditioned/ remanufactured cartridges", 
+        "Refillable cartridges"
+      ]
+    },
+    {
+      "title": "Recycle ink Cartridges & Toners",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "rationale": "Ink cartridges & toners generate wrapping, packaging, electronic waste and hazardous waste. Contract with specialists to recycle",
+      "regulation": "Under the EPR (Extended Producer Responsibility) on e-waste, suppliers of electronic goods must take back old products and send them to a licenced recycler"
+    },
+    {
+      "title": "Recycle Paper & Cardboard", 
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Use a suitable contractor for the collection and recycling of paper"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Mary Kon-Sun-Tack",
+      "title": "Director of Marketing, Southeast Asia and Korea - IHG Hotels and Resorts -- Founder - Journey Makers",
+      "expertise": "marketing strategy, transformation, customer and employee experience, strategic partnerships, business development, sustainability roadmaps, change management",
+      "website": "journeymakers.sg"
+    },
+    {
+      "name": "Benoit Barraque",
+      "title": "Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform", 
+      "expertise": "IT project management, sustainability in IT, ecodesign, green teams",
+      "website": "ca-groupinfrastructureplatform.fr"
+    },
+    {
+      "name": "Nadège Claudel", 
+      "title": "Head of Sustainability APAC - Chanel (Former General Manager - BSI - British Standards Institution)",
+      "expertise": "sustainability, quality, food safety, standards"
+    },
+    {
+      "name": "Package Pals Trio",
+      "title": "Founders – Package Pals",
+      "expertise": "circular packaging, e-commerce packaging reuse, education and outreach",
+      "website": "packagepals.co"
+    },
+    {
+      "name": "Naomi Vowels",
+      "title": "Director - givvable", 
+      "expertise": "supplier sustainability screening, ESG, sustainable supply chains",
+      "website": "givvable.com"
+    },
+    {
+      "name": "Elly Both",
+      "title": "Founder - Bright Green",
+      "expertise": "corporate sustainability engagement, employee impact projects, sustainability education",
+      "website": "workbrightgreen.com"
+    },
+    {
+      "name": "Zofia Chlapowski",
+      "title": "Stakeholder Engagement",
+      "expertise": "change management, transformation, stakeholder engagement, sustainability"
+    },
+    {
+      "name": "Leslie Beckman",
+      "title": "Founder - Sisloff International & The Eco-Marketing Project",
+      "expertise": "data-driven sustainability, marketing, strategic leadership, GRI sustainability reporting",
+      "website": "sisloff-intl.com"
+    },
+    {
+      "name": "Sarah Woolmington",
+      "title": "Founder & Director - Impact Dragonfly", 
+      "expertise": "sustainability consulting, strategic coaching, collaborative design",
+      "website": "impactdragonfly.com.au"
+    }
+  ]
+}

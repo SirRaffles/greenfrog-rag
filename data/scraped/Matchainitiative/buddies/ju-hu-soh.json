@@ -1,0 +1,27 @@
+{
+  "name": "Ju Hu Soh",
+  "position": "Strategist",
+  "company": "Humankind Design",
+  "location": "Singapore",
+  "email": "juhu@humankind.design",
+  "website": "https://humankind.design/",
+  "main_skills": ["Impact Business Model", "Brand Communication"],
+  "guidance_areas": ["Kick Start Help", "Best Practices", "Experience & Expertise Sharing"],
+  "introduction": "I am a Strategist at Humankind Design, where we champion important causes and missions that enhance our lives and our planet. Our collaboration with organizations and brand owners helps distill their purposes into compelling narratives, rallying their talents and audiences. My expertise spans design sustainability and technology, transforming insights into strategic actions.",
+  "top_3_advice": ["Rally for a Purpose: A clear purpose is a powerful motivator, eliminating self-doubt and focusing efforts.", "Rally Your Team: Embed your purpose, values, and vision in your hiring process to ensure team alignment with your mission.", "Rally Your Audience: Use your manifesto to attract those most passionate about your mission, focusing on a core, viable audience."],
+  "how_can_help": ["Help with crafting a brand manifesto", "Help with effective brand communication", "Help with creative design"],
+  "expertise_areas": ["Circular Economy", "Sustainable HR Practices", "Consultants", "Responsible Marketing"],
+  "sustainability_journey": {
+    "2010": "Kampung Manager inspiring visits to 10-acre land near Johor Bahru, Malaysia at Kampung Temasek, exposing Singaporeans to living in harmony with nature",
+    "2012": "Nature Guide with Nature Society educating students about forests and coastal ecosystems",
+    "2013": "Initiated Ecosystem, a coworking space near Bugis for environmental startups and organizations",
+    "2014": "Crafted planters for schools and managed coworking space for makers and carpenters, partnering with pallet wood company for recycled wood furniture"
+  },
+  "sustainable_actions": "At Humankind Design, we constantly reimagine work by aligning our purpose, values, and vision. This approach guides our search for new team members and partners, fostering a value-driven work environment. We aim minimize our carbon footprint (Scope 1 and Scope 2 emissions). We're also collaborating with experts to design holistic business models for organizations seeking transformation.",
+  "challenges_overcome": "One of our greatest challenges is fostering meaningful, long-term collaborations. While we share common missions, aligning different priorities remains a complex task. We are still unraveling this puzzle, focusing on clear mission design and alignment for organizational partnerships.",
+  "most_proud_of": "Our achievement in building a team and culture aligned with our mission stands out. We have successfully helped other purpose-driven organizations define and communicate their core values, enabling them to rally effectively for their causes.",
+  "company_mission": "Champion important causes and missions that enhance our lives and our planet",
+  "career_philosophy": "Design a better life for people and the planet through natural affinity to biophilia",
+  "expertise": "Design sustainability and technology, transforming insights into strategic actions",
+  "service_offerings": ["Brand manifesto crafting", "Effective brand communication", "Creative design", "Holistic business model design"]
+}

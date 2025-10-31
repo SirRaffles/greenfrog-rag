@@ -1,0 +1,122 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-corporate-gifts",
+  "category": "Green Office",
+  "subcategory": "Corporate Gifts", 
+  "scraped_at": "2025-06-24T13:15:00Z",
+  "introduction": {
+    "problem": "Typical corporate gifts and freebies (pens, hand fans, sticky notes, lanyards, magnets…) often have in common to be cheap in quality and either useless, thrown away within hours or forgotten in a drawer.",
+    "philosophy": "We believe that this unsustainable practice should be banned or replaced with a more valuable approach",
+    "key_questions": [
+      "Are those bulk-bought gifts necessary in the first place?",
+      "Can they be used and reused again, then repurposed/ recycled?",
+      "Are they less harmful in terms of material, production, packaging?"
+    ],
+    "benefit": "Sustainable practices also improve internal and external brand reputation (beware of Greenwashing though)."
+  },
+  "solutions": [
+    {
+      "title": "Change the Goodies Habit",
+      "cost": "C2",
+      "effort": "E1", 
+      "impact": "I2",
+      "message": "For your next corporate gift to clients or to your team members, think different. Most corporate and promotional gifts sadly end up in the waste bins.",
+      "alternatives": [
+        "real experiences",
+        "e-vouchers", 
+        "give-back actions",
+        "donations",
+        "gift of tree"
+      ]
+    },
+    {
+      "title": "Prefer Sustainable Corporate Gifts",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "approach": "If goodies are unavoidable, choose eco-friendly or sustainable options (recyclable or biodegradable material). It is a good way to promote your CSR strategy to your customers. Choose meaningful gifts that will actually be used, don't waste resources and money with pointless items that will be thrown right away.",
+      "caution": "Be careful not to choose gifts that have been offered too much those past years like water bottles or resusable bags. Ask yourself the question: 'will this gift be useful for my customers or my employees, even if they already have 5 of them?'.",
+      "quantity_quality": "Act on quantities & quality (e.g. distribute 1,000 recyclable/ eco-friendly pens versus 2,000 made in a distant country and imported by plane)",
+      "local_sourcing": "Buy locally to limit transportation and logistics",
+      "manufacturer_criteria": [
+        "safe work environment to prevent work accidents and illness",
+        "employees wellbeing",
+        "ethical work conditions (minimum salaries levels, no forced labor, no child work...)"
+      ],
+      "policy_reference": "If you do not have yet a sustainable procurement policy, please see how to implement one and how to write one in resources section"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Nadège Claudel", 
+      "title": "Head of Sustainability APAC - Chanel (Former General Manager - BSI - British Standards Institution)",
+      "expertise": "sustainability, quality, food safety, standards"
+    },
+    {
+      "name": "Samuel Chauffaille",
+      "title": "Managing Director AsiaPacific (excl. China) - Ecocert",
+      "expertise": "organic certification, fair trade, sustainable products, ESG, sustainability committees",
+      "websites": ["ecocert.com", "ecomatcher.com"]
+    },
+    {
+      "name": "Naomi Vowels",
+      "title": "Director - givvable", 
+      "expertise": "supplier sustainability screening, ESG, sustainable supply chains",
+      "website": "givvable.com"
+    },
+    {
+      "name": "Elly Both",
+      "title": "Founder - Bright Green",
+      "expertise": "corporate sustainability engagement, employee impact projects, sustainability education",
+      "website": "workbrightgreen.com"
+    },
+    {
+      "name": "Tamara Wu",
+      "title": "CEO - Liberty Society",
+      "expertise": "social enterprise, eco merchandise, women empowerment, sustainable development goals, B2B merchandise & hampers",
+      "website": "liberty-society.com"
+    },
+    {
+      "name": "Julia Thio",
+      "title": "ESG Partnership Officer - Liberty Society",
+      "expertise": "environmental geography, urban studies, sustainability in business",
+      "website": "liberty-society.com"
+    },
+    {
+      "name": "Droston Tang",
+      "title": "Senior Advisor, Market Development Southeast Asia - ESGTree",
+      "expertise": "business development, circular economy, renewable energy, venture building, mentoring",
+      "website": "esgtree.com"
+    },
+    {
+      "name": "Parvathy Subhadra",
+      "title": "Managing Director - Green In Future",
+      "expertise": "sustainability media, content creation, workshops, training",
+      "website": "greeninfuture.com"
+    },
+    {
+      "name": "Leslie Beckman",
+      "title": "Founder - Sisloff International & The Eco-Marketing Project",
+      "expertise": "data-driven sustainability, marketing, strategic leadership, GRI sustainability reporting",
+      "website": "sisloff-intl.com"
+    },
+    {
+      "name": "Audrey Yang",
+      "title": "Founder, Sustainability Consultant - Thought Partner Eco",
+      "expertise": "SME sustainability consulting, consumerism, greenwashing, digital sustainability, advocacy, corporate sustainability, sustainable events",
+      "website": "thoughtpartner.eco"
+    },
+    {
+      "name": "Tali Goldman",
+      "title": "Founder and Managing Director - Market for Good",
+      "expertise": "ESG implementation, corporate purchasing power, social organization scaling, business impact",
+      "website": "marketforgood.com"
+    },
+    {
+      "name": "Low Li Ting",
+      "title": "Founder & Director - The Ripple Tribe",
+      "expertise": "soap crafting, low-waste lifestyle, impact positive gifting, sustainable products, corporate gifting",
+      "philosophy": "advocate for Impact Positive Gifting - the gifting of essentials that are consumables that can be used up while inspiring low-waste lifestyles",
+      "website": "mynakedbar.com"
+    }
+  ]
+}

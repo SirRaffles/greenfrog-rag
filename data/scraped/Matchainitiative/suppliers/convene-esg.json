@@ -1,0 +1,14 @@
+{
+  "supplier_name": "Convene ESG",
+  "description": "Digital Sustainability Reporting Platform",
+  "url": "https://www.thematchainitiative.com/supplier/convene-esg",
+  "website": "https://conveneesg.com",
+  "contact": "sales@conveneesg.com",
+  "locations": ["Singapore", "Worldwide"],
+  "services": ["ESG reporting software", "Sustainability data management", "Dashboards for tracking goals", "Benchmarking", "Monitoring reporting processes", "Internal reviews", "Data governance and security"],
+  "expertise_categories": ["Digital Footprint & IT", "Carbon Management & Carbon Footprint", "Corporate Governance, Mission & Strategy"],
+  "solution_codes": ["02.01", "15.01", "15.02", "12.00"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/convene-esg",
+  "scraped_date": "2025-10-31"
+}

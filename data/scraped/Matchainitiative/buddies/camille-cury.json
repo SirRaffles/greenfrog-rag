@@ -1,0 +1,65 @@
+{
+  "buddy_profile": {
+    "name": "Camille Cury",
+    "title": "Chief of Staff to EVP in charge of Digital & IT- ENGIE",
+    "location": ["France"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/63d0d03112f0f98bca4039cb_Camille%20Cury.jpeg",
+    "main_skills": [
+      "Carbon and Reporting",
+      "Strategy",
+      "Circularity"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "camille.cury@gmail.com",
+      "website": "https://www.engie.com/en"
+    },
+    "introduction": "Camille is currently Chief of Staff to ENGIE's EVP in charge of Digital & IT. When working in Singapore, as a Manager at sustainability consultancy ENGIE Impact (subsidiary of French-based energy company ENGIE), she helped large multinational organisations in their decarbonisation journeys, from greenhouse gases emission inventory to target setting, strategy design and roadmap development. She has developed expertise in renewable energy procurement, Scope 3 and stakeholder engagement, avoided emissions (aka Scope 4), and ESG strategy design. Originally from France where she graduated from a top Business School, Camille helds an MBA from Bentley University (Boston, USA) and has worked in Paris, Boston, New York and Singapore. She is passionate about the interconnections between climate and nature conservation, and enjoy meeting sustainability enthusiasts.",
+    "education": [
+      "Top Business School graduate (France)",
+      "MBA from Bentley University (Boston, USA)"
+    ],
+    "work_locations": ["Paris", "Boston", "New York", "Singapore"],
+    "specializations": [
+      "Renewable energy procurement",
+      "Scope 3 emissions",
+      "Stakeholder engagement", 
+      "Avoided emissions (Scope 4)",
+      "ESG strategy design"
+    ],
+    "top_3_advice": [
+      "Be creative, think out-of-the-box and date to challenge the status quo",
+      "Engage and collaborate, invest in building relationships by sharing challenges and opportunities",
+      "Start small but be consistent before scaling"
+    ],
+    "how_to_help": "I've helped companies at all stages of their sustainability journeys, from those who are just getting started to industry leaders. I've also developed business cases for the launch of new sustainability businesses.",
+    "expertise_areas": [
+      "Circular Economy",
+      "Sustainable Supply Chain & Logistic",
+      "Energy & Electricity"
+    ],
+    "sustainability_motivation": "I have been passionate about sustainability from my childhood. I am a very outdoor person driven by the willingness to make the world a better place for future generations and the ecosystem at large.",
+    "engie_impact_approach": {
+      "step_1": "Understanding where major sources of carbon emissions lie within business operations and supply chain",
+      "step_2": "Identifying actions to reduce carbon impact within 'hotspots' and setting short- and longer-term carbon reduction targets",
+      "step_3": "Developing achievement plans considering timeline, budget and manpower resourcing needs",
+      "typical_actions": [
+        "Energy efficiency measures (chiller optimisation, LED lighting, heat pumps)",
+        "Renewable energy sourcing",
+        "Engaging suppliers to procure lower-carbon materials"
+      ],
+      "company_achievement": "Carbon negative since end of 2021",
+      "team_activities": "Regular beach cleaning and climate awareness activities"
+    },
+    "challenges_and_solutions": "Implementing sustainability actions often requires investment with no returns or long payback periods, competing with business priorities. Challenge is getting C-Suite buy-in. Solution: Develop business cases factoring non-financial benefits like operational/supply chain risk mitigation, regulatory compliance, and stakeholder expectations.",
+    "proudest_achievement": "The change of mindset of clients between beginning and end of projects. While many are convinced about sustainability's business value (cost savings, client value proposition, competitive advantage, improved resilience), they gain confidence in translating conviction into reality and bringing teams onboard.",
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "06.00 - Sustainable Supply Chain",
+      "07.00 - Energy & Electricity"
+    ]
+  }
+}

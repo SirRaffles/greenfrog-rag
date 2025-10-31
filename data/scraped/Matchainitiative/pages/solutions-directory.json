@@ -1,0 +1,125 @@
+{
+  "url": "https://www.thematchainitiative.com/tmi-solutions/solutions-directory",
+  "title": "Solutions Directory - The Matcha Initiative",
+  "scraped_at": "2025-01-14T10:40:00Z",
+  "content": {
+    "description": "Businesses play an essential role in our economies, have a major social impact and now realise they also leave a footprint on the environment. The Matcha Initiative believes that if every company does its part, a more sustainable future is possible, where economies and people still thrive, without catastrophic consequences on the planet.",
+    "categories": [
+      {
+        "name": "SUSTAINABLE SUPPLY CHAIN",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/6667b53776bdd11f17b89bc7_SUSTAINABLE%20SUPPLY%20CHAIN%20PETITE%20IMAGE.jpg",
+        "subcategories": [
+          "Sustainable Supply Chain Strategy",
+          "Eco Design & Circularity", 
+          "Procurement",
+          "Manufacturing",
+          "Logistics & Distribution",
+          "Organization Engagement"
+        ],
+        "overview_link": "https://www.thematchainitiative.com/find-a-solution/sustainable-supply-chain"
+      },
+      {
+        "name": "CARBON MANAGEMENT & CARBON FOOTPRINT",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/648385ba5a5e881a67b4b495_iStock-1388420740%20carre%202.jpg",
+        "subcategories": [
+          "Measure & Report",
+          "Goal Settings", 
+          "Awareness & Training",
+          "Carbon Reduction Strategy Overview",
+          "Carbon Offset",
+          "Carbon Pricing"
+        ],
+        "overview_pdf": "https://assets-global.website-files.com/5e940b86961046721a7e92b5/656d75b0ce05a3b01dc22969_Carbonmanagement_Allsolutionsataglance.pptx.pdf"
+      },
+      {
+        "name": "SUSTAINABILITY ACCOUNTING & SUSTAINABLE CORPORATE FINANCE",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/65d3476bcba16110ed8be8a9_04.00_sustainability_accounting_sustainable_corporate_finance%20NEW.jpg",
+        "subcategories": [
+          "Strategic Analysis",
+          "Environmental & Social Impact Identification",
+          "Integrated Financial Planning", 
+          "Data Management & Processes",
+          "Teams Alignment",
+          "Awareness & Training",
+          "Securing External Funding"
+        ],
+        "overview_pdf": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/65d77e1aa60215c7bf621c6f_Sustainability_Accounting_and_Sustainable_Corporate_Finance_All_Solutions_at_a_Glance%20(2).pdf"
+      },
+      {
+        "name": "WASTE MANAGEMENT",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/65d34fc9f5eb550beff9b938_05.00_Waste%20Management_Overall%20category%20image_%20cut%20NEW.jpg",
+        "subcategories": [
+          "General - Management & Infrastructures",
+          "Office - Meeting rooms - Printer Rooms & Others",
+          "Pantry - Dining Area - Kitchen Corner",
+          "Packing & Unpacking Area", 
+          "Production Area",
+          "E-Waste",
+          "Miscellaneous Waste",
+          "As an Individual"
+        ],
+        "overview_pdf": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/656dcc07d8b67e630e0695cf_Waste%20Management%20-%20All%20Solutions%20at%20a%20Glance.pptx.pdf"
+      },
+      {
+        "name": "FOOD & BEVERAGE",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/65d347cc195f1b0589afca46_09.00_Food%20%26%20Beverage_overall%20category%20image_thumbnail%20image_Low%20R%20NEW.jpg",
+        "subcategories": [
+          "General",
+          "Food & Drink sourcing",
+          "General Equipment",
+          "F&B Waste Management"
+        ],
+        "overview_pdf": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/656d8e1d3b119133c24b0f8c_FoodandBeverage_AllSolutionsataGlance.pdf"
+      },
+      {
+        "name": "DIGITAL FOOTPRINT & GREEN IT",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/6667b7556bcdcc77773f9ad5_02.00_Digital%20footprint_overall%20category_High%20R.jpg",
+        "subcategories": [
+          "Best Practices & Energy Reduction",
+          "IT Projects Methodology",
+          "Green hardware",
+          "E-waste"
+        ],
+        "overview_pdf": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/656dc27dfe37e4c8c621b14d_DigitalFootprint_GreenIT_AllSolutionsataGlance.pdf"
+      },
+      {
+        "name": "GREEN OFFICE",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/5f18e6b8e525cac7d3839ad1_Office-Supplies.jpg",
+        "subcategories": [
+          "General",
+          "Office Supplies",
+          "Paper & Printing", 
+          "Eat & Drink at the office",
+          "Sustainable Workplace (office design & furnitures)",
+          "Waste Management",
+          "Corporate Gifts",
+          "Sustainable Mobility & Travel"
+        ],
+        "overview_pdf": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/656dcf75a0a4556c731048bd_GreenOffice_AllSolutionsataGlance.pdf"
+      },
+      {
+        "name": "SUSTAINABLE HR PRACTICES",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/62791b663b278051af466574_HR%20Sustainable%20practices%20Main%20photo%20ecran.jpg",
+        "subcategories": [
+          "People Strategy, Culture & Values",
+          "Recruiting & Onboarding",
+          "Employees Engagement, Development & Training",
+          "Performance, Compensation, Benefits & Recognition",
+          "Employees Health, Safety & Wellbeing",
+          "Operations"
+        ],
+        "overview_pdf": "https://assets-global.website-files.com/5e940b86961046721a7e92b5/656d786aa1dc8a36b1c0d179_SustainableHRPractices_AllSolutionsataGlance.pdf"
+      }
+    ],
+    "rating_system": {
+      "description": "Solutions are rated according to their Cost, the Effort they require and their Importance, 1 being the lowest and 3 the highest.",
+      "rating_info_link": "https://www.thematchainitiative.com/selection-validation-rating-processes"
+    },
+    "examples": [
+      "Optimise your energy efficiency by systematically switching off lights and devices after office hours",
+      "Replace all single-use items from your pantries with reusables", 
+      "Recycle your e-waste properly",
+      "Measure and monitor your water management with meters and digital apps"
+    ]
+  }
+}

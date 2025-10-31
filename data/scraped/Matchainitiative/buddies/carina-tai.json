@@ -1,0 +1,66 @@
+{
+  "buddy_profile": {
+    "name": "Carina Tai",
+    "title": "ESG and Impact - Quadria Capital",
+    "location": ["Worldwide", "Singapore", "Hong Kong", "Australia", "Cambodia", "India", "Indonesia", "Japan", "Mainland China", "Malaysia", "New Zealand", "Philippines", "South Korea", "Taiwan", "Thailand", "Vietnam", "Turkey", "UAE"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67d7990d0a40e31de365b293_Tai%20Lok%20Yan%20Carina.jpg",
+    "main_skills": [
+      "Sustainable Finance",
+      "Impact Investing"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Kick Start Help",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "carinatai.work@gmail.com",
+      "website": "https://quadriacapital.com/"
+    },
+    "introduction": "I lead ESG and Impact Strategy at Quadria Capital, a healthcare-focused private equity firm managing US$3.5 billion AUM across South and Southeast Asia. As part of the value creation team, I integrate ESG and impact principles across the investment lifecycle — origination, execution, ownership, and exit. Collaborating with the investment team, I work with leading healthcare businesses to achieve strong performance and meaningful social impact. Before joining Quadria, I provided sustainability consulting services across ASEAN, Hong Kong, and Mainland China, leveraging extensive expertise in sustainable strategies and growth across various sectors.",
+    "company_details": {
+      "name": "Quadria Capital",
+      "focus": "Healthcare-focused private equity firm",
+      "aum": "US$3.5 billion",
+      "geographic_coverage": "South and Southeast Asia"
+    },
+    "role_responsibilities": {
+      "primary": "Lead ESG and Impact Strategy",
+      "team": "Value creation team",
+      "scope": "Integrate ESG and impact principles across investment lifecycle",
+      "lifecycle_stages": ["origination", "execution", "ownership", "exit"],
+      "collaboration": "Work with investment team and leading healthcare businesses"
+    },
+    "top_3_advice": [
+      "Collaborate with both internal and external partners to support your initiatives. Teaming up is how we make real, lasting change happen.",
+      "Sharing your challenges or ideas can spark fresh insights and lead to exciting connections. You're not in this alone — plenty of others are navigating the same path!",
+      "Focus on intentionality: Begin with small steps, consistently test your approach, learn from setbacks, and apply those lessons as you progress."
+    ],
+    "how_to_help": "I am happy to share my experiences in ESG and Impact investing and stakeholder engagement. I would also love to collaborate with organisations within the community to strive for improvement, and support businesses embarking on this journey from the ground up.",
+    "expertise_areas": [
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Sustainable Buildings & Resilient Cities",
+      "Corporate Governance, Mission & Strategy"
+    ],
+    "sustainability_motivation": "My commitment to sustainability has been shaped by a series of pivotal experiences and interactions over the course of my career. I firmly believe that ESG is driven by a combination of sparks — innovative ideas — and stars — transformative leaders and organisations that make a lasting impact. Be it in my current role as an ESG and Impact champion within the firm, or during my previous consulting engagements with a variety of companies and organisations, I have worked alongside numerous stakeholders throughout my journey. These include limited partners, general partners, external consultants, and corporates who share a common vision of driving positive environmental and social change.",
+    "organizational_responsibilities": "My primary focus is driving ESG and impact initiatives within the firm. Fun fact: It all started with simple actions — like sending an email titled \"ESG and Impact\" to ensure the message reached colleagues and portfolio companies. From there, I moved on to develop impact theses for potential deals, conducting due diligence, and collaborating with founders and management to define action plans. Believing in the power of face-to-face interactions, I also engage directly with committee members and working-level kickstarters within portfolio companies to support implementation, identify areas for improvement, and unlock the dividends through an ESG and Impact lens, to develop compelling narratives to share with stakeholders.",
+    "stakeholder_engagement": [
+      "investors", "partners", "industry organisations", "TMI community"
+    ],
+    "challenges_and_solutions": "When I first delved into sustainability after my undergraduate studies, the scale of the challenge was overwhelming: the more I explored, the more I realized how much there was still to learn. This constant \"the more you know, the more you don't know\" feeling became a daily reality for me. However, the flip side is that recognising what you don't know keeps you humble and open to learning from all sources. Reflect on your journey, bring your questions to the table, engage in thoughtful discussions, and challenge ideas with the right people. Even a single line from a conversation could be a key takeaway — either reinforcing your belief in sustainability or offering new perspectives.",
+    "proudest_achievement": "I am most proud of having that touch of inspiration to start my day and explore something new.",
+    "previous_experience": "Sustainability consulting services across ASEAN, Hong Kong, and Mainland China",
+    "solution_codes": [
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.01 - Sustainability Accounting Strategic Analysis",
+      "04.02 - Sustainability Accounting Environmental & Social Impact Identification",
+      "04.03 - Sustainability Accounting Integrated Financial Planning",
+      "04.04 - Sustainability Accounting Data Management & Processes",
+      "04.05 - Sustainability Accounting Teams Alignment",
+      "04.06 - Sustainability Accounting Awareness & Training",
+      "04.07 - Sustainability Accounting Securing External Funding",
+      "11.00 - Sustainable Buildings & Resilient Cities",
+      "12.00 - Corporate Governance Strategy Mission"
+    ]
+  }
+}

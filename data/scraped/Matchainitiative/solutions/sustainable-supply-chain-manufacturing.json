@@ -1,0 +1,146 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-supply-chain-manufacturing",
+  "title": "Manufacturing",
+  "category": "Sustainable Supply Chain & Logistics",
+  "subcategory": "Manufacturing",
+  "overview": "Reviewing the end-to-end manufacturing process is key to measuring and reducing Scope 1 GHG emissions and conserving natural resources. A methodology framework is provided with technology serving as an enabler for process optimization.",
+  "solutions": [
+    {
+      "title": "Implement Sustainable Supply Chain Manufacturing Method - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E3",
+      "impact": "I3",
+      "description": "Minimizes waste through adoption of practices affecting product design, process design, and operational principles. Production engineers and factory planners identify improvement measures.",
+      "key_focus_areas": [
+        "Basic principles: Pollution Prevention, toxic substance reduction, Design for Environment (DfE)",
+        "Green waste management: solid waste, hazardous waste, air emissions, wastewater",
+        "Tool-based methods: LCA, DfE, end-of-life strategies",
+        "Product design emphasis on scrap reduction",
+        "Inventory optimization reducing replenishment frequencies",
+        "Pollution reduction during production"
+      ]
+    },
+    {
+      "title": "Integrate Lean Manufacturing with Green Manufacturing - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E3",
+      "impact": "I2",
+      "description": "Combines Lean Manufacturing's efficiency focus with Green Manufacturing's environmental objectives. Both approaches aim to 'minimise non-value added activities with a focus on waste reduction.'",
+      "key_elements": [
+        "Lean Manufacturing eliminates seven wastes: transport, inventory, motion, waiting, over-processing, over-production",
+        "Green Manufacturing extends this with environmental and social impact reduction",
+        "ISO 14001:2015 serves as systematic continuous improvement framework",
+        "Enhanced when unified and implemented simultaneously"
+      ]
+    },
+    {
+      "title": "Implement Cleaner Production - INTERMEDIATE",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "Prevention-focused approach emphasizing efficient resource use over end-of-pipe solutions. Core principle: produce while reducing pollution, emissions, and waste.",
+      "focus_areas": [
+        "Conservation of water, energy, raw materials",
+        "Elimination of toxic raw materials",
+        "Reduction of emission quantity and toxicity before process exit"
+      ],
+      "business_benefits": [
+        "Reduced waste disposal costs",
+        "Lower raw material expenses",
+        "Decreased health-safety-environment damage costs",
+        "Improved public relations and market competitiveness",
+        "Regulatory compliance support"
+      ]
+    },
+    {
+      "title": "Adopt Health and Safety Modules - INTERMEDIATE",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Protects worker safety, health, and welfare as vital organizational resources. Sustainable organizations balance 'the triple bottom line of people, planet, and profit.'",
+      "benefits": [
+        "Decreased illnesses, injuries, fatalities",
+        "Increased worker engagement and productivity",
+        "Reduced workers' compensation and recruitment costs",
+        "Improved quality and reputational performance"
+      ]
+    },
+    {
+      "title": "Optimize Manufacturing Through Emerging Technologies - ADVANCED",
+      "cost": "C3",
+      "effort": "E3",
+      "impact": "I2",
+      "description": "Digital capabilities boost productivity, workplace safety, and cost reduction while providing visibility into production, equipment maintenance, and energy usage.",
+      "technologies": [
+        {
+          "name": "IoT",
+          "description": "Connected materials, transportation, manufacturing assets, facilities"
+        },
+        {
+          "name": "AI/Machine Learning",
+          "description": "Human behavior imitation and task improvement"
+        },
+        {
+          "name": "Blockchain",
+          "description": "Supply chain transparency, food safety, counterfeiting prevention"
+        },
+        {
+          "name": "Robotics",
+          "description": "Unsafe area operations, supply chain efficiency"
+        },
+        {
+          "name": "Drones",
+          "description": "Last-mile delivery solutions"
+        },
+        {
+          "name": "3D Printing",
+          "description": "Additive manufacturing from digital models"
+        }
+      ]
+    }
+  ],
+  "featured_buddies": [
+    {
+      "name": "Adrien de Buttet",
+      "title": "Founder - Greenfinity",
+      "expertise": "Sustainable supply chain transformation, industrial engineering, 20+ years experience"
+    },
+    {
+      "name": "Mei Yee Chan",
+      "title": "Senior Programme Manager - TUV SUD",
+      "expertise": "GHG verification, ISO standards, 18+ years experience"
+    },
+    {
+      "name": "Quentin Dumas",
+      "title": "Sustainable Value Chain Expert - Accenture",
+      "expertise": "15+ years responsible value chain experience"
+    },
+    {
+      "name": "Tim Wieringa",
+      "title": "People Transformation Director - Hive17",
+      "expertise": "12+ years change management, culture development"
+    },
+    {
+      "name": "Remi Cesaro",
+      "title": "Founder/Director - Zero Waste City",
+      "expertise": "Waste management, energy efficiency, TRUE certified advisor"
+    },
+    {
+      "name": "David Marchesseau",
+      "title": "Industry Advisory",
+      "expertise": "Technology and sustainability integration specialist"
+    },
+    {
+      "name": "Firoz Raja",
+      "title": "Development Manager - Neste Singapore",
+      "expertise": "20+ years technical consulting, renewable energy"
+    }
+  ],
+  "resources": [
+    "ISO 14001:2015 framework",
+    "Life Cycle Assessment (LCA) methodologies",
+    "Design for Environment (DfE) tools",
+    "Waste management best practices"
+  ],
+  "scraped_at": "2025-10-31T00:00:00Z"
+}

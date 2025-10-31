@@ -1,0 +1,81 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-pantry-dining-area-kitchen",
+  "title": "Waste Management - Pantry - Dining Area - Kitchen Corner",
+  "scraped_at": "2025-01-14T12:45:00Z",
+  "content": {
+    "overview": "Waste in the dining area is something we have all experienced, whether it is the edible food we throw in the bin or the plastic packaging used and thrown away everyday. Only 19% of Food Waste is recycled in Singapore. Taking actions, to reduce our food waste and to better recycle it, can therefore have a positive impact. Moreover, as food waste is visible, it can be a good area for team building and sustainability awareness and trainings.",
+    "solutions": [
+      {
+        "title": "Track Food Waste",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Install a food analyser to quantify your waste and to better know what type of food and which percentage is wasted. Compare it to the industry average. It will help you better monitor your stocks. Talk with your suppliers to take proper action."
+      },
+      {
+        "title": "Divert Unused Food from Waste",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "1. Implement last-minute actions to avoid waste, partner with one of the existing app if necessary 2. Donate excess food to associations or individuals. Use the Food Recovery Hierarchy to prioritize actions towards prevention and diversion of wasted food."
+      },
+      {
+        "title": "Find a New Usage for Food Waste",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "1. Divert food scraps/waste to feed animals in local farms. Some farms are specialised in insects, such as the black soldier flies. 2. Convert Food Waste to industrial usage: Used cooking oil can be recycled into biofuel, Okara and soy bean waste can be dedicated to higher value products, Coffee grounds have various practical usage related to gardening, cleaning, scrubbing or technological usage."
+      },
+      {
+        "title": "Install a Food Waste Treatment System",
+        "cost": "C3",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "Under the Resource Sustainability Act, several mandatory provisions have been adopted regarding food waste segregation and treatment in Singapore. From 2024 onwards - All existing large commercial and industrial food waste generators will be required to segregate food waste for treatment. Different types include: Dehydrator, Dry digester, Wet digester, Composter, Anaerobic digester."
+      },
+      {
+        "title": "Take care of Food Contaminated Packaging",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Food contamination can make a packaging non-recyclable. Whenever possible, wash or rinse packaging (typically for glass, plastic, and metal packaging) or separate the contaminated parts (typically for paper or cardboard based packaging). Consider a packaging loop such as Loopedin or Muuse."
+      },
+      {
+        "title": "Avoid Disposable Dining Ware",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Get rid of single-use plastic/styrofoam cups, plates, cutlery, boxes. Replace them with reusable as much as possible. Upstream priority order: use reusable dining ware, if not possible use compostable dining ware suitable for food waste digester, otherwise use disposable ware with lower carbon footprint."
+      },
+      {
+        "title": "Reuse Dining ware (ceramic)",
+        "cost": "C1",
+        "effort": "E1", 
+        "impact": "I1",
+        "description": "Ceramic is not recyclable so it should NEVER be put in the blue bin. Keeping it longer is the most sustainable option. If still usable: sell to thrift shops, donate to charity. If broken: contact art schools, they may use it for art pieces such as Kintsugi."
+      },
+      {
+        "title": "Collect Recyclables",
+        "cost": "C2",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Recycle as much as possible (steel, hard plastic, glass). For large volume of recyclables, consider working with dedicated waste collectors for each waste stream. For smaller volume, implement a single-stream mix-recyclable collection."
+      },
+      {
+        "title": "Use Reusable or Compostable Napkins",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I1",
+        "description": "If possible, use reusable napkins to minimise use of disposable items. You will need to put in place the adequate cleaning process. Otherwise, use lightest and least carbon intensive compostable napkins that can be composted with food waste in the food digester."
+      }
+    ],
+    "buddies_featured": [
+      "Shen Hui Tan - Founder - Kizuna",
+      "Tomo Hamakawa - Managing Director - Earth Company / Mana Earthly Paradise",
+      "Rémi Cesaro - Founder & Director - Zero Waste City",
+      "Claire Chabrières - Founder – ShiokFarm",
+      "Yen Lyng Loh - Marketing & Sales Director - A1 Environment",
+      "Louis Alban Batard - CEO - Yindii"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "supplier_name": "Biopak",
+  "description": "Sustainable Food Packaging producer",
+  "url": "https://www.thematchainitiative.com/supplier/biopak",
+  "website": "https://biopak.com/sg",
+  "contact": null,
+  "locations": ["Singapore", "Worldwide"],
+  "mission": "Produce packaging that puts the planet first with an aim toward achieving a waste-free world",
+  "achievements": "First packaging company to achieve carbon neutrality in Australia and New Zealand",
+  "expertise_categories": [
+    "Waste Management",
+    "Food & Beverage",
+    "Green Office"
+  ],
+  "services": [
+    "Food packaging solutions",
+    "Waste reduction",
+    "Sustainable materials",
+    "Carbon neutrality initiatives"
+  ],
+  "solution_codes": [
+    "05.03",
+    "09.03",
+    "05.02",
+    "01.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/biopak",
+  "scraped_date": "2025-10-31"
+}

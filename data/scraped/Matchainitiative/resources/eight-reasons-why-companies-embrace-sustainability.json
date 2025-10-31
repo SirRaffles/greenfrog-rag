@@ -1,0 +1,110 @@
+{
+  "resource": {
+    "title": "8 Reasons why companies embrace Sustainability today. And how it all started.",
+    "category": "Fundamentals",
+    "type": "Article",
+    "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/62a8b17f06dcea1dde186942_8%20reasons%20why%20companies%20embrace%20sustainability.jpg",
+    "authors": [
+      {
+        "name": "Ivona Balint - Kowalczyk",
+        "title": "Managing Director & Sustainability Consultant - Sustainao",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/5f1eaaa410347364d7c4a460_Ivona.png"
+      },
+      {
+        "name": "Elisabeth Fichant",
+        "title": "Marketing Specialist",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/62a8bc2fd85e2d083d15ae26_photo%20elisabeth.jpg"
+      }
+    ],
+    "overview": "Over the last twenty years, thousands of companies moved towards more sustainable practices. These include commitments such as reducing the impact on climate change, developing greener products, promoting diversity and inclusion, and implementing sustainable procurement practices.",
+    "historical_context": {
+      "multinationals_first": {
+        "description": "Multinationals were among the first to implement sustainability practices and reporting because some were facing major scandals.",
+        "environmental_scandals": [
+          "Dramatic events like Bhopal in 1984"
+        ],
+        "social_scandals": [
+          "Recurrent accusations and rumours about sweatshops and child labour for Nike in the 90's"
+        ],
+        "response": "Companies started to create codes of conduct and monitor their environmental impacts and their working conditions in factories. They adopted standards for environmental and health and safety management systems such as ISO 14001 and OHSAS 18001. CSR and Sustainability Reports became the norm with the arrival of GRI (Global Reporting Initiative)."
+      },
+      "international_initiatives": {
+        "description": "While companies were progressively engaging in sustainability, on an international level, initiatives such as Earth Summits, Conferences of Parties (COP) gained momentum.",
+        "key_milestones": [
+          "UN Global Compact (2000) - set ten corporate principles in the areas of human rights, labour, environment, and corruption. Now over 13,000 corporates have joined.",
+          "Sustainable Development Goals (2015) - seventeen SDGs adopted by all United Nations Member States",
+          "Paris Agreement (2015) - legally binding international treaty on climate change signed by 196 parties"
+        ]
+      },
+      "large_companies_smes": {
+        "description": "Over the years, MNCs and large companies, especially those operating in sectors where the effects on the environment or society are important aspects of their business, understood they had to have a more global approach to protect the value of their stock. Some SMEs saw a huge opportunity in following the sustainability path as some practices became the norm in their industry branch."
+      }
+    },
+    "eight_reasons": [
+      {
+        "number": 1,
+        "title": "Consumers' shift in environmental and societal preferences",
+        "description": "The attention caught on social media translates shifts in societal preferences and external shareholders expectations that companies have to adapt to. Consumers ask for more transparency on where and how the products are made and try to limit their ecological footprint and impact on the environment. They buy products that emit less CO2 such as plant-based meat, they also buy locally sourced organic products. So for BtoC, it's becoming a minimal criteria to attract customers as well as to keep up with competition."
+      },
+      {
+        "number": 2,
+        "title": "Workforce's Shift in societal preferences",
+        "description": "The workforce is moving to employers that place sustainability at the core of their actions. Millennials and Generation Z want a job where they feel there is a sense of purpose towards people and the planet. Professional services firms whose business model relies on selling their talent through advice and counselling have been the first movers, to keep an edge on talent acquisition. The Deloitte Millennial Survey 2018 shows that culture is one of the top priorities of millennials when considering an employer. Talents are moving where sustainability is at the core of the action plans and they want to be actively engaged."
+      },
+      {
+        "number": 3,
+        "title": "Pressure for Sustainable procurement",
+        "description": "Many large companies which have implemented sustainability strategies now give special attention to their whole ecosystem and to their supply chain in particular. In practice, this is translated in specific sustainability requests for suppliers, such as assigning Supplier Code of Conducts, answering ESG assessments (such as EcoVadis or in-house questionnaires…), and conducting on-site audits. Many SMEs started their sustainability journey after not being able to answer sustainability questions for tenders or losing a tender where the only criteria they didn't fill was related to sustainability."
+      },
+      {
+        "number": 4,
+        "title": "Increasing demands of investors on ESG",
+        "description": "Investors are more and more looking at ESG criteria. The financial risks are also weighed against sustainable behaviour of the companies. ESG ratings are nowadays part of the framework when evaluating companies. The Dow Jones Sustainability Indexes (DJSI), for example, track the stock performance of the world's leading companies in terms of economic, environmental and social criteria."
+      },
+      {
+        "number": 5,
+        "title": "Support for Green Finance",
+        "description": "As witnessed in the corporate world, the finance world has also shifted towards a more sustainable approach. The financial sector has responded to the change in attitudes from the public and financial institutions have started to support green and sustainability-linked projects through financial products and services (loans, bonds, insurance, funds). GreenBanks in a sense can be seen as an accelerating factor for companies to move towards sustainability as they have the power to blacklist companies and activities if they find them not \"green\" enough or they can help companies become truly sustainable by financing their needs to meet ESG criteria."
+      },
+      {
+        "number": 6,
+        "title": "Pressure from Governments and regulators",
+        "description": "To ensure the gap between the laggards and progressive companies is not widening excessively, governments and regulators had to step in. Often seen as a burden at the beginning, most companies and stakeholders admit that changes in legislation is one of the drivers of greater awareness as well as altered procedures for reporting and internal practices.",
+        "singapore_examples": [
+          "Singapore Green Plan 2030 - comprehensive and ambitious approach to sustainable development",
+          "First South-asian country to introduce carbon tax with clear timeline to reach SGD 50-80 per tonne by 2030",
+          "GenZero creation (June 2022) - green investment firm owned by Temasek to accelerate global efforts to cut carbon emissions"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Economic Gains",
+        "description": "Economic gains are also a reason why companies engage on a sustainable journey. By starting to tackle waste management, energy savings or packaging issues, companies can also save money. According to specialists \"as a rule of thumb, it can easily reach about 60% of the annual cost of general waste collection\"."
+      },
+      {
+        "number": 8,
+        "title": "Climate emergency",
+        "description": "Corporates have a higher awareness of their contribution to climate change as well as how climate change can impact their activities. The IPPC's Sixth Assessment Report (AR6) highlights the emergency of enabling a climate resilient development, which cannot be achieved without companies cutting back greenhouse gas emissions. Climate change disclosures recently became the norm as companies of all sizes feel the pressure of needing to do something.",
+        "statistics": {
+          "net_zero_targets": "According to Net ZeroTracker, one-third of the largest listed companies have net zero targets.",
+          "robust_targets": "However, only 35% of these targets meet the minimum procedural standards of robustness."
+        }
+      }
+    ],
+    "conclusion": "Sustainability is now perceived as a competitive advantage and \"a licence to operate\". Many companies, from MNCs to SMEs, are trying to rethink their approach to doing business. The sooner companies embark on this journey, the better they will be prepared.",
+    "references": [
+      "Bhopal disaster (1984)",
+      "Nike sweatshop scandals (1990s)",
+      "ISO 14001 environmental management",
+      "OHSAS 18001 health and safety",
+      "Global Reporting Initiative (GRI)",
+      "UN Global Compact",
+      "Sustainable Development Goals",
+      "Paris Agreement",
+      "Deloitte Millennial Survey 2018",
+      "IPCC Sixth Assessment Report",
+      "Net ZeroTracker",
+      "Singapore Green Plan 2030"
+    ]
+  }
+}

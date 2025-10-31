@@ -1,0 +1,49 @@
+{
+  "name": "Wwwaste",
+  "tagline": "Waste Management Platform Supplier",
+  "description": "WWWASTE Pte Ltd deploys a SaaS waste management platform for all stakeholders in the waste industry, from producers to recyclers.",
+  "subsidiary": {
+    "name": "PT Clean Medic indus",
+    "location": "Indonesia",
+    "services": "Operating collection department for medical waste, plastic, and UCO using the wwwaste.io platform"
+  },
+  "platform": "wwwaste.io",
+  "website": "http://wwwaste.io/",
+  "contact": "hello@wwwaste.io",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67dcf549a411e958bf632e5a_fulllogo_nobuffer%20-%20bruno%20ZYSMAN.png",
+  "countries": [
+    "Cambodia",
+    "Indonesia",
+    "Malaysia",
+    "Philippines",
+    "Singapore",
+    "Thailand",
+    "Vietnam"
+  ],
+  "target_stakeholders": [
+    "Waste producers",
+    "Recyclers",
+    "All stakeholders in the waste industry"
+  ],
+  "waste_types": [
+    "Medical waste",
+    "Plastic",
+    "UCO (Used Cooking Oil)"
+  ],
+  "expertise_categories": [
+    "Waste Management"
+  ],
+  "solution_codes": [
+    "05.01",
+    "05.02",
+    "05.03",
+    "05.04",
+    "05.05",
+    "05.06",
+    "05.07",
+    "05.08"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/wwwaste",
+  "scraped_date": "2025-07-10"
+}

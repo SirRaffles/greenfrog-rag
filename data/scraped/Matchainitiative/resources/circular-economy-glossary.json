@@ -1,0 +1,155 @@
+{
+  "resource": {
+    "title": "Circular Economy Glossary",
+    "category": "Fundamentals",
+    "type": "Glossary",
+    "purpose": "The purpose of this glossary is to provide brief definitions of the main terms used when talking about circular economy, so you get familiar with those notions and understand the differences and similarities between them.",
+    "definitions": [
+      {
+        "term": "Adaptability",
+        "definition": "Product adaptation is the process of changing a product to meet the needs of consumers in a market other than the one it was made for.",
+        "source": "Business Development Bank of Canada - BDC"
+      },
+      {
+        "term": "Circular economy",
+        "definition": "The circular economy is based on three principles, driven by design: Eliminate waste and pollution, Circulate products and materials (at their highest value), and Regenerate nature. It is underpinned by a transition to renewable energy and materials. A circular economy decouples economic activity from the consumption of finite resources. It is a resilient system that is good for business, people and the environment.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Dematerialization",
+        "definition": "Dematerialization is defined by UNEP as 'the reduction of total material and energy throughput of any product and service, and thus the limitation of its environmental impact. This includes reduction of raw materials at the production stage, of energy and material inputs at the use stage, and of waste at the disposal stage.'",
+        "source": "Econation"
+      },
+      {
+        "term": "Deposit Return Scheme (DRS)",
+        "definition": "Deposit Return Scheme (DRS) is a scheme where a deposit fee is charged to the consumer at the point of purchase, and refunded to the purchaser when the packaging is returned via a specifically designed system.",
+        "source": "Organisation for Economic Co-operation and Development (OECD) Ocean"
+      },
+      {
+        "term": "Design for Recycling (DFR)",
+        "definition": "A business strategy for circularity where producers aim to maximize recoverability of materials and partner with other companies which are in need of the recovered materials.",
+        "source": "Harvard Business Review"
+      },
+      {
+        "term": "Durability",
+        "definition": "Durability is the ability of a product, component or material to remain functional and relevant when used as intended, usually referring to the physical attributes of a product.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Eco-friendly",
+        "definition": "A product is eco-friendly if it is designed to have little or no damaging effect on the environment.",
+        "source": "Cambridge Dictionary"
+      },
+      {
+        "term": "Energy audit",
+        "definition": "According to the definition in the ISO 50002 standard, an energy audit is a systematic analysis of energy use and energy consumption within a defined energy audit scope, in order to identify, quantify and report on the opportunities for improved energy performance.",
+        "source": "Leonardo Energy"
+      },
+      {
+        "term": "Energy efficiency",
+        "definition": "The EU Energy Efficiency Directive uses a very broad definition: 'energy efficiency' means the ratio of output of performance, service, goods or energy, to input of energy.",
+        "source": "European Parliamentary Research Service - ERPS"
+      },
+      {
+        "term": "Extended Producer Responsibility (EPR)",
+        "definition": "EPR is a concept where producers/importers are responsible for the management of their end-of-life packaging and products to promote plastic circularity.",
+        "source": "World Wide Fund for Nature - WWF"
+      },
+      {
+        "term": "Frugality",
+        "definition": "A frugal economy strives to create more economic, social, and ecological value simultaneously while wisely optimizing the use of all available resources. It aims to do better with less by making the most of all existing resources to maximize the value for all stakeholders.",
+        "source": "MIT Sloan Management Review"
+      },
+      {
+        "term": "Inclusive design",
+        "definition": "The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible ... without the need for special adaptation or specialized design.",
+        "source": "British Standards Institute (2005) in Inclusive Design Toolkit"
+      },
+      {
+        "term": "Life cycle assessment (LCA)",
+        "definition": "A Life Cycle Assessment (LCA) is a methodology to assess the environmental impacts of a product or service throughout its life – from raw material extraction, manufacture and use, to end-of-life disposal, recycling or reuse.",
+        "source": "EcoAct"
+      },
+      {
+        "term": "Linear economy",
+        "definition": "The linear economy is where finite resources are extracted to make products that are used - generally not to their full potential - and then thrown away ('take-make-waste'). This is the economy that most businesses operate in today, which generates a lot of waste.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Longevity",
+        "definition": "Product longevity refers to the lifespan of the product, which can be extended through increasing the durability, adaptability, upgradability, repairability and reducing obsolescence.",
+        "source": "European Parliament"
+      },
+      {
+        "term": "Maintenance",
+        "definition": "Maintenance keeps a product in its existing state of quality, functionally and/or cosmetically. It is a practice that retains the highest value of a product by extending its use period.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Obsolescence",
+        "definition": "Obsolescence is defined as when an object, a service, or a practice is no longer wanted or desirable. It includes logistical, functional and technological obsolescence.",
+        "source": "Razorleaf"
+      },
+      {
+        "term": "Planned obsolescence",
+        "definition": "Planned obsolescence describes a strategy of deliberately ensuring that the current version of a given product will become undesirable or useless within a known time period. This proactive move guarantees that consumers will seek replacements in the future, thus bolstering demand.",
+        "source": "Investopedia"
+      },
+      {
+        "term": "Product Life Extension (PLE)",
+        "definition": "A business strategy for circularity where companies focus on designing products to ensure they last longer, in other words, increasing the durability of products.",
+        "source": "Harvard Business Review"
+      },
+      {
+        "term": "Recyclability",
+        "definition": "The process of recycling transforms a product or component into its basic materials or substances and reprocesses them into new materials. Recyclability refers to the ease at which a material can be recycled in practice and at scale.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Refurbishment",
+        "definition": "Refurbishment refers to the returning of a product to good working order. This can include repairing or replacing components, updating specifications, and improving cosmetic appearance.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Remanufacturing",
+        "definition": "Remanufacturing involves the re-engineering of products and components to as-new condition with the same, or improved, level of performance as a newly manufactured one.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Repairability",
+        "definition": "Repairing is an operation by which a faulty or broken product or component is returned back to a usable state to fulfill its intended use. Repairability is the ease with which a product or component can be repaired.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Resource efficiency",
+        "definition": "Resource efficiency means using the Earth's limited resources in a sustainable manner while minimising impacts on the environment. It allows us to create more with less and to deliver greater value with less input.",
+        "source": "Sustainable Development Goals (SDG) Helpdesk"
+      },
+      {
+        "term": "Retain Product Ownership (RPO)",
+        "definition": "A business strategy for circularity where the producer remains responsible for the product and instead of selling its products, the producer rents or leases its products to consumers. This strategy is preferred for complex, high-value products or simple, expensive products.",
+        "source": "Harvard Business Review"
+      },
+      {
+        "term": "Reusability",
+        "definition": "The repeated use of a product or component for its intended purpose without significant modification.",
+        "source": "Ellen MacArthur Foundation"
+      },
+      {
+        "term": "Sobriety",
+        "definition": "Sobriety is a model rooted in reducing consumption of material objects, digital technologies and energy. It means being more aware and sober in the way resources are being used.",
+        "source": "The Veolia Institute Review"
+      },
+      {
+        "term": "Sustainable development",
+        "definition": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "source": "World Commission on Environment and Development (WCED)"
+      },
+      {
+        "term": "Upgradability",
+        "definition": "Product upgradability refers to the capability of products to be adapted to future enhancements of product performance and functions.",
+        "source": "Inoue et al. (2014)"
+      }
+    ]
+  }
+}

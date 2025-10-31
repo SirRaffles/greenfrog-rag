@@ -1,0 +1,14 @@
+{
+  "supplier_name": "Data Expert Singapore PTE Ltd",
+  "description": "Professional Information Security Company",
+  "url": "https://www.thematchainitiative.com/supplier/data-expert-singapore-pte-ltd",
+  "website": "https://dataexpert.com.sg",
+  "contact": null,
+  "locations": ["Singapore"],
+  "services": ["Data recovery", "Digital forensics", "Data analytics", "Secure IT disposals", "IT Disposal Service (Licensed NEA e-Waste Disposal Facility)"],
+  "expertise_categories": ["Waste Management", "E-Waste", "Digital Footprint & IT", "Green Office"],
+  "solution_codes": ["05.06", "02.03", "01.07"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/data-expert-singapore-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

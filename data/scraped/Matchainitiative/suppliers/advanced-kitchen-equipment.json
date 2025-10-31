@@ -1,0 +1,27 @@
+{
+  "supplier_name": "Advanced Kitchen Equipment Pte Ltd",
+  "description": "Professional kitchen equipment sale, repair and rental",
+  "url": "https://www.thematchainitiative.com/supplier/advanced-kitchen-equipment",
+  "website": "https://advancedkitchen.com.sg",
+  "contact": "admin@advancedkitchen.com.sg",
+  "locations": ["Singapore"],
+  "founded": "1990",
+  "experience": "Over 70 years in professional kitchen design and technology",
+  "expertise_categories": [
+    "Food & Beverage",
+    "General Equipment"
+  ],
+  "services": [
+    "Equipment sales",
+    "Equipment rental",
+    "Equipment repair",
+    "Kitchen planning",
+    "Stainless steel fabrication"
+  ],
+  "solution_codes": [
+    "09.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/advanced-kitchen-equipment",
+  "scraped_date": "2025-10-31"
+}

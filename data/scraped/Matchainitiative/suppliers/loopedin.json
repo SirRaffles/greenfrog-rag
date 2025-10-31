@@ -1,0 +1,45 @@
+{
+  "name": "Loopedin",
+  "tagline": "Reusable food containers provider",
+  "business_type": "Ecotechnology packaging provider",
+  "description": "Loopedin is an ecotechnology packaging provider which enables food & beverage retailers and corporates to switch from single-use plastic containers to fully-reusable and food-grade recyclable inventories.",
+  "value_proposition": "Switch from single-use plastic containers to fully-reusable and food-grade recyclable inventories",
+  "website": "http://www.loopedin.com.sg/",
+  "contact": "contact@loopedin.com.sg",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/64864a2c48d5ac597dc7c972_loopedin%20logo_marine%20-%20Stephanie%20Simonnet.png",
+  "countries": [
+    "Singapore"
+  ],
+  "target_clients": [
+    "Food & beverage retailers",
+    "Corporates"
+  ],
+  "services": [
+    "Quality sustainable and reusable packaging inventory management",
+    "Collection services",
+    "Disposal services", 
+    "Recycling services"
+  ],
+  "design_principle": "Minimal impact on existing business processes",
+  "product_features": [
+    "Fully-reusable containers",
+    "Food-grade quality",
+    "Recyclable inventories"
+  ],
+  "environmental_impact": "Eliminates single-use plastic containers",
+  "expertise_categories": [
+    "Green office",
+    "Waste Management",
+    "Food & Beverage",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "solution_codes": [
+    "01.03",
+    "05.03",
+    "09.03",
+    "06.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/loopedin",
+  "scraped_date": "2025-07-10"
+}

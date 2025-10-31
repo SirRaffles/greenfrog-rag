@@ -1,0 +1,14 @@
+{
+  "supplier_name": "Detpak Holdings Pte Ltd",
+  "description": "Sustainable food and beverage packaging provider",
+  "url": "https://www.thematchainitiative.com/supplier/detpak",
+  "website": "https://detpak.com",
+  "contact": "connect@detpak.com",
+  "locations": ["Australia", "Singapore"],
+  "services": ["Design, manufacture, and supply of paper and board packaging solutions", "Recyclable and compostable options for retail, foodservice, and consumer goods brands"],
+  "expertise_categories": ["Waste Management", "Food & Beverage", "Green Office", "Circular Economy & Sustainable Manufacturing"],
+  "solution_codes": ["05.03", "09.03", "05.02", "01.03", "03.03"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/detpak",
+  "scraped_date": "2025-10-31"
+}

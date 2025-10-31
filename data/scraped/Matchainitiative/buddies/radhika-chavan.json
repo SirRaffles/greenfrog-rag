@@ -1,0 +1,69 @@
+{
+  "name": "Radhika Chavan",
+  "position": "Co-Founder - Tulya",
+  "location": "Singapore",
+  "contact": {
+    "email": "radhika@tulya.io"
+  },
+  "main_skills": [
+    "SMA",
+    "SASB",
+    "Sustainability Strategy"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Radhika is the Co-founder of Tulyā, A Sustainability Management Accounting (SMA) Services company. Her work includes measurement and understanding of the impact environmental and social factors will have on the value creation for SMEs. She develops tailored tools and practices that integrate material topics (ESG & Business) with accounting statements line items to demonstrate financial impact of action vs inaction. She has worked with Lehman Brothers, Barclays and IT services companies before starting her entrepreneurial journey in sustainability. She is a graduate in Chemical Engineering and has been certified in SASB , PMP, CSM & Design Thinking-MIT.",
+  "top_advice": [
+    "Perseverance. Bringing in a systemic change is a time-consuming process. The key here is to continue in a course of action while building the sustainability strategy, processes as we face new regulations and external drivers in this endeavour.",
+    "Collaboration. Because there is a huge power in building together than re-inventing the wheel. The Matcha Initiative has all the right juices flowing in to build this community towards doing-good.",
+    "Economic Value Creation. If you lose sight of economic value creation, then sustainability becomes just another initiative for businesses."
+  ],
+  "how_they_help": [
+    "If you are an SME and would like to understand where and how to initiate your sustainability journey, Tulyā can help build the first integrated sustainability strategy with the initial few scope-specific KPIs to measure.",
+    "Offer my expertise to integrate sustainability with accounting that supports internal decision making on both strategy and operational levels.",
+    "Provide insights on SME landscape with the classification, challenges and needs."
+  ],
+  "expertise_areas": [
+    "Digital Footprint & IT",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "sustainability_journey": "The process was very organic for me. With my vocational training as a chemical engineer, I had my first brush with environmental pollution control through assignments on Renewable energy sources. Two decades back, the technological advances were such that very small fraction of these initiatives were profitable. In my last 18 years of professional experience into IT-digital, I gained my technical skills, by working on feasibility studies, proof of concepts, financial forecasting, resource allocation, AI/ML and Web 3.0 development.",
+  "turning_point": "But one that definitely brought my vocation and passion together was in 2019, when I was working on a concept note for Innovation Challenge Fund. The concept was to generate ESG Metrics for MSMEs to quantify net positive impact. This work gave me the opportunity to leverage tech in sustainability to understand and analyse operational efficiency and profitability. This paved my way to delve deeper into the subject of sustainability management accounting.",
+  "tulya_approach": "At Tulyā, our focus is on creating sustainable value for SMEs. We help companies measure and understand the impact of environmental and social factors on their ability to create value through Sustainability Management Accounting. We provide a very simplified approach for SMEs to integrate sustainability into their business operations and strategy",
+  "tulya_methodology": [
+    "To prioritise material topics by reducing the complexity with a limited shortlist of KPIs based on key stakeholder touch points, industry best practices and other external and internal drivers",
+    "To get economic outcome by connecting ESG metrics with P&L",
+    "To sustain economic outcomes through monitoring by providing a first coherent version of a sustainability strategy and setup tools for measurement and tracking"
+  ],
+  "sme_challenges": "SMEs play a very important role in the transition to a sustainable economy and their collective sustainability impact is significant. I am convinced that sustainability will affect SMEs' ability to create value over time and we want to help them to prepare for the new normal with less resources, more uncertainty, stricter regulations and demand for ESG data.",
+  "challenge_types": [
+    "Establishing the need for sustainability among SMEs",
+    "Once the need is established, then how should SMEs kickstart the journey or understand the impact of their existing sustainability efforts?"
+  ],
+  "tulya_solutions": [
+    "We help tailor the needs specific to the profile the company - based on primary economic activity, industry and size. This helps us focus on minimal material topics that can be applied for SME as part of the first integrated sustainability strategy with the future versions to be built on.",
+    "We measure and monitor the KPIs that help the SME teams in internal decision-making",
+    "Integrated Accounting that help them see the relation between profitability and sustainability",
+    "Scenario analysis report on Cost of Action Vs. Inaction."
+  ],
+  "proudest_achievement": "I am very proud of the journey that I have travelled so far. All the education, experience and passions I have gained along the way have empowered me to become the medium to build for a sustainable future, in my own small way. This answer may be a bit philosophical than what may have been expected. I am most proud to have come this far donning various hats to build various tools, products and processes which in turn helped me build high performing teams and organisations. And now, I am in the process of enabling SMEs to achieve the same outcomes through Tulyā. The only thing that is constant all along is my penchant for learning, and would love to continue to be on this path to create a sustainable future for my daughters.",
+  "solution_categories": {
+    "digital_footprint": ["02.02"],
+    "carbon_management": ["15.00", "15.06", "15.03"],
+    "consultants": ["16.01", "16.02"],
+    "sustainability_accounting": ["04.00", "04.01", "04.02", "04.03", "04.04", "04.05", "04.06", "04.07"],
+    "sustainable_supply_chain": ["06.01", "06.06"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/radhika-chavan",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

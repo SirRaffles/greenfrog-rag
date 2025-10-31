@@ -1,0 +1,222 @@
+{
+  "category": "Digital Footprint & IT",
+  "subcategory": "Best Practices & Energy Reduction", 
+  "title": "Best Practices & Energy Reduction",
+  "url": "https://www.thematchainitiative.com/find-a-solution/best-digital-practices-energy-reduction",
+  "description": "Solutions to reduce digital energy consumption and implement sustainable IT practices",
+  "overview": "According to the revised Lean ICT Report the Digital energy consumption has increased by 6.5% yearly since 2015. \"Digital\" includes Internet, all our digital devices and the infrastructures needed to support them. Converted in GHG emissions, given the worldwide electricity mix, this represents around 3.5% of global GHG Emissions. It is already at the level of the airline industry. And the trend is worrying with a projection to double by 2025. \"Digital footprint\" comprises several energy consuming focuses: Production of devices, Usage of devices (Electricity consumption for batteries and data consumption relying on electricity consumption too), and Destruction of obsolete devices. All of them are at the core of green ICT (Information and Communication Technologies) thoughts to decrease our carbon footprint.",
+  "solutions": [
+    {
+      "title": "Green Your Digital Habits",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I2",
+      "description": "Energy Sobriety is the most effective way to curb energy consumption in general. And luckily, it can be applied to digital usage: prevent depletion of raw material, hazardous e-waste, rebound effects and to make our existing equipments last longer... Restraining our use of digital devices and technology whenever possible is key, yet very hard given our current world.",
+      "quick_wins": [
+        "Frequently clean your email box(es)",
+        "Unsubscribe from spam emails / useless newsletters & suscribe to an anti-spam program (like Spambrella)",
+        "Do not send heavy files, compress them or use online tools instead (like WeTransfer) to upload / share. WeTransfer automatically deletes files after 2 weeks",
+        "Use tools such as Google Drive File Stream which only sync on your computer the files you work with. It massively reduces the volume of data exchange",
+        "Send your emails to relevant persons only",
+        "Remove logos and high resolution design components in your signature for internal usage",
+        "Set low resolution logos for external emails",
+        "Clear your cloud stored data (images, videos, heavy files...). Keep only what is useful",
+        "Only use cloud infrastructures when necessary, to prevent irrelevant data exchange. Store locally as much as possible (internal disk / portable external disk / USB keys)",
+        "Adopt green browsing habits: limit and optimize your search time spent on internet by registering frequent websites as \"favorite\", decreasing use of streaming....",
+        "Remove non used softwares to decrease license costs and increase equipments lifetime. Use a computer cleaner (like macclean)",
+        "Use Wifi instead of mobile data (4G) as often as possible (4G uses on average 4 to 8 times more energy than Wifi)",
+        "Reduce Videos usage to Wifi and disable autoplay",
+        "refrain from sending unnecessary videos & photos by email or social media",
+        "Set Podcast and Videos resolution to minimum quality",
+        "Do not always update minor softwares",
+        "Prefer modular solutions that allows users to choose specific targeted, useful stacks instead of vast softwares people will use not entirely. Frugality is crucial."
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-001"
+    },
+    {
+      "title": "Implement Good Printing Practices",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Implement good printing practices is possible ! Here are some easy quick-wins to curb your resources consumption during printing",
+      "paper_reduction": [
+        "printing front & back / on 2 sides",
+        "printing several pages on one sheet",
+        "re-using paper"
+      ],
+      "ink_reduction": [
+        "reducing the font size",
+        "using grayscale colour in place of black (much lighter)",
+        "changing regular fonts (like Arial, Comic Sans) for frugal fonts before printing (such as Times New Roman, Cambria, Century Gothic [in size 10], Garamond, Ryman Eco...)"
+      ],
+      "font_efficiency": "The university of Winsconsin-Green Bay led a study to reckon the impact of fonts in printing costs. They saved thousands of dollars by changing their font, as easy as it gets. Some fonts are quite sober: Garamond (24% less ink needed than Times New Roman/Comic Sans/Cambria) and Ryman Eco (33% less ink needed than Garamond!) are good choices.",
+      "it_enforcement": [
+        "IT teams can deploy/update relevant laptops masters. By enforcing such masters, employees cannot change some printing settings. This practice can save a lot of resources in the end because it \"automatically\" enforces a sober mode for printing: two-side mode, Black & White mode, blank pages feature removed",
+        "Deploy sign up/check-in processes to prevent people from printing at anytime for anything. If we have to walk to the printer to start the printing job, if we have a quota on printing jobs... we will think twice before printing it!",
+        "Display visible, permanent guidelines nearby printers & Train your staff",
+        "Deploy specific printing softwares to monitor printing consumption. We recommend this one from Paper Cut."
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-0011"
+    },
+    {
+      "title": "Reduce Energy Usage",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Changing your device before the end of its lifespan for a better energy saving one is NOT a solution, as most of its environmental impact arises during production.",
+      "key_insight": "A study on timely replacement of notebooks showed that a realistic energy efficiency improvement of 10% between two notebook generations meant the amortisation periods would be between 33 and 88 years! In a word, keep your devices as long as possible and adopt low-energy practices while using them.",
+      "best_practices": [
+        "Unplug / switch off devices at lunch time, after office hours and on weekends (computer manufacturers have stated that you can switch off your computer up to three times a day without reducing its lifetime)",
+        "Make sure your printers are also included in this switch off. You may use Advanced Power Strips (APS) to set up automatic switch off",
+        "Set your devices on energy saving / sleep mode over lunch and whenever you are away from your desk for any length of time",
+        "Turn off your screen saver",
+        "Turn off location services / Wifi / Bluetooth when you do not use it (or turn on the plane mode)",
+        "Dim Your Screen. The brighter the screen setting, the more power it uses. The auto-brightness settings help your phone automatically adjust, taking both readability and energy use into account",
+        "Kill apps you are not using",
+        "Turn off GPS, Wi-Fi and Bluetooth when not necessary (tough in time of Covid though, that is true!)",
+        "Disable notifications (if not necessary). Notifications cause the screen on the phone to light up, make a sound, and even vibrate",
+        "Protect your device from high/low temperatures. Lithium-ion battery in your mobile phone are sensitive to temperature; excessive heat and cold hinder its performance",
+        "Decrease screen timeout. For example; a 30-second timeout, which takes effect after a half minute of no screen interaction, is enough to see an alert or check an email before shutting off",
+        "Use black modes for a maximum of apps (when it is available)",
+        "Deploy apps/softwares for a better energy consumption tracking"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-002"
+    },
+    {
+      "title": "Prefer Existing Sustainable Services & App",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I1",
+      "description": "Whenever possible, use existing services, apps, solutions that advocate a sustainable approach. In terms of Search Engine, Ecosia or Gexsi could be worth considering for going an \"extra\" mile.",
+      "search_engines": {
+        "google": "In terms of carbon footprint, Google uses a mixture of renewable energy and carbon offsetting to be carbon neutral. They have also announced to have eliminated their total carbon legacy and their next global sustainability goal is to operate entirely on 24/7 carbon-free electricity at all their data centres by 2030. Sembcorp is providing a whole energy solution with a focus on locally-sourced renewable power to support Google's operations in Singapore. The deal includes energy generated from close to 500 public housing flats with rooftop solar installations.",
+        "microsoft": "Microsoft, which owns the Bing search engine, has promised to become carbon negative by 2030, and efforts are underway to investigate whether this footprint is now higher or lower."
+      },
+      "caveat": "However, those carbon neutrality goals do not take into account the transmission of data from the datacentres to our devices and therefore we still need to pursue frugality in using our digital devices as shown in above solution \"Reduce Digital Footprint\".",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-003"
+    },
+    {
+      "title": "Reduce Energy Usage of your servers",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "For servers and datacentres, as energy consumption is their main carbon footprint, it is important to continuously work on decreasing their energy consumption.",
+      "context": {
+        "efficiency_improvement": "First, it is good to keep in mind that datacentres/servers are not bad guys here! Their efficiency has been improved ridiculously over the last decades. According to GreenIT.fr, datacentres' activities increased by 550% over the last decade, for a slight 6% increase of electricity consumption.",
+        "tier_system": "Datacentres are listed into Tiers - depending on the average unavailability of service (per year). The more the service is ensured, the higher Tier it is (and the energy consumption too!). Therefore, before anything, it is important to estimate the importance of a service to deploy it on a server/datacentre. Non critical services are not necessary on a Tier 4 datacentre for example.",
+        "data_flows": "Data flows are important to understand to lower their impact. Isit Academy estimates that: 15% of data received/sent by datacentres are processed from end-users, 15% of data received/sent by datacentres are processed from external datacentres, Remaining 70% (!) data are internal flows (save, security, storage...). This gives perspective to know where improvements should be made in priority. Especially, security processes are considered being the most energy consuming services in a datacentre."
+      },
+      "best_practices": [
+        "Choose green servers / services to virtualize your datacentre equipment. Deploying in cloud allows servers optimization. For large scale companies, you could consider hyperscale datacentres",
+        "Chase idle servers and stop servers when they are not used",
+        "Increase physical servers occupation rate, push for thin provisioning",
+        "Deploy high-capacity drives (they are optimized)",
+        "Deploy virtualized environments for testing, development...",
+        "Use AI and IoT to optimize your datacentre, to detect deficiencies and improve PUE (Power Usage Efficiency)",
+        "Set up a Datacentre Infrastructure Management (DCiM) and lead inventories as often as possible",
+        "For each server, remove all physical parts that are not necessary"
+      ],
+      "cooling_system_optimization": [
+        "Cool only servers racks that are in use",
+        "Set up adequate temperatures given by manufacturers. Servers may support higher temperatures that we usually think and manufacturers warranties are usually up to 35° Celsius / 95° Farenheit",
+        "Optimise air flows according to where the servers are located in the room / racks",
+        "Adopt an Air containment strategy for a better energy efficiency (closed spaces to keep temperatures constant, hot zones / cold zones separation ...)",
+        "Explore different cooling technologies such as liquid cooling"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-004"
+    },
+    {
+      "title": "Consider Renewable Energy for your datacentres",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Datacentres' carbon footprint is relatively high due to their energy consumption. After reducing datacentres' energy consumption (see solution above and in green hardware and e-waste), the second step is to turn to greener energy sources and adapt your organization accordingly.",
+      "solar_limitation": "Indeed, solar energy is unfortunately not a 24x7 hours source, as a result, you may also depend on purchasing energy credits if you want to become carbon neutral.",
+      "recommendations": [
+        "At least, you may consider shifting recurrent computing tasks to times when solar energy sources are available. See more in the International Energy Agency (IEA) report",
+        "Another way to save energy for datacentres may lie within microgrids to deploy automated distributed systems to save and optimize all energy consumption"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-005"
+    },
+    {
+      "title": "Establish an IT Governance & IT Green Team",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "Set up a Green or Responsible IT team, in charge of implementing the company's sustainable policy / CSR strategy and its sustainable procurement in the IT department.",
+      "responsibilities": [
+        "They should develop a specific sustainable plan for the IT department in collaboration with your Sustainability Manager or your Company Green Team, establish and track KPIs, measure progress and set new targets every year",
+        "It is important that the Green IT Team educate all the IT users on the digital world carbon footprint and impact, and talk with them about digital sobriety. If you are not aware of the problems, you cannot resolve them !",
+        "Share your your IT department's sustainability strategy, explaining the main targets, timeline and KPIs",
+        "They should also regularly train all users on Green Best Practices (see above solutions) including Paper & Printing Best Practices if need be and on how to increase lifespan of IT equipments (and why)"
+      ],
+      "outcome": "Once they understand the problem, your IT users will eventually question their needs and habits (do I really need a second or third screen? do I really need to built a completely new website / software ?...). They will be a great help when conducting digital footprint audits, action plans implementation and monitoring.",
+      "workshop_option": "Sustainable IT collage workshops can be perfect to kick-off sustainable actions!",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-006"
+    },
+    {
+      "title": "Audit to reduce your IT Carbon Footprint",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "It is necessary to perform audits and technology overviews to measure and thus reduce your IT carbon footprint. Start simply with online calculator tools and then take a step further by implementing full hardware and software audits.",
+      "methodology": {
+        "indicators": "As there is not yet a comprehensive way to calculate your total footprint, first identify the environmental indicators (energy, GHG, tension over fresh water, resource depletion … ). Then, define the scope.",
+        "scope_options": [
+          "the infrastructure (datacenter, cloud, etc.)",
+          "the users' environment (devices, printing, etc.)",
+          "the Information System Flows (waste, power consumption, etc.)",
+          "the ecommerce website, ERP, GED …"
+        ],
+        "timeline": "Set also the timeline and frequency of your measurements. Include equipment ratio per employee for asset / hardware audits and lifecycle assessments (LCA)."
+      },
+      "tools": [
+        "Google Developers, for both performance and efficiency of websites/databases/apps",
+        "Websitecarbon for a fast overview of your website digital footprint"
+      ],
+      "software_assessment": "For software engineering, you may ask the help of a third-party company to assess your software carbon footprint in terms of design (front-end) and architecture / coding (back-end). Implement necessary actions to reduce its carbon footprint and optimize the solutions you have before launching costly projects.",
+      "pre_disposal_audit": "At least, always audit before disassembling hardware or software. It will help you understand which ones can be re-used, re-conditioned and what has to be properly recycled.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-01-007"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Thibaut Meurgue",
+      "title": "CEO – The Transmutation Principle",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/619e3b5019dd9ae7d25805db_07%20-%20Found%20n%20Seek%20-%20Antler%20Jun%202021%20-%20Stellar%20Photo%20-%20DSC_7794_1.JPG",
+      "description": "I am Thibaut, French bald since 26 & bold since forever! Right now, I am the CEO of The Transmutation Principle. I come from an IT & software agency background, so deeply into B2B and old-fashioned processes. I came to realize that sustainability cannot be only about consumers and half-hearted measures. I also realized IT sustainability was highly underrated and not understood by most companies. It came as quite a surprise for me, since I always considered IT sustainability to be one of the best ways to merge both ROI & sustainability to make the latter sound acceptable, actionable, and realistic. Having seen that, I wanted to make a change in my own way. My dedication came from the desire to be able to look my future kids in the eye and tell them that I tried to make the world a better place. I co-founded The Transmutation Principle, a Singapore-based consultancy, to support businesses in their quest for impact through actionable and tailor-made sustainability & ESG programs.",
+      "company": "The Transmutation Principle",
+      "linkedin": "https://www.linkedin.com/company/thetransmutationprinciple/?originalSubdomain=sg",
+      "profile_url": "https://www.thematchainitiative.com/buddies/thibaut-meurgue"
+    },
+    {
+      "name": "Nicolas Sautter",
+      "title": "CEO & Founder - Beez-fm",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6567ffcdc86aad532f6a9de9_Nico%2001-Small%20-%20Nicolas%20carre.jpg",
+      "description": "Graduated in IT and marketing, Nicolas started his career at SAUTER, a Swiss BMS Supplier, in the HQ in 2008 and has been a product manager for several years. After the successful launch of the first BMS Cloud in Europe, he became business developer in the APAC region in 2015. He relocated to Shanghai for 20 months to be closer to the markets, before moving to Singapore in 2018 where he created and directed the SAUTER APAC Competence Centre until June 2022. Since then, he has taken on the role of CEO at beez-fm, a green tech startup he founded in December 2019.",
+      "company": "Beez-fm",
+      "website": "https://www.beez-fm.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/nicolas-sautter"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/621e05859790dcc7f19a1536_vincent%202%20-%20recadre.jpg",
+      "description": "I worked in Asia for 12 years (Shanghai, Hong Kong and Singapore) within the digital and technology space. I'm now the Europe Regional Managing Director at Palo IT. I have founded and run several companies in different sectors such as IT Consulting, Education, and the F&B business. I am passionate about how to use technology as a force for good.",
+      "company": "Palo IT",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/vincent-desclaux"
+    },
+    {
+      "name": "Sylvain Mahe",
+      "title": "Head of Sustainability - Palo IT", 
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/682d4a549382f36bdba2621d_Sylvain%20Mahe%20-%20Sylvain%20Mahe.png",
+      "description": "With a foundation in software engineering, I've journeyed through agile coaching to conscious leadership and systems thinking. Now, I guide organizations through complex transformations — agile, sustainability, and AI — by fostering human-centric approaches and systemic understanding. I'm passionate about evolving leadership to navigate our increasingly technological and interconnected world responsibly. I am absolutely convinced that the solutions to our current global predicaments do not primarily lie in \"doing\" more or focusing solely on actions. Instead, I believe the answers are found in our \"beingness\" — our mindsets and underlying belief systems. Addressing our challenges effectively requires a fundamental shift in consciousness. Once that internal shift occurs, the right actions will naturally follow. Simply starting with \"doing\" or concentrating too much on technical solutions, without this deeper shift, won't lead us to the desired outcomes.",
+      "company": "Palo IT",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/sylvain-mahe"
+    }
+  ],
+  "created_at": "2025-06-24",
+  "status": "complete"
+}

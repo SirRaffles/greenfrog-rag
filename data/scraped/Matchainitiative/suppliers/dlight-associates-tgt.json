@@ -1,0 +1,40 @@
+{
+  "name": "D'Light Associates TGT",
+  "tagline": "Energy Efficient Lighting (Solutions & Supply)",
+  "description": "D'Light Associates (TGT) [formerly D'Light Associates Pte Ltd] profess ourselves as not merely lighting suppliers, but solutions provider of illumination for architecture (exterior, interior, landscape, waterscape, facade, sports etc.)",
+  "former_name": "D'Light Associates Pte Ltd",
+  "positioning": "Solutions provider of illumination for architecture, not merely lighting suppliers",
+  "website": "https://www.facebook.com/dlightassc/",
+  "contact": "dlight.a@gmail.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/65c258228ce10a5686b89cc2_dlight%20logo%20-%20Alvin%20Tan.jpg",
+  "countries": [
+    "Singapore"
+  ],
+  "lighting_applications": [
+    "Exterior lighting",
+    "Interior lighting",
+    "Landscape lighting",
+    "Waterscape lighting",
+    "Facade lighting",
+    "Sports lighting"
+  ],
+  "expertise_categories": [
+    "Energy & Electricity",
+    "Green office",
+    "Circular Economy",
+    "Consultants",
+    "Sustainable Buildings & Resilient Cities",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "solution_codes": [
+    "07.00",
+    "01.06",
+    "03.02",
+    "16.04",
+    "11.00",
+    "06.02"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/dlight-associates-tgt",
+  "scraped_date": "2025-07-10"
+}

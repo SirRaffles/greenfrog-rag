@@ -1,0 +1,56 @@
+{
+  "name": "Nick Stantzos",
+  "position": "Regional Commercial Director - PUR Nature Based Solutions",
+  "location": [
+    "Singapore",
+    "Indonesia",
+    "Mainland China", 
+    "Thailand",
+    "Vietnam"
+  ],
+  "contact": {
+    "email": "nick.stantzos@gmail.com",
+    "website": "https://www.pur.co/"
+  },
+  "main_skills": [
+    "Carbon Markets",
+    "Nature-based Solutions"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "I am a sustainability professional with a focus on carbon markets since 2004. I was fortunate to work in various roles in this field, giving me multiple perspectives: project development (Ecosecurities, Malaysia), origination (Perenia Carbon, Indonesia), investment structuring (Mitsui, Japan), validation and verification (TUV Rheinland, China & Singapore), and recently Nature-based Solutions (PUR, Singapore). I am currently the Regional Commercial Director for Asia for PUR, an impact company that develops projects within our clients' value chains to regenerate landscapes and protect vital ecosystems.",
+  "top_advice": [
+    "Don't hesitate to say 'I need help'.",
+    "Think as a community.",
+    "Challenge business models radically."
+  ],
+  "how_they_help": "I am happy to help users with nature-based solutions project implementation and scaling up, carbon management in organisations, and supply chain resilience in the agro-food sector.",
+  "expertise_areas": [
+    "Sustainable Supply Chain & Logistic",
+    "Resources Management",
+    "Food & Beverage",
+    "Corporate Governance, Mission & Strategy",
+    "Carbon Management & Carbon Footprint",
+    "Consultants"
+  ],
+  "sustainability_journey": "When I was a young boy, I had the chance to release a small eagle back into the wild. It was a bird that was injured, and it was released back after it was rehabilitated, thanks to the work of a dedicated team of volunteers. At the release ceremony, they gave me the chance to hold the bird and give it back its freedom. I held it and admired its exceptional beauty from up close, a rare treat! I was mesmerised! Then, I knew that I wanted to do something to protect this beauty, and that's why I followed a career in environmental sustainability.",
+  "current_role": "Currently, I lead the Asian commercial operations for PUR, a Paris-based nature-based solutions project development company owned by Bregal Sphere. We design, develop and monitor projects dedicated to restoring ecosystems within corporate supply chains and beyond. We work with local communities to develop long-term nature-positive projects. These include agroforestry, forest conservation, marine restoration, and regenerative agricultural practices. Hand-in-hand with local farmers, we implement robust projects empowering companies to achieve their ambitious climate goals and take responsibility for the impact of their supply chains.",
+  "challenges_overcome": "When I started my career, sustainability was very much a minor issue within corporations, something that an external consultant would take care of. I believe I have contributed to changing perspectives on sustainability to radically change operational models, especially with the application of carbon finance in project development (for example, the adoption of biogas in Malaysia's agro-food sector).",
+  "proudest_achievement": "I am most proud of being professionally involved in the carbon markets since 2004 (before Kyoto protocol ratification).",
+  "solution_categories": {
+    "sustainable_supply_chain": ["06.00", "06.01", "06.03", "06.05"],
+    "resources_management": ["08.00"],
+    "food_beverage": ["09.01", "09.02"],
+    "corporate_governance": ["12.00"],
+    "carbon_management": ["15.00", "15.01", "15.02", "15.03", "15.04", "15.05", "15.06"],
+    "consultants": ["16.01", "16.02", "16.03", "16.04"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/nick-stantzos",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

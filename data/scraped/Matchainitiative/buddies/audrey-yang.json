@@ -1,0 +1,70 @@
+{
+  "buddy_profile": {
+    "name": "Audrey Yang",
+    "title": "Founder, Sustainability Consultant - Thought Partner Eco",
+    "location": ["Singapore", "United Kingdom"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d188381d18f7757652ec7a_Audrey%20Yang%20Headshot-sq%20-%20Audrey%20%7C%20Thought%20Partner.jpeg",
+    "main_skills": [
+      "Greenwashing",
+      "Digital Sustainability",
+      "Sustainable Events"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "audrey@thoughtpartner.eco",
+      "website": "https://thoughtpartner.eco/"
+    },
+    "introduction": "I'm a Sustainability Consultant & Speaker, founder of Thought Partner Eco — an SME's partner in sustainability. 99% of businesses are made up of SMEs who could collectively make a huge impact in lowering the carbon footprint of the world's economy. Yet, existing resources are more applicable to large corporations with large budgets, who have staff in sustainability roles to develop and execute on those initiatives. SMEs usually have neither. I fill this gap by providing relevant educational and strategic support at an affordable rate. I've supported clients across industries — creative, tech, health care and fashion —on education, strategy and sustainability communications. Play-based learning workshops are available too. Other than consulting, I'm an experienced speaker, workshop facilitator, and I have been featured in AsiaOne, CNA, The Straits Times, Eco Business and more.",
+    "specialization_topics": [
+      "Consumerism",
+      "Greenwashing", 
+      "Digital Sustainability",
+      "Advocacy and Activism",
+      "Corporate Sustainability",
+      "Sustainability in Fashion",
+      "Sustainable Events"
+    ],
+    "top_3_advice": [
+      "Be curious",
+      "Be collaborative", 
+      "Be kind"
+    ],
+    "how_to_help": "Any topic listed in my profile and my journey.",
+    "expertise_areas": [
+      "Digital Footprint & IT",
+      "Circular Economy",
+      "Responsible Marketing",
+      "Green office",
+      "Consultants",
+      "Waste Management"
+    ],
+    "sustainability_motivation": "Growing up, I was raised to not be wasteful (mostly because things cost money). As an adult, I became aware of my consumption habits of single-use items. It dawned on me that using something for a short while and then throwing it away just didn't make any sense. The more I learnt, the more I had to unlearn. In 2018, I started sharing my journey and learnings on my Instagram (@thisisaudsomee) to bring people along and shift mindsets.",
+    "organizational_responsibilities": "The impact of my work goes beyond what I do within my own consultancy. I support my clients by: Helping them understand topics like sustainable web design, greenwashing, ethical marketing etc. Guiding them on setting sustainability goals. Encouraging them to rethink their ways of working that's better for our planet and people. Offering ways to inspire their clients to incorporate sustainability in future briefs.",
+    "challenges_and_solutions": "Getting businesses to see sustainability as an opportunity instead of a cost. Thankfully, my clients are those who have understood the \"why\" and not sure about the \"how\" — which is where I come in. I'm focusing my time and energy on supporting those who want the help, instead of trying to convert the ones who don't. In the meantime, I will continue sharing about the business case for sustainability.",
+    "proudest_achievement": "I'm most proud of giving up a long-running career in the creative industry to start my own sustainability consultancy. With that, I dedicate my working hours to climate action and only take on work that aligns with my values.",
+    "social_media": {
+      "instagram": "@thisisaudsomee"
+    },
+    "solution_codes": [
+      "02.00 - Digital Footprint & IT",
+      "02.01 - Digital Footprint Best Practices & Energy Reduction",
+      "02.02 - Digital Footprint IT Projects Methodology",
+      "02.03 - Digital Footprint Green Hardware",
+      "03.00 - Circular Economy",
+      "03.07 - Circular Economy Awareness & Training",
+      "13.00 - Responsible Marketing",
+      "01.08 - Green Office Corporate Gifts",
+      "16.01 - Consultants General",
+      "16.04 - Consultants Environmental Pilar",
+      "05.01 - Waste Management General Management & Infrastructures",
+      "05.02 - Waste Management Office Meeting Rooms Printer Rooms",
+      "05.03 - Waste Management Pantry Dining Area Kitchen",
+      "05.04 - Waste Management Packing & Unpacking Area",
+      "05.05 - Waste Management Production Area",
+      "05.07 - Waste Management Miscellaneous Waste",
+      "05.08 - Waste Management As an Individual"
+    ]
+  }
+}

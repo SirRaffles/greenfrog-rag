@@ -1,0 +1,101 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/sustainable-hr-practices-people-strategy-culture-and-values",
+  "title": "Sustainable HR Strategy: People Strategy, Culture & Values",
+  "category": "Sustainable HR Practices",
+  "subcategory": "People Strategy, Culture & Values",
+  "overview": "Establishing your organization's strategy, desired culture, and core values is foundational work. These elements significantly influence how stakeholders perceive your company and how connected employees feel to the organization. Implementing sustainable approaches creates a meaningful cultural differentiator for attracting and retaining talent.",
+  "solutions": [
+    {
+      "title": "Develop Communication & Engagement Tools",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Once your strategy and values are defined, establish regular communication channels and employee involvement mechanisms. Emphasize consistency and simplicity in your approach.",
+      "internal_communications": [
+        "Create straightforward employee engagement surveys to gauge satisfaction and expectations; track progress through periodic measurement",
+        "Encourage staff to voice concerns and contribute ideas for maximum feedback quality",
+        "Conduct monthly leadership and staff meetings to share updates",
+        "Designate specific leaders/employees as progress reporters; use visual displays in offices or internal platforms as reminders",
+        "Establish employee-led initiatives; one example is forming a Green Team"
+      ],
+      "external_communications": [
+        "Identify internal initiatives suitable for market communication to attract aligned candidates",
+        "Consider communicating sustainable practices to clients, particularly as many larger organizations now assess partner/supplier engagement through sustainability questionnaires"
+      ]
+    },
+    {
+      "title": "Include Sustainability in Code of Conduct",
+      "cost": "C1",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Embed your values into organizational handbooks and codes of conduct to demonstrate their importance.",
+      "key_elements": [
+        "Advance inclusion, equity, and respectful values with a sustainability focus",
+        "Establish policies protecting rights and wellbeing of vulnerable workforce segments, including migrant workers, aging employees, and workers with disabilities"
+      ]
+    },
+    {
+      "title": "Define Sustainable HR Analytics",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I3",
+      "description": "If you don't measure it, you can't manage it. Develop a focused metrics framework aligned with your strategy.",
+      "implementation_guidance": [
+        "Select limited metrics to maintain focus and prevent dilution of results",
+        "Ensure metrics are easily gathered, measurable, and comprehensible; automation is preferable when feasible",
+        "Assign clear responsibility for data collection and establish reporting cadence",
+        "Hold leadership/management accountable for progress and outcomes",
+        "Define baseline values, targets, and timelines",
+        "Determine which metrics to share company-wide versus management-only and which to publish externally (CSR/sustainability reports)",
+        "Create engaging, straightforward, impactful metrics encouraging broad participation"
+      ],
+      "sample_metrics": [
+        "Quarterly employee satisfaction scores",
+        "Recruitment and turnover rates",
+        "Pay equity measures",
+        "Overtime hours",
+        "Volunteering hours",
+        "Training hours delivered",
+        "Gender diversity representation",
+        "Age distribution",
+        "Green Team initiatives",
+        "Mobility-related carbon footprint"
+      ]
+    },
+    {
+      "title": "Build a Sustainable Team - BASIC",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Green Teams, CSR Task Forces, and Sustainability Teams accelerate and amplify organizational sustainability efforts through various naming conventions and structures.",
+      "setup_recommendations": [
+        "Think across departmental lines; identify a leader from each relevant department",
+        "Select an executive-level sponsor to advocate for the team's initiatives",
+        "Officially allocate time for sustainability work within employee job descriptions and objectives rather than treating it as additional responsibility",
+        "If capacity is limited, engage external consultants to provide part-time sustainability management",
+        "Progress toward dedicated full-time Sustainability Manager positions and allocated budgets as demands increase"
+      ],
+      "guiding_principle": "If you want to go fast, go alone. If you want to go far, go together (African proverb)"
+    }
+  ],
+  "featured_buddies": [
+    {
+      "name": "Claire Kolly",
+      "title": "HR Consulting & Executive Coaching - EDLT.global",
+      "expertise": "With 20+ years in global HR environments, Claire specializes in guiding organizations through complex transformations. She combines HR expertise with professional coaching credentials (PCC-ICF certified) to help teams navigate change while maintaining sustainable decision-making that balances short-term and long-term organizational impacts.",
+      "certifications": [
+        "PCC-ICF certified coach",
+        "Climate change coaching (trained 2024)",
+        "Hogan assessments",
+        "Gallup Clifton Strengths"
+      ],
+      "contact": "EDLT.global"
+    }
+  ],
+  "resources": [
+    "Quick Guide to Start and Develop a Green Team in Your Company",
+    "Employee Engagement Survey templates",
+    "All Solutions at a Glance (PDF)"
+  ],
+  "scraped_at": "2025-10-31T00:00:00Z"
+}

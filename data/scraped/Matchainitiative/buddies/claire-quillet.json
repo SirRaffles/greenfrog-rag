@@ -1,0 +1,86 @@
+{
+  "buddy_profile": {
+    "name": "Claire Quillet",
+    "title": "CEO - TSB",
+    "location": ["Indonesia"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6566135856a5c0830077dce3_20200219_105049%20-%20Claire%20Quillet.jpg",
+    "main_skills": [
+      "Strategy",
+      "GRI",
+      "Stakeholder Engagement"
+    ],
+    "guidance_types": [
+      "Kick Start Help",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "cquillet02@gmail.com",
+      "website": "http://www.tsb.co.id/"
+    },
+    "introduction": "I am a Water, Sanitation & Hygiene (WASH) humanitarian and development professional who worked for more than 20 years in Indonesia for International NGOs and UNICEF. I founded my consultancy firm 7 years ago to support private sector to develop their strategy, engage stakeholders and implement in the field their sustainability projects/programs. I have a extensive network in Indonesia, from the local community/NGOs to several ministries. I am also GRI copywriter.",
+    "professional_background": {
+      "specialization": "Water, Sanitation & Hygiene (WASH) humanitarian and development",
+      "experience": "20+ years in Indonesia",
+      "previous_roles": "International NGOs and UNICEF",
+      "consultancy_founded": "7 years ago",
+      "certifications": ["GRI copywriter"]
+    },
+    "network": {
+      "scope": "Extensive network in Indonesia",
+      "range": "Local community/NGOs to several ministries"
+    },
+    "top_3_advice": [
+      "Do not just look at the regulations.",
+      "Identify dedicated personnel in the company to tackle the sustainability matters.",
+      "Advocate for managers to change their mindset in regards to sustainability."
+    ],
+    "how_to_help": "Open Indonesian network, and support in search for Indonesian regulations.",
+    "expertise_areas": [
+      "Waste Management",
+      "Resources Management",
+      "Local Community Involvement - CSR - Philanthropy",
+      "Corporate Governance, Mission & Strategy",
+      "Sustainable HR Practices",
+      "Consultants",
+      "Sustainable Supply Chain & Logistic"
+    ],
+    "sustainability_motivation": "I have been working in development program for 20 years, for NGO and the UN. I created my consultancy company to support the private sector on their development and sustainability journey.",
+    "organizational_responsibilities": [
+      "Developing strategy",
+      "Writing proposals",
+      "Engaging with clients and relevant stakeholders",
+      "Engaging expert consultants for implementing field projects",
+      "Monitoring and reporting"
+    ],
+    "challenges_and_solutions": {
+      "major_challenge": "Going beyond just what companies need to do as per regulations, and have a clear social impact in the field",
+      "solution": "Develop strategy with very simple and achievable steps, as well as engaging the right and professional partner for field implementation"
+    },
+    "proudest_achievement": "That clients are coming back to us for more support, in a collaborative way.",
+    "company_services": [
+      "Private sector sustainability strategy development",
+      "Stakeholder engagement",
+      "Field implementation of sustainability projects/programs",
+      "Indonesian regulatory support"
+    ],
+    "solution_codes": [
+      "05.01 - Waste Management General Management & Infrastructures",
+      "05.02 - Waste Management Office Meeting Rooms Printer Rooms",
+      "05.03 - Waste Management Pantry Dining Area Kitchen",
+      "05.04 - Waste Management Packing & Unpacking Area",
+      "05.05 - Waste Management Production Area",
+      "05.07 - Waste Management Miscellaneous Waste",
+      "05.08 - Waste Management As an Individual",
+      "08.00 - Resources Management",
+      "10.00 - Local Community Involvement CSR Philanthropy",
+      "12.00 - Corporate Governance Strategy Mission",
+      "14.00 - Sustainable HR Practices",
+      "14.03 - Sustainable HR Practices Engagement Development Training",
+      "14.05 - Sustainable HR Practices Health Wellbeing",
+      "16.01 - Consultants General",
+      "16.03 - Consultants Social & People Pilar",
+      "16.04 - Consultants Environmental Pilar",
+      "06.06 - Sustainable Supply Chain Organisation Engagement"
+    ]
+  }
+}

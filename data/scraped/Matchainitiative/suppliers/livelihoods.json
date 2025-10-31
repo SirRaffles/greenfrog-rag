@@ -1,0 +1,63 @@
+{
+  "name": "Livelihoods",
+  "tagline": "Carbon financing & sustainable supply",
+  "description": "Livelihoods Venture is a social business that originates, designs and monitors large scale projects of natural ecosystem restoration, regenerative agriculture, agroforestry and rural energy, aiming to create sustainable ecological and social value.",
+  "business_model": "Social business with cooperative model where investors are fully associated with investment decisions and fund governance",
+  "team": {
+    "size": 50,
+    "composition": "Agronomists, foresters, rural development practitioners, carbon, M&E and finance experts",
+    "nationalities": 12
+  },
+  "geographic_presence": "Africa, Asia, Latin America and Europe",
+  "website": "http://www.livelihoods.eu/",
+  "contact": "jdecharentenay@livelihoods-venture.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67dd23ca81de0db48b62de9f_LOGO-LIVELIHOODS-RVB_full_color_horizontal%20-%20j%C3%A9r%C3%A9mie%20de%20charentenay.png",
+  "countries": [
+    "Worldwide",
+    "Singapore",
+    "India",
+    "Indonesia",
+    "Philippines",
+    "France"
+  ],
+  "strategic_pillars": {
+    "value_chain": {
+      "description": "Partners with large corporations that source raw material from agriculture or forestry to transform their supply chain",
+      "crops": ["cocoa", "coconut", "vanilla", "shea", "coffee", "dairy", "palm"],
+      "focus": "Address both poverty and sustainability issues with smallholder farmers"
+    },
+    "carbon_funds": {
+      "name": "Livelihoods Carbon Funds (LCF)",
+      "description": "Work with companies committed to becoming net zero",
+      "service": "Provide high quality carbon credits from Livelihoods projects"
+    }
+  },
+  "project_types": [
+    "Natural ecosystem restoration",
+    "Regenerative agriculture", 
+    "Agroforestry",
+    "Rural energy",
+    "Soil and biodiversity restoration",
+    "Carbon storage"
+  ],
+  "network": "Large network of NGOs, suppliers, and public agencies",
+  "expertise_categories": [
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Sustainable Supply Chain & Logistic",
+    "Carbon Management & Carbon Footprint",
+    "Consultants"
+  ],
+  "solution_codes": [
+    "04.00",
+    "06.00",
+    "15.00",
+    "16.03",
+    "16.04",
+    "15.05",
+    "04.02",
+    "06.01"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/livelihoods",
+  "scraped_date": "2025-07-10"
+}

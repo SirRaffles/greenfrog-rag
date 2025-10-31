@@ -1,0 +1,39 @@
+{
+  "supplier_name": "bbp",
+  "description": "Award-winning energy efficiency company",
+  "url": "https://www.thematchainitiative.com/supplier/bbp",
+  "website": "http://www.bbp.sg",
+  "contact": "hello@bbp.sg",
+  "locations": [
+    "India",
+    "Indonesia",
+    "Mainland China",
+    "Malaysia",
+    "Philippines",
+    "Singapore",
+    "Taiwan",
+    "Thailand",
+    "Vietnam"
+  ],
+  "core_technology": "Patented HVAC optimization technologies, Internet of Things (IoT), proprietary software algorithms, and machine learning",
+  "business_focus": "Energy efficiency optimization and sustainability enablement through advanced technology solutions for corporate carbon reduction and resilience goals",
+  "expertise_categories": [
+    "Sustainable Buildings & Resilient Cities",
+    "Carbon Management & Carbon Footprint",
+    "Consulting - Environmental Pillar"
+  ],
+  "services": [
+    "HVAC optimization",
+    "Carbon neutrality solutions",
+    "Sustainability objectives assistance",
+    "IoT and machine learning solutions"
+  ],
+  "solution_codes": [
+    "11.00",
+    "15.00",
+    "16.04"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/bbp",
+  "scraped_date": "2025-10-31"
+}

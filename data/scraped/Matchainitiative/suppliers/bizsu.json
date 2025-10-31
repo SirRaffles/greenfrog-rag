@@ -1,0 +1,31 @@
+{
+  "supplier_name": "Bizsu",
+  "description": "Products & Services to reduce your company's footprint",
+  "url": "https://www.thematchainitiative.com/supplier/bizsu",
+  "website": "https://bizsu.co",
+  "contact": "contact@bizsu.co",
+  "locations": ["Singapore"],
+  "primary_services": "Innovative, exclusive and regional solutions to reduce air-conditioning energy consumption (25% reduction on average)",
+  "business_focus": "Helping enterprises minimize environmental impact while maintaining business growth, specifically through energy efficiency solutions centered on HVAC systems",
+  "key_offering": "Air-conditioning efficiency improvements claimed to deliver approximately 25% energy consumption reduction on average for client organizations",
+  "expertise_categories": [
+    "Digital Footprint & IT",
+    "Energy & Electricity",
+    "Carbon Management & Carbon Footprint",
+    "Sustainable Supply Chain & Logistics"
+  ],
+  "services": [
+    "HVAC energy efficiency solutions",
+    "Air-conditioning optimization",
+    "Energy reduction strategies"
+  ],
+  "solution_codes": [
+    "02.01",
+    "07.00",
+    "15.04",
+    "06.05"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/bizsu",
+  "scraped_date": "2025-10-31"
+}

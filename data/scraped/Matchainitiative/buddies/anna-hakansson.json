@@ -1,0 +1,57 @@
+{
+  "buddy_profile": {
+    "name": "Anna Håkansson",
+    "title": "Co-founder - Tulya",
+    "location": "Singapore",
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67309a99a30d972d2b49e5ca_Anna_Haakansson%20-%20Anna%20Ha%CC%8Akansson.png",
+    "main_skills": [
+      "Operations",
+      "Strategy", 
+      "Accounting"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing",
+      "Kick Start Help"
+    ],
+    "contact": {
+      "email": "anna@tulya.io",
+      "website": "http://www.tulya.io/"
+    },
+    "introduction": "I enjoy improving processes and creating data-driven insights. My background is in process development and operations as Quality Manager and COO. A few years back, I decided to re-purpose my career and have since then studied different aspects of Sustainable Business Development at the University in Sweden as well as the Sustainability Reporting Standards (GRI, SASB, TCFD and ISSB work in progress). Now, I am here to help SMEs integrate sustainability into their business strategy and operations, focusing on the impact that environmental and social aspects will have on the organisation's ability to create value. By reducing the scope to the most relevant materiality topics, even SMEs with limited resources have a chance to start their transition to more sustainable practices.",
+    "top_3_advice": [
+      "Be brave enough to be transparent with your sustainability agenda. As long as you are authentic with your ambitions and clear with your scope and priorities, there is not much to fear.",
+      "Be open to collaborations – there is so much support available and insights to gain through partnerships.",
+      "Start small and focus only on the most relevant materiality topics when implementing your sustainable agenda. Align with relevant reporting frameworks and use the information for internal decision making to start with."
+    ],
+    "how_to_help": "My contribution is in development and implementation of sustainability strategies. I do my best to stay up to date with local laws, industry regulations and other initiatives from NEA and MAS that will impact companies in different industries operating in Singapore and have a good understanding of the reporting frameworks and the methodologies they are offering. With these insights I can help companies to understand what is relevant for them and how to integrate sustainability into their operations in a stepwise manner, always with a clear connection to the financials. With my experience from the \"Green Innovation Centre\" I'm also happy to share my learnings on how to develop and drive local social impact projects.",
+    "expertise_areas": [
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Corporate Governance, Mission & Strategy",
+      "Carbon Management & Carbon Footprint",
+      "Consultants"
+    ],
+    "sustainability_motivation": "I was struggling to find the intrinsic motivation professionally. Although I was always blessed with having amazing people by my side who believed in me, I was often questioning the purpose of my contribution. In 2019, I had the opportunity to take a career break to do an academic deep dive into sustainability. It was a natural step to take after having reflected on what is important in life, thanks to being a mother of two wonderful daughters and some helpful Buddhist teachings. My experience of Total Quality Management as an approach to achieve long term success through customer satisfaction as well as my understanding of how to integrate business intelligence to create data driven insights, turned out to be valuable skills to apply for Sustainable Business Development.",
+    "organizational_responsibilities": "The purpose of Tulyā is precisely to drive sustainable actions. We are a consultancy firm focusing on SMEs specific needs and challenges to start the transition to more sustainable business models. Understand the context: Our mission is to help SMEs overcome hurdles and to understand how external factors such as stakeholder's expectations, new laws and regulations and other drivers will impact them to be able to identify risks and opportunities. Focus: There must be a clarity in the management team and a strategic approach to sustainability before nudging and education of the employees can be effective. Measure: In the implementation of sustainability in the operations, you can think of ESG metrics as another set of non-financial data that will impact your P&L in some way. Action: Use the ESG metrics to gain insights and drive necessary improvement projects.",
+    "challenges_and_solutions": "It's challenging sometimes to convince companies about the urgency to take action and it can be frustrating to see how some people try to ignore that we are now living in the Anthropocene. Enterprises have to operate differently whether they like it or not and waiting for new laws and regulations to hit you is a bad idea because you are missing out on opportunities. The remedy to overcome procrastination is to start small and develop the organization around a small set of sustainability topics so that they can understand the dynamics and have time to get things right internally.",
+    "proudest_achievement": "I'm most proud of having created my own theory of change and having pursued my vision. Sometimes I wonder why it takes so long to understand and connect with your core values. When you do so, things tend to flow and you feel like you are on an exciting learning journey. It has taken some to figure out how I best can contribute and make a difference. \"Sustainability Management Accounting\" would probably best describe my core competence and refers to how an organization incorporates the economic, environmental, and social components to support internal decision-making.",
+    "solution_codes": [
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.01 - Strategic Analysis",
+      "04.02 - Environmental & Social Impact Identification",
+      "04.03 - Integrated Financial Planning",
+      "04.04 - Data Management & Processes",
+      "04.05 - Teams Alignment",
+      "04.06 - Awareness & Training",
+      "04.07 - Securing External Funding",
+      "12.00 - Corporate Governance, Mission & Strategy",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.03 - Carbon Management Awareness & Training",
+      "15.06 - Carbon Management Carbon Pricing",
+      "16.01 - Consultants General",
+      "16.02 - Consultants Standards & Certification",
+      "16.03 - Consultants Social & People Pilar",
+      "16.04 - Consultants Environmental Pilar"
+    ]
+  }
+}

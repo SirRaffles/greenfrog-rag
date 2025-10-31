@@ -1,0 +1,106 @@
+{
+  "buddy_profile": {
+    "name": "Claire Chabrières",
+    "title": "Founder – ShiokFarm",
+    "location": ["Singapore", "Thailand"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/5f61862aaec24c1b70993884_ShiokFarm_Claire_Chabrieres.jpg",
+    "main_skills": [
+      "Community Building",
+      "Entrepreneurship",
+      "Organic Food"
+    ],
+    "guidance_types": [
+      "Experience & Expertise Sharing",
+      "Kick Start Help"
+    ],
+    "contact": {
+      "email": "claire@shiokfarm.com",
+      "website": "https://www.shiokfarm.com/"
+    },
+    "introduction": "Entrepreneurial by nature, Claire started ShiokFarm in 2015 when realising the high prices for organic fruit and vegetables in Singapore. Based on the French AMAP model, in which Farmers and a community create a partnership in order to reduce food waste and cost, ShiokFarm aims to provide families and offices in Singapore with affordable organic fruit and vegetables while reducing food waste. Starting with a small Facebook group, Claire has succeeded in making ShiokFarm an outstanding organic business. ShiokFarm received its BCorp certification in 2023. As of 2025, it has launched B2B (business-to-business) operations in Hong Kong (Fruit@TheOffice).",
+    "company_details": {
+      "name": "ShiokFarm",
+      "founded": 2015,
+      "model": "French AMAP model - farmer-community partnership",
+      "mission": "Provide affordable organic fruit and vegetables while reducing food waste",
+      "certifications": ["BCorp certification (2023)"],
+      "expansion": "B2B operations in Hong Kong (Fruit@TheOffice) as of 2025"
+    },
+    "business_model": {
+      "partnership": "Partners with farms and commits to buy their harvest",
+      "distribution": "Produces split among members through weekly bags curated to needs",
+      "target": "Families and offices in Singapore",
+      "origin": "Started as small Facebook group"
+    },
+    "top_3_advice": [
+      "Ask for help. Do not hesitate to ask for people's input. Join networks of people who are trying to have an impact. People are usually happy to help, especially if your project is a positive one. One day, someone will ask you for help and it will be your turn. It is all a big wheel.",
+      "Get a coach. Sharing, exchanging ideas will allow you to go much further and faster than if you do things by yourself.",
+      "Be patient: it is a long road."
+    ],
+    "how_to_help": "I am happy to discuss their project and see how I can help them. I now have a bit of experience with logistics and community building.",
+    "expertise_areas": [
+      "Food & Beverage",
+      "Circular Economy",
+      "Sustainable Supply Chain & Logistic",
+      "Corporate Governance, Mission & Strategy",
+      "Local Community Involvement - CSR - Philanthropy",
+      "Carbon Management & Carbon Footprint"
+    ],
+    "supply_chain": {
+      "primary_sources": "Thailand and Malaysia farms",
+      "occasional_source": "Australia (for variety)",
+      "transportation": "Mainly by truck (not plane)",
+      "carbon_comparison": {
+        "plane_from_australia": "Family needs to plant 3 trees annually (40-year growth)",
+        "truck_from_thailand": "Family needs to plant 1 tree every 10 years"
+      }
+    },
+    "partner_evaluation_criteria": [
+      "Organic certification",
+      "Carbon footprint to bring produces from farm",
+      "Packaging practices",
+      "Motivation to grow organic food"
+    ],
+    "challenges_and_solutions": {
+      "main_difficulty": "Making people change their habits - required patience and determination",
+      "plastic_packaging": "Took 6 months to make Thai farms stop wrapping everything in plastic",
+      "transportation": "Took 4 years to make them use trucks instead of planes",
+      "appearance_standards": "Still working on getting 'funny looking' vegetables/fruit",
+      "farmer_resistance": "Understanding fears about freshness - did trials, some fails, now works"
+    },
+    "food_waste_prevention": {
+      "model_basis": "Entire model based on saving food waste - main ShiokFarm goal",
+      "commitment_chain": "Farmers commit to ShiokFarm, members commit to ShiokFarm",
+      "visibility_benefit": "Giving visibility to farmers saves significant food waste"
+    },
+    "packaging_waste_reduction": {
+      "approach": "Reduce packaging to minimum",
+      "reuse": "Donate cartons and foam boxes to charities or other farms",
+      "community_sharing": "Advertise on social networks for people to pick up from warehouse"
+    },
+    "proudest_achievements": {
+      "community": "Community and hosts who distribute bags through collection points network",
+      "host_network": "Collection points hosted by people supporting project and community",
+      "carbon_offset": {
+        "partner": "Eden Reforestation",
+        "activity": "Plant mangrove in Indonesia",
+        "achievement": "1,500+ trees planted",
+        "offset": "131.6 tons of CO2 emissions annually"
+      }
+    },
+    "distribution_model": "Network of collection points hosted by community supporters",
+    "solution_codes": [
+      "09.01 - Food & Beverage General",
+      "09.02 - Food & Beverage Food & Drink Sourcing",
+      "03.01 - Circular Economy General & Internal Assessment",
+      "03.02 - Circular Economy Eco-design",
+      "06.00 - Sustainable Supply Chain",
+      "06.03 - Sustainable Supply Chain Procurement",
+      "06.05 - Sustainable Supply Chain Logistics & Distribution",
+      "12.00 - Corporate Governance Strategy Mission",
+      "10.00 - Local Community Involvement CSR Philanthropy",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.04 - Carbon Management Reduction Strategy Overview"
+    ]
+  }
+}

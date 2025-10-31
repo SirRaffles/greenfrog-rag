@@ -1,0 +1,61 @@
+{
+  "buddy_profile": {
+    "name": "Barney Swan",
+    "title": "CEO - ClimateForce",
+    "location": ["Australia"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6554df5b51db774bed4dfa0c_Barney%20Headshot_%20Low%20Res%20-%20Barney%20Swan%20LIGHT.jpg",
+    "main_skills": [
+      "Climate Tech",
+      "Biodiversity",
+      "Regeneration"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "barney.swan@climateforce.org.au",
+      "website": "http://www.tropicalregen.org/"
+    },
+    "introduction": "I'm passionate about walking the talk, breaking the silos within sustainability and making pathways relevant for all walks of life (especially heavy industry) to diversify their current standard operating procedures.",
+    "top_3_advice": [
+      "You are what you eat",
+      "Set boundaries with technology",
+      "Volunteer locally"
+    ],
+    "how_to_help": "Supporting the conversation with actions and advice for business leaders, employees and investors.",
+    "expertise_areas": [
+      "Carbon Management & Carbon Footprint",
+      "Resources Management",
+      "Local Community Involvement - CSR - Philanthropy",
+      "Waste Management",
+      "Sustainable HR Practices",
+      "Sustainable Supply Chain & Logistic"
+    ],
+    "sustainability_motivation": "Through a regenerative portfolio, I'm building resilience in rural locations, providing jobs, research capacity and the protection of globally significant ecosystems. I am currently based in Far North Queensland, Australia, pioneering a venture to restore 527 acres of the world's oldest rainforest, Daintree. My team is leveraging next-generation web3 technologies to optimize traditional land management knowledge by delivering organically managed geo-tagged trees in a point cloud dashboard. Through a biodiversity program, advanced robotics, and cutting-edge R&D, ClimateForce is building a scalable model to diversify land management in the tropics. Encouraging nature-based solutions and building trust in sustainable development for businesses, students, and communities.",
+    "organizational_responsibilities": "I am managing the totality of running a reforestation project whilst keeping the team aligned on reducing their impact through food, technology and energy options. We are 100% powered off the sun, reducing plastic waste, and plant-based fueled when on the farm.",
+    "challenges_and_solutions": "Managing a remote business without promixity to water, waste, energy and food services is by itself a challenge. Being a vertical supply chain is hard but a needed model.",
+    "proudest_achievement": "Growing a business from nothing. With 9 full time employees now and over 300+ volunteers engaged on our farm space.",
+    "project_details": {
+      "location": "Far North Queensland, Australia",
+      "ecosystem": "Daintree rainforest (world's oldest rainforest)",
+      "area": "527 acres",
+      "technologies": "web3 technologies, advanced robotics, point cloud dashboard",
+      "approach": "organically managed geo-tagged trees",
+      "team_size": "9 full-time employees",
+      "volunteers": "300+ engaged volunteers"
+    },
+    "solution_codes": [
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.02 - Carbon Management Goal Settings",
+      "15.04 - Carbon Management Reduction Strategy Overview",
+      "08.00 - Resources Management",
+      "10.00 - Local Community Involvement CSR Philanthropy",
+      "05.01 - Waste Management General Management & Infrastructures",
+      "14.01 - Sustainable HR Practices People Strategy Culture & Values",
+      "06.06 - Sustainable Supply Chain Organisation Engagement",
+      "06.03 - Sustainable Supply Chain Procurement"
+    ]
+  }
+}

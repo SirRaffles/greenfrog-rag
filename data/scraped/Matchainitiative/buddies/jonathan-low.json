@@ -1,0 +1,23 @@
+{
+  "name": "Jonathan Low",
+  "position": "Sustainability Scientist",
+  "company": "Research Institute",
+  "location": "Singapore",
+  "email": "jlowzz@gmail.com",
+  "website": null,
+  "main_skills": ["Circularity", "Transformation", "Life Cycle Assessment"],
+  "guidance_areas": ["Experience & Expertise Sharing"],
+  "introduction": "I'm a scientist who is passionate about creating, proliferating, and assessing sustainable technologies. My team and I develop tools that enable companies and governments to make data-driven choices on sustainability initiatives. Our expertise includes maturity assessments, business model innovation, energy modelling, industrial symbiosis, and life cycle assessments. We also train companies to use these tools effectively. I've personally guided several companies to perform a holistic sustainability assessment of their organisation and create targeted action plans.",
+  "top_3_advice": ["Apply life cycle thinking to prevent unintended effects of sustainability initiatives.", "Work across different parts of your own organisation to create the most impact.", "Engage with a passionate community for inspiration."],
+  "how_can_help": "I would love to chat about how to prioritize and implement sustainable technologies and importantly, track their impact.",
+  "expertise_areas": ["Circular Economy", "Waste Management", "Resources Management", "Corporate Governance, Mission & Strategy", "Carbon Management & Carbon Footprint", "Green office"],
+  "sustainability_journey": "I grew up in Singapore but moved to Shanghai during high school because my father was posted there for work. Every day on my way to school, I saw black smoke spewing from cars and chimneys. It made me very aware of the impact that economic growth has on the planet. Although I recognise the importance of growth, I always feel that there is a better way to go about it without harming the environment.",
+  "sustainable_actions": "My organisation is a research institute focusing on manufacturing technologies. I helped to integrate sustainable thinking into various research groups outside my area of expertise - such as robotics and metal forming - by training colleagues to incorporate life cycle thinking into their projects.",
+  "challenges_overcome": "There are over a dozen different research groups across the company all working on very different, nuanced areas that require a deep level of expertise. It's not always easy to understand their research, and even more challenging to integrate elements of sustainable thinking into the research. To encourage teams to proactively incorporate sustainability into their research areas, I first invested time to understand the broad sustainability trends in each of these areas. Next, I reached out to individual researchers and each of the group leaders to learn about their specific research work, long term goals and discuss sustainability trends.",
+  "most_proud_of": "I was part of a team that helped a government agency quantify emissions from an entire industry sector in Singapore. We ultimately developed a comprehensive series of mitigation measures to address some of the hotspots identified that can potentially mitigate 1% of Singapore's national carbon emissions.",
+  "technical_expertise": ["Maturity assessments", "Business model innovation", "Energy modelling", "Industrial symbiosis", "Life cycle assessments"],
+  "organizational_context": "Research institute focusing on manufacturing technologies with over a dozen different research groups",
+  "cross_functional_integration": "Trained colleagues in robotics and metal forming to incorporate life cycle thinking",
+  "government_impact": "Helped government agency quantify emissions from entire industry sector with potential to mitigate 1% of Singapore's national carbon emissions",
+  "environmental_awakening": "Daily exposure to black smoke from cars and chimneys in Shanghai during high school"
+}

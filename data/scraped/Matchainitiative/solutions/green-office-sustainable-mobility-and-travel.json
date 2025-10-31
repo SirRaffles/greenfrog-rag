@@ -1,0 +1,63 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-sustainable-mobility-and-travel",
+  "category": "Green Office",
+  "subcategory": "Sustainable Mobility & Travel", 
+  "scraped_at": "2025-06-24T13:30:00Z",
+  "solutions": [
+    {
+      "title": "Promote Sustainable Employees commutes",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "strategies": [
+        "Use car less : offer incentives to employees coming by bike, public transports or walking",
+        "Provide bicycle parkings, showers places",
+        "If a car is necessary for meetings, rent a shared car or taxi",
+        "Replace private car allowances with a packaged allowance for public transport, car sharing and ride hailing",
+        "Raise awareness on commutes carbon footprint and teach staff how to track their daily carbon footprint based on their mobility choices, and how to offset their carbon emissions"
+      ]
+    },
+    {
+      "title": "Adopt sustainable policy for travels and moves",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I3",
+      "travel_reduction": [
+        "Decrease business trips frequency & favor longer stays",
+        "Continue using videoconference as much as possible",
+        "Incentivize your employees to travel less by setting up objectives in terms of travels (example : max 2 regional flights per month...)",
+        "Invest the savings made in other areas (brainstorm ideas with a sustainable give back outlook)"
+      ],
+      "carbon_offsetting": [
+        "Measure and offset the travels' Carbon Footprint of your employees travelling abroad or relocating",
+        "Offset the CO2 emissions with some mechanisms (example : Plant a tree for each longhaul flight, or for each tradeshow you exhibit)"
+      ],
+      "relocation": "When relocating, favor to use recycled boxes for packing and shipping option (less emissions) than air freight"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "expertise": "digital technology, IT consulting, education, F&B business, technology for good",
+      "experience": "worked in Asia for 12 years (Shanghai, Hong Kong and Singapore) within the digital and technology space",
+      "website": "palo-it.com"
+    },
+    {
+      "name": "Claire Kolly",
+      "title": "HR Consulting & Executive Coaching - EDLT.global",
+      "expertise": "HR, executive coaching, sustainable HR practices, ESG development, climate change coaching",
+      "experience": "more than 20 years in the HR field working in global environments, accompanying businesses in their development and transformations",
+      "certifications": "PCC-ICF certified coach, Hogan, Gallup Clifton Strengths, Individual and Team Coaching Certified, Climate Change Coach",
+      "website": "EDLT.global"
+    },
+    {
+      "name": "Ivona Balint-Kowalczyk",
+      "title": "Sustainability consultant, Founder - Sustainao",
+      "expertise": "sustainability consulting, decarbonisation strategies, sustainability reporting, sustainability auditing",
+      "experience": "10 years of experience, previously worked as a sustainability auditor at KPMG France across 15 countries",
+      "education": "MBA in Corporate Sustainability, Master's in Environmental Management, Bachelor's in Chemistry and Biology",
+      "website": "sustainao.com"
+    }
+  ]
+}

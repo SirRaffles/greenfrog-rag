@@ -1,0 +1,66 @@
+{
+  "url": "https://www.thematchainitiative.com/about-us",
+  "title": "About Us - The Matcha Initiative",
+  "scraped_at": "2025-01-14T10:30:00Z",
+  "content": {
+    "vision": "Adaptability is about the powerful difference between adapting to cope and adapting to win. — Max McKeown",
+    "mission": {
+      "find_solutions": "TMI is solution-driven: from basic actions you can implement yourself within your company to products & services that require a third party, we list existing solutions and suppliers to encourage you to take action here and now.",
+      "understand_picture": "People who are in charge of developing sustainable practices may come from various departments, with different levels of knowledge about the topic : Marketing, HR, Finance, Procurement... That is why we also provide a starter kit , impact figures, case studies, resources, how to's, etc. to bring some context and guidelines for well-informed decisions.",
+      "leverage_cooperation": "It is a win-win-win: whether you are looking for a solution or you can provide one - or both... The more companies integrating sustainability in their daily operations, the better for the planet. Dare the change, then share the change."
+    },
+    "key_features": [
+      "Free of charge",
+      "Constantly updated", 
+      "Focuses on Singapore and its surroundings"
+    ],
+    "team_members": [
+      {
+        "name": "Anne LANGOURIEUX",
+        "role": "Founding Member & Leader, The Matcha Initiative",
+        "description": "Living in Asia for more than 20 years, I had 2 professional lives, first in the digital & e-commerce business world and then in the humanitarian NGO world. The Matcha Initiative is a bridge between those 2 worlds.",
+        "linkedin": "https://www.linkedin.com/in/anne-langourieux-1263383/"
+      },
+      {
+        "name": "Mimi NGUYEN", 
+        "role": "Founding Member & Board Member, The Matcha Initiative | Chief Happiness Officer, Handprint",
+        "description": "Born in Vietnam, fell in love with Paris, now calling Singapore home. I'm a lifelong learner, nature lover and foodie. Currently regenerating the planet with a greentech startup (Handprint).",
+        "linkedin": "http://linkedin.com/in/mimi-nguyen"
+      },
+      {
+        "name": "Jehanne HAKIME",
+        "role": "Founding Member & Board Member, The Matcha Initiative | Consultant, Spectra", 
+        "description": "A passionate strategist, Jehanne is the glue between public and private stakeholders. Her experience ranges from cultural, human & economic development, poverty reduction, heritage preservation, urban sustainability and sports development in Asia, Africa & Europe.",
+        "linkedin": "http://linkedin.com/in/jehanne-hakime-87ab334"
+      },
+      {
+        "name": "Virgile VIASNOFF",
+        "role": "Founding Member, The Matcha Initiative | Assistant Professor, National University Singapore",
+        "description": "I am a professor of biomechanics at the National University of Singapore and CNRS. I coordinate the green lab policy of the Mechanobiology Institute.",
+        "linkedin": "https://mbi.nus.edu.sg/virgile-viasnoff/"
+      },
+      {
+        "name": "Rachel Chiam",
+        "role": "Country Coordinator (Singapore), The Matcha Initiative",
+        "description": "I graduated in 2024 with a Bachelors in Social Sciences, majoring in Politics, Law, and Economics (PLE), specialising in Global Studies. I work many roles at TMI, particularly Business Development, Communications & Events, and Community Engagement.",
+        "linkedin": "https://www.linkedin.com/in/rachel-chiam/"
+      }
+    ],
+    "boards": {
+      "solutions_rating_board": [
+        "CHAN Mun Wei - Founder & Principal Consultant, SustainableSG",
+        "Claire Kolly - Director, HR Consulting & Executive Coaching, EDLT.global", 
+        "Isabelle de Lovinfosse - Sustainability Practitioner & Lecturer",
+        "Ivona Balint-Kowalczyk - Sustainability Consultant & Founder, Sustainao",
+        "Rémi Cesaro - Director & Founder, Zero Waste City"
+      ],
+      "suppliers_validation_board": [
+        "Anne LANGOURIEUX - Founding Member & Leader, The Matcha Initiative",
+        "Ivona Balint-Kowalczyk - Sustainability Consultant & Founder, Sustainao",
+        "Jehanne HAKIME - Founding Member & Board Member, The Matcha Initiative",
+        "Mary Kon-Sun-Tack - Founder - Journey Makers",
+        "Mimi NGUYEN - Founding Member & Board Member, The Matcha Initiative"
+      ]
+    }
+  }
+}

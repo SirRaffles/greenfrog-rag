@@ -1,0 +1,63 @@
+{
+  "name": "The Matcha Initiative",
+  "tagline": "Public masterclasses & corporate trainings",
+  "organization_type": "Not-for-profit organisation",
+  "description": "We are a not-for-profit organisation, a network of sustainability practitioners who share their expertise to create a ripple effect. Through our platform, we showcase best practices, suppliers and peers who have walked the talk.",
+  "website": "http://thematchainitiative.com/",
+  "contact": "team@thematchainitiative.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67a36a2a7190162e8b83df21_Untitled%20(40%20x%2040%20px)%20(256%20x%20256%20px).png",
+  "countries": [
+    "Australia",
+    "Indonesia",
+    "Malaysia",
+    "Singapore",
+    "Thailand",
+    "Japan",
+    "Vietnam"
+  ],
+  "public_education": [
+    "Online platform",
+    "Themed evenings",
+    "Masterclasses",
+    "Best practices showcase",
+    "Suppliers directory",
+    "Peer networking"
+  ],
+  "corporate_services": [
+    "Tailored workshops",
+    "Training programs (half day to 6 days)",
+    "Lunch & Learn discussions",
+    "Best practices sharing",
+    "Roadmaps and action plans"
+  ],
+  "volunteer_opportunities": [
+    "Enrich platform content",
+    "Build Best Practices & Solutions",
+    "Write articles",
+    "Organize events",
+    "Help create vibrant community"
+  ],
+  "mission": "Create a ripple effect by sharing sustainability expertise and educating public and companies on sustainability",
+  "expertise_categories": [
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Circular Economy",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "solution_codes": [
+    "14.01",
+    "14.03",
+    "15.03",
+    "16.01",
+    "16.03",
+    "16.04",
+    "10.00",
+    "03.07",
+    "06.06"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/the-matcha-initiative",
+  "scraped_date": "2025-07-10"
+}

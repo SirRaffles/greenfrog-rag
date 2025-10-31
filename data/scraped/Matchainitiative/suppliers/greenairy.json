@@ -1,0 +1,45 @@
+{
+  "name": "Greenairy",
+  "tagline": "Beautiful, smart plant towers",
+  "location": "Singapore",
+  "contact": {
+    "email": "hello@greenairy.sg",
+    "website": "https://www.greenairy.sg/"
+  },
+  "description": "Greenairy is a climate-tech startup merging nature with technology to solve indoor air pollution and spark climate awareness among youth. We build smart plant towers that use advanced phytoremediation and IoT sensors to remove toxic gases from indoor spaces 60% faster than conventional purifiers, without using filters or chemicals. Our towers are already being piloted in offices across Singapore to create healthier workspaces. We also run Greenairy Supergreens, a microgreen farming programme for schools. With modular growing towers and a gamified app, we make sustainability topics like food systems, waste, and energy come alive in the classroom. Over 200 students have participated in our workshops, and our towers are now used in multiple schools.",
+  "services": [
+    "Smart plant towers for indoor air purification",
+    "Phytoremediation technology",
+    "IoT sensors for air quality monitoring",
+    "Microgreen farming programmes for schools",
+    "Educational workshops on sustainability",
+    "Gamified learning applications"
+  ],
+  "key_features": [
+    "60% faster than conventional air purifiers",
+    "No filters or chemicals required",
+    "Advanced phytoremediation technology",
+    "IoT sensors for monitoring",
+    "Modular growing towers",
+    "Educational programmes for schools"
+  ],
+  "impact": {
+    "students_reached": "200+",
+    "schools_equipped": "Multiple schools with towers",
+    "office_pilots": "Piloted in offices across Singapore"
+  },
+  "expertise_areas": [
+    "Green office",
+    "Sustainable Buildings & Resilient Cities"
+  ],
+  "solution_categories": {
+    "green_office": ["01.00", "01.06"],
+    "sustainable_buildings": ["11.00"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/supplier/greenairy",
+    "profile_type": "supplier",
+    "data_completeness": "complete"
+  }
+}

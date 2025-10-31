@@ -1,0 +1,25 @@
+{
+  "supplier_name": "Concourse",
+  "description": "Sustainable design, project management, activation and recovery services for brands building retail stores and branded activations in airports around the world",
+  "url": "https://www.thematchainitiative.com/supplier/concourse",
+  "website": "https://concoursedm.com",
+  "contact": "contact@concoursedm.com",
+  "locations": ["Singapore", "Worldwide"],
+  "services": [
+    "Sustainable design and project management",
+    "Minimizing carbon footprint during retail store design",
+    "Brand activation design, installation, and recovery phases"
+  ],
+  "expertise_categories": [
+    "Consulting - Environmental Pillar",
+    "Circular Economy",
+    "Carbon Management & Carbon Footprint",
+    "Sustainable Supply Chain & Logistics",
+    "Sustainable Buildings & Resilient Cities",
+    "Responsible Marketing"
+  ],
+  "solution_codes": ["16.04", "03.01", "03.02", "15.04", "06.02", "11.00", "13.00"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/concourse",
+  "scraped_date": "2025-10-31"
+}

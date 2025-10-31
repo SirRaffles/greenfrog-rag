@@ -1,0 +1,202 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/carbon-management-carbon-footprint",
+  "title": "Carbon Management & Carbon Footprint - All Solutions",
+  "scraped_at": "2025-01-14T10:45:00Z",
+  "content": {
+    "description": "Focus on carbon management is growing as it becomes clear that all companies need to move urgently towards net zero ambition to tackle climate change and future-proof their businesses. Whether voluntarily or to meet regulatory requirements, companies need to take ownership of their activities, calculate and understand the source of their emissions and plan for their reduction and potential offsetting.",
+    "key_goals": {
+      "timeline": "To meet the Paris Climate Agreement's goal, we need to significantly reduce our GHG emissions this decade, halve GHG emissions by 2030, and achieve net-zero emissions by 2050.",
+      "temperature_target": "This is the only way to keep global warming well below 2°C, avoid the worst impacts of climate collapse, and strengthen potential adaptation."
+    },
+    "solutions": [
+      {
+        "title": "Step 1: Define project boundaries",
+        "cost": "C1",
+        "effort": "E1", 
+        "impact": "I2",
+        "description": "Map your activities and define the operational boundaries for your carbon footprint assessment using Scopes 1, 2 and 3 as defined by the Greenhouse Gas Protocol.",
+        "scope_definitions": {
+          "scope_1": "Direct emissions from sources owned or controlled by your company, such as company vehicles, your factories or buildings burning fuel.",
+          "scope_2": "Indirect emissions from the generation of purchased electricity, steam, heat and cooling consumed in facilities or operations owned or controlled by your company.",
+          "scope_3": "Indirect emissions from transporting your products to the point of sale, your employees' business flights and commutes, the raw materials you use in your products..."
+        }
+      },
+      {
+        "title": "Step 2: Choose a Carbon Footprint Calculator / ESG Management Platform", 
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Choose a methodology and build or use an existing carbon footprint calculator or ESG Management Platform.",
+        "criteria": [
+          "Reporting standards and methodologies",
+          "Training and certification"
+        ]
+      },
+      {
+        "title": "Step 3: Collect data & emission factors",
+        "cost": "C1", 
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Focus on collecting data activities and emission factors to measure carbon emissions.",
+        "components": ["Data activities", "Emission factors"]
+      },
+      {
+        "title": "Define short-term & long-term commitment",
+        "cost": "C1",
+        "effort": "E2", 
+        "impact": "I3",
+        "description": "Define a strategy to achieve net-zero carbon emissions with interim (2030) and long-term (2050) targets in line with your industry's 1.5°C roadmap.",
+        "success_factors": [
+          "Identify champions within your team",
+          "Set aside some budget",
+          "Allocate sufficient resources", 
+          "Make it an overall KPI"
+        ]
+      },
+      {
+        "title": "Report & Share your progress",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Show leadership by promoting your achievements and sharing your challenges internally and externally.",
+        "channels": {
+          "internal": "newsletters, monthly meetings, town halls, events",
+          "external": "website, meaningful reports to stakeholders"
+        }
+      },
+      {
+        "title": "Use third party assessment to improve your actions plan",
+        "cost": "C2",
+        "effort": "E2", 
+        "impact": "I2",
+        "description": "Companies can choose to disclose and be certified to help improve and better communicate their net-zero strategy.",
+        "programs": [
+          "LowCarbonSG",
+          "The Climate Disclosure Project (CDP)",
+          "The Science Based Targets Initiative (SBTi)"
+        ]
+      },
+      {
+        "title": "Train employees on global sustainability challenges & personal action",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2", 
+        "description": "Understanding the science behind sustainability challenges is key for you and your team to engage people and reduce the cognitive biases that affect our perceptions of climate change."
+      },
+      {
+        "title": "Train employees on carbon management",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Carbon Management is a new field for most yet we do not have enough time to wait for the next generation to be educated about it."
+      },
+      {
+        "title": "Build an engaged workforce",
+        "cost": "C1", 
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Strengthen your sustainability strategy by building an engaged workforce through collective brainstormings, trainings, compensation & green KPIs."
+      },
+      {
+        "title": "Reduce carbon emissions from the buildings your company operates",
+        "cost": "C2",
+        "effort": "E3", 
+        "impact": "I3",
+        "description": "A technical audit of your premises will assess the potential for reducing carbon emissions from the buildings your company operates.",
+        "steps": [
+          "Improve energy efficiency of building & facilities", 
+          "Switch from fossil fuels to electricity",
+          "Connect to urban heating/cooling networks",
+          "Produce renewable energy on site"
+        ]
+      },
+      {
+        "title": "Optimize transportation and mobility",
+        "cost": "C2",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "Companies can reduce greenhouse gas emissions from passenger and freight transport.",
+        "approaches": [
+          "Avoiding travel",
+          "Switching to lower carbon transport systems", 
+          "Reducing carbon intensity of fuels"
+        ]
+      },
+      {
+        "title": "Decarbonise your products & services",
+        "cost": "C3",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "Optimize processes, products and services. Reduce packaging & waste through Life Cycle Analysis (LCA)."
+      },
+      {
+        "title": "Decarbonise your value chain", 
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "First define requirements within your value chain and implement sustainable procurement policy."
+      },
+      {
+        "title": "Leverage available grants and subsidies",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Look for grant and subsidy programmes that may be available to help you secure funding for your projects."
+      },
+      {
+        "title": "Buy certified carbon credits",
+        "cost": "C3",
+        "effort": "E2", 
+        "impact": "I3",
+        "description": "To offset your remaining hard-to-abate emissions, you can buy carbon credits. One credit is meant to offset 1 metric tonne of CO2e."
+      },
+      {
+        "title": "Buy nature credits",
+        "cost": "C3",
+        "effort": "E2",
+        "impact": "I2", 
+        "description": "An emerging market that works on the same principle as carbon credits but supports a much broader variety of impactful projects, environmentally or socially."
+      },
+      {
+        "title": "Think about insetting in your value chain",
+        "cost": "C3",
+        "effort": "E3",
+        "impact": "I3",
+        "description": "Insetting refers to investing in local sustainability projects that directly address emissions within a company's operational footprint."
+      },
+      {
+        "title": "Buy Renewable Energy Certificates (REC)",
+        "cost": "C2", 
+        "effort": "E2",
+        "impact": "I3",
+        "description": "RECs are market-based instruments used to track production of electricity from qualifying renewable energy sources."
+      },
+      {
+        "title": "Understand carbon tax & Emissions Trading Systems (ETS)",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Companies should be aware that carbon pricing initiatives are a highly effective strategy for governments to close the gap between climate targets and implementation."
+      },
+      {
+        "title": "Consider an internal carbon pricing",
+        "cost": "C1", 
+        "effort": "E3",
+        "impact": "I2",
+        "description": "Companies can use internal carbon pricing to assign a monetary value to carbon emissions as part of their net zero strategy."
+      }
+    ],
+    "buddies_featured": [
+      "Ivona Balint-Kowalczyk - Sustainability consultant, Founder - Sustainao",
+      "Mun Wei Chan - Founder & Principal Consultant - SustainableSG", 
+      "Vincent Desclaux - Europe Regional Managing Director - Palo IT",
+      "Ching Hu - Head, Net Zero Transition – Singapore Business Federation (SBF)",
+      "Mei Yee Chan - Senior Programme Manager - TÜV SÜD"
+    ],
+    "rating_system": {
+      "cost": "1 = lowest, 3 = highest",
+      "effort": "1 = lowest, 3 = highest", 
+      "impact": "1 = lowest, 3 = highest"
+    }
+  }
+}

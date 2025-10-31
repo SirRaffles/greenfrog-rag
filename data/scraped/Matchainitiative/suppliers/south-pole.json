@@ -1,0 +1,71 @@
+{
+  "supplier_name": "South Pole",
+  "description": "Climate solutions provider",
+  "url": "https://www.thematchainitiative.com/supplier/south-pole",
+  "website": "https://www.southpole.com/",
+  "contact": "info@southpole.com",
+  "locations": ["Singapore", "Worldwide"],
+  "company_background": {
+    "founded": "2006",
+    "focus": "Forefront of decarbonization",
+    "approach": "Comprehensive strategies that turn climate action into long-term business opportunities"
+  },
+  "scale_and_reach": {
+    "team_size": "1,200+ experts",
+    "clients_served": "Over 1,000 clients",
+    "offset_projects": "Soon to have developed 800 offset projects",
+    "global_offices": "30 offices globally"
+  },
+  "target_clients": [
+    "Fortune 500 companies",
+    "Governments",
+    "Organizations worldwide"
+  ],
+  "services": [
+    "Comprehensive decarbonization strategies",
+    "Project development",
+    "Innovative tools across finance",
+    "Climate neutral APIs",
+    "Carbon offset solutions",
+    "Net Zero goal achievement"
+  ],
+  "social_impact": [
+    "Tens of thousands of jobs created in developing countries",
+    "Hundreds of millions of dollars for business",
+    "Improved brand value",
+    "Better living and working conditions for vulnerable communities"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Digital Footprint & IT",
+    "Circular Economy",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Waste Management",
+    "Sustainable Supply Chain & Logistic",
+    "Energy & Electricity",
+    "Resources Management",
+    "Sustainable Buildings & Resilient Cities",
+    "Corporate Governance, Mission & Strategy",
+    "Carbon Management & Carbon Footprint",
+    "Consultants"
+  ],
+  "carbon_management_expertise": [
+    "All Solutions",
+    "Measure & Report",
+    "Goal Settings",
+    "Awareness & Training",
+    "Reduction Strategy Overview",
+    "Carbon Offset",
+    "Carbon Pricing"
+  ],
+  "solution_codes": [
+    "01.07", "02.01", "03.01", "04.00", "05.01", "06.00", "07.00", "08.00", 
+    "11.00", "12.00", "15.00", "15.01", "15.02", "15.03", "15.04", "15.05", 
+    "15.06", "16.04", "04.01", "04.02", "04.03", "04.05", "04.04", "04.07", 
+    "06.01", "06.03"
+  ],
+  "positioning": "More than a consultancy - comprehensive climate solutions provider",
+  "geographic_reach": "Global with strong presence in Singapore and developing countries",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

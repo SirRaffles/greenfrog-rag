@@ -1,0 +1,56 @@
+{
+  "name": "Quentin Dumas",
+  "position": "Sustainable Value Chain Expert - Accenture",
+  "location": [
+    "Hong Kong",
+    "Singapore",
+    "Thailand"
+  ],
+  "contact": {
+    "email": "q.dumas@gmail.com"
+  },
+  "main_skills": [
+    "Carbon Footprint",
+    "Circularity",
+    "Products"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Quentin has over 15 years experience in Responsible Value Chain. He started as a Sustainable material experts to slowly cover the entire Value chain and life cycle of products. In Singapore, Quentin worked for Accenture in Sustainable Value Chain Strategy. On the side, Quentin created LoSiam - Le Laboratoire Olfactif du Siam - and chairs now its board.",
+  "top_advice": [
+    "Look into alternatives and try to optimize",
+    "Use sustainability as a value driver (if not regulated)",
+    "Implement valuable sustainable actions"
+  ],
+  "how_they_help": "I have done a few trainings, but mainly people can reach out if they need to solve an issue related to my fields of expertise.",
+  "expertise_areas": [
+    "Circular Economy",
+    "Carbon Management & Carbon Footprint",
+    "Sustainable Supply Chain & Logistic",
+    "Resources Management",
+    "Corporate Governance, Mission & Strategy",
+    "Consultants"
+  ],
+  "sustainability_journey": "I started my career in procurement where I was purchasing gigantic amounts of 'Stuff' that was used once and thrown away. Very quickly I started to implement new ideas to reduce waste or lengthen the usage of products. Then I focused on the manufacturing side, how to use less materials, reduce wastage, optimize energy and water efficiency, etc...",
+  "implemented_actions": "I have worked on several closed loop recycling programs and developed products to increase life cycle and increase recyclability. Then I started to look into scope 3 and mainly our manufacturing partners. The main tasks were to define 'how to': quantify, monitor and reduce scope 3 emissions. A lot of this started with workers engagement programs with R&D, production and quality teams.",
+  "challenges_faced": "Quality is a main issue when trying to replace materials in a product, but I think also marketing is an issue as brands have marketed the same way for decades and it is difficult to change mindset.",
+  "solutions_approach": "Reducing our consumption and being smart with recycling are key. I believe our really challenge is to phase out Fossil fuel and this will be sparked by innovation.",
+  "proudest_achievement": "Being part of The Matcha Initiative!",
+  "solution_categories": {
+    "circular_economy": ["03.00", "03.01", "03.02", "03.03", "03.04", "03.05", "03.06", "03.07"],
+    "carbon_management": ["15.00", "15.02", "15.04"],
+    "sustainable_supply_chain": ["06.00", "06.01", "06.02", "06.03", "06.04", "06.05", "06.06"],
+    "resources_management": ["08.00"],
+    "corporate_governance": ["12.00"],
+    "consultants": ["16.01", "16.02", "16.04"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/quentin-dumas",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

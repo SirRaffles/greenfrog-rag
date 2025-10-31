@@ -1,0 +1,28 @@
+{
+  "supplier_name": "Chemistry",
+  "description": "Planet-centric innovation and design consultancy",
+  "url": "https://www.thematchainitiative.com/supplier/chemistry",
+  "website": "https://chemistryteam.com",
+  "contact": "info@chemistryteam.com",
+  "locations": ["Singapore", "Netherlands"],
+  "founded": "2000",
+  "company_overview": "Independent B-Corp certified strategic design firm specializing in helping organizations address complex systemic challenges through design-centered solutions, with circularity and sustainability at its core",
+  "expertise_categories": [
+    "Circular Economy",
+    "Eco-design",
+    "Sustainable Manufacturing",
+    "Consulting"
+  ],
+  "services": [
+    "Circular Economy consulting",
+    "Eco-design",
+    "Sustainable Manufacturing",
+    "Environmental consulting",
+    "Social/People consulting"
+  ],
+  "solution_codes": ["03.00", "03.02", "03.03", "16.01", "16.03", "16.04"],
+  "certifications": ["B-Corp"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/chemistry",
+  "scraped_date": "2025-10-31"
+}

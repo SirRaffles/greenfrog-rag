@@ -1,0 +1,93 @@
+{
+  "buddy_profile": {
+    "name": "Delphine Laurien",
+    "title": "ASEAN & MENA Head of Procurement & Supply Chain - Aden Services",
+    "location": ["Indonesia", "Singapore", "UAE", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6639e040e91c16b3b953a969_Photo3.jpeg%20-%20delphine%20Laurien.jpg",
+    "main_skills": [
+      "Strategic Sourcing",
+      "Procurement",
+      "Supplier Engagement"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "laurien.delphine@gmail.com",
+      "website": "https://www.adenservices.com/en/"
+    },
+    "introduction": "I hold a master's degree in Strategic Procurement (DESMA) and have nearly 20 years of experience in procurement and supply chain transformation within the services industry (Facility Management, Food, Textiles, Hospitality, and remote sites). My career spans across Europe, Asia, and currently the Middle East. I am passionate about transformation and change management, with expertise in strategic procurement, process standardization, and supply chain digitalization.",
+    "qualifications": [
+      "Master's degree in Strategic Procurement (DESMA)",
+      "Certified Sustainable Supply Chain Professional (CSSCP) - ISCEA accredited (2022)"
+    ],
+    "experience": "Nearly 20 years in procurement and supply chain transformation",
+    "industry_expertise": [
+      "Facility Management", "Food", "Textiles", "Hospitality", "Remote sites"
+    ],
+    "geographic_experience": ["Europe", "Asia", "Middle East"],
+    "expertise_focus": [
+      "Strategic procurement for competitive edge",
+      "Process standardization to achieve organizational goals", 
+      "Supply chain digitalization for long-term success"
+    ],
+    "top_3_advice": [
+      "Stay informed: A strong network keeps individuals and organizations up to date on the latest industry developments, regulatory changes, and emerging trends in sustainability.",
+      "Track and measure your actions: Keep in mind that what gets measured can be effectively managed.",
+      "Achieve more with less: Don't assume sustainable solutions will lead to extra costs. The primary goal is to reduce the total cost of ownership and gain a competitive edge."
+    ],
+    "how_to_help": "I'd be glad to share my experience on defining and implementing a sustainable procurement strategy, as well as how to effectively communicate with stakeholders to gain their support.",
+    "expertise_areas": [
+      "Circular Economy",
+      "Sustainable Supply Chain & Logistic",
+      "Local Community Involvement - CSR - Philanthropy"
+    ],
+    "sustainability_journey": {
+      "origin": "Began career at leading European professional laundry services company with naturally sustainable business model",
+      "business_model": "Rental-based services maximizing product use, promoting recycling, balancing economic growth with environmental impact",
+      "sourcing_experience": "Actively sourced textiles from Asia and Africa (Pakistan, India, China, Ethiopia, Egypt, Syria)",
+      "awakening_moment": "Rana Plaza collapse in 2013 heightened awareness of ESG challenges and need for supplier collaboration",
+      "certification": "Joined CSSCP program in 2022 to enhance sustainable supply chain practices",
+      "tmi_involvement": "Friend recommended The Matcha Initiative - contributing to help businesses develop sustainable supply chain solutions"
+    },
+    "implemented_sustainable_actions": [
+      {
+        "action": "Eco-design textile development",
+        "details": "Developed textile products from organic cotton with Fairtrade certification, improving wages, working conditions, and fair trade terms with small cotton producers"
+      },
+      {
+        "action": "RFID tracking implementation", 
+        "details": "Implemented RFID technology to extend textile lifecycle and optimize inventory use, resulting in waste reduction and increased resource efficiency"
+      },
+      {
+        "action": "CSR policy establishment",
+        "details": "Helped establish Corporate Social Responsibility policy for procurement process, created supplier code of conduct, defined framework for supplier CSR assessments"
+      },
+      {
+        "action": "Responsible sourcing in remote areas",
+        "details": "Supporting local communities through responsible sourcing in Pakistan and APAC region, strengthening employment and income opportunities to alleviate poverty"
+      }
+    ],
+    "challenges_and_solutions": {
+      "challenge": "Organizations may not prioritize sustainability due to short-term focus, cost concerns, lack of awareness, or limited leadership commitment",
+      "personal_approach": "Continue self-learning and expanding network for access to resources, expertise, and industry connections",
+      "strategy": "Start with small, gradual steps, understanding change management takes time"
+    },
+    "sustainable_supply_chain_skills": [
+      "Strategic thinking: Align procurement with overall sustainability goals",
+      "Change management: Lead teams through transitions to meet sustainability goals", 
+      "Innovation: Embrace new technologies promoting sustainability",
+      "Collaboration: Work effectively with cross-functional teams and external partners"
+    ],
+    "proudest_achievement": "Working with team on sustainable project to replace single-use products with fully circular solution. In addition to significantly reducing waste and CO2 emissions, this project provides opportunity to educate and raise awareness among many end users in remote areas of Asia Pacific region where sustainability is not yet part of everyday life.",
+    "procurement_philosophy": "The future of procurement will be based on sustainability. As procurement leaders, our responsibility is to present solid business case based on '3 P's' framework—People, Planet, and Profit—offering solutions beneficial for business, cost-effective, and positive for planet and people.",
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "06.00 - Sustainable Supply Chain",
+      "06.01 - Sustainable Supply Chain Strategy",
+      "06.02 - Sustainable Supply Chain Eco Design & Circularity",
+      "10.00 - Local Community Involvement CSR Philanthropy"
+    ]
+  }
+}

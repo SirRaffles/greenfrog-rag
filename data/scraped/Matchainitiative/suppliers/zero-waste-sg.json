@@ -1,0 +1,66 @@
+{
+  "supplier_name": "Zero Waste SG",
+  "description": "Provide action-application training and education on waste management practices",
+  "url": "https://www.thematchainitiative.com/supplier/zero-waste-sg",
+  "website": "http://www.zerowastesg.com/",
+  "contact": "huileng@zerowastesg.com",
+  "location": "Singapore",
+  "organization_type": "Charity and non-governmental organisation",
+  "mission": "Leading the drive towards zero waste in Singapore through education and advocacy",
+  "target_audiences": ["Public", "Corporates"],
+  "focus_framework": "3Rs (Reduce, Reuse and Recycle)",
+  "core_areas": [
+    "Food Waste",
+    "Plastic Disposables", 
+    "Household Recycling",
+    "Organisational Waste"
+  ],
+  "services": [
+    "Action-application training",
+    "Education on waste management practices",
+    "Public engagement programs",
+    "Corporate waste management consulting"
+  ],
+  "expertise_categories": [
+    "Waste Management",
+    "Food & Beverage",
+    "Green office",
+    "Sustainable HR Practices",
+    "Resources Management",
+    "Sustainable Buildings & Resilient Cities",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "specific_solutions": [
+    "General - Management & Infrastructures (Waste)",
+    "General (Food & Beverage)",
+    "Waste Management (Green office)",
+    "Employees Engagement, Development & Training",
+    "All (Resources Management)",
+    "All (Sustainable Buildings)",
+    "All (Local Community)",
+    "Awareness & Training (Carbon Management)",
+    "Reduction Strategy Overview (Carbon Management)"
+  ],
+  "solution_codes": [
+    "05.01",
+    "09.01",
+    "01.07",
+    "14.03",
+    "08.00",
+    "11.00",
+    "10.00",
+    "15.03",
+    "15.04"
+  ],
+  "approach": "Education and advocacy-based engagement",
+  "geographic_focus": "Singapore",
+  "sustainability_impact": [
+    "Waste reduction",
+    "Circular economy promotion",
+    "Environmental awareness",
+    "Corporate sustainability training"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

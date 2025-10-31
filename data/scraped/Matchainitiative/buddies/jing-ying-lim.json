@@ -1,0 +1,27 @@
+{
+  "name": "Jing Ying Lim",
+  "position": "Founder",
+  "company": "Lumos",
+  "location": "Singapore",
+  "email": "jingying@lumos-marketing.co",
+  "website": "https://www.linkedin.com/company/lumos-co/",
+  "main_skills": ["Fractional CMO", "Marketing", "Sustainability Engagement"],
+  "guidance_areas": ["Experience & Expertise Sharing", "Best Practices"],
+  "introduction": "Jing Ying is a marketer with over 10 years of experience. She is the founder of Lumos, a marketing practice that helps busy founders and marketing leaders grow sustainably with creativity and effective execution, even with limited budgets. Before this, she held positions in Synfindo leading its marketing team and in Sleek, leading marketing, CSR and ESG initiatives and helping them to achieve their first-ever B-Corp Certification. She also co-founded Soule, a social enterprise, with two friends when she was 16, leading the branding, marketing and sales.",
+  "top_3_advice": ["Find your A team - we can't do it alone. As the cliché saying goes, if you would like to go far, go together. You need to find people whose values align with yours, and whose work ethics and passion for excellence matches your own.", "Attitude determines your altitude. Having a winning attitude would really set the course of your direction and grow your journey forward. Staying humble and open to learning is something I want to continue adopting in my personal life.", "Practice self-care. At times when we want to change the world in big ways, we end up thinking this journey is a sprint but it is actually a marathon. We need to be aware of our own energy levels and if we are burning out."],
+  "how_can_help": "I'm happy to explore ways on how businesses can make a difference alongside individuals, and how they can partner government agencies and charities together for greater impact. Or simply any other conversations on making a difference in the areas of social impact, education, children & youth, or sustainability (a new topic I'm learning about)!",
+  "expertise_areas": ["Responsible Marketing", "Sustainable HR Practices", "Local Community Involvement - CSR - Philanthropy", "Green office"],
+  "synfindo_role": "Synfindo manages the APIX Platform, which is a collaborative innovation platform for fintechs and innovators across 90+ countries, empowering Financial Institutions to accelerate their innovation journey. Many of these innovation challenges are ESG and green finance based – with financial regulators and institutions looking for ESG solutions.",
+  "sleek_csr_program": {
+    "name": "Do Better By Sleek",
+    "pillars": ["Tech for Good", "Sustainability promise", "Community initiatives"],
+    "tech_for_good": "SleekSign: Asia's only free, unlimited use, legally binding eSignature platform - saved 2.69 tons of paper from landfills through 436,202 pages processed",
+    "sustainability": "Carbon neutrality program planting mangrove trees in East Java, Indonesia. Goal to become first carbon neutral corporate services provider in Asia-Pacific by 2030",
+    "community": "Partnership with Singapore charity Rainbow Center to help families of children with disabilities through financial literacy and home business training"
+  },
+  "employee_involvement": ["Skills-based volunteering with Rainbow Centre", "Partnerships with social enterprises at discounted prices", "Monthly lunch & learn sessions with community organizations"],
+  "most_proud_of": "Working at National Volunteer & Philanthropy Centre (NVPC) managing Giving.sg marketing team, exceeding 150 million (SGD) in accumulated donations in 2019 and seeing the platform help over 500 charities",
+  "early_entrepreneurship": "Co-founded Soule social enterprise at age 16 with mission to provide youth products with social cause to empower children in Singapore, China and disaster-hit areas",
+  "b_corp_achievement": "Helped Sleek achieve their first-ever B-Corp Certification",
+  "lumos_mission": "Marketing practice helping busy founders and marketing leaders grow sustainably with creativity and effective execution, even with limited budgets"
+}

@@ -1,0 +1,63 @@
+{
+  "buddy_name": "Naomi Vowels",
+  "title": "Director - givvable",
+  "url": "https://www.thematchainitiative.com/buddies/naomi-vowels",
+  "locations": ["Australia", "India", "Malaysia", "Philippines", "Singapore"],
+  "contact": {
+    "email": "naomi@givvable.com",
+    "website": "https://www.givvable.com/"
+  },
+  "main_skills": [
+    "Finance",
+    "Certifications",
+    "Reporting"
+  ],
+  "guidance_areas": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "I am Naomi, currently co-founder & director of givvable. I started my career as an Australian diplomat with postings in East Timor, Thailand and Switzerland then moved into private banking where my interest in ESG and sustainability was seeded. Today my company helps businesses screen and track the sustainability profile of their suppliers to help them achieve their goals and targets.",
+  "career_background": {
+    "diplomatic_service": "Australian diplomat with postings in East Timor, Thailand and Switzerland",
+    "private_banking": "Where ESG and sustainability interest was seeded",
+    "current_role": "Co-founder & director of givvable"
+  },
+  "company_focus": "Helps businesses screen and track the sustainability profile of their suppliers to achieve goals and targets",
+  "top_3_advice": [
+    "Get started - you don't need to do everything at once, but start somewhere and go from there",
+    "Leverage resources available - there are lots out there",
+    "Get involved in the sustainability community, it's a great way to learn (and make friends)!"
+  ],
+  "how_can_help": [
+    "Share experiences working with corporates (e.g. Singtel), government (e.g. QLD government, MAS) and industry bodies",
+    "Share learnings from the market on supplier sustainability and sustainable finance",
+    "Share mistakes so others can avoid them"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Circular Economy",
+    "Sustainable Supply Chain & Logistic",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Corporate Governance, Mission & Strategy",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "client_examples": [
+    "Singtel (corporate)",
+    "QLD government (government)",
+    "MAS (government)"
+  ],
+  "sustainability_motivation": "Professionally my interest in sustainability came through finance and ESG finance. I worked for a bank that was and continues to be a trailblazer in this space, which then got me interested in operational sustainability and how companies can integrate sustainability within their processes/operations - not as something on the side or an after-thought.",
+  "business_problem_solving": "We decided to tackle the challenges around supply chain sustainability and how businesses can make better informed decisions about the suppliers and partners they choose to work with",
+  "main_challenge": "The biggest challenge we have is finding the right suppliers to work with, that fit our criteria (exactly the problem we are trying to solve through our own business!)",
+  "sustainability_philosophy": "Education on sustainability is incredibly important - words and catchphrases are shared freely but are open to misinterpretation and poor understanding. The space is evolving rapidly so even practitioners need to keep learning.",
+  "most_proud": "The fact that I have established a company with purpose, that I am proud to tell my children about",
+  "tmi_appreciation": "Attracted to The Matcha Initiative because it provides much needed education bridge to empower people to take action",
+  "solution_codes": [
+    "01.01", "01.02", "01.03", "01.07", "01.08", "03.01", "03.03", "03.06",
+    "06.00", "04.00", "12.00", "15.00", "15.04", "04.02", "04.03", "04.04",
+    "04.07", "06.03", "06.05"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

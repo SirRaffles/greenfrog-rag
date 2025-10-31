@@ -1,0 +1,124 @@
+{
+  "resource": {
+    "title": "How to write a sustainable procurement policy",
+    "category": "Fundamentals",
+    "type": "Guide",
+    "author": {
+      "name": "Severine Dubois",
+      "title": "Procurement Specialist",
+      "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/5f1f9d5349fb636e27584134_Severine.jpg"
+    },
+    "overview": {
+      "procurement_importance": "Procurement expenses represent roughly 40% to 80% of companies' turnover. Therefore, implementing a sustainable procurement policy significantly contributes to the company's global sustainable policy results.",
+      "current_state": "According to Eurocham Singapore's report on sustainability 2020, only nearly half of companies have required their suppliers to have sustainable business practices."
+    },
+    "benefits": [
+      "Reduces external environmental, economic, and social risks. Many scandals involve first-tier suppliers, like Nike and Adidas working with suppliers that discharge toxins into rivers in China, or Apple, sourcing electronics from overseas companies with poor working conditions.",
+      "Fosters Competitive advantage by leading suppliers to innovate – innovative products create value for the company.",
+      "Increases the company's attractiveness for partners, customers and talents.",
+      "Drives internal change management by promoting new sustainable behaviours within the teams.",
+      "Is cost-efficient, especially when considering the whole life cycle of a product: saves materials, energy, reduces waste and pollution."
+    ],
+    "seven_steps": [
+      {
+        "step": 1,
+        "title": "Identify your starting point. What is your sustainable purchasing profile?",
+        "questions": [
+          "Is there a global sustainability policy in your company? How does it influence the procurement policy?",
+          "Is your company's higher management supporting a sustainable procurement policy? Green procurement is a step-by-step process that requires top management commitment and support.",
+          "What are the main environmental impacts and risks of your company's activities?",
+          "Has your company evaluated its carbon footprint? In many companies, the supply chain has the biggest carbon footprint (scope 3 GHG emissions).",
+          "What are the products or services produced by your company that most impact the environment?",
+          "Try to identify environmental impacts of your products or services over their whole life cycle, i.e. from raw material to the end of a product or service's life."
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Define improvement areas, develop a strategy and build an action plan",
+        "identification": [
+          "Consider which products, services or activities are the most strategic for your company.",
+          "Considering these strategic products, services or activities, which ones have the biggest environmental impacts?",
+          "Prioritize sustainable criteria considering your company's industry."
+        ],
+        "objectives": [
+          "Increasing the number of suppliers holding a CSR rating such as Ecovadis",
+          "Increasing the number of suppliers holding a sustainable certification such as PEFC for paper",
+          "Increasing the share of green products/services",
+          "Decreasing suppliers' carbon footprint with your products or services"
+        ],
+        "action_plan": [
+          "Evaluate each purchasing category based on the defined criteria",
+          "Classify your purchasing categories started with the most significant procurement field to operate"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Redesign the purchasing process",
+        "key_question": "Do you really need this product or service? Indeed, frugality is the best way to save money and protect the planet!",
+        "components": [
+          "Detail environmental factors to be included in the specifications",
+          "Select green suppliers to compete for Request For Quotation (RFQ)",
+          "Include sustainable choice criteria in the suppliers' offers analysis",
+          "Limit the number of purchase orders to minimize logistics and transport",
+          "Where appropriate, specify the environmental criteria that need to be included in the contract"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Consider products and services' Life Cycle as well as the total cost of ownership",
+        "description": "This method aims at obtaining a global vision of environmental impacts. For each step of a product's life cycle, you need to describe all the different environmental impacts.",
+        "standards": "Standards are provided by the International Organization for Standardization (ISO): ISO 14040 and ISO 14044 describe the four main phases of a Life Cycle Approach.",
+        "image": "https://cdn.prod.website-files.com/5e940b86961046721a7e92b5/5f1f9c63fd97658502caa5ad_Sustainable-Procurement.png"
+      },
+      {
+        "step": 5,
+        "title": "Implement both internal and external approach",
+        "internal_communication": [
+          "Communicate KPI's and provide progress follow-up",
+          "Promote responsible action. Example of initiative: paper consumption follow-up",
+          "Involve all team by defining with them the sustainable procurement objectives and action plans"
+        ],
+        "supplier_integration": [
+          "Share your objectives with them",
+          "Implement improvement plans in order to help them turn their products into sustainable ones",
+          "Organize co-construction workshops with suppliers and employees to reach sustainable solutions",
+          "Use eco-conception approach based on Product Life Cycle"
+        ]
+      },
+      {
+        "step": 6,
+        "title": "Measure and monitor performance using KPIs",
+        "global_kpis": [
+          "% of products and services purchased by the sustainable procurement principles",
+          "% of local suppliers among the total of suppliers",
+          "Suppliers' water and/or energy consumption",
+          "% of suppliers with CSR certification",
+          "% of tenders with CSR criteria"
+        ],
+        "specific_targets": [
+          "Reduce the use of hazardous raw material",
+          "Decrease the weight and volume of your packaging and introduce reusable packaging",
+          "Reduce the volume of raw material",
+          "Limit the number and the frequency of deliveries and monitor orders' volumes"
+        ]
+      },
+      {
+        "step": 7,
+        "title": "Complete your actions with carbon compensation/offset",
+        "note": "This approach should be considered only once you have already conducted sustainable procurement actions plans."
+      }
+    ],
+    "additional_resources": [
+      "ISO 14001 international norm which provides practical tools to design and implement an environmental management system",
+      "Ecovadis certification",
+      "Be careful about the sustainable practices of your suppliers' suppliers: lower-tier suppliers also contribute to your sustainable procurement plan and generally reduce your sustainability performance and increase your risks"
+    ],
+    "references": [
+      "Eurocham Singapore's report on sustainability 2020",
+      "Harvard Business Review - A more sustainable supply chain",
+      "SASB Materiality Map",
+      "ISO 14001 Environmental Management",
+      "Ecovadis certification platform"
+    ]
+  }
+}

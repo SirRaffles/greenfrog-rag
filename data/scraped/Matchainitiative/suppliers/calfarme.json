@@ -1,0 +1,17 @@
+{
+  "supplier_name": "Calfarme",
+  "description": "Biotech eco-hygiene solutions",
+  "url": "https://www.thematchainitiative.com/supplier/calfarme",
+  "website": "https://calfarme.com",
+  "contact": null,
+  "locations": ["Singapore"],
+  "founded": "1977",
+  "services": [
+    "Develops and manufactures biotech hygiene solutions that are environmentally respectful and safe for users"
+  ],
+  "expertise_categories": ["Food & Beverage"],
+  "solution_codes": ["09.03"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/calfarme",
+  "scraped_date": "2025-10-31"
+}

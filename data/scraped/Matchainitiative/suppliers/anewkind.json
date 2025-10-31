@@ -1,0 +1,42 @@
+{
+  "supplier_name": "Anewkind",
+  "description": "Regenerative Design and Strategy studio",
+  "url": "https://www.thematchainitiative.com/supplier/anewkind",
+  "website": "https://www.anewkind.studio/",
+  "contact": "natalie@anewkind.studio",
+  "locations": ["Canada", "France", "Singapore"],
+  "business_focus": "Planet-centric design and strategy firm specializing in regenerative principles for brand adaptation and business model transformation",
+  "expertise_categories": [
+    "Responsible Marketing",
+    "Circular Economy & Eco-design",
+    "Sustainable HR Practices",
+    "Consulting",
+    "Sustainable Manufacturing",
+    "Sustainable Supply Chain & Logistics",
+    "Corporate Governance, Mission & Strategy"
+  ],
+  "services": [
+    "Regenerative design workshops",
+    "Advisory services for brand adaptation",
+    "Business model transformation",
+    "Employee engagement and development",
+    "Training",
+    "Social & people pillar consulting",
+    "Environmental consulting"
+  ],
+  "solution_codes": [
+    "13.00",
+    "03.00",
+    "03.02",
+    "14.03",
+    "16.03",
+    "16.04",
+    "03.03",
+    "06.00",
+    "12.00",
+    "16.01"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/anewkind",
+  "scraped_date": "2025-10-31"
+}

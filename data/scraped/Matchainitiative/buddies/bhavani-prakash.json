@@ -1,0 +1,83 @@
+{
+  "buddy_profile": {
+    "name": "Bhavani Prakash",
+    "title": "Co-founder - Sustainable Gaia",
+    "location": ["India", "Malaysia", "Singapore", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/65487a0e3b487c57075ccdaa_Bhavani%20Photo%20Linkedin%202023%20-%20Bhavani%20Prakash.jpg",
+    "main_skills": [
+      "Carbon Reporting",
+      "GRI,TCFD,SDG",
+      "Training"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "bhavani.prakash.sustainability@gmail.com",
+      "website": "http://www.sustainablegaia.com/"
+    },
+    "introduction": "I am the Co-Founder of Sustainable Gaia, a Singapore based sustainability consultancy, focusing on sustainability reporting using GRI, TCFD, UNSDGs, ISO 14064 and other frameworks. I also help companies through sustainability consulting, training and research to help them meet and go beyond ESG compliance needs, to manage risks and to unlock opportunities while transitioning to a net zero world. I have a background in Finance (MBA from IIM Calcutta), Financial Economics (M.Sc from University of London) and ESG (through various certifications and sustainability experience). I have done curriculum development and training for a wide range of companies, and agencies like National Environmental Agency and Lee Kuan Yew School of Public Policy around Systems Thinking and Social Entrepreneurship respectively.",
+    "qualifications": [
+      "MBA from IIM Calcutta",
+      "M.Sc Financial Economics from University of London",
+      "ESG certifications and sustainability experience"
+    ],
+    "top_3_advice": [
+      "Be generous in your sharing. I believe there is so much to learn from one another, and that one gains even more by giving!",
+      "Collaboration is key which is why I am so proud to be a part of The Matcha Initiative, where there are so many like-minded peers who can support one another through learnings as well as through shared assignments.",
+      "In the age of climate anxiety, be the voice of hope. It may be a messy future with twists and turns, but the voice of hope is what will lead the brain (individual and collective brain) to come up with innovative societal, economic and technological solutions."
+    ],
+    "how_to_help": "Share various regulatory changes in sustainability reporting, sustainability strategy and training tips, mentoring, and simply having a chat on anything green!",
+    "expertise_areas": [
+      "Corporate Governance, Mission & Strategy",
+      "Sustainable HR Practices",
+      "Consultants",
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Carbon Management & Carbon Footprint",
+      "Local Community Involvement - CSR - Philanthropy"
+    ],
+    "sustainability_journey": {
+      "2004": "Wake-up call as Volunteer Guide in Singapore Botanic Garden rainforests section",
+      "2008": "Set up 'Eco WALK the Talk' advocacy portal - SEC Environmental Journalism Awards Finalist",
+      "early_career": "Started 'Green Collar Asia' for company sustainability training",
+      "speaking": "TEDx speaker twice (biodiversity of food plants, sustainability of our planet)",
+      "recognition": "SONY-IWA 'Woman of the Year' award for environmental advocacy"
+    },
+    "current_organization": {
+      "name": "Sustainable Gaia",
+      "co_founder": "Prakash Natarajan (3+ decades strategy experience in Finance, IT, sustainability)",
+      "focus": "Strategic transition to greener future"
+    },
+    "services_offered": {
+      "training": "Regulatory requirements, strategic benefits, business opportunities, employee engagement programs using facilitations and games",
+      "strategy": "Guidance for better decisions and future-proofing against climate and biodiversity risks",
+      "research_writing": "Deep insights into various domain areas"
+    },
+    "personal_practices": [
+      "Uses public transport",
+      "Vegetarian/vegan diet",
+      "Needs-based consumption",
+      "Moving towards 'less stuff' and 'more quality of life experiences'"
+    ],
+    "challenges_and_solutions": "Back in the 2010s, felt frustrated that climate action awareness was growing too slowly. Overcame by continuing to talk at every possible forum and never giving up hope. Got chance to speak in front of PM Lee Hsien Loong and C-suite members (about 800 people) in 2014 about importance of sustainability.",
+    "proudest_achievement": "Most proud when audience members or clients share their 'aha' moments during engagements. These moments that induce positive behaviour change are so satisfying and rewarding, making the sustainability journey meaningful.",
+    "solution_codes": [
+      "12.00 - Corporate Governance Mission & Strategy",
+      "14.00 - Sustainable HR Practices",
+      "14.03 - Sustainable HR Practices Engagement Development Training",
+      "16.01 - Consultants General",
+      "04.01 - Sustainability Accounting Strategic Analysis",
+      "04.02 - Sustainability Accounting Environmental & Social Impact Identification",
+      "04.03 - Sustainability Accounting Integrated Financial Planning",
+      "04.05 - Sustainability Accounting Teams Alignment",
+      "04.06 - Sustainability Accounting Awareness & Training",
+      "15.01 - Carbon Management Measure & Report",
+      "15.02 - Carbon Management Goal Settings",
+      "15.03 - Carbon Management Awareness & Training",
+      "15.04 - Carbon Management Reduction Strategy Overview",
+      "10.00 - Local Community Involvement CSR Philanthropy"
+    ]
+  }
+}

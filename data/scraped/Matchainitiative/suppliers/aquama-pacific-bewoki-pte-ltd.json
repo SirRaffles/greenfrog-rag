@@ -1,0 +1,37 @@
+{
+  "supplier_name": "Aquama Pacific / Bewoki Pte. Ltd.",
+  "description": "100% ecological detergent & disinfectant machines",
+  "url": "https://www.thematchainitiative.com/supplier/aquama-pacific-bewoki-pte-ltd",
+  "website": "https://sg.aquama.com/en/",
+  "contact": "pacific@aquama.com",
+  "locations": ["Singapore"],
+  "business_overview": "Bewoki distributes aquama machines from Switzerland across Southeast Asia. These devices produce disinfectant and detergent 100% ecological (based on salt, water and electricity) that replaces 90% of polluting chemicals",
+  "key_features": [
+    "Mobile app connectivity for user access",
+    "Allergen-free, chloramine-free formulation",
+    "Bactericide and virucide properties",
+    "Multiple machine sizes for residential and commercial use",
+    "Freedom and Freedom S models available for home/corporate gifting",
+    "Zero additional plastic waste",
+    "Releases only salty water into environment"
+  ],
+  "expertise_categories": [
+    "Green Office",
+    "Food & Beverage"
+  ],
+  "services": [
+    "General cleaning",
+    "Disinfection",
+    "Clothes treatment",
+    "Produce sanitization",
+    "Workplace and home disinfection"
+  ],
+  "solution_codes": [
+    "01.01",
+    "09.03",
+    "01.08"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/aquama-pacific-bewoki-pte-ltd",
+  "scraped_date": "2025-10-31"
+}

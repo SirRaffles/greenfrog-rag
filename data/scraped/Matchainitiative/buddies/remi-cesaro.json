@@ -1,0 +1,78 @@
+{
+  "name": "Rémi Cesaro",
+  "position": "Founder & Director - Zero Waste City",
+  "location": [
+    "Australia",
+    "New Zealand",
+    "Malaysia",
+    "Singapore",
+    "Cambodia",
+    "Hong Kong",
+    "India",
+    "Indonesia",
+    "Japan",
+    "Mainland China",
+    "Philippines",
+    "South Korea",
+    "Taiwan",
+    "Thailand",
+    "Vietnam"
+  ],
+  "contact": {
+    "email": "remi.cesaro@zerowastecity.com",
+    "website": "https://zerowastecity.com/"
+  },
+  "main_skills": [
+    "Waste Management",
+    "Sustainable Packaging"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Founder and Director of the consulting business Zero Waste City, Rémi provides engineering consulting services to large commercial and industrial facilities on waste management, energy efficiency, and packaging design. He has gained a strong experience as a consultant covering a wide range of industries and technologies in New Zealand, Australia, and Singapore. He is a certified TRUE Advisor (Total Resource Use Efficiency) by the U.S. Green Building Council Inc. This certification recognised his knowledge in Zero Waste programs and his ability to support businesses to achieve the TRUE Zero Waste certification.",
+  "top_advice": [
+    "Anything you can do to reduce the environmental impact is a good place to start.",
+    "Sustainability is about the environment and business resilience. If you have the choice, always favour opportunities that save money.",
+    "Everybody has an interest in promoting sustainable practices, you just need to speak the right language."
+  ],
+  "how_they_help": [
+    "Help to navigate the opportunities and identify those with the best outcomes",
+    "Understand the challenges and technical difficulties around energy efficiency, waste management and packaging."
+  ],
+  "expertise_areas": [
+    "Waste Management",
+    "Consultants",
+    "Resources Management",
+    "Sustainable Supply Chain & Logistic",
+    "Circular Economy"
+  ],
+  "waste_reduction_questions": [
+    "How much waste do you generate per year?",
+    "How much do you spend on waste collection per year?",
+    "What is your current recycling rate?"
+  ],
+  "packaging_improvement_questions": [
+    "What is the practical application of your packaging and who are the end-users?",
+    "What does matter the most to you: Reduce the weight of packaging? Make packaging out of renewable and local sources? Have the lowest carbon footprint, the lowest water consumption, or make it fully recyclable in Singapore?"
+  ],
+  "cost_savings_insight": "Yes, and sometimes, we are even talking about making money out of the trash! The amount of cost-savings depends on the type of waste and the industry. As a rule of thumb, it can easily reach about 60% of the annual cost of general waste collection. The easier it is to separate the major waste streams (plastic, fibre, organic, metal, glass), the more money the business is likely to save.",
+  "singapore_challenges": "In Singapore, the number one challenge is land scarcity. This applies to businesses as well. Utilities (water, energy, and waste) usually represent 10% of the footprint of a facility and anything that can be done to minimise it will be preferred. Fortunately, Singapore strongly support the local industries in adopting best practices and funding is available for companies willing to implement new technologies to reduce waste, this includes the 3R Fund.",
+  "l4r_initiative": "Label for Recycling (L4R) is an exciting organisation which aims to answer the following question: is this packaging recyclable in the context of Singapore? L4R equips brand owners and manufacturers with tools to design truly recyclable packaging in Singapore and labels to make recycling easy for consumers. L4R gathers experts from the two ends of the value chain: from the packaging design and manufacturing to the waste collection and recycling. L4R administers the Packaging Recyclability Evaluation Portal (PREP) which provides an evidence-based approach to the recyclability assessment of consumer good packaging.",
+  "acs_school_project": "In 2019, I did two interventions at the ACS International School. As a result of these interventions, and thanks to the leadership of the educational and management teams, the school has implemented several opportunities to improve the use of resources, which include: Installation of e-waste bins on campus, Installation of blue recycling (metal, glass, plastic) bins on campus, Revision of the whole paper recycling program to use less paper, Creation of a Sustainability CCA (Co-Curriculum Activity). Students will now be in charge of collecting data on food, waste, electricity and water, and general waste bins, Identification of a group of Year 3 leaders to manage information from each House, Parent group to buy bio cutlery and plates and to promote gift which is reusable for Teacher Day.",
+  "manufacturer_audit": "In 2020, we conducted a full-scale waste audit for a manufacturer in Singapore. As a result of this in-depth investigation, we identified several opportunities which could save 4 times their annual waste collection costs with a payback below 2 years. Such opportunities included alternative packaging for internal operations (resulting in a reduction of purchase of packaging), alternative outlets for their recyclables (increasing the value of their discards), and technologies upgrade to optimise the use of their consumables.",
+  "solution_categories": {
+    "waste_management": ["05.01", "05.02", "05.03", "05.04", "05.05", "05.06", "05.07", "05.08"],
+    "consultants": ["16.04"],
+    "resources_management": ["08.00"],
+    "sustainable_supply_chain": ["06.00", "06.01", "06.04"],
+    "circular_economy": ["03.00"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/remi-cesaro",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

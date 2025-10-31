@@ -1,0 +1,88 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-office-meeting-rooms-printer-rooms",
+  "title": "Waste Management - Office - Meeting rooms - Printer Rooms & Others",
+  "scraped_at": "2025-01-14T12:30:00Z",
+  "content": {
+    "overview": "Waste in the Office happens everyday in the vast majority of companies. Important quantities of paper, cardboard, ink or even cups are used and thrown away everyday. This waste can be easily dealt with in a sustainable manner. This part provides companies with solutions as well as suppliers to reduce office waste and better recycle it.",
+    "solutions": [
+      {
+        "title": "Improve Waste Management & Equipment",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Adopt a centralized bin system. This includes: 1. Removing all individual desk bins 2. Installing a set of bin stations including at minimum 1 general waste bin, 1 recycling bin, and 1 paper bin. The combination of bins depends on the types of waste generated in the office."
+      },
+      {
+        "title": "Office - General Waste - Segregate",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Conduct a bin inspection to identify opportunities in reducing waste and supporting communication efforts to recycle right. Recyclable and valuable materials are: cans, plastic and glass. Train staff and start segregating bottles as Singapore has a beverage bottle buyback system (Deposit Refund Scheme DRS) coming."
+      },
+      {
+        "title": "Lobby & Corridors - General Waste - Remove Bins",
+        "cost": "C1",
+        "effort": "E1", 
+        "impact": "I1",
+        "description": "Remove bins and do not let people create discards in those areas. This will save time for the cleaner, save space in those walking area (safety improvement) & make the place look cleaner."
+      },
+      {
+        "title": "Paper - Apply the 3Rs principle",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Apply the 3Rs principle: 1- Reduce paper usage (ensure default setting on the printer is for double side printing, black and white, implement a pull printing system) 2- Reuse paper (reuse as draft paper, put a 'draft paper' box near your printer) 3- Recycle properly (install a paper bin next to the printer, use a suitable contractor for the collection and recycling of paper)."
+      },
+      {
+        "title": "Bathroom - Paper towels - Choose eco-friendly",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Paper Towels are not recycled and have a higher carbon footprint therefore explore solutions to replace with: an electric paper dispenser to reduce the use of paper, an electric hand dryer when possible. Choose an energy-efficient hand dryer."
+      },
+      {
+        "title": "Cardboard - Apply the 3Rs principle",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I2",
+        "description": "Apply the 3Rs principle: 1- Reduce (Talk with your suppliers to avoid unnecessary packagings) 2- Reuse (Reuse as filler for parcel) 3- Recycle (Recycle with relevant waste company). Cardboard is easily recyclable and can be recycled up to 5 times."
+      },
+      {
+        "title": "Office - Cups - Switch to Reusable Cups or BYO",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I1",
+        "description": "Switch to reusable cups. Bring your Own."
+      },
+      {
+        "title": "Lobby - Cups (for people waiting) - Adapt according to traffic",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I1",
+        "description": "For high traffic lobbys: consider using compostable cup that can go into a food waste digester. For medium traffic lobbys: consider using reusable cups and get the staff at the reception to clean them with a dishwasher. For low traffic lobbys: consider removing the beverage dispenser."
+      },
+      {
+        "title": "Properly recycle Lighting Elements",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Contract with a specialised supplier to properly recycle or discard lighting items such as bulbs, lamps, fluorescent lamps etc. They are considered e-waste. As of July 1st 2021, they are managed under the EPR e-waste scheme."
+      },
+      {
+        "title": "Ink Cartridges - Reuse, Refurbish, Recycle",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I1",
+        "description": "Upstream: Ink cartridges can be reused. Prefer recyclable or biodegradable material, use plant-based ink, opt for refurbished/remanufactured cartridges. Downstream: Work with a suitable contractor for e-waste. As of July 1st 2021, they are managed under the EPR e-waste scheme."
+      }
+    ],
+    "buddies_featured": [
+      "Alya Annabi - Founder - GreenPush",
+      "Andrew Tay - Business Development Director - KGS",
+      "Benoit Barraque - Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform",
+      "Package Pals Trio - Founders – Package Pals",
+      "Mary Kon-Sun-Tack - Director of Marketing, Southeast Asia and Korea - IHG Hotels and Resorts",
+      "Rémi Cesaro - Founder & Director - Zero Waste City"
+    ]
+  }
+}

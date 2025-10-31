@@ -1,0 +1,43 @@
+{
+  "title": "What is Sustainability?",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/what-is-sustainability",
+  "type": "educational_resource",
+  "category": "fundamentals",
+  "author": {
+    "name": "Ivona Balint-Kowalczyk",
+    "title": "Sustainability consultant, Founder of Sustainao"
+  },
+  "summary": "This article aims to explain basic sustainability concepts including sustainable development, corporate social responsibility, triple bottom line, creating shared value, and non-financial reporting, understanding their differences, similarities, and the links between them.",
+  "key_concepts": [
+    {
+      "term": "Sustainable Development",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs (Brundtland Report, 1987)",
+      "pillars": ["Environmental", "Social", "Economic"]
+    },
+    {
+      "term": "Three Pillars of Sustainability",
+      "environmental": "Aims to protect and maintain the environment including protecting ecosystems, consuming natural resources at a sustainable rate, mitigating climate change, reducing pollution, protecting biodiversity",
+      "social": "Aims to achieve good social wellbeing including eradicating poverty and hunger, access to education and health care, decent work conditions, gender equality",
+      "economic": "Aims for an organisation or country to achieve profit while using its resources efficiently and responsibly"
+    },
+    {
+      "term": "Corporate Social Responsibility (CSR)",
+      "definition": "The obligations of businessmen to pursue those policies, to make those decisions, or to follow those lines of action that are desirable in terms of the objectives and values of our society (Howard Bowen, 1953)",
+      "modern_definition": "A company's responsibility for its impact on society and refers to corporate initiatives that address sustainability issues"
+    },
+    {
+      "term": "Creating Shared Value (CSV)",
+      "definition": "A concept about value creation for both the company and the local communities, going beyond CSR's focus on corporate responsibility"
+    },
+    {
+      "term": "Triple Bottom Line (TBL)",
+      "definition": "A concept consisting of three elements: profit, people, planet. Takes into account social and environmental issues into measuring corporate performance instead of just profit"
+    }
+  ],
+  "related_frameworks": [
+    "UN Sustainable Development Goals (SDGs)",
+    "European Commission CSR guidelines",
+    "Non-financial reporting standards"
+  ],
+  "scraped_date": "2025-07-09"
+}

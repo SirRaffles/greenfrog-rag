@@ -1,0 +1,237 @@
+version: '3.8'
+
+services:
+  # ChromaDB Vector Database
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: greenfrog-chromadb
+    ports:
+      - "${CHROMADB_PORT:-8001}:8000"
+    volumes:
+      - ./data/chromadb:/chroma/chroma
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8000
+      - ALLOW_RESET=true
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/api/v1/heartbeat').raise_for_status()"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  # AnythingLLM with RAG capabilities
+  anythingllm:
+    image: mintplexlabs/anythingllm:latest
+    container_name: greenfrog-anythingllm
+    ports:
+      - "${ANYTHINGLLM_PORT:-3001}:3001"
+    volumes:
+      - ./data/anythingllm:/app/server/storage
+      - ./anythingllm/env.txt:/app/server/.env
+    environment:
+      - STORAGE_DIR=/app/server/storage
+      - VECTOR_DB=chroma
+      - CHROMA_ENDPOINT=http://chromadb:8000
+      - LLM_PROVIDER=ollama
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OLLAMA_MODEL_PREF=llama3.1:8b
+      - EMBEDDING_ENGINE=ollama
+      - EMBEDDING_MODEL_PREF=nomic-embed-text:latest
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - chromadb
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/api/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+  # Piper TTS - Primary Text-to-Speech (Fast, CPU-optimized)
+  piper-tts:
+    build:
+      context: ./piper-tts
+      dockerfile: Dockerfile
+    container_name: greenfrog-piper
+    ports:
+      - "${PIPER_TTS_PORT:-5000}:5000"
+    volumes:
+      - ./piper-tts/models:/models
+      - ./piper-tts/cache:/cache
+    environment:
+      - PIPER_VOICE=${PIPER_VOICE_MODEL:-en_US-lessac-medium}
+      - PIPER_RATE=${TTS_SPEAKING_RATE:-1.0}
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # XTTS-v2 - Optional Voice Cloning (Slower but supports cloning)
+  xtts:
+    build:
+      context: ./xtts-v2
+      dockerfile: Dockerfile
+    container_name: greenfrog-xtts
+    ports:
+      - "${XTTS_PORT:-5001}:5000"
+    volumes:
+      - ./xtts-v2/models:/models
+      - ./xtts-v2/voices:/voices
+      - ./xtts-v2/outputs:/outputs
+    environment:
+      - COQUI_TOS_AGREED=1
+      - PYTHONUNBUFFERED=1
+      - XTTS_DEVICE=${XTTS_DEVICE:-cpu}
+      - XTTS_LANGUAGE=${XTTS_LANGUAGE:-en}
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+        reservations:
+          memory: 3G
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    profiles:
+      - optional
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # faster-SadTalker-API - Avatar Generation (10x optimized)
+  sadtalker:
+    image: kenwaytis/faster-sadtalker-api:latest
+    container_name: greenfrog-sadtalker
+    ports:
+      - "${SADTALKER_PORT:-10364}:7860"
+    volumes:
+      - ./sadtalker/checkpoints:/app/checkpoints
+      - ./sadtalker/avatars:/app/inputs
+      - ./sadtalker/results:/app/results
+    environment:
+      - PYTHONUNBUFFERED=1
+      - POSE_STYLE=${AVATAR_POSE_STYLE:-normal}
+      - EXPRESSION_SCALE=${AVATAR_EXPRESSION_SCALE:-1.0}
+      - FPS=${AVATAR_FPS:-25}
+    deploy:
+      resources:
+        limits:
+          memory: 8G
+        reservations:
+          memory: 4G
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    shm_size: 2gb
+
+  # Website Scraper
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    container_name: greenfrog-scraper
+    volumes:
+      - ./scraper:/app
+      - ./data/scraped:/data
+      - ./logs/scraper:/logs
+    environment:
+      - WEBSITE_URL=https://www.thematchainitiative.com
+      - ANYTHINGLLM_API=http://anythingllm:3001
+      - SCRAPE_SCHEDULE=0 2 * * *
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      anythingllm:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+
+  # FastAPI Backend - Orchestration Layer
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: greenfrog-backend
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    volumes:
+      - ./backend:/app
+      - ./logs/backend:/logs
+    environment:
+      - ANYTHINGLLM_API=http://anythingllm:3001
+      - OLLAMA_API=http://host.docker.internal:11434
+      - PIPER_TTS_API=http://piper-tts:5000
+      - XTTS_API=http://xtts:5000
+      - SADTALKER_API=http://sadtalker:7860
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-llama3.1:8b}
+      - TTS_MODE=${TTS_MODE:-piper}
+      - CORS_ORIGINS=http://localhost:3000,http://192.168.50.171:3000,http://greenfrog.v4value.ai
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      anythingllm:
+        condition: service_healthy
+      piper-tts:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Next.js Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: greenfrog-frontend
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - NEXT_PUBLIC_API_URL=http://192.168.50.171:8000
+      - NEXT_PUBLIC_WS_URL=ws://192.168.50.171:8000/ws
+      - NODE_ENV=production
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  greenfrog-network:
+    driver: bridge
+    name: greenfrog-network
+
+volumes:
+  chromadb-data:
+  anythingllm-data:
+  scraped-data:
+  logs:

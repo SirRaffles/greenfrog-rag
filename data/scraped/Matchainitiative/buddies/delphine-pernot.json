@@ -1,0 +1,102 @@
+{
+  "buddy_profile": {
+    "name": "Delphine Pernot",
+    "title": "Circular Economy Expert",
+    "location": ["France", "Singapore", "Thailand"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/665df5979f04b4d81d1f4965_HD_2573_identite-v3%20-%20Delphine%20Pernot%20carre.jpg",
+    "main_skills": [
+      "Plastic Recycling",
+      "Circularity",
+      "EPR"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing",
+      "Kick Start Help",
+      "Sustainability Career Advisor"
+    ],
+    "contact": {
+      "email": "d.pernot@dplei.onmicrosoft.com"
+    },
+    "introduction": "Over the past ten years, I have gradually developed my expertise to put my convictions into action, focusing my energy in increasing circularity. I have been passionately involved in collaborating with private companies and public authorities to advance circular economy initiatives and implement Extended Producer Responsibility (EPR) Schemes. I played instrumental roles in developing and implementing strategic roadmaps to establish EPR schemes dedicated to industrial and commercial packaging in France. My motivation is to work among various stakeholders and to help shift an industry as a whole, and to re-invent economy with more re-use and more re-cycling.",
+    "experience": "10+ years developing expertise in circularity",
+    "specialization": {
+      "focus": "Extended Producer Responsibility (EPR) Schemes",
+      "achievement": "Instrumental roles in developing and implementing strategic roadmaps for EPR schemes dedicated to industrial and commercial packaging in France",
+      "stakeholders": "Private companies and public authorities",
+      "motivation": "Help shift entire industries and re-invent economy with more re-use and re-cycling"
+    },
+    "top_3_advice": [
+      "Think global and cooperation",
+      "Use a pragmatic approach and don't be afraid to get your hands dirty",
+      "Go step by step"
+    ],
+    "how_to_help": "I am willing to share my energy and my motivation to bring together corporate world to work on a more sustainable future by implementing circular economy principles.",
+    "expertise_areas": [
+      "Circular Economy",
+      "Waste Management",
+      "Resources Management",
+      "Corporate Governance, Mission & Strategy",
+      "Consultants",
+      "Sustainable Supply Chain & Logistic"
+    ],
+    "sustainability_motivation": "Sustainable development has motivated my professional activity from the start. I believe that the only possible way is to re-invent economy taking into account the environment and social pillars. During my 8 years' experience as a sustainable consultant for Deloitte, I have discover the concept of Circular economy that completely make sense for me: resource efficiency, life cycle approach but also proximity, transparency, solidarity and global partnership. So after consulting missions for private and institutional clients on sustainable development, I specialized in the challenges of recycling and reuse, as well as Extended Producer Responsibility challenges.",
+    "deloitte_experience": "8 years as sustainable consultant for Deloitte",
+    "circular_economy_principles": [
+      "Resource efficiency",
+      "Life cycle approach",
+      "Proximity",
+      "Transparency", 
+      "Solidarity",
+      "Global partnership"
+    ],
+    "professional_approach": "I like working on both strategic thinking and operational challenges, to make waste a resource.",
+    "current_focus": {
+      "epr_schemes": [
+        "How to set up EPR schemes",
+        "How to define regulation to set up the most efficient EPR schemes"
+      ],
+      "plastic_pollution": "Comprehensive understanding of challenges across entire value chain",
+      "responsibilities": [
+        "Coordinating with stakeholders",
+        "Ensuring effective implementation of circular economy initiatives",
+        "Leading development and implementation of eco-design strategies for household packaging",
+        "Fostering collaboration with internal and external stakeholders"
+      ]
+    },
+    "pro_experience": "Led development and implementation of eco-design strategies for household packaging for one of the PRO (Producer Responsibility Organisation) in France",
+    "skills_developed": [
+      "Stakeholder engagement",
+      "Capacity-building initiatives",
+      "Navigating complex environmental challenges"
+    ],
+    "challenges_and_solutions": {
+      "challenges": [
+        "Convincing companies about urgency to take action against plastic pollution",
+        "Fighting against fear of losing competitivity",
+        "Lack of cooperation among industries",
+        "Fear of change in corporate world"
+      ],
+      "solutions": [
+        "Identifying right allies willing to move forward",
+        "Building on collaboration",
+        "Finding pioneers willing to change",
+        "Using successful examples to influence rest of industry"
+      ]
+    },
+    "proudest_achievement": "I am proud of having aligned my personal life and my professional around my deepest conviction. And when my daughter explained that she was trying to do her part while refusing a plastic straw, I melt!",
+    "personal_alignment": "Aligned personal and professional life around deepest convictions",
+    "family_impact": "Daughter refusing plastic straws as part of her environmental contribution",
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "03.02 - Circular Economy Eco-design",
+      "03.05 - Circular Economy Circulate Materials",
+      "05.04 - Waste Management Packing & Unpacking Area",
+      "08.00 - Resources Management",
+      "12.00 - Corporate Governance Strategy Mission",
+      "16.04 - Consultants Environmental Pilar",
+      "06.00 - Sustainable Supply Chain",
+      "06.02 - Sustainable Supply Chain Eco Design & Circularity"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-sustainable-workplace",
+  "category": "Green Office",
+  "subcategory": "Sustainable Work Place (office design & furnitures)", 
+  "scraped_at": "2025-06-24T12:45:00Z",
+  "introduction": {
+    "description": "With our hybrid new normal, workplaces will have to be rethought & redesigned. Given the numbers, keeping in mind sustainability in the process is of utmost importance."
+  },
+  "solutions": [
+    {
+      "title": "Furnitures and other workplace needs: Prefer Rental or 2nd hand",
+      "cost": "C2",
+      "effort": "E3", 
+      "impact": "I2",
+      "description": "As much as possible, rent furnitures instead of buying, use 2nd hand or remanufactured furnitures or source sustainably locally-sourced items.",
+      "additional_note": "If you retrofit or change office, think about donating your goods."
+    },
+    {
+      "title": "Grow your Herbs Garden",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "description": "Herbal tea has been used for centuries and has many proven health benefits, depending on the plants used. Mint, chamomile, lemon balm, dandelion etc. can be grown indoor or outdoor in Singapore. Herbs are easy to work with. Once harvested, they just need to be dried and enjoyed. Use this garden to raise awareness about food production.",
+      "resource": "Learn more on how to grow different herbs from NParks Singapore"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Duncan Craig",
+      "title": "Co-founder & Design Director - ReXtore",
+      "expertise": "circular design, sustainable innovation, events and exhibitions, modular building systems, ocean-bound plastic recycling, interior architecture",
+      "company_focus": "reXtore is a Singapore-based circular design studio pioneering sustainable innovation in the events and exhibitions space. Creator of STAXX, a revolutionary modular building system made from 100% recycled ocean-bound plastic.",
+      "website": "rextore.org"
+    },
+    {
+      "name": "Nadège Claudel", 
+      "title": "Head of Sustainability APAC - Chanel (Former General Manager - BSI - British Standards Institution)",
+      "expertise": "sustainability, quality, food safety, standards"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "expertise": "digital technology, IT consulting, education, F&B business, technology for good",
+      "website": "palo-it.com"
+    }
+  ]
+}

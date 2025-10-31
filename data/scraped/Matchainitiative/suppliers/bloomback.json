@@ -1,0 +1,30 @@
+{
+  "supplier_name": "Bloomback",
+  "description": "Eco-friendly and everlasting preserved flowers",
+  "url": "https://www.thematchainitiative.com/supplier/bloomback",
+  "website": "https://bloomback.org",
+  "corporate_workshop_page": "https://bloomback.org/corporate-workshop/",
+  "contact": null,
+  "locations": ["Singapore"],
+  "business_model": "Sources flowers from upcycled event inventory, transforming them into long-lasting preserved floral products while simultaneously providing employment and training opportunities for underrepresented communities",
+  "expertise_categories": [
+    "Green Office - Corporate Gifts",
+    "Responsible Marketing",
+    "Sustainable HR Practices"
+  ],
+  "services": [
+    "Interior design utilizing preserved flowers",
+    "Team building workshops",
+    "Corporate social responsibility events",
+    "Corporate gift solutions",
+    "Skills training and employment programs for marginalized communities"
+  ],
+  "solution_codes": [
+    "01.08",
+    "13.00",
+    "14.04"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/bloomback",
+  "scraped_date": "2025-10-31"
+}

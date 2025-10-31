@@ -1,0 +1,63 @@
+{
+  "buddy_name": "Mei Yee Chan",
+  "title": "Senior Programme Manager - TÜV SÜD",
+  "url": "https://www.thematchainitiative.com/buddies/mei-yee-chan",
+  "location": "Singapore",
+  "contact": {
+    "email": "mei-yee.chan@tuvsud.com",
+    "website": "https://www.tuvsud.com/en-id/services/auditing-and-system-certification/iso-14064-carbon-emission-reduction-validation-programme"
+  },
+  "main_skills": [
+    "Corporate Carbon Management",
+    "ISO 14064"
+  ],
+  "guidance_areas": [
+    "Experience & Expertise Sharing"
+  ],
+  "introduction": "As the Senior Programme Manager for Sustainability Validation and Verification at TÜV SÜD, Mei Yee helps organisations add credibility and assurance to their greenhouse gases (GHG) emission assertations and GRI reports by providing third-party verification reports to support organizational claims. She has six years of experience in the standards development of ISO 30500 and ISO 31800, testing, and certification for non-sewered sanitation systems. Prior to that, Mei Yee spearheaded World Toilet Organization's Rainbow School Toilet projects in China and Sanishop in Cambodia.",
+  "background": {
+    "experience_years": "18+ years working internationally",
+    "education": ["Masters in Community Water and Sanitation", "Science Degree in Earth Science (geology and physical geography)"],
+    "certifications": ["WSQ Advanced Certificate in Learning and Performance (ACLP) Train-The-Trainer (TTT)"],
+    "previous_roles": ["World Toilet Organization projects", "Standards development ISO 30500 and ISO 31800"]
+  },
+  "top_3_advice": [
+    "Get groups of like-minded office greenies to start a grassroot committee and budget approval to execute change/initiatives. Most organisations are more than happy to have 'volunteers' in the company for such change.",
+    "Scope 3 is the most challenging to report against so start with the end in mind in your carbon accounting journey",
+    "Start small, start with the easiest but start tracking your carbon emission as it will either hit you from an organisation level or from a supply chain level."
+  ],
+  "how_can_help": [
+    "Sustainability and CSR Initiatives: Providing guidance on developing and implementing corporate social responsibility (CSR) programs focused on environmental sustainability and social impact",
+    "Effective Communication and Leadership: Sharing strategies on how to communicate persuasively, simplify complex messages, and engage diverse stakeholders in global business settings",
+    "Environmental Standards and Certifications: Offering expertise on navigating environmental certifications, sustainability reporting, and compliance with international standards like ISO, especially in the areas of water and resource management"
+  ],
+  "expertise_categories": [
+    "Circular Economy",
+    "Corporate Governance, Mission & Strategy",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "sustainability_motivation": "Started recycling at home before sustainability was fashionable. Now focused on tackling greenwashing through validation and verification of global standards, adding credibility to organization's GHG emissions assertions.",
+  "carbon_management_framework": {
+    "stage_1": "Confused, unclear how to start carbon management accounting, which framework to report to?",
+    "stage_2": "Unsure of what & how to track. Simple excel or investment into a dashboard, Scope 1, 2 and the messy scope 3!?",
+    "stage_3": "Report according to selected framework such as GRI, SDGs, etc.",
+    "stage_4": "Needs assurance and confidence in their carbon accounting or ESG report disclosure",
+    "stage_5": "Looking for solutions to meeting their carbon targets - offset or trade",
+    "process": "Define > Track > Report > Validate > Offset"
+  },
+  "company_achievements": {
+    "role": "Wellness Committee Chair and Living Green @ TUV SUD committee",
+    "recycling_challenge": "Two-month ALBA reverse vending machine challenge that became company-wide 'talk of the town'",
+    "impact": "Pulled people together with common goal, CEO participation in prize giving"
+  },
+  "challenges": "Customers asking for 3rd party audit when not ready in terms of carbon capture or unclear where to start",
+  "solution_codes": [
+    "03.01", "03.06", "12.00", "15.00", "15.01", "15.02", "15.03", "15.04", 
+    "15.05", "15.06", "16.02", "04.01", "04.04", "04.06", "06.00", "06.04"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

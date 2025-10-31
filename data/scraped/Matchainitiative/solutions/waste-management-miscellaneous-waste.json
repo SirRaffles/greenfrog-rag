@@ -1,0 +1,50 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/waste-management-miscellaneous-waste",
+  "title": "Waste Management - Miscellaneous Waste",
+  "scraped_at": "2025-06-24T13:55:00Z",
+  "content": {
+    "overview": "Miscellaneous Waste may not be what most people think about when we mention waste, however this is an important part to deal with. Miscellaneous Waste includes for example hazardous waste, medical waste as well as machinery. It is therefore crucial to deal with this waste in a proper manner. This part explains the best solutions that can be put in place in order to deal with miscellaneous waste in a sustainable manner.",
+    "solutions": [
+      {
+        "title": "Textile - Adopt a Sustainable Approach",
+        "cost": "C2",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Upstream: Favour mono material textile, Optimise supply to reduce losses. Downstream: Favour reuse streams for unused and unsold textile, Partner with trading/recycling companies to recycle textile overseas."
+      },
+      {
+        "title": "Engine - Machinery - Repair, Keep Longer, Properly Recycle",
+        "cost": "C1",
+        "effort": "E2",
+        "impact": "I3",
+        "description": "Upstream: Whenever possible, prefer repairing machinery, Favour machinery with longest lifespan expectancy. Downstream: For electric and electronic goods, contact the Producer Responsibility Organisation of the Extended Producer Responsibility Scheme on e-waste. For heavy machinery equipment, contact metal recyclers to recover as much value as possible. Be aware of oil and grease products which must be disposed properly as per regulation."
+      },
+      {
+        "title": "Recycle Construction & Debris Work",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Construction & Demolition contractors must comply with the Demolition Protocol implemented by the Building and Construction Authority (BCA). This ensure an environmentally sound management of the debris for reuse and recycling. In Singapore, the recycling rate of C&D waste is 99%."
+      },
+      {
+        "title": "Properly Discard Hazardous & Medical Waste",
+        "cost": "C1",
+        "effort": "E1",
+        "impact": "I2",
+        "description": "Upstream: Investigate opportunities to reduce hazardous waste, Consider less toxic alternatives. Downstream: Ensure the proper segregation and handling of hazardous waste by a licenced contractor."
+      }
+    ],
+    "buddies_featured": [
+      "Rémi Cesaro - Founder & Director - Zero Waste City",
+      "Duncan Craig - Co-founder & Design Director - ReXtore",
+      "Elly Both - Founder - Bright Green",
+      "Bhavani Prakash - Co-founder - Sustainable Gaia",
+      "Tatiana Siufi - Chief Strategy Officer - Vidacity",
+      "Zofia Chlapowski - Stakeholder Engagement",
+      "Claire Quillet - CEO - TSB",
+      "Natalie Seisser - Creative Director & Climate Educator - A New Kind Studio",
+      "Pauline Frison - Business Development Director - Second Life",
+      "Suman Majumdar - Sustainability Facilitator"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "page": {
+    "title": "FAQ",
+    "type": "Frequently Asked Questions",
+    "questions_and_answers": [
+      {
+        "question": "Is the platform limited to Singapore?",
+        "answer": "The Matcha Initiative is based and started in Singapore. We are now expanding in the APAC region and welcome all onboard. We support local Best Practices, local businesses and are building local TMI chapters so on the buddies pages and the suppliers details, we have started to add the countries where the suppliers operate and where the buddies could help."
+      },
+      {
+        "question": "I can't find my industry or any solution that fits",
+        "answer": "The Matcha Initiative is consinuously updated by volunteers. We publish as we go along. You can help us update the website with new entries by dropping us a detailed email at team@thematchainitiative.com"
+      },
+      {
+        "question": "There are solutions I can think of that you haven't listed",
+        "answer": "The Matcha Initiative is continuously updated by volunteers. We publish as we go along. You can help us update the website with new entries by dropping us a detailed email at team@thematchainitiative.com"
+      },
+      {
+        "question": "There is a lot of information on the website... Where do I start?",
+        "answer": "Feel free to read and download our Starter Kit: 6 steps to get the big picture. We also provide useful tools such as Templates, Online Calculators and other Websites in our Tool Box section."
+      },
+      {
+        "question": "How do I become a \"Buddy\"?",
+        "answer": "On the Join us page, you will find the form to fill to become a Buddy. Our Team will get in touch with you."
+      },
+      {
+        "question": "I want to change my company's information",
+        "answer": "Drop us an email with your details at team@thematchainitiative.com: - company's current name - all the changes you want to make"
+      },
+      {
+        "question": "I want to change my personal information",
+        "answer": "Drop us an email with your details at team@thematchainitiative.com: - your name, contact details - company's name - all the changes you want to make"
+      },
+      {
+        "question": "I want to recommend a company",
+        "answer": "Drop us an email with your details and the company's information at team@thematchainitiative.com: - your name - your company's name - as many information about the company you wish to recommend as possible, so we can reach out to them"
+      },
+      {
+        "question": "Is the platform created sustainably?",
+        "answer": "All TMI team members are aware of their footprint. Unfortunately it was not always possible for us to make sustainable choices. For instance, our website is built on Webflow. But Webflow only allows us to be hosted on AWS, which is not the most sustainable choice. Our next steps consist in switching to a more sustainable host, measure our carbon footprint and find a good way to offset it."
+      },
+      {
+        "question": "Who are the \"Do-Gooders\"?",
+        "answer": "The Do-Gooders are the volunteers and buddies who contribute to The Matcha Initiative platform and events. They worked on the website, the content, the rating, the masterclasses, the evenings etc. Learn more about their profile on the About Us page."
+      },
+      {
+        "question": "Is the Matcha Initiative platform really free to use?",
+        "answer": "Yes, we don't take money from the suppliers or the users, at any stage. It is 100% free to be listed, to browse the website, to contact our \"buddies\" or other listed companies. Note that we don't take part in any transaction or quotation, and we don't take responsibility for any information you may exchange with other listed companies or for their behaviour (e.g. if they don't reply to your request)."
+      },
+      {
+        "question": "How do you make money?",
+        "answer": "We don't. TMI is run by volunteers and we will keep the platform free as long as possible."
+      },
+      {
+        "question": "How can I be listed on the platform?",
+        "answer": "On the Join us page, you can find the form to become a listed supplier. Please allow few days before your company's profile is published, as our Validation Board needs to review your application and in case we need further information from you. Note that there are minimal requirements."
+      },
+      {
+        "question": "Can I be listed on the platform even if my company is still at early stage of creation?",
+        "answer": "We only list companies that are already able to operate with other businesses."
+      },
+      {
+        "question": "Can any business be listed on the platform?",
+        "answer": "To be listed on the platform, a company can be of any size, from any industry. It must be based in ASEAN or able to operate in ASEAN. Read all the minimal requirements in the selection validation rating processes page."
+      },
+      {
+        "question": "What are the requirements to be listed?",
+        "answer": "To be listed on the platform, a company can be of any size, from any industry. It also needs to fulfil the following minimal requirements: - be B2B oriented - be ready to operate - be based in Singapore or able to operate in Singapore - provide products and/or services that enable sustainability - provide enough information about its sustainable practices, or hold a relevant label/certification, or be well rated by a relevant rating company"
+      },
+      {
+        "question": "How did you find all those companies and how do you select which companies are listed?",
+        "answer": "We contact individuals and companies from our networks, who also refer other companies, we look into existing directories (e.g. from the NEA)... Then our Validation Board examines every company's submission one by one, based on a number of criteria. You can find more details in the selection validation rating processes page."
+      },
+      {
+        "question": "How do you know those companies are legit?",
+        "answer": "We have a Validation Board that would look into each company and their activities."
+      }
+    ],
+    "contact_email": "team@thematchainitiative.com",
+    "key_pages_referenced": [
+      "Join us",
+      "Starter Kit", 
+      "Tool Box section",
+      "About Us",
+      "Selection validation rating processes"
+    ]
+  }
+}

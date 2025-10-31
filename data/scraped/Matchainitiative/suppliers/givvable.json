@@ -1,0 +1,51 @@
+{
+  "name": "Givvable",
+  "tagline": "A smart platform automating supplier sustainability diligence and tracking",
+  "description": "Givvable is an automated data platform that helps organisations understand the sustainability profile of their suppliers and supply chain. It captures, tracks and reports on the credentials of suppliers, that are the strongest indicators of whether a supplier is taking action on sustainability. Givvable covers local to global and SME to MNC suppliers, ensuring it has the widest coverage of supplier sustainability data globally.",
+  "website": "https://www.givvable.com/",
+  "contact": "hello@givvable.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6477ef0587ed45985b4bd0d9_Givvable%20Navy.png",
+  "countries": [
+    "Australia",
+    "India", 
+    "Malaysia",
+    "Philippines",
+    "Singapore",
+    "Worldwide"
+  ],
+  "services": [
+    "Screen your existing suppliers and identify gaps for improvement",
+    "Vet new suppliers at RFP, onboarding or renewal",
+    "Find new suppliers via the givvable search platform",
+    "Build capability in your suppliers through learning tools, modules and badges"
+  ],
+  "expertise_categories": [
+    "Carbon Management & Carbon Footprint",
+    "Green office",
+    "Circular Economy", 
+    "Waste Management",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "solution_codes": [
+    "15.04",
+    "01.01", 
+    "01.02",
+    "01.07",
+    "03.01",
+    "03.02",
+    "03.03",
+    "05.04",
+    "05.05",
+    "04.04",
+    "03.00",
+    "04.02",
+    "04.03",
+    "06.02",
+    "06.01",
+    "06.03"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/givvable",
+  "scraped_date": "2025-07-10"
+}

@@ -1,0 +1,23 @@
+{
+  "supplier_name": "Bright Green",
+  "description": "Sustainability consulting firm specialising in employee engagement and change management programs",
+  "url": "https://www.thematchainitiative.com/supplier/bright-green",
+  "website": "https://workbrightgreen.com",
+  "contact": "hello@livebrightgreen.com",
+  "locations": ["Australia", "New Zealand", "Singapore"],
+  "services": [
+    "Employee engagement and change management programs",
+    "Sustainability consulting with focus on environmental and social impacts"
+  ],
+  "expertise_categories": [
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint",
+    "Green Office",
+    "Sustainable Supply Chain & Logistics",
+    "Consulting"
+  ],
+  "solution_codes": ["14.01", "14.02", "14.03", "15.03", "16.03", "16.04", "01.07", "06.06"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/bright-green",
+  "scraped_date": "2025-10-31"
+}

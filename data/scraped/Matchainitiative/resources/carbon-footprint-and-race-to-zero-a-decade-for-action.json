@@ -1,0 +1,67 @@
+{
+  "title": "Carbon footprint and Race to zero - A decade for action",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/carbon-footprint-and-race-to-zero-a-decade-for-action",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive guide explaining climate change science, the carbon budget concept, IPCC pathways to 1.5°C warming, global policy commitments from COP21-27, Singapore's Green Plan 2030, and practical business guidance for starting carbon footprint management.",
+  "key_topics": [
+    "Climate Change Science",
+    "Carbon Budget (500 GtCO2 remaining)",
+    "IPCC Pathways to Net Zero",
+    "Paris Climate Agreement",
+    "COP26 Glasgow Climate Pact",
+    "COP27 Loss and Damage Fund",
+    "Singapore Green Plan 2030",
+    "Race to Zero Campaign",
+    "Business Climate Action"
+  ],
+  "critical_facts": {
+    "current_warming": "1.09°C above pre-industrial levels",
+    "carbon_budget_remaining": "500 GtCO2 for 50% chance of 1.5°C limit",
+    "annual_emissions": "50 GtCO2 per year globally",
+    "budget_depletion": "Will run out by 2030 at current rate",
+    "required_reduction": "50% reduction by 2030, net-zero by 2050"
+  },
+  "singapore_commitments": {
+    "peak_emissions": "By 2030",
+    "emissions_reduction": "Halved by 2050", 
+    "net_zero_target": "By or around mid-century"
+  },
+  "business_drivers": [
+    "Regulatory compliance and carbon tax",
+    "Supply chain requirements",
+    "Attract/retain employees",
+    "Attract green investors",
+    "Enhance sustainability credentials",
+    "Optimize operational efficiency"
+  ],
+  "next_steps": [
+    "Browse TMI solutions directory",
+    "Read the starter kit",
+    "Set up Green/Carbon Footprint Team",
+    "Start calculating carbon footprint"
+  ],
+  "authors": [
+    {
+      "name": "Diane Pouget",
+      "expertise": "Built environment | Public-private partnerships | ESG | Carbon footprint strategy | Climate Change"
+    },
+    {
+      "name": "Lucie Grosso", 
+      "expertise": "Sustainability and Impact Leader | Optimisation and business transformation"
+    },
+    {
+      "name": "Rishab Sharma",
+      "expertise": "Aspiring Environmentalist | Undergraduate - Air Transport Management Student at SIT"
+    }
+  ],
+  "references": [
+    "IPCC AR6 Reports",
+    "Paris Climate Agreement",
+    "Glasgow Climate Pact",
+    "Singapore Green Plan 2030",
+    "Race to Zero Campaign",
+    "Climate Action Tracker"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

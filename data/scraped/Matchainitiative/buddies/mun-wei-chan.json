@@ -1,0 +1,68 @@
+{
+  "name": "Mun Wei Chan",
+  "position": "Founder & Principal Consultant - SustainableSG",
+  "location": "Singapore",
+  "contact": {
+    "email": "munwei.chan@sustainablesg.net",
+    "website": "https://sustainablesg.net/"
+  },
+  "main_skills": [
+    "Risk",
+    "Strategy",
+    "Carbon and Reporting"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Mun Wei is the founder and principal consultant of SustainableSG, which provides advisory and training services in sustainability, strategy, risk and entrepreneurship. He has worked with corporate, government and non-profit clients on strategy and implementation, reviewing organizational programmes and targets related to the UN Sustainable Development Goals, benchmarking and communicating sustainability and other corporate programmes and achievements, promoting inclusive hiring, developing compliance policies and reports, and formulating innovative business models. He is also an Adjunct Lecturer at the Singapore University of Social Sciences.",
+  "top_advice": [
+    "Talk to people",
+    "Find out more",
+    "Do the right thing"
+  ],
+  "how_they_help": "I've helped companies get started on sustainability or review their existing strategies. I've also advised entrepreneurs and youth groups on green business opportunities.",
+  "expertise_areas": [
+    "Food & Beverage",
+    "Circular Economy",
+    "Waste Management",
+    "Sustainable Supply Chain & Logistic",
+    "Energy & Electricity",
+    "Resources Management",
+    "Local Community Involvement - CSR - Philanthropy",
+    "Sustainable Buildings & Resilient Cities",
+    "Corporate Governance, Mission & Strategy",
+    "Responsible Marketing",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Green office",
+    "Sustainability Accounting & Sustainable Corporate Finance"
+  ],
+  "sustainability_journey": "Prior to starting SustainableSG, I was the Divisional Director of Corporate Planning at Sentosa Development Corporation from April 2009 to August 2018. Sustainability was one of my core responsibilities. Sentosa is like a mini-Singapore, and it was very fulfilling to have worked on sustainability initiatives such as protecting the island greenery, testing EVs on the island, experimenting with tidal turbines and nudging business units to reduce their energy consumption. Along the way, I realised that sustainability was a calling that I wanted to focus on in the next phase of my career, and it wasn't that hard a decision to leave Sentosa and start my own business.",
+  "implemented_actions": "One of the things I did at Sentosa was to make use of satellite imaging to verify the amount of tree coverage on the island. We also managed to secure data from past years to track changes over time. This way, we were using empirical data to make conservation decisions.",
+  "challenges_overcome": "I see myself as a problem solver and consensus builder. Whenever there's an seemingly intractable issue, it's a matter of breaking down the issues, mapping out the options, weighting the pros and cons before making a decision. Consultation is always critical in making refinements and getting buy-in. I always tell my clients that they have to look at sustainability as a value chain of activities and never to underestimate the importance of culture building.",
+  "proudest_achievement": "It feels good to complete a project for a client or finish teaching a course, and in the process make the world a little more knowledgeable in sustainability matters.",
+  "solution_categories": {
+    "food_beverage": ["09.01"],
+    "circular_economy": ["03.00", "03.01", "03.02", "03.03", "03.04", "03.05", "03.06", "03.07"],
+    "waste_management": ["05.01"],
+    "sustainable_supply_chain": ["06.00", "06.01", "06.02", "06.03", "06.06"],
+    "energy_electricity": ["07.00"],
+    "resources_management": ["08.00"],
+    "local_community": ["10.00"],
+    "sustainable_buildings": ["11.00"],
+    "corporate_governance": ["12.00"],
+    "responsible_marketing": ["13.00"],
+    "carbon_management": ["15.00", "15.01", "15.02", "15.03"],
+    "consultants": ["16.01", "16.02", "16.03", "16.04"],
+    "green_office": ["01.00"],
+    "sustainability_accounting": ["04.01", "04.02", "04.03", "04.04", "04.05", "04.06", "04.07"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/mun-wei-chan",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

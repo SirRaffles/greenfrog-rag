@@ -1,0 +1,67 @@
+{
+  "buddy_profile": {
+    "name": "Derek Lee",
+    "title": "Head of Sales - BSI Group Singapore",
+    "location": ["Singapore", "Australia", "Cambodia", "Hong Kong", "India", "Indonesia", "Japan", "Mainland China", "Malaysia", "New Zealand", "Philippines", "South Korea", "Taiwan", "Thailand", "Vietnam"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/685cc0843f823591f7c1d778_Derek%20Corporate%201%20(Cropped%20Square%202).jpg",
+    "main_skills": [
+      "Carbon Reporting",
+      "Carbon Accounting",
+      "Carbon Standards"
+    ],
+    "guidance_types": [
+      "Best Practices",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "derek.lee@bsigroup.com",
+      "website": "https://www.bsigroup.com/en-SG/"
+    },
+    "introduction": "With more than 7 years of experience in the Testing, Inspection and Certification (TIC) Industry, I'm passionate about enabling organizations to drive improvement that produces exceptional business outcomes using international standards. I have worked with hundreds of organizations to embed international standards, drive excellence, and achieve certifications for their businesses.",
+    "experience": "7+ years in Testing, Inspection and Certification (TIC) Industry",
+    "client_reach": "Worked with hundreds of organizations",
+    "specialization": "Enabling organizations to drive improvement using international standards",
+    "top_3_advice": [
+      "Be curious.",
+      "Be involved.", 
+      "Be the change."
+    ],
+    "how_to_help": "I would love to share about my career development journey as a sustainability professional and provide insights on corporate sustainability trends. I am also happy to discuss career development and training needs to help new and interested professionals develop their careers.",
+    "expertise_areas": [
+      "Circular Economy",
+      "Sustainable Supply Chain & Logistic",
+      "Energy & Electricity",
+      "Carbon Management & Carbon Footprint",
+      "Food & Beverage"
+    ],
+    "sustainability_motivation": "The work that I do is closely related to International Standards. I'm passionate about sharing how standards can benefit companies by driving real, meaningful and lasting organizational change, and enabling better sustainability outcomes.",
+    "organizational_responsibilities": "I am part of our team's APAC Carbon Reduction Community which drives carbon reduction initiatives, best practices, and tracking at a national level.",
+    "challenges_and_solutions": "I faced a lack of resources, manpower, and tools to track sustainability metrics.",
+    "proudest_achievement": "I am most proud of my work with leading organizations in adopting standards and serving their business assurance needs.",
+    "company_details": {
+      "name": "BSI Group",
+      "location": "Singapore",
+      "industry": "Testing, Inspection and Certification (TIC)",
+      "focus": "International standards, certifications, business assurance"
+    },
+    "apac_involvement": "APAC Carbon Reduction Community member",
+    "standards_focus": "International standards for organizational change and sustainability outcomes",
+    "solution_codes": [
+      "03.00 - Circular Economy",
+      "03.06 - Circular Economy Certifications",
+      "03.07 - Circular Economy Awareness & Training",
+      "06.00 - Sustainable Supply Chain",
+      "06.01 - Sustainable Supply Chain Strategy",
+      "06.03 - Sustainable Supply Chain Procurement",
+      "07.00 - Energy & Electricity",
+      "09.01 - Food & Beverage General",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.01 - Carbon Management Measure & Report",
+      "15.02 - Carbon Management Goal Settings",
+      "15.03 - Carbon Management Awareness & Training",
+      "15.04 - Carbon Management Reduction Strategy Overview",
+      "15.05 - Carbon Management Carbon Offset",
+      "15.06 - Carbon Management Carbon Pricing"
+    ]
+  }
+}

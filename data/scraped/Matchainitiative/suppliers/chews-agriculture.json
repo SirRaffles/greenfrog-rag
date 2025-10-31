@@ -1,0 +1,26 @@
+{
+  "supplier_name": "Chew's Agriculture Pte Ltd",
+  "description": "Eggs producer",
+  "url": "https://www.thematchainitiative.com/supplier/chews-agriculture",
+  "website": "https://chewsegg.com",
+  "contact": null,
+  "phone": "(+65) 6793 7674",
+  "locations": ["Singapore"],
+  "services": [
+    "Specialty eggs production including organic selenium, cage-free, omega-3, omega-6, zeaxanthin plus, traditional black chicken, kampong chicken, corn & soya, and lower-cholesterol varieties"
+  ],
+  "certifications": [
+    "First ISO 22000:2005 certified farm in Singapore",
+    "First HACCP certified farm in Singapore",
+    "First Certified Humane egg producer in Singapore"
+  ],
+  "expertise_categories": [
+    "Food & Beverage",
+    "Food & Drink Sourcing"
+  ],
+  "solution_codes": ["09.02"],
+  "minimum_order": "300 pieces",
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/chews-agriculture",
+  "scraped_date": "2025-10-31"
+}

@@ -1,0 +1,24 @@
+{
+  "supplier_name": "BlueSG",
+  "description": "24/7 carsharing solution in Singapore",
+  "url": "https://www.thematchainitiative.com/supplier/bluesg",
+  "website": "https://bluesg.com.sg",
+  "contact": null,
+  "locations": ["Singapore"],
+  "services": [
+    "Car-sharing service featuring fully electric fleet",
+    "Convenient, flexible, and affordable mobility options",
+    "Complement public transportation",
+    "Reduce car ownership needs",
+    "Zero direct carbon emissions"
+  ],
+  "expertise_categories": [
+    "Sustainable HR Practices",
+    "Green Office",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "solution_codes": ["14.06", "01.09", "15.04"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/bluesg",
+  "scraped_date": "2025-10-31"
+}

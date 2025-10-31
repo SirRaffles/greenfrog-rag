@@ -1,0 +1,81 @@
+{
+  "title": "Engaging people on a corporate sustainable journey",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/engaging-people-on-a-sustainable-journey",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive guide for building a sustainable mindset in companies, covering team building, stakeholder engagement, project management, and long-term community development for corporate sustainability initiatives.",
+  "key_framework": "11-step approach to implementing corporate sustainability with focus on human capital and stakeholder engagement",
+  "main_steps": [
+    "1. Know where you stand (self-appraisal)",
+    "2. Build a community for sustainability",
+    "3. Be progressive and coherent", 
+    "4. Find a sponsor",
+    "5. Prepare the right favorable arguments",
+    "6. Be project-driven",
+    "7. Find inspiration elsewhere",
+    "8. Aim at everyday life tasks",
+    "9. Build knowledge",
+    "10. Show progress and results",
+    "11. Make people responsible beyond workplace"
+  ],
+  "lacs_matrix": {
+    "L": "Leaders - Drive strategy and vision",
+    "A": "Actors - Execute and implement",
+    "C": "Contributors - Support and assist",
+    "S": "Supporters - Advocate and encourage"
+  },
+  "self_appraisal_questions": [
+    "What are your company core values?",
+    "What role do you have in your company?",
+    "What can your next sustainable role be?",
+    "What are industry trends that could benefit sustainability?"
+  ],
+  "stakeholder_engagement": {
+    "marketing_innovation": ["Corporate values", "Differentiation"],
+    "finance_legal": ["Compliance", "ROI", "Feasibility"],
+    "it_teams": ["ROI", "Efficiency", "Feasibility"],
+    "cfo_focus": "Cost cutting and business metrics",
+    "hr_marketing_focus": "Corporate happiness and branding"
+  },
+  "recommended_solutions": [
+    "Green Office - corporate office best practices",
+    "Digital Footprint & IT - sustainable IT policies",
+    "Food & Beverage - canteen & kitchen sustainability",
+    "Green Procurement - sustainable procurement policy"
+  ],
+  "engagement_activities": [
+    "Beach Clean-ups",
+    "Sustainability workshops",
+    "Climate Conversations",
+    "Climate Fresk",
+    "Sustainable IT Collage",
+    "Corporate challenges and games"
+  ],
+  "business_examples": [
+    "Bank of America - $500 for employee solar panels",
+    "Facebook - $10,000+ for living within 10 miles of campus"
+  ],
+  "common_pitfalls": [
+    "Overemphasis on compliance (monitoring, reporting)",
+    "Losing sustainable goals",
+    "Disconnection from business strategy", 
+    "Falling for greenwashing actions"
+  ],
+  "project_management_approach": "Roadmap-based with clear milestones and stakeholder buy-in",
+  "knowledge_building_tools": [
+    "Workshops and feedback sessions",
+    "Internal and external training",
+    "SharePoint-like collaborative platforms",
+    "Dedicated communication channels"
+  ],
+  "author": {
+    "name": "Thibaut Meurgue-Guyard",
+    "expertise": "Entrepreneur and Sustainable IT consultant"
+  },
+  "referenced_frameworks": [
+    "RACI matrix for responsibilities",
+    "17 UN Sustainability Goals",
+    "BCG sustainable business model innovation study"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

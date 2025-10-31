@@ -1,0 +1,67 @@
+{
+  "name": "Nicolas Sautter",
+  "position": "CEO & Founder - Beez-fm",
+  "location": [
+    "Australia",
+    "Indonesia",
+    "Malaysia",
+    "Philippines",
+    "Singapore",
+    "Thailand"
+  ],
+  "contact": {
+    "email": "nico@beez-fm.com",
+    "website": "https://www.beez-fm.com/"
+  },
+  "main_skills": [
+    "Energy Conservation",
+    "Energy Savings",
+    "Energy Efficiency"
+  ],
+  "guidance_types": [
+    "Best Practices",
+    "Experience & Expertise Sharing",
+    "Kick Start Help"
+  ],
+  "introduction": "Graduated in IT and marketing, Nicolas started his career at SAUTER, a Swiss BMS Supplier, in the HQ in 2008 and has been a product manager for several years. After the successful launch of the first BMS Cloud in Europe, he became business developer in the APAC region in 2015. He relocated to Shanghai for 20 months to be closer to the markets, before moving to Singapore in 2018 where he created and directed the SAUTER APAC Competence Centre until June 2022. Since then, he has taken on the role of CEO at beez-fm, a green tech startup he founded in December 2019.",
+  "top_advice": [
+    "We, as individuals, shall not wait for big companies or government to make the changes towards a more sustainable future. We can always do something to save the planet. Even the smallest effort can make great changes, when multiplied by others who follow suit.",
+    "We should not wait for the technological tip or gadget that is going to save us all and our life on the planet. We can start to cut the fat by ourselves.",
+    "Finally, green energy and solar panels are not going to save our lives. The only clean energy, is the one we do not produce. As a quick fact, despite all we hear about new renewable energy being setup everywhere, the global energy-related CO2 emissions have increased by about 10% from 2012 to 2022, reaching a new high of over 36.8 Gt in 2022."
+  ],
+  "how_they_help": "Helping you or your company to make your building more efficient (this means keeping the same or increased comfort level). I can help you with workshops and with past examples and experiences to show you how involving the employees in a building can change the energy consumption within the building. I can help you find ways to be more energy resilient or conservative and find ways to save energy by voluntarily reducing our usage. I can share examples of projects that have worked.",
+  "expertise_areas": [
+    "Green office",
+    "Energy & Electricity",
+    "Sustainable Buildings & Resilient Cities",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "sustainability_journey": "As a Gen Y baby, I've always wondered if we'd be the first generation that couldn't guarantee our children a better life than we had. If we think about it, my parents could guarantee that we would have a better life than them, with rapid development, travel becoming accessible, work becoming less painful. But for us, with global warming, exponential population growth, extreme weather and less food security, we cannot guarantee our children a better life.",
+  "professional_motivation": "Strong from my experience in Europe and Asia as a BMS supplier, I have seen too many instances where decision-makers favour unreliable, cheap devices coupled with outdated Building Management Systems (BMS) design, in order to keep CAPEX investments to a minimum. This always results in a significantly reduced building efficiency, increased OPEX and an unnecessarily high carbon footprint. To solve this economic and environmental issue, I have created beez-fm.",
+  "business_model": "In fact our revolutionary business model that uberizes the BMS market is the real game changer that makes the difference. When we speak about climate change and global warming, some people think about finding the miracle product that would save all human lives. Others such as Greta Thunberg would scream that our current system which requires an infinite growth in a finite world is the problem to tacle but does not provide any solution. With beez-fm we provide the solution to this problem, a new way of generating growth! We eliminated the principle of selling products. We sell what our customers, the building owners, really need: comfort in their buildings at the lowest possible energy consumption. We are getting paid only on the result, with a portion of the energy savings we achieve.",
+  "startup_experience": "Opening your own startup is a tough journey and you are often questioning yourself, but hard work finally always pays off.",
+  "bangkok_hotel_project": "I would like to share a story to illustrate how hard work pays off. Consider our project with a renowned hotel in Bankok Sukhumvit, which was our first venture of this scale, previous ones being considerably smaller. Upon completing this project, we had to completely re-programme the way they managed their chiller plant. Many products were malfunctioning or lacked proper command capabilities. Some sensors were providing inaccurate data, adding complexity to our engineering tasks. Furthermore, the local team was accustomed to the manual control of everything.",
+  "dedication_example": "I personally handled the entire engineering of the chiller plant in between investor calls, sales meetings, and proposal preparations. It was an intense period, as the hotel operates 24/7, necessitating updates to the chiller plant during the night. I was remotely working on this task every night from 1am to 4am, with only about two hours of sleep per night. This was crucial because I had to ensure that the chillers were functioning correctly when the kitchen started its operations at 6 am. I made myself available for any customer inquiries at any hour of the day or night.",
+  "proudest_achievement": "Well, it has been quite a journey to start the business and to promote a solution through a completely new channel. Nevertheless, this year, we have been awarded several times and this was such a great pride and happiness to see that others have acknowledged our business model.",
+  "awards_received": [
+    "Most Visionary Facility Management Company at APAC Insider's 2023 Singapore Business Awards",
+    "Top Fastest Growing Companies to Watch 2023 by Biztech Outlook",
+    "Top 10 Leaders in Singapore 2023 by CEO Insights Asia (personal award)"
+  ],
+  "solution_categories": {
+    "green_office": ["01.00"],
+    "energy_electricity": ["07.00"],
+    "sustainable_buildings": ["11.00"],
+    "carbon_management": ["15.00", "15.01", "15.02", "15.03", "15.04", "15.05", "15.06"],
+    "consultants": ["16.01", "16.02", "16.04"],
+    "sustainable_supply_chain": ["06.01"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/buddies/nicolas-sautter",
+    "profile_type": "buddy",
+    "data_completeness": "complete"
+  }
+}

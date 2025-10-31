@@ -1,0 +1,59 @@
+{
+  "name": "Tamotsu Institute",
+  "tagline": "Sustainability consulting",
+  "motto": "ACTIVATE - DESIGN - ACCELERATE",
+  "description": "Our expert consulting services and trainings help business leaders understand the complexities of sustainability, consider climate- and nature-related risks and opportunities to make informed decisions and alleviate the administrative burdens",
+  "website": "https://www.linkedin.com/company/tamotsu-institute/",
+  "contact": "contact@tamotsuinstitute.com",
+  "logo": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/6479f041c5a0be6a06da2c59_Black%20%26%20White%20Minimalist%20Business%20Logo%20-%20zuzana%20%40thematchainitiative.com%20(1).png",
+  "countries": [
+    "Singapore"
+  ],
+  "core_services": [
+    "Risk management and compliance",
+    "Organizational transformation and project management", 
+    "Stakeholder engagement and reporting"
+  ],
+  "client_types": [
+    "SMEs (direct work)",
+    "Other sustainability consulting companies (collaboration)"
+  ],
+  "network_involvement": [
+    "The Matcha Initiative",
+    "Climate Fresk",
+    "Networks of sustainability professionals"
+  ],
+  "unique_strength": "Understanding sustainability from the risk management perspective, creating a business case and using financial reasoning to adopt sustainable business practices and decarbonize",
+  "mission": "Share knowledge with public and educate other professionals to bring awareness and accelerate the transition in Singapore and worldwide",
+  "expertise_categories": [
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Corporate Governance, Mission & Strategy",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainable Supply Chain & Logistic",
+    "Sustainable HR Practices"
+  ],
+  "solution_codes": [
+    "04.00",
+    "12.00",
+    "15.00",
+    "15.01",
+    "15.02",
+    "15.03",
+    "15.06",
+    "16.01",
+    "16.02",
+    "16.04",
+    "04.01",
+    "04.02",
+    "04.03",
+    "04.05",
+    "04.07",
+    "06.01",
+    "14.03",
+    "06.06"
+  ],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/tamotsu-institute",
+  "scraped_date": "2025-07-10"
+}

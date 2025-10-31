@@ -1,0 +1,47 @@
+{
+  "supplier_name": "Bamboo Straw Girl",
+  "description": "Online store of plastic-free & low-impact lifestyle products",
+  "url": "https://www.thematchainitiative.com/supplier/bamboo-straw-girl",
+  "website": "https://bamboostrawgirl.com/",
+  "location": "Singapore",
+  "detailed_description": "Bamboo Straw Girl works directly with makers (fair-trade) and focuses on producing meaningful lifestyle products that are low-impact from production to delivery and usage. The founder Melissa Lam aims at engaging eco conversations, starting with the simple bamboo straw. The novel item became a small ripple at the beginning of the growth of the zero-waste movement in Singapore. Melissa is a TedX speaker and actively promotes the environmental message through her school and corporate talks. With her team, she focuses on waste reduction and on impacting the communities of artisans they work with in South East Asia.",
+  "services": [
+    "Corporate talks",
+    "Lunchtime info sessions", 
+    "Educational workshops",
+    "Pop-up retail booths",
+    "Corporate gifts curation",
+    "Green message consulting"
+  ],
+  "founder": {
+    "name": "Melissa Lam",
+    "credentials": ["TedX speaker"],
+    "activities": ["School talks", "Corporate talks", "Environmental advocacy"]
+  },
+  "focus_areas": [
+    "Waste reduction",
+    "Community impact for SE Asian artisans",
+    "Zero-waste movement",
+    "Fair-trade partnerships"
+  ],
+  "expertise_categories": [
+    "Green office",
+    "Waste Management", 
+    "Sustainable HR Practices"
+  ],
+  "specific_solutions": [
+    "Eat & Drink at the office",
+    "Corporate Gifts",
+    "Office - Meeting rooms - Printer Rooms & Others",
+    "Performance, Compensation, Benefits & Recognition"
+  ],
+  "solution_codes": [
+    "01.03",
+    "01.08", 
+    "05.02",
+    "14.04"
+  ],
+  "business_model": "Direct work with fair-trade makers for low-impact lifestyle products",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

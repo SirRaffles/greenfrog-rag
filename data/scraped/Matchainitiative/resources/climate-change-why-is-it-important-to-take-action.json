@@ -1,0 +1,76 @@
+{
+  "title": "Climate Change: why is it important to act now?",
+  "url": "https://www.thematchainitiative.com/resources/fundamentals/climate-change-why-is-it-important-to-take-action",
+  "type": "Resource Page - Fundamentals",
+  "summary": "Comprehensive guide explaining climate change fundamentals, causes, current situation, scenarios, and organizational implications with practical next steps for businesses.",
+  "key_topics": [
+    "Climate Change Definition",
+    "Greenhouse Gas Sources",
+    "Current Temperature Records",
+    "Emissions by Sector",
+    "Best/Worst Case Scenarios",
+    "COVID-19 Lessons",
+    "COP Progress",
+    "Organizational Impact Assessment"
+  ],
+  "current_situation": {
+    "temperature_trend": "2015-2022 were hottest years on record",
+    "current_warming": "1°C above pre-industrial levels in 2022",
+    "energy_consumption": "Multiplied by 20 since pre-industrial era",
+    "fossil_fuel_share": "81% of energy mix in 2018"
+  },
+  "scenarios": {
+    "worst_case": "Business-as-usual leading to 4-5°C by 2100",
+    "current_trajectory": "Around 3°C by 2100 based on current pledges",
+    "best_case": "Well below 2°C with mitigation and adaptation strategies"
+  },
+  "required_actions": {
+    "global_targets": [
+      "Peak emissions ASAP",
+      "Decrease emissions by 50% by 2030",
+      "Carbon neutral by 2050",
+      "Carbon negative after 2050"
+    ],
+    "covid_lesson": "Need 7.5% annual reduction (achieved during lockdowns)"
+  },
+  "organizational_framework": {
+    "negative_impact_measurement": "Carbon footprinting exercise",
+    "climate_risk_types": [
+      "Physical risks (extreme weather, sea level rise)",
+      "Transition risks (policy-driven costs)",
+      "Social license risks (stakeholder expectations)"
+    ],
+    "opportunities": [
+      "New market opportunities",
+      "Business model resilience", 
+      "Competitive advantage",
+      "Cost savings"
+    ]
+  },
+  "emissions_by_sector": {
+    "energy_in_industry": "Largest contributor",
+    "transport": "Significant portion",
+    "buildings": "Heating and cooling",
+    "agriculture": "Methane (40% from cattle, 12% from rice)",
+    "deforestation": "80% for agriculture"
+  },
+  "next_steps": [
+    "Browse TMI solutions directory",
+    "Read starter kit", 
+    "Calculate carbon footprint",
+    "Start business transformation"
+  ],
+  "author": {
+    "name": "Michèle Dyson",
+    "expertise": "Consultant & Facilitator | Transition to a low-carbon economy"
+  },
+  "references": [
+    "World Meteorological Organisation",
+    "Our World in Data",
+    "IPCC Special Report on Global Warming of 1.5°C",
+    "IEA World Energy Outlook 2020",
+    "Singapore's climate strategy"
+  ],
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

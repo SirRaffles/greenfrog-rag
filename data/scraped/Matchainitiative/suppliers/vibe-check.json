@@ -1,0 +1,31 @@
+{
+  "name": "Vibe Check",
+  "tagline": "Marketing and Communications Consulting",
+  "location": "Singapore",
+  "contact": {
+    "email": "priya@vibecheck.asia",
+    "website": "http://vibecheck.asia/"
+  },
+  "description": "Vibe Check provides end-to-end marketing and communications consulting for purpose-driven brands.",
+  "services": [
+    "End-to-end marketing consulting",
+    "Communications consulting",
+    "Purpose-driven brand strategy",
+    "Responsible marketing services"
+  ],
+  "target_market": "Purpose-driven brands",
+  "expertise_areas": [
+    "Responsible Marketing",
+    "Consultants"
+  ],
+  "solution_categories": {
+    "responsible_marketing": ["13.00"],
+    "consultants": ["16.01"]
+  },
+  "metadata": {
+    "scraped_at": "2025-07-10",
+    "source_url": "https://www.thematchainitiative.com/supplier/vibe-check",
+    "profile_type": "supplier",
+    "data_completeness": "complete"
+  }
+}

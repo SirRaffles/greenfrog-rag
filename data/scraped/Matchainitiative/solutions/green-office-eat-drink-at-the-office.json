@@ -1,0 +1,277 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/green-office-eat-drink-at-the-office",
+  "category": "Green Office",
+  "subcategory": "Eat & Drink at the office", 
+  "scraped_at": "2025-06-24T12:30:00Z",
+  "introduction": {
+    "description": "Pantry, take away, delivery are integrated in our office's routine and whether on an individual level or an organisation level, we can limit our environmental impact with minimal effort.",
+    "focus": "This section is mostly about raising awareness and reducing waste, including single-use items - such as but not limited to plastic: bags, cutlery, packaging...",
+    "reference": "Check out the BYO (Bring Your Own) Campaign launched in 2017 by Zero Waste SG. So far, 2.5 million pieces of plastic disposables were avoided through the campaign."
+  },
+  "solutions": [
+    {
+      "title": "Measure & Monitor",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "principle": "If you don't measure it, you can't manage it!",
+      "actions": [
+        "Start recording your food and drinks consumption/ waste",
+        "Implement a proper procedure to measure across all departments",
+        "Set annual reduction targets of food and drinks consumption/ waste to achieve environmental sustainability, economic outcomes and food security"
+      ]
+    },
+    {
+      "title": "Reduce F&B Consumption",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I2",
+      "goal": "Target a Zero Waste objective",
+      "ideas": [
+        "Avoid over-ordering F&B for meetings, workshops, trainings, events. It is usually sufficient to order for 10–15% less than the number of guests attending.",
+        "Serve tap-water in reusable glass bottles",
+        "Make sure to share the leftovers with others or offer to take them home"
+      ]
+    },
+    {
+      "title": "Encourage Tap Water Consumption",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "singapore_context": "Singapore's tap water is perfectly safe to drink without any further filtration. You can add a filter to the tap water if you wish.",
+      "requirement": "Use reusable cups!"
+    },
+    {
+      "title": "Install Drinking Water Dispensers",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "preference": "Prefer pipe-in Water Dispensers. Direct piping dispensers are plastic bottleless and typically connected to the water source (piped-in) in the office, with/ without filter."
+    },
+    {
+      "title": "Bags: Give up Single-Use",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "actions": [
+        "Reuse plastic, paper, tissue bags",
+        "Create a 'bags box' for employees for their take-away lunch or other purchase. To do so, collect existing bags from home or the community, instead of producing new ones"
+      ]
+    },
+    {
+      "title": "Crockery in the office: Avoid Single-Use",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "action": "Get rid of single-use plastic/ styrofoam cups, plates, cutlery, boxes... Replace them with reusable in the pantries."
+    },
+    {
+      "title": "Use reusable or compostable crockery / utensils",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I3",
+      "primary_option": "Consider investing in reusable compartmentalised trays and crockery instead of disposable ones. If you contract your canteen, take a look in the General section at the 'Choose sustainable food service contractors' solution.",
+      "dispensers": "Use dispenser for sauces, soft beverage, ice cream, coffee and tea instead of single dose packaging. Allow self service for napkins, bread, sugar, etc.",
+      "alternative": "If reusable is REALLY not an option, consider using compostable dining ware suitable for a food waste digester if used. Otherwise, use disposable ware with first lower carbon footprint and then from sustainable sources"
+    },
+    {
+      "title": "Crockery for take away: Avoid Single-Use",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "recommendations": [
+        "For take-away meals, encourage your employees to refuse single-use (bag, box, cutlery,...), to bring their own (BYO) reusable containers or use reusable containers app solutions such as Muuse.",
+        "Refuse plastic carriers if packed food can be held in the hand.",
+        "For BYO, glass, stainless steel or BPA-free plastics are some recommended material options from a safety standpoint."
+      ]
+    },
+    {
+      "title": "Buy in Bulk",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "benefits": "Some products can be found in bulk to limit transport and packaging: coffee, tea, sugar, fruits...It can be the opportunity to promote healthier/ better quality of products, such as organic nuts and dry fruits.",
+      "cautions": [
+        "Make sure you don't over-order and waste. It is usually enough to order for 10%-15% less attendees than planned.",
+        "Use proper containers to avoid wastage (e.g. airtight boxes, resealable packaging...)"
+      ]
+    },
+    {
+      "title": "Grow your Herbs Garden",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "benefits": "Herbal tea has been used for centuries and has many proven health benefits, depending on the plants used. Mint, chamomile, lemon balm, dandelion etc. can be grown indoor or outdoor in Singapore. Herbs are easy to work with. Once harvested, they just need to be dried and enjoyed. Use this garden to raise awareness about food production.",
+      "resource": "Learn more on how to grow different herbs from NParks Singapore"
+    },
+    {
+      "title": "Grow your own produces / Partner with local communities",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "benefits": [
+        "reduce transportation of your fresh herbs and other produces",
+        "allow your employees to (re)connect with nature"
+      ],
+      "partnership_benefit": "partnerships will support local community gardens and local urban farmers",
+      "getting_started": [
+        "understand your space (lighting, quality of the soil etc)",
+        "set your gardening goals",
+        "choose your seeds",
+        "map out your garden"
+      ],
+      "alternative": "If you cannot grow your own produce, prioritize local produces (labelled if possible)"
+    },
+    {
+      "title": "Raise awareness on healthy habits",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "initiatives": [
+        "Provide fresh fruits to your employees once or twice a week (prefer package free, chemicals-free, local products)",
+        "Meat consumption contributes to climate change. Encourage your employees to learn more about this issue, and adopt a vegetarian-diet-day once a week. Take a look at Green Monday.",
+        "Hold an optional monthly or quarterly potluck to encourage people to eat a healthy, home-cooked lunch. Employees will have the opportunity to share a good meal, strengthen relationships and meet people they don't usually interact with."
+      ]
+    },
+    {
+      "title": "Select eco-friendly options for food delivery",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I1",
+      "recommendations": [
+        "Select sustainable options such as borrow-use-return systems of reusable containers: with Muuse, you order via an app, receive your food delivery, drop off the containers (boxes and/ or cups) at any partnering venue without the inconvenience of cleaning.",
+        "Order from eco-conscious restaurants - it is good for you, for them and for the planet!",
+        "When you order food via delivery platforms or directly from your favourite restaurants & stalls, don't forget to specify you don't need disposables such as plastic cutlery, tissue, cups..."
+      ]
+    },
+    {
+      "title": "Repurpose used Coffee Grounds",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I1",
+      "description": "Reuse / Donate / Compost used coffee grounds. Coffee grounds are 100% natural and have various practical usage related to gardening, cleaning or technological usage such as fire retardant material. Contract with a specialist to collect them.",
+      "composting_note": "If you want to compost it by yourself, be aware that used coffee grounds must be detoxified by composting for a minimum of 98 days for plants to benefit from the potassium and nitrogen contained in the roasted beans."
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Alya Annabi",
+      "title": "Founder - GreenPush",
+      "expertise": "sustainability awareness, personal growth, public speaking, community building",
+      "website": "greenpush.co"
+    },
+    {
+      "name": "Benoit Barraque",
+      "title": "Responsable de Projets Transverses - Crédit Agricole Group Infrastructure Platform", 
+      "expertise": "IT project management, sustainability in IT, ecodesign, green teams",
+      "website": "ca-groupinfrastructureplatform.fr"
+    },
+    {
+      "name": "Yen Lyng Loh",
+      "title": "Marketing & Sales Director - A1 Environment",
+      "expertise": "digital media, film-making, digital marketing, waste management, recycling, coffee recycling",
+      "website": "a1environment.com.sg"
+    },
+    {
+      "name": "Mary Kon-Sun-Tack",
+      "title": "Director of Marketing, Southeast Asia and Korea - IHG Hotels and Resorts -- Founder - Journey Makers",
+      "expertise": "marketing strategy, transformation, customer and employee experience, strategic partnerships, business development, sustainability roadmaps, change management",
+      "website": "journeymakers.sg"
+    },
+    {
+      "name": "Nadège Claudel", 
+      "title": "Head of Sustainability APAC - Chanel (Former General Manager - BSI - British Standards Institution)",
+      "expertise": "sustainability, quality, food safety, standards"
+    },
+    {
+      "name": "Virgile Viasnoff",
+      "title": "Research Director – CNRS",
+      "expertise": "sustainable laboratory practices, CO2 emission monitoring, energy efficiency, waste management",
+      "website": "cnrs.fr"
+    },
+    {
+      "name": "Naomi Vowels",
+      "title": "Director - givvable", 
+      "expertise": "supplier sustainability screening, ESG, sustainable supply chains",
+      "website": "givvable.com"
+    },
+    {
+      "name": "Elly Both",
+      "title": "Founder - Bright Green",
+      "expertise": "corporate sustainability engagement, employee impact projects, sustainability education",
+      "website": "workbrightgreen.com"
+    },
+    {
+      "name": "Mimi Nguyen",
+      "title": "General Manager - Handprint -- Founding Member - The Matcha Initiative",
+      "expertise": "sustainability consulting, regeneration, community building",
+      "website": "handprint.tech"
+    },
+    {
+      "name": "Sumathy Krishnan",
+      "title": "Consultant, founder - Sustainpath",
+      "expertise": "social impact, sustainability consulting, triple bottom line",
+      "website": "sustainpath.eco"
+    },
+    {
+      "name": "Bhavani Prakash",
+      "title": "Co-founder - Sustainable Gaia",
+      "expertise": "sustainability reporting, GRI, TCFD, UNSDGs, ISO 14064, ESG consulting",
+      "website": "sustainablegaia.com"
+    },
+    {
+      "name": "Claire Quillet",
+      "title": "CEO - TSB",
+      "expertise": "Water, Sanitation & Hygiene (WASH), humanitarian work, private sector sustainability, GRI copywriting",
+      "website": "tsb.co.id"
+    },
+    {
+      "name": "Tamara Wu",
+      "title": "CEO - Liberty Society",
+      "expertise": "social enterprise, eco merchandise, women empowerment, sustainable development goals",
+      "website": "liberty-society.com"
+    },
+    {
+      "name": "Julia Thio",
+      "title": "ESG Partnership Officer - Liberty Society",
+      "expertise": "environmental geography, urban studies, sustainability in business",
+      "website": "liberty-society.com"
+    },
+    {
+      "name": "Droston Tang",
+      "title": "Senior Advisor, Market Development Southeast Asia - ESGTree",
+      "expertise": "business development, circular economy, renewable energy, venture building, mentoring",
+      "website": "esgtree.com"
+    },
+    {
+      "name": "Parvathy Subhadra",
+      "title": "Managing Director - Green In Future",
+      "expertise": "sustainability media, content creation, workshops, training",
+      "website": "greeninfuture.com"
+    },
+    {
+      "name": "Leslie Beckman",
+      "title": "Founder - Sisloff International & The Eco-Marketing Project",
+      "expertise": "data-driven sustainability, marketing, strategic leadership, GRI sustainability reporting",
+      "website": "sisloff-intl.com"
+    },
+    {
+      "name": "Asiyah Wong",
+      "title": "Environmental Strategist",
+      "expertise": "environmental strategy, capacity-building, team management, scientific experimentation",
+      "website": "asiyahthoughts.substack.com"
+    },
+    {
+      "name": "Firoz Raja",
+      "title": "Development Manager - Neste Singapore",
+      "expertise": "technical consulting, renewable energy, project development, sustainable practices",
+      "website": "neste.com"
+    },
+    {
+      "name": "Low Li Ting",
+      "title": "Founder & Director - The Ripple Tribe",
+      "expertise": "soap crafting, low-waste lifestyle, impact positive gifting, sustainable products",
+      "website": "mynakedbar.com"
+    }
+  ]
+}

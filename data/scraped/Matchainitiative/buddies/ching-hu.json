@@ -1,0 +1,86 @@
+{
+  "buddy_profile": {
+    "name": "Ching Hu",
+    "title": "Head, Net Zero Transition – Singapore Business Federation (SBF)",
+    "location": ["Singapore"],
+    "profile_image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/63452b67b50b81217b8bb5fa_HC1%20-%20Ching%20Hu.jpg",
+    "main_skills": [
+      "Reporting",
+      "Corporate Strategy",
+      "Ratings"
+    ],
+    "guidance_types": [
+      "Kick Start Help",
+      "Best Practices",
+      "Experience & Expertise Sharing"
+    ],
+    "contact": {
+      "email": "team@thematchainitiative.com",
+      "website": "https://www.sbf.org.sg/"
+    },
+    "introduction": "Ching Hu is currently head of the Net Zero Transition Department at Singapore Business Federation, which objective is to drive initiatives to decarbonise Singapore and enterprises, including publishing the Singapore Emission Factors Registry and sector-specific decarbonisation programme for SMEs. Previously, he worked at Terrascope, which offers an end-to-end decarbonisation SaaS platform enabling enterprises to measure and manage their emissions across operations, supply chains, and portfolios. Prior to Terrascope, he launched the Singapore office of EcoVadis - a global ESG ratings company - which served more than 800 companies within its first year of operations. The ratings include environmental, social, ethics and sustainable procurement metrics.",
+    "education": [
+      "London School of Economics",
+      "SciencesPo Paris", 
+      "Oxford University"
+    ],
+    "career_progression": {
+      "current": "Head, Net Zero Transition Department at Singapore Business Federation",
+      "previous": [
+        "Terrascope - end-to-end decarbonisation SaaS platform",
+        "EcoVadis Singapore office launch - served 800+ companies in first year",
+        "Singapore Government - manpower, education, transport, decarbonisation portfolios"
+      ]
+    },
+    "sbf_responsibilities": {
+      "objective": "Drive initiatives to decarbonise Singapore and enterprises",
+      "key_initiatives": [
+        "Publishing Singapore Emission Factors Registry",
+        "Sector-specific decarbonisation programme for SMEs"
+      ]
+    },
+    "university_achievement": "Helped launch inaugural Oxford Climate Forum - UK's largest student-run climate change event",
+    "top_3_advice": [
+      "Never give up. Sometimes it can be depressing to read about the potential impact of climate change. Sometimes we question if the things which we do can make a difference to help solve the climate challenge. But never give up, for every little bit matters and great oaks grow from little acorns.",
+      "Just get started. Many newcomers to the field of sustainability can find it daunting, given the technical jargons and complex frameworks. It will get easier over time, so just get started. There are plenty of resources and mentors to guide you on your journey.",
+      "Collaborate! If you want to go far, work together. Support each other, and find avenues for collaboration between organisations and teams."
+    ],
+    "how_to_help": "Offering advice and sharing knowledge based on my past experience, especially on corporate sustainability matters and government policy.",
+    "expertise_areas": [
+      "Sustainability Accounting & Sustainable Corporate Finance",
+      "Sustainable Supply Chain & Logistic",
+      "Corporate Governance, Mission & Strategy",
+      "Carbon Management & Carbon Footprint",
+      "Consultants"
+    ],
+    "sustainability_motivation": "Watching the documentary film 'An Inconvenient Truth' as a teenager opened my eyes to the perils of climate change. Since then, I have devoted my academic, professional and personal pursuits to sustainability.",
+    "organizational_responsibilities": "My previous company Terrascope is a company whose mission is to help other enterprises measure and manage their carbon emissions comprehensively. This is so critical to ensure that the world stays on track with the Paris Agreement outcomes to avoid dangerous climate change. While headquartered in Singapore, Terrascope's ambition is global and its work drives positive impact across large enterprises around the world.",
+    "challenges_and_solutions": "The field of sustainability – and especially the carbon sector – is broad and dynamic. Regulatory developments and carbon disclosure standards are changing rapidly and getting more complex, and people are struggling to keep up. My team and I kept abreast of latest developments and continually improved our end-to-end decarbonisation platform product to stay relevant.",
+    "proudest_achievement": "More than a decade ago, as a 17-year-old student, I rallied my friends to give free educational talks to raise awareness of climate change to more than 25,000 youths across 40 schools in Singapore. Our audience told us that they were inspired to incorporate green habits in their lives after listening to us, so I consider this to be a good first step on my life-long journey to make a green impact.",
+    "youth_impact": {
+      "age": 17,
+      "reach": "25,000+ youths across 40 schools in Singapore",
+      "method": "Free educational talks on climate change awareness",
+      "outcome": "Inspired audience to incorporate green habits"
+    },
+    "solution_codes": [
+      "04.00 - Sustainability Accounting & Sustainable Corporate Finance",
+      "04.01 - Sustainability Accounting Strategic Analysis",
+      "04.03 - Sustainability Accounting Integrated Financial Planning",
+      "04.04 - Sustainability Accounting Data Management & Processes",
+      "06.00 - Sustainable Supply Chain",
+      "06.01 - Sustainable Supply Chain Strategy",
+      "12.00 - Corporate Governance Strategy Mission",
+      "15.00 - Carbon Management & Carbon Footprint",
+      "15.01 - Carbon Management Measure & Report",
+      "15.02 - Carbon Management Goal Settings",
+      "15.04 - Carbon Management Reduction Strategy Overview",
+      "15.05 - Carbon Management Carbon Offset",
+      "15.06 - Carbon Management Carbon Pricing",
+      "16.01 - Consultants General",
+      "16.02 - Consultants Standards & Certification",
+      "16.03 - Consultants Social People Pilar",
+      "16.04 - Consultants Environmental Pilar"
+    ]
+  }
+}

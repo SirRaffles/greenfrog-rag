@@ -1,0 +1,95 @@
+{
+  "supplier_name": "Sustainable Gaia",
+  "description": "Sustainability Consultancy for Strategy, Reporting, Training and Research",
+  "url": "https://www.thematchainitiative.com/supplier/sustainable-gaia",
+  "website": "http://www.sustainablegaia.com/",
+  "contact": "enquiry@sustainablegaia.com",
+  "location": "Singapore",
+  "business_type": "Sustainability consultancy",
+  "service_areas": [
+    "Strategy",
+    "Reporting", 
+    "Training",
+    "Research"
+  ],
+  "detailed_services": {
+    "sustainability_strategy": [
+      "Innovation",
+      "Stakeholder engagement",
+      "Materiality assessment",
+      "Climate risk assessment",
+      "GHG emissions assessment and reduction"
+    ],
+    "sustainability_reporting": [
+      "GRI",
+      "SASB", 
+      "TCFD",
+      "UNSDG",
+      "SBTi",
+      "Various international standards and frameworks"
+    ],
+    "sustainability_training": [
+      "Foundational topics",
+      "Deep dive workshops",
+      "Customized employee engagement workshops",
+      "Sustainability themed workshops"
+    ],
+    "sustainability_communication": [
+      "Writing",
+      "Research",
+      "Communication for organizational needs"
+    ]
+  },
+  "expertise_categories": [
+    "Green office",
+    "Circular Economy",
+    "Digital Footprint & IT",
+    "Sustainability Accounting & Sustainable Corporate Finance",
+    "Resources Management",
+    "Corporate Governance, Mission & Strategy",
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint",
+    "Consultants",
+    "Sustainable Supply Chain & Logistic"
+  ],
+  "specific_solutions": [
+    "Office Supplies",
+    "General (Green office)",
+    "General & Internal Assessment (Circular Economy)",
+    "Best Practices & Energy Reduction",
+    "Strategic Analysis",
+    "Environmental & Social Impact Identification",
+    "Integrated Financial Planning",
+    "Data Management & Processes",
+    "Teams Alignment",
+    "Awareness & Training",
+    "People Strategy, Culture & Values",
+    "Employees Engagement, Development & Training",
+    "Measure & Report",
+    "Goal Settings",
+    "Reduction Strategy Overview",
+    "General Consulting",
+    "Standards & Certification",
+    "Social & People Pilar",
+    "Environmental Pilar",
+    "Sustainable Supply Chain Strategy",
+    "Eco Design & Circularity",
+    "Procurement"
+  ],
+  "solution_codes": [
+    "01.01", "01.00", "03.01", "02.01", "04.01", "04.02", "04.03", "04.04", 
+    "04.05", "04.06", "08.00", "12.00", "14.01", "14.03", "15.01", "15.02", 
+    "15.03", "15.04", "16.01", "16.02", "16.03", "16.04", "06.01", "06.02", "06.03"
+  ],
+  "frameworks_expertise": [
+    "GRI - Global Reporting Initiative",
+    "SASB - Sustainability Accounting Standards Board",
+    "TCFD - Task Force on Climate-related Financial Disclosures", 
+    "UNSDG - UN Sustainable Development Goals",
+    "SBTi - Science Based Targets initiative"
+  ],
+  "comprehensive_coverage": "Extensive solution portfolio covering 25+ specific sustainability areas",
+  "target_market": "Organizations seeking comprehensive sustainability transformation",
+  "parsed_date": "2025-07-10",
+  "data_source": "Firecrawl scraping"
+}

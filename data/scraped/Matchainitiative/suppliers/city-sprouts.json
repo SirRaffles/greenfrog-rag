@@ -1,0 +1,26 @@
+{
+  "supplier_name": "City Sprouts",
+  "description": "Urban rejuvenation through the development of green spaces and educational programs",
+  "url": "https://www.thematchainitiative.com/supplier/city-sprouts",
+  "website": "https://citysprouts.com.sg",
+  "contact": "hello@citysprouts.com.sg",
+  "locations": ["Singapore"],
+  "address": "102 Henderson Road",
+  "founded": "2019",
+  "recognition": ["Social enterprise", "SG Eco Fund 2021 awardee", "raiSE member"],
+  "services": [
+    "Urban farming initiatives",
+    "Farm tours and educational programs",
+    "Sustainability workshops",
+    "Eco-camps",
+    "Community space activation"
+  ],
+  "expertise_categories": [
+    "Sustainable HR Practices",
+    "Carbon Management & Carbon Footprint"
+  ],
+  "solution_codes": ["14.03", "14.06", "15.00", "15.03"],
+  "type": "supplier",
+  "source_url": "https://www.thematchainitiative.com/supplier/city-sprouts",
+  "scraped_date": "2025-10-31"
+}

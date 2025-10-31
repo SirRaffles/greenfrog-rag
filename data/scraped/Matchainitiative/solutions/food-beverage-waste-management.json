@@ -1,0 +1,136 @@
+{
+  "url": "https://www.thematchainitiative.com/find-a-solution/food-beverage-waste-management",
+  "category": "Food & Beverage",
+  "subcategory": "F&B Waste Management", 
+  "scraped_at": "2025-06-24T14:15:00Z",
+  "introduction": {
+    "global_impact": "6% of global GHG emissions come from food losses and waste.",
+    "singapore_context": "Every year, Singapore generates ~800 million kg of food waste. That is equivalent to the weight of more than 55,000 double-decker buses (NEA)",
+    "hierarchy": "The preferred method to manage food waste is to avoid generating it. When this is not possible, excess food should be re-distributed or repurposed. Lastly, food waste should be segregated for recycling and treatment according to the Food Recovery Hierarchy developed by the USEPA."
+  },
+  "solutions": [
+    {
+      "title": "Divert unsold food from Waste",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I2",
+      "description": "Implement last-minute deals to avoid waste, partner with one of the existing app if necessary (refer to the suppliers list below)."
+    },
+    {
+      "title": "Donate surplus food",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "Donate excess food to associations or individuals.",
+      "framework": "The United States Environmental Protection Agency (USEPA) created the Food Recovery Hierarchy to prioritize actions towards prevention and diversion of wasted food."
+    },
+    {
+      "title": "Track food waste",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I3",
+      "description": "Monitor your food waste by implementing a food waste tracking system/ERP (Enterprise Resource Planning). It can help you to keep track of your actual waste, follow your actual consumption and therefore decrease stocks & waste.",
+      "professional_help": "You may hire a professional to help you on the implementation and tracking of food waste."
+    },
+    {
+      "title": "Donate food waste to feed animals",
+      "cost": "C1",
+      "effort": "E1", 
+      "impact": "I2",
+      "description": "Divert food scraps/ waste to feed animals in local farms.",
+      "innovative_approach": "Did you know some farms are specialised in insects, such as the black soldier flies? They can turn food waste into biomaterials."
+    },
+    {
+      "title": "Convert food waste to industrial usage",
+      "cost": "C1",
+      "effort": "E2", 
+      "impact": "I2",
+      "applications": [
+        "Used cooking oil can be recycled into biofuel",
+        "Dedicate food waste (okara and soy bean waste) to higher value products",
+        "Coffee grounds are 100% natural and have various practical usage related to gardening, cleaning, scrubbing or technological usage such as fire retardant material"
+      ],
+      "coffee_composting": "If you want to compost coffee grounds by yourself, be aware that used coffee grounds must be detoxified by composting for a minimum of 98 days for plants to benefit from the potassium and nitrogen contained in the roasted beans."
+    },
+    {
+      "title": "Install a food waste treatment system",
+      "cost": "C3",
+      "effort": "E3", 
+      "impact": "I3",
+      "regulation": "Under the Resource Sustainability Act, several mandatory provisions have been adopted regarding food waste segregation and treatment in Singapore.",
+      "requirements": {
+        "from_2021": "Developers of new commercial and industrial premises must set aside space for on-site or off-site food waste treatment systems in their design plans.",
+        "from_2024": "All existing large commercial and industrial food waste generators will be required to segregate food waste for treatment using on-site food waste treatment systems (compost) or off-site facility treatment. This includes large hotels and malls, large industrial developments housing food manufacturers, food caterers and food storage warehouses."
+      },
+      "nea_resources": [
+        "food retail establishments guidebook (see p23, annex 2 for food waste treatment systems suppliers)",
+        "food manufacturing establishments guidebook",
+        "supermarkets guidebook"
+      ]
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Shen Hui Tan",
+      "title": "Founder - Kizuna",
+      "expertise": "consulting, sustainable textiles, merchandise made from seaweed, organic cotton, recycled fishing nets",
+      "website": "instagram.com/kizunasg"
+    },
+    {
+      "name": "Yen Lyng Loh",
+      "title": "Marketing & Sales Director - A1 Environment",
+      "expertise": "digital media, waste management, recycling, coffee recycling",
+      "company_focus": "A1 Environment started in 2012 as a general recycling and paper trading company. Sustainability IS the core of the company",
+      "website": "a1environment.com.sg"
+    },
+    {
+      "name": "Rémi Cesaro",
+      "title": "Founder & Director - Zero Waste City",
+      "expertise": "engineering consulting, waste management, energy efficiency, packaging design, TRUE Zero Waste certification",
+      "certification": "certified TRUE Advisor (Total Resource Use Efficiency) by the U.S. Green Building Council Inc.",
+      "website": "zerowastecity.com"
+    },
+    {
+      "name": "Duncan Craig",
+      "title": "Co-founder & Design Director - ReXtore",
+      "expertise": "circular design, sustainable innovation, events and exhibitions, modular building systems",
+      "focus": "circularity, reusability, and impact reduction",
+      "website": "rextore.org"
+    },
+    {
+      "name": "Tomo Hamakawa",
+      "title": "Managing Director - Earth Company / Mana Earthly Paradise",
+      "expertise": "development, NGO work, social impact",
+      "awards": "In 2014 Tomo was awarded the Dalai Lama's Unsung Heroes of Compassion Award",
+      "website": "earthcompany.info"
+    },
+    {
+      "name": "Louis Alban Batard",
+      "title": "CEO - Yindii",
+      "expertise": "food waste reduction, mobile applications, connecting businesses with consumers",
+      "company_focus": "Yindii connects local businesses and supermarkets with high-quality excess food to consumers through an online platform at very affordable prices",
+      "markets": "Thailand, Hong Kong and Singapore",
+      "website": "yindii.co"
+    },
+    {
+      "name": "Quentin Dumas",
+      "title": "Sustainable Value Chain Expert - Accenture",
+      "expertise": "responsible value chain, sustainable materials, product life cycle",
+      "experience": "over 15 years experience in Responsible Value Chain"
+    },
+    {
+      "name": "Sarah Woolmington",
+      "title": "Founder & Director - Impact Dragonfly", 
+      "expertise": "sustainability consulting, strategic coaching, collaborative design",
+      "website": "impactdragonfly.com.au"
+    },
+    {
+      "name": "James Yin",
+      "title": "Co-founder & Director - V-Plus Agritech Pte Ltd",
+      "expertise": "circular agriculture, food waste reduction, carbon emissions reduction, ESG",
+      "background": "over 20 years of experience in the Singapore Army, certified sustainability professional",
+      "company_mission": "reduce food waste, carbon emissions, and water consumption",
+      "website": "vplusagritech.com"
+    }
+  ]
+}

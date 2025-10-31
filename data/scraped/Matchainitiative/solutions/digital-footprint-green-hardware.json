@@ -1,0 +1,287 @@
+{
+  "category": "Digital Footprint & IT",
+  "subcategory": "Green Hardware", 
+  "title": "Green Hardware",
+  "url": "https://www.thematchainitiative.com/find-a-solution/digital-footprint-it-green-hardware-and-e-waste",
+  "description": "Solutions to lower the carbon footprint of your hardware",
+  "overview": "22 kg of chemicals, 240 kg of fossil fuels and 1,5 T of clear water are necessary to produce a desktop computer and its screen according to UNU researchers. Combined with the very short lifespan of our digital equipments, this drastically raises their lifetime environment-related energy impacts. Digital products also contain significant quantities of heavy metals such as lead, mercury, cadmium and chromium, which pose potential health risks to production workers, recyclers and environmental risks to water supplies near landfills where they are eventually dumped. As a result, always remember that talking about hardware footprint involves two major energy-consuming cycles: Production of devices (material extraction, distribution) and Destruction of obsolete devices. Reducing our digital hardwares, Repairing, Re-using and Recycling them are the key steps to follow.",
+  "solutions": [
+    {
+      "title": "Set up a digital and IT sustainable purchasing policy",
+      "cost": "C2",
+      "effort": "E2", 
+      "impact": "I2",
+      "description": "This section refers to all digital and ICT products and services such as computers and peripheral equipments (laptop, desktop, screens and accessories…), communication equipments (phones, accessories…), consumer electronic equipments and services such as IT technical consulting and support services, IT design and development services, hosting and IT infrastructure provisioning services…",
+      "steps": {
+        "analyze_consumption": [
+          "Identify most purchased ICT products and services",
+          "Ask your ICT suppliers what are your highest carbon footprint products/services",
+          "Deploy solutions to know what you already have in your company: softwares, hardwares... You can either go for custom solutions (xls documents are already a good start!), but Software Asset Management is best to keep track of your licenses for instance"
+        ],
+        "define_targets": [
+          "Sustainable or eco-certified ICT products/services amount percentage on total ICT products/services buying amount. It can be declined per category (computers, technical consulting…)",
+          "Carbon footprint evolution for main ICT products volumes. It should decrease deploying all below recommendations."
+        ],
+        "circular_procurement": [
+          "Choose certified products, green design products that reduce the use of hazardous materials",
+          "Promote the purchase of products that meet internationally recognized \"green\" labeling standards such as EPEAT, Energy Star or Blue Angel",
+          "TCO Certified is the leading sustainability certification for IT products, driving social and environmental sustainability throughout the IT product life cycle",
+          "Buy durable, can be upgraded and repaired products. In most cases it is also better from a financial perspective, even when service and upgrading costs are included",
+          "Provide employees with laptops instead of desktops, it consumes less electricity",
+          "Reduce the number of smartphones: Adopt the \"Bring Your Own Device\" policy and replace pro and personal phones by a single one with reimbursment of bills, double SIM card, double number to protect personal privacy if need be",
+          "Buy extensive warranties to encourage both durable product design and longer usage time",
+          "Extend shelf life of your materials via leasing (you should include end-of-life handling in your contract) and evolutive material (RAM, batteries...)",
+          "Buy Products and materials which are made for recycling (e.g. removal batteries) and require your products to be disassembled and handed into safe recycling",
+          "Purchase products that have already been used whenever possible. Focus on the possibilities offered by professional refurbishing and remanufacturing businesses",
+          "Investigate and opt for \"as a service\" products. Under the \"as a service\", you pay for the use of digital products and not for the equipment itself whose ownership remains with the manufacturer"
+        ]
+      },
+      "key_insight": "The best way to decrease your electronics footprint is to keep your equipment as long as possible. The same applies for your desktops and laptops. Extend the life of your computer from 2 to 4 years will decrease by 50% its environmental footprint (Ademe Report).",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-001"
+    },
+    {
+      "title": "Deploy a BYOD policy",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2", 
+      "description": "Deploying a BYOD Policy could be a good choice for your company to keep a reasonable size of your fleet of devices. BYOD stands for Bring Your Own Device and allows / encourages people to use their own devices for work (ie laptops, smartphones). It might sound like a silver bullet for many problems but it is not that easy to deploy: Security breach possibilities, weak maintenance of the fleet (thus more chance for security breaches)...",
+      "implementation_areas": {
+        "strategy_and_preparation": [
+          "Tag along your IT security / legal teams to cover all angles and prevent potential security breaches",
+          "Prepare masters for your IT team to be able to deploy it on employees' device. That should make you save time and money!",
+          "A BYOD policy can be paired well with a telecom expense management system, explore this too!",
+          "Think of an exit strategy. If an employee leaves the company, prepare the exit process to prevent any potential breach"
+        ],
+        "legal_and_communication": [
+          "Have a clear statement on which devices you accept (devices, models, OS, brands, ...) and which teams can use personal devices",
+          "Make your policy clear for employees to know where they stand. Train your IT team to make sure they can provide support for employees' devices",
+          "From a legal point of view, specify responsibilities for data and network usages. Enforce boundaries to prevent users from abusive behaviours",
+          "Provide internal communication material to encourage people to follow BYOD"
+        ],
+        "infrastructures_data_security": [
+          "Deploy a resilient and secure IT infrastructures, especially servers and online platforms (Sharepoint, Slack, ...)",
+          "Use SSO authentication processes to have your employees save time to access apps",
+          "Deploy basic security through Identity access management and authentication process",
+          "Be quite careful with emails",
+          "Set up a data protection policy",
+          "Enforce the rules by a thorough monitoring",
+          "Split personal and professional data",
+          "Use in-house apps to align with your policy",
+          "Decide software updates policies yourself"
+        ],
+        "maintenance_and_reimbursement": [
+          "Encourage employees with favorable enticing reimbursement plans. But set up rules to prevent abusive behaviours",
+          "Be extremely cautious with the maintenance process. Set the rules and either: take care of it yourself OR make your employees responsible for it"
+        ]
+      },
+      "alternative": "If you believe BYOD is not made for your company, you can enforce COPE (Coporate Owned Personally Enabled). This is like BYOD but the difference is that the company provides the device, so extra attention should be brought to maintenance processes.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-0020"
+    },
+    {
+      "title": "Choose Computers & Screens",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Guidelines for selecting sustainable computers and screens",
+      "criteria": {
+        "repairability": [
+          "Buy repairable and upgradeable products. Laptops are harder to repair or upgrade than desktop PCs",
+          "Look for a user-replaceable battery as an absolute minimum, and ideally replaceable storage drive and RAM as well"
+        ],
+        "durability": [
+          "Buy a thin product = less material so less environmental impact",
+          "Prefer aluminum shell, more resistant than plastic and not needing a fan",
+          "Prefer TCO-Certified products. This label ensures that the model has reduced environmental and social impact throughout its lifecycle, from manufacture to disposal",
+          "Choose high performance products in order to extend their lifetime as long as possible",
+          "Choose a small screen: screen production has the most important environmental impact. It also uses less power when in use. MacBook 13\" footprint has a 217 kg CO2 footprint whereas MacBook 16\" has a 394 kg CO2 ones (Apple data)"
+        ],
+        "refurbished_options": "Buy refurbished products: because of the significant carbon footprint of making a computer, its lifetime should ideally be extended for as long as possible. If you can't repair an old machine, you can extend the lifetime of another by buying a second-hand or refurbished computer"
+      },
+      "quick_wins": "You can create some quick wins to curb your digital footprint by providing employees with laptops instead of desktops, it consumes less electricity. Allow them to use it also for their personal use, it will decrease the \"over-equipment\" (doubling pro & personal devices) ratio, thus consuming less raw material and energy for over-production.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-0021"
+    },
+    {
+      "title": "Choose Smartphones",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Guidelines for selecting sustainable smartphones",
+      "recommendations": [
+        "Consider buying a refurbished phone",
+        "Focus on models that are repairable or upgradable with removable battery and extendable external storage capacity",
+        "Source eco-friendly mobile phone options on iFixit where you will find a list of mobile phones scored by repairability"
+      ],
+      "storage_advice": "When choosing a model's storage capacity, go with a lowest option and (only if extra space is genuinely needed) sign up for cloud storage service.",
+      "quick_wins": "You can create some quick wins to curb your digital footprint by reducing the number of smartphones: Adopt the \"Bring Your Own Device\" policy and replace pro and personal phones by a single one with reimbursment of bills, double SIM card, double number to protect personal privacy if need be...",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-0022"
+    },
+    {
+      "title": "Choose Adequate Servers Solutions",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "If you need to deploy your own servers, keep the following suggestions in mind",
+      "recommendations": [
+        "Deploy \"as-a-Service\" solutions (SaaS) that can provide better agility and efficiency to curb overprovisioning",
+        "Virtualize your datacentre equipment to deploy in cloud environment that enables servers optimization. a VM consumes less energy at 75KWh/ year, versus 1,5KWH/yer for a normal server",
+        "For large scale companies, you could consider hyperscale datacentres. They are claimed to be the future of datacentres and they show critical and decisive breakthrough for energy saving"
+      ],
+      "hyperscale_benefits": [
+        "High level of performance, flexibility to go for either super performant servers or just plain ones",
+        "Strong reliability",
+        "All IT layers are being automated to save power and human actions",
+        "Innovative and continuously improving",
+        "Deployed for a maximum of customers in order to avoid idle servers to be powered"
+      ],
+      "decision_guidance": {
+        "large_companies": "Bigger companies should always consider deploying hybrid infrastructures (public cloud for non-critical data and private cloud for highly valuable data). These hybrid infrastructures can be versatile: they can be internal and monitored by the company itself, but they can also use bulk offers from hosting companies for money-saving, strategic or other purposes. But in the end, huge companies with strong focus on data (banking, retail...) should always have a bigger part of their infrastructures owned by themselves.",
+        "sme": "For SME, going through hosting companies is quite the best because they would save money and time creating their own - partly useless (or at best under-used) - infrastructures. This is why choosing a green host could be a great incentive. Sustainable and definitely best for your resources!"
+      },
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-003"
+    },
+    {
+      "title": "Chase idle server storage",
+      "cost": "C2",
+      "effort": "E3",
+      "impact": "I2",
+      "description": "Chasing idle server storage is one kind of a challenge for companies, especially big firms, but reducing servers buidlings are one of the most important steps.",
+      "definition": "An idle server is basically not delivering any computing power. To be clear, an idle server is not to be confused with a server that is experiencing downtime. As a rule of thumb, if the server hasn't relayed information or computing services within the last six months, then it should be considered idle.",
+      "problem": "As a consequence, idle servers are a problem: they use energy for nothing and are expensive. Servers are using roughly between 150 and 200 watts per hour when they are idle (just under an active server). If we use the figure above, you can reckon that idle servers are extremely negative for the environment (and your wallet!).",
+      "solutions": [
+        "DCiM (DataCentre Infrastructure Manager) that can provide an accurate overview of the datacentres' optimization/status",
+        "PDU (Power Distribution Unit) that can display all real-time data related to the datacentre and help you make the right choices"
+      ],
+      "note": "Keep in mind that any action abovementioned for servers is also valid for Virtual machines in software development in general. As they are server-like IT environment, all incentives here can be followed for their deployment and maintenance too.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-004"
+    },
+    {
+      "title": "Choose a green host",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Choosing a greener host is something on everybody's mind. If you want to go greener, check out the following criteria to make the right choice",
+      "criteria": {
+        "support_and_responsiveness": "In cases like this you'll appreciate clear communications from a support team, and having access to people with deep expertise – if you're hosting something for someone, and their business relies on this hosting, it's worth remembering that the real thing your customers are usually buying, is the ability to avoid disruptive changes to how they work. Local hosting providers should always be considered first (they will use more energy) but make sure the local hosting provider is as green as possible.",
+        "pricing": "Before going for the pricing, make sure you are absolutely certain of your needs and what you require. Once you know this, try to estimate the amount of storage/computing power you need to optimize your carbon footprint and money. Remember that if you go for a longer period of hosting, the costs per month are lower.",
+        "transparency": "It's worth thinking about how the servers you're going to rely on are powered. If there isn't an explicit statement from a given company about how they use renewable or sustainable power, it's safest to assume the company is using a power from a mix of sources. If a company is making statements about green power, then they should be able to share details about how their power is considered \"green\".",
+        "green_mindset": "A greener mindset is always what hosting providers brag about. But careful here, some are green per se, others are just using carbon offsetting processes to \"make their hosting green\". The idea of paying money to reward green behaviour in a distant place does not sit well with everyone.",
+        "standards_and_contracts": "Before contracting with a hosting provider, read the details of engagement thoroughly. Keep in mind what leaving them would entail. To curb the risk, know that open standards and open source softwares make it easier to run the same kind of site with a different provider, compared to an entirely proprietary stack of technologies."
+      },
+      "website_builders_warning": "If you are developing a website on website editors (Wix, Webflow, ...), always remember you will not have the choice in the hosting company, they will make you go for their own provider/solution. And there are generally not green...",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-005"
+    },
+    {
+      "title": "Find secondhand equipment",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "Before going for brand new equipment, ask yourself: Do you really need one? If so, for performance or optimization, go ahead. But think twice. If you need lighter/less performant devices, prefer secondhand.",
+      "recommendations": [
+        "Utilize certified pre-owned products whenever possible in order to support legacy and/or non-revenue generating workloads and applications",
+        "For greater reliability, look for items that have been refurbished, either by the manufacturer or seller with warranty (12 months) so even if you do receive a faulty unit you should get a replacement. A refurbished device is one that has been restored to full working order and should work exactly the same as new"
+      ],
+      "lifespan_chart": "To help you find the way in so many devices, see below a short recap of some devices' lifespan: see chart below. These average lifespans are for information purposes only and show how long devices keep their highest performance level.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-006"
+    },
+    {
+      "title": "Extend equipments total lifespan: Repair, Keep longer, Find a new usage",
+      "cost": "C2",
+      "effort": "E2",
+      "impact": "I2",
+      "description": "According to the UN Environment, 80% of a smartphone's carbon footprint occurs during manufacturing, 3% during transportation, and 16% during consumer use. The best way to decrease your electronics footprint is to keep your equipment as long as possible. The same applies for your desktops and laptops. Extend the life of your computer from 2 to 4 years will decrease by 50% its environmental footprint (Ademe Report).",
+      "preliminary_steps": [
+        "Consider the whole lifespan of your equipments: while they are in your company and their after-life in the 2nd hand market",
+        "Try to upcycle your hardware (reclaiming materials for use in new or better products) or any stranded resources (e.g. zombie servers and under-utilised assets)",
+        "Deploy a light IT Asset Management solution to keep track of your whole fleet and assets",
+        "Protect your materials: phone cases, covers, screen protectors, adapted computer bags...",
+        "To make your device last longer, avoid also extreme temperatures (don't let them near a window under full sun) and frequent charge levels"
+      ],
+      "repair_update_practices": [
+        "Always try to repair materials before considering buying new ones",
+        "Update the softwares and the material capacities (memories, etc.)",
+        "Replace separately screens, keyboards, desktop etc... according to their own lifespan",
+        "Protect your materials: phone cases, adapted computer bags...",
+        "Before buying hardware, check out their durability estimation (online forums, technical specifications...)"
+      ],
+      "lifespan_extension_options": [
+        "DIY maintenance (you or your IT teams), extremely cheap but reliable though",
+        "Extend warranty contracts: it is seamless and you should always ask for it, at least to increase environmental awareness and push manufacturers to avoid planned obsolescence and move into a circular economy framework",
+        "Third-party maintenance, quite reliable and not that expensive. You need to find the right supplier"
+      ],
+      "end_of_life_options": [
+        "Sell obsolete / old hardware to your staff at a discounted price",
+        "Donate them to charities",
+        "Sell them to intermediates which will repair and recondition them"
+      ],
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-007"
+    },
+    {
+      "title": "E-recycle with relevant partners",
+      "cost": "C1",
+      "effort": "E1",
+      "impact": "I2",
+      "description": "For the hardwares that have to be recycled, do not forget that Electronic waste requires to be segregated from other waste, collected and treated properly, because they contain up to 60 different elements including toxic ones (lead, cadmium, mercury but also PVC, brominated flame retardants...) and rare earth elements (Neodymium, Terbium, Dysprosium, etc.).",
+      "recycling_importance": "The technologies used to recover those rare earth elements have been improved over time, as they represent a high resale value. Recycling would reduce the risks to harm the environment and the human health, and also the need to mine new raw materials.",
+      "recycling_options": [
+        "Contract directly with a specialised recycler to dispose of your equipment",
+        "Bring it back to your suppliers: under the Extended Producer Responsibility (EPR) on e-waste, suppliers of electronic goods must take back old products, and send them to a licensed recycler"
+      ],
+      "singapore_resources": [
+        "Details of some e-recycling companies in Singapore available from NEA",
+        "List of all collection points available in Singapore for personal e-waste"
+      ],
+      "preliminary_steps": "Keep in mind that before disassembling, you should conduct an assets audit and see what can be re-used, re-conditionned and what has to be recycled.",
+      "url": "https://www.thematchainitiative.com/solutions-new/02-03-008"
+    }
+  ],
+  "buddies": [
+    {
+      "name": "Thibaut Meurgue",
+      "title": "CEO – The Transmutation Principle",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/619e3b5019dd9ae7d25805db_07%20-%20Found%20n%20Seek%20-%20Antler%20Jun%202021%20-%20Stellar%20Photo%20-%20DSC_7794_1.JPG",
+      "description": "I am Thibaut, French bald since 26 & bold since forever! Right now, I am the CEO of The Transmutation Principle. I come from an IT & software agency background, so deeply into B2B and old-fashioned processes. I came to realize that sustainability cannot be only about consumers and half-hearted measures. I also realized IT sustainability was highly underrated and not understood by most companies. It came as quite a surprise for me, since I always considered IT sustainability to be one of the best ways to merge both ROI & sustainability to make the latter sound acceptable, actionable, and realistic. Having seen that, I wanted to make a change in my own way. My dedication came from the desire to be able to look my future kids in the eye and tell them that I tried to make the world a better place. I co-founded The Transmutation Principle, a Singapore-based consultancy, to support businesses in their quest for impact through actionable and tailor-made sustainability & ESG programs.",
+      "company": "The Transmutation Principle",
+      "linkedin": "https://www.linkedin.com/company/thetransmutationprinciple/?originalSubdomain=sg",
+      "profile_url": "https://www.thematchainitiative.com/buddies/thibaut-meurgue"
+    },
+    {
+      "name": "Andrew Tay",
+      "title": "Business Development Director - KGS",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67280a60ae56b39e244bc1b8_andrew%20tay.jpg",
+      "description": "I'm a Director at KGS, a leading e-waste recycling company specializing in ITAD, e-waste recycling, data destruction, and battery recycling. My background is in Mechanical Engineering (BEng) and Management of Technology (MSc). I'm passionate about driving sustainability and helping others adopt more environmentally responsible practices. I believe in the power of technology and innovation to create a circular economy. I'm always looking for opportunities to connect with others who share this vision.",
+      "company": "KGS",
+      "website": "http://www.kgs.com.sg/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/andrew-tay"
+    },
+    {
+      "name": "Vincent Desclaux",
+      "title": "Europe Regional Managing Director - Palo IT",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/621e05859790dcc7f19a1536_vincent%202%20-%20recadre.jpg",
+      "description": "I worked in Asia for 12 years (Shanghai, Hong Kong and Singapore) within the digital and technology space. I'm now the Europe Regional Managing Director at Palo IT. I have founded and run several companies in different sectors such as IT Consulting, Education, and the F&B business. I am passionate about how to use technology as a force for good.",
+      "company": "Palo IT",
+      "website": "https://www.palo-it.com/en/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/vincent-desclaux"
+    },
+    {
+      "name": "Audrey Yang",
+      "title": "Founder, Sustainability Consultant - Thought Partner Eco",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/66d188381d18f7757652ec7a_Audrey%20Yang%20Headshot-sq%20-%20Audrey%20%7C%20Thought%20Partner.jpeg",
+      "description": "I'm a Sustainability Consultant & Speaker, founder of Thought Partner Eco — an SME's partner in sustainability. 99% of businesses are made up of SMEs who could collectively make a huge impact in lowering the carbon footprint of the world's economy. Yet, existing resources are more applicable to large corporations with large budgets, who have staff in sustainability roles to develop and execute on those initiatives. SMEs usually have neither. I fill this gap by providing relevant educational and strategic support at an affordable rate. I've supported clients across industries — creative, tech, health care and fashion —on education, strategy and sustainability communications. Play-based learning workshops are available too. Other than consulting, I'm an experienced speaker, workshop facilitator, and I have been featured in AsiaOne, CNA, The Straits Times, Eco Business and more.",
+      "company": "Thought Partner Eco",
+      "topics": ["Consumerism", "Greenwashing", "Digital Sustainability", "Advocacy and Activism", "Corporate Sustainability", "Sustainability in Fashion", "Sustainable Events"],
+      "website": "https://thoughtpartner.eco/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/audrey-yang"
+    },
+    {
+      "name": "Robin Thomas",
+      "title": "Founder & CEO - Carbonzeroed",
+      "image": "https://cdn.prod.website-files.com/5ec1fa9d6f5811ed09b4b2df/67cf9e976e4259e93238e9a5_Robin%20Pic%20-%20Robin%20Thomas.jpg",
+      "description": "I'm leading a climate tech AI startup dedicated to helping companies achieve their energy and sustainability goals. My expertise is delivering circular transformation for our clients with a comprehensive portfolio of energy-efficient, resilient and sustainable solutions aligning climate ambition with corporate action.",
+      "company": "Carbonzeroed",
+      "website": "http://www.carbonzeroed.com/",
+      "profile_url": "https://www.thematchainitiative.com/buddies/robin-thomas"
+    }
+  ],
+  "created_at": "2025-06-24",
+  "status": "complete"
+}
