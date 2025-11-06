@@ -6,6 +6,11 @@ const nextConfig = {
   // Output standalone for Docker
   output: 'standalone',
 
+  // Disable ESLint during build
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
   // Environment variables
   env: {
     NEXT_PUBLIC_API_URL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000',

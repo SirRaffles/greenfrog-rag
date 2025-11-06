@@ -9,7 +9,14 @@ import structlog
 import os
 
 from app.models.schemas import ChatRequest, ChatResponse, ErrorResponse
-from app.services.rag_service import get_rag_service, RAGService
+
+# Check if RAG V2 is enabled
+USE_RAG_V2 = os.getenv("USE_RAG_V2", "false").lower() == "true"
+
+if USE_RAG_V2:
+    from app.services.rag_service_v2 import get_rag_service_v2, RAGServiceV2 as RAGService
+else:
+    from app.services.rag_service import get_rag_service, RAGService
 
 logger = structlog.get_logger(__name__)
 router = APIRouter()
@@ -17,10 +24,15 @@ router = APIRouter()
 
 def get_rag() -> RAGService:
     """Dependency injection for RAG service"""
-    return get_rag_service(
-        base_url=os.getenv("ANYTHINGLLM_URL", "http://anythingllm:3001"),
-        api_key=os.getenv("ANYTHINGLLM_API_KEY")
-    )
+    if USE_RAG_V2:
+        logger.info("using_rag_v2", message="RAG V2 enabled")
+        return get_rag_service_v2()
+    else:
+        logger.info("using_rag_v1", message="RAG V1 enabled")
+        return get_rag_service(
+            base_url=os.getenv("ANYTHINGLLM_URL", "http://anythingllm:3001"),
+            api_key=os.getenv("ANYTHINGLLM_API_KEY")
+        )
 
 
 @router.post("/message", response_model=ChatResponse)

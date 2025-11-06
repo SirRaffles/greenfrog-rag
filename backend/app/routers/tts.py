@@ -19,8 +19,8 @@ router = APIRouter()
 def get_tts() -> TTSService:
     """Dependency injection for TTS service"""
     return get_tts_service(
-        piper_url=os.getenv("PIPER_URL", "http://piper:5000"),
-        xtts_url=os.getenv("XTTS_URL", "http://xtts:8020")
+        piper_url=os.getenv("PIPER_TTS_API", "http://piper-tts:5000"),
+        xtts_url=os.getenv("XTTS_API", "http://xtts:5000")
     )
 
 

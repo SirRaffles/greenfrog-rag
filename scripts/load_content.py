@@ -12,12 +12,23 @@ from pathlib import Path
 from typing import List, Dict
 
 # Configuration
-ANYTHINGLLM_URL = "http://192.168.50.171:3001"
+ANYTHINGLLM_URL = "http://localhost:3001"
 WORKSPACE_SLUG = "greenfrog"
 SCRAPED_DATA_DIR = "/volume1/docker/greenfrog-rag/data/scraped/Matchainitiative"
 
+# Read API key from credentials file
+try:
+    with open("/volume1/docker/greenfrog-rag/ANYTHINGLLM_CREDENTIALS.txt", "r") as f:
+        for line in f:
+            if line.startswith("API Key:"):
+                API_KEY = line.split(":", 1)[1].strip()
+                break
+except:
+    API_KEY = None
+
 # API endpoints
 API_BASE = f"{ANYTHINGLLM_URL}/api/v1"
+HEADERS = {"Authorization": f"Bearer {API_KEY}"} if API_KEY else {}
 
 def check_anythingllm_health() -> bool:
     """Check if AnythingLLM is accessible"""
@@ -30,7 +41,7 @@ def check_anythingllm_health() -> bool:
 def get_workspaces() -> List[Dict]:
     """Get list of workspaces"""
     try:
-        response = requests.get(f"{API_BASE}/workspaces")
+        response = requests.get(f"{API_BASE}/workspaces", headers=HEADERS)
         if response.status_code == 200:
             return response.json().get("workspaces", [])
     except Exception as e:
@@ -42,6 +53,7 @@ def create_workspace(name: str, slug: str) -> Dict:
     try:
         response = requests.post(
             f"{API_BASE}/workspace/new",
+            headers=HEADERS,
             json={"name": name, "slug": slug}
         )
         if response.status_code == 200:
@@ -52,8 +64,8 @@ def create_workspace(name: str, slug: str) -> Dict:
         print(f"Error creating workspace: {e}")
     return {}
 
-def upload_document(workspace_slug: str, file_path: Path, content: str) -> bool:
-    """Upload a document to workspace"""
+def upload_document(workspace_slug: str, file_path: Path, content: str) -> tuple[bool, str]:
+    """Upload a document using two-step workflow: upload then embed"""
     try:
         # Convert JSON to text format for better indexing
         data = json.loads(content)
@@ -61,21 +73,48 @@ def upload_document(workspace_slug: str, file_path: Path, content: str) -> bool:
         # Create readable text from JSON
         text_content = format_json_as_text(data, file_path)
 
-        # Upload as text file
+        filename = f"{file_path.stem}.txt"
+
+        # Step 1: Upload document to storage
         files = {
-            'file': (f"{file_path.stem}.txt", text_content.encode('utf-8'), 'text/plain')
+            'file': (filename, text_content.encode('utf-8'), 'text/plain')
         }
 
-        response = requests.post(
-            f"{API_BASE}/workspace/{workspace_slug}/upload",
+        upload_response = requests.post(
+            f"{API_BASE}/document/upload",
+            headers=HEADERS,
             files=files,
             timeout=30
         )
 
-        return response.status_code == 200
+        if upload_response.status_code != 200:
+            return False, f"Upload failed: {upload_response.text}"
+
+        upload_data = upload_response.json()
+
+        # Extract location from documents array
+        if not upload_data.get('success') or not upload_data.get('documents'):
+            return False, f"Upload failed: {upload_data.get('error', 'No documents in response')}"
+
+        doc_location = upload_data['documents'][0].get('location')
+
+        if not doc_location:
+            return False, "No document location in response"
+
+        # Step 2: Embed document into workspace
+        embed_response = requests.post(
+            f"{API_BASE}/workspace/{workspace_slug}/update-embeddings",
+            headers=HEADERS,
+            json={"adds": [doc_location]},
+            timeout=60
+        )
+
+        if embed_response.status_code != 200:
+            return False, f"Embed failed: {embed_response.text}"
+
+        return True, doc_location
     except Exception as e:
-        print(f"  ✗ Error uploading {file_path.name}: {e}")
-        return False
+        return False, str(e)
 
 def format_json_as_text(data: Dict, file_path: Path) -> str:
     """Convert JSON data to readable text format"""
@@ -173,12 +212,13 @@ def load_all_documents():
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            if upload_document(WORKSPACE_SLUG, file_path, content):
+            success, message = upload_document(WORKSPACE_SLUG, file_path, content)
+            if success:
                 uploaded += 1
-                print(f"  ✓ Uploaded successfully")
+                print(f"  ✓ Uploaded and embedded: {message}")
             else:
                 failed += 1
-                print(f"  ✗ Upload failed")
+                print(f"  ✗ Failed: {message}")
         except Exception as e:
             failed += 1
             print(f"  ✗ Error: {e}")

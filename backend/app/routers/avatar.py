@@ -20,7 +20,7 @@ router = APIRouter()
 def get_avatar() -> AvatarService:
     """Dependency injection for avatar service"""
     return get_avatar_service(
-        sadtalker_url=os.getenv("SADTALKER_URL", "http://sadtalker:8000")
+        sadtalker_url=os.getenv("SADTALKER_API", "http://sadtalker:7860")
     )
 
 

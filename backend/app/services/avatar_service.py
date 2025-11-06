@@ -21,7 +21,7 @@ class AvatarService:
 
     def __init__(
         self,
-        sadtalker_url: str = "http://sadtalker:8000"
+        sadtalker_url: str = "http://sadtalker:7860"
     ):
         """
         Initialize avatar service

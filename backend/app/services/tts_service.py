@@ -109,13 +109,13 @@ class TTSService:
 
         try:
             # Piper API endpoint
-            endpoint = f"{self.piper_url}/api/tts"
+            endpoint = f"{self.piper_url}/tts"
 
             # Build request payload
             payload = {
                 "text": text,
                 "voice": voice,
-                "speed": speed
+                "rate": speed
             }
 
             # Send request

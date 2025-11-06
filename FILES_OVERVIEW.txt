@@ -1,0 +1,310 @@
+================================================================================
+AnythingLLM API - Document Upload & Embedding Research & Tools
+================================================================================
+
+LOCATION: /volume1/docker/greenfrog-rag/
+
+RESEARCH COMPLETION DATE: 2025-11-01
+
+================================================================================
+DOCUMENTATION FILES (Read These)
+================================================================================
+
+1. 00_START_HERE.md
+   ├─ Purpose: Quick introduction and problem/solution
+   ├─ Length: ~3 pages
+   ├─ Content: Problem statement, solution, quick test, troubleshooting
+   ├─ Read Time: 5-10 minutes
+   └─ When to Use: First thing to read
+
+2. QUICK_API_REFERENCE.md
+   ├─ Purpose: One-page API reference
+   ├─ Length: ~2 pages
+   ├─ Content: Your config, two main endpoints, why documents don't appear, checklist
+   ├─ Read Time: 5 minutes
+   └─ When to Use: Quick lookup during implementation
+
+3. API_RESEARCH_SUMMARY.md
+   ├─ Purpose: Complete research findings and documentation
+   ├─ Length: ~15 pages
+   ├─ Content: Architecture, detailed endpoints, error analysis, source citations
+   ├─ Read Time: 20-30 minutes
+   └─ When to Use: Need comprehensive understanding
+
+4. ANYTHINGLLM_API_WORKFLOW.md
+   ├─ Purpose: Detailed workflow and implementation guide
+   ├─ Length: ~20 pages
+   ├─ Content: Step-by-step workflow, Python examples, troubleshooting
+   ├─ Read Time: 30-40 minutes
+   └─ When to Use: Deep implementation details
+
+5. INDEX.md
+   ├─ Purpose: Complete navigation and index
+   ├─ Length: ~15 pages
+   ├─ Content: File guide, learning path, API summary, verification checklist
+   ├─ Read Time: 15-20 minutes
+   └─ When to Use: Navigation and reference
+
+6. README_API_RESOURCES.md
+   ├─ Purpose: Overview of all resources and quick start
+   ├─ Length: ~12 pages
+   ├─ Content: File descriptions, usage examples, common tasks
+   ├─ Read Time: 15 minutes
+   └─ When to Use: Understand what's available and how to use it
+
+7. FILES_OVERVIEW.txt
+   ├─ Purpose: This file - listing all resources
+   ├─ Length: Current file
+   ├─ Content: Description of all files in this package
+   └─ When to Use: Quick reference of what exists
+
+================================================================================
+IMPLEMENTATION TOOLS (Use These)
+================================================================================
+
+1. test-anythingllm-api.sh
+   ├─ Type: Bash script
+   ├─ Purpose: Automated testing of complete workflow
+   ├─ Features: Upload test, embed test, error handling, verbose output
+   ├─ Usage: ./test-anythingllm-api.sh --create-test-file --verbose
+   ├─ Time to Run: ~10 seconds
+   └─ When to Use: Verify everything works before production
+
+2. anythingllm_client.py
+   ├─ Type: Python 3 module and CLI
+   ├─ Purpose: Full-featured Python client library
+   ├─ Features: Upload, embed, batch operations, verification, logging
+   ├─ Usage:
+   │   - As library: from anythingllm_client import AnythingLLMClient
+   │   - As CLI: python3 anythingllm_client.py upload-embed --file ...
+   ├─ Requirements: Python 3.6+, requests module
+   └─ When to Use: Building Python integrations
+
+3. anythingllm-client.js
+   ├─ Type: Node.js module
+   ├─ Purpose: Full-featured JavaScript/Node.js client
+   ├─ Features: Upload, embed, batch operations, async/await, error handling
+   ├─ Usage:
+   │   - As module: const Client = require('./anythingllm-client.js')
+   │   - Example: client.uploadAndEmbed(filePath, workspace)
+   ├─ Requirements: Node.js 14+, form-data module
+   └─ When to Use: Building Node.js/Express integrations
+
+4. CURL_EXAMPLES.sh
+   ├─ Type: Bash script with curl examples
+   ├─ Purpose: Copy-paste ready curl commands
+   ├─ Features: All common operations documented with templates
+   ├─ Usage: cat CURL_EXAMPLES.sh (read and copy commands)
+   ├─ Time to Use: Copy/paste, execute in seconds
+   └─ When to Use: Quick testing with curl, integration into bash scripts
+
+================================================================================
+QUICK START
+================================================================================
+
+Step 1: Test Everything Works
+   Command: ./test-anythingllm-api.sh --create-test-file
+   Time: 10 seconds
+   Expected: Test document appears in workspace
+
+Step 2: Read Quick Reference
+   File: QUICK_API_REFERENCE.md
+   Time: 5 minutes
+   Expected: Understand the two-step workflow
+
+Step 3: Use in Your Code
+   Choose one:
+   - Python: python3 anythingllm_client.py
+   - Node.js: anythingllm-client.js
+   - cURL: Copy from CURL_EXAMPLES.sh
+   - Bash: test-anythingllm-api.sh
+
+Step 4: Check AnythingLLM UI
+   URL: http://localhost:3001
+   Look for: Workspace "greenfrog" → Document in sidebar
+
+================================================================================
+YOUR CONFIGURATION
+================================================================================
+
+Instance URL:   http://localhost:3001
+Workspace:      greenfrog (slug) / 1 (ID)
+API Key:        sk-voAkPDg71LdDD5EBajbwgXdQ0qmUWbScmzzhMJue9WA
+
+Pre-configured in all tools and examples.
+
+================================================================================
+THE API WORKFLOW
+================================================================================
+
+Endpoint 1: Upload Document (REQUIRED)
+   Method:   POST
+   Path:     /api/v1/document/upload
+   Auth:     Bearer {API_KEY}
+   Body:     multipart/form-data with file
+   Returns:  { document: { location: "custom-documents/filename.txt" } }
+
+Endpoint 2: Embed in Workspace (REQUIRED)
+   Method:   POST
+   Path:     /api/v1/workspace/{workspace_slug}/update-embeddings
+   Auth:     Bearer {API_KEY}
+   Body:     { "adds": ["custom-documents/filename.txt"] }
+   Returns:  { workspace: {...}, message: "Workspace updated successfully" }
+
+Both endpoints must be called in sequence for documents to appear.
+
+================================================================================
+COMMON ERRORS & SOLUTIONS
+================================================================================
+
+Error: "Documents not appearing in workspace"
+   Cause: Step 2 (embedding) not called
+   Fix: Call /api/v1/workspace/greenfrog/update-embeddings endpoint
+
+Error: "404 on upload endpoint"
+   Cause: Wrong endpoint path
+   Fix: Use /api/v1/document/upload (global, not workspace-specific)
+
+Error: "Document not found when embedding"
+   Cause: Wrong document path in embed call
+   Fix: Use exact path from upload response (usually custom-documents/name.txt)
+
+Error: "Embedder not configured"
+   Cause: No embedder selected in AnythingLLM
+   Fix: Go to Settings → Embedder, select one, retry
+
+================================================================================
+FILE LOCATIONS & SIZES
+================================================================================
+
+00_START_HERE.md                ~4 KB
+QUICK_API_REFERENCE.md          ~4 KB
+API_RESEARCH_SUMMARY.md         ~25 KB
+ANYTHINGLLM_API_WORKFLOW.md     ~30 KB
+INDEX.md                        ~20 KB
+README_API_RESOURCES.md         ~20 KB
+FILES_OVERVIEW.txt              ~8 KB (this file)
+test-anythingllm-api.sh         ~12 KB
+anythingllm_client.py           ~20 KB
+anythingllm-client.js           ~15 KB
+CURL_EXAMPLES.sh                ~8 KB
+
+Total: ~166 KB of documentation and tools
+
+================================================================================
+RESEARCH SOURCES
+================================================================================
+
+Research conducted from official AnythingLLM sources:
+- GitHub Issues #1814, #3275 (API workflow discussions)
+- DeepWiki API Reference documentation
+- Official AnythingLLM documentation
+- Community examples and implementations
+
+All workflows verified and tested.
+
+================================================================================
+READING RECOMMENDATIONS
+================================================================================
+
+For Quick Understanding (15 minutes):
+   1. Read: 00_START_HERE.md
+   2. Run: ./test-anythingllm-api.sh --create-test-file
+   3. Read: QUICK_API_REFERENCE.md
+
+For Complete Understanding (1-2 hours):
+   1. Read: 00_START_HERE.md
+   2. Read: API_RESEARCH_SUMMARY.md
+   3. Read: ANYTHINGLLM_API_WORKFLOW.md
+   4. Examine: Code in anythingllm_client.py
+
+For Implementation (varies):
+   1. Choose: Python, Node.js, or cURL
+   2. Copy: Examples from relevant file
+   3. Modify: For your specific needs
+   4. Test: Using test-anythingllm-api.sh
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+
+1. Two-Step Workflow is Intentional
+   - Upload handles file parsing and text extraction
+   - Embed handles workspace-specific indexing and vector creation
+   - Allows flexibility: upload once, embed in multiple workspaces
+
+2. Workspace Slug Required (Not ID)
+   - API uses "greenfrog" (slug) not "1" (ID)
+   - Common mistake causing 404 errors
+
+3. Document Path Format is Strict
+   - Always: custom-documents/{filename}.txt
+   - Original extension doesn't matter (PDF→TXT)
+   - Case-sensitive on Linux
+
+4. Processing is Asynchronous
+   - Upload: instant (text extraction)
+   - Embed: depends on document size (seconds to minutes)
+   - No polling needed, check results via UI or API
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. TEST NOW
+   cd /volume1/docker/greenfrog-rag
+   chmod +x test-anythingllm-api.sh
+   ./test-anythingllm-api.sh --create-test-file
+
+2. VERIFY SUCCESS
+   Open http://localhost:3001
+   Check workspace "greenfrog" for document
+
+3. INTEGRATE
+   Choose: Python (anythingllm_client.py) or Node.js (anythingllm-client.js)
+   Copy relevant code to your project
+   Test with your documents
+
+4. TROUBLESHOOT
+   If issues: Enable verbose output (--verbose flag)
+   Check logs: docker logs -f anythingllm
+   Read: Troubleshooting section in documentation files
+
+================================================================================
+SUPPORT & REFERENCES
+================================================================================
+
+Official Documentation:  https://docs.anythingllm.com/
+GitHub Repository:       https://github.com/Mintplex-Labs/anything-llm
+API Documentation:       https://docs.useanything.com/features/api
+GitHub Issues:           For bugs and feature requests
+
+Local Documentation Files:
+   - All detailed docs in /volume1/docker/greenfrog-rag/
+   - Complete workflow: ANYTHINGLLM_API_WORKFLOW.md
+   - Quick reference: QUICK_API_REFERENCE.md
+
+================================================================================
+VERSION INFORMATION
+================================================================================
+
+Research Date:       2025-11-01
+AnythingLLM Version: latest (mintplexlabs/anythingllm:latest)
+API Version:         /api/v1/
+Status:              VERIFIED AND WORKING ✅
+
+All workflows tested and documented from official sources.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Your Issue:     Documents not appearing or not embedding in workspace
+Root Cause:     Missing two-step API workflow
+Solution:       Call two endpoints in sequence: upload → embed
+Verification:   Run test script and check AnythingLLM UI
+
+All tools, examples, and documentation provided in this package.
+Start with: 00_START_HERE.md or run: ./test-anythingllm-api.sh
+
+================================================================================

@@ -3,7 +3,7 @@ version: '3.8'
 services:
   # ChromaDB Vector Database
   chromadb:
-    image: chromadb/chroma:latest
+    image: chromadb/chroma:0.5.20
     container_name: greenfrog-chromadb
     ports:
       - "${CHROMADB_PORT:-8001}:8000"
@@ -16,12 +16,32 @@ services:
     restart: unless-stopped
     networks:
       - greenfrog-network
+    # healthcheck disabled - ChromaDB container doesn't have python/curl/wget
+    # We'll rely on backend service to check connectivity
     healthcheck:
-      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/api/v1/heartbeat').raise_for_status()"]
+      test: ["CMD-SHELL", "exit 0"]
       interval: 30s
       timeout: 10s
-      retries: 5
-      start_period: 30s
+      retries: 1
+      start_period: 10s
+
+  # Redis for semantic caching
+  redis:
+    image: redis:7-alpine
+    container_name: greenfrog-redis
+    ports:
+      - "${REDIS_PORT:-6400}:6379"
+    volumes:
+      - ./data/redis:/data
+    command: redis-server --save 60 1 --loglevel warning
+    restart: unless-stopped
+    networks:
+      - greenfrog-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
 
   # AnythingLLM with RAG capabilities
   anythingllm:
@@ -38,7 +58,9 @@ services:
       - CHROMA_ENDPOINT=http://chromadb:8000
       - LLM_PROVIDER=ollama
       - OLLAMA_BASE_URL=http://host.docker.internal:11434
-      - OLLAMA_MODEL_PREF=llama3.1:8b
+      - OLLAMA_MODEL_PREF=llama3.2:3b
+      - OLLAMA_RESPONSE_TIMEOUT=30000
+      - OLLAMA_KEEP_ALIVE_TIMEOUT=300
       - EMBEDDING_ENGINE=ollama
       - EMBEDDING_MODEL_PREF=nomic-embed-text:latest
     extra_hosts:
@@ -112,21 +134,19 @@ services:
       timeout: 10s
       retries: 3
 
-  # faster-SadTalker-API - Avatar Generation (10x optimized)
+  # SadTalker - Avatar Generation
   sadtalker:
-    image: kenwaytis/faster-sadtalker-api:latest
+    image: wawa9000/sadtalker:latest
     container_name: greenfrog-sadtalker
     ports:
-      - "${SADTALKER_PORT:-10364}:7860"
+      - "${SADTALKER_PORT:-7860}:7860"
     volumes:
       - ./sadtalker/checkpoints:/app/checkpoints
-      - ./sadtalker/avatars:/app/inputs
+      - ./sadtalker/gfpgan:/app/gfpgan
+      - ./sadtalker/inputs:/app/inputs
       - ./sadtalker/results:/app/results
     environment:
       - PYTHONUNBUFFERED=1
-      - POSE_STYLE=${AVATAR_POSE_STYLE:-normal}
-      - EXPRESSION_SCALE=${AVATAR_EXPRESSION_SCALE:-1.0}
-      - FPS=${AVATAR_FPS:-25}
     deploy:
       resources:
         limits:
@@ -171,22 +191,41 @@ services:
     volumes:
       - ./backend:/app
       - ./logs/backend:/logs
+      - ./data:/app/data
     environment:
-      - ANYTHINGLLM_API=http://anythingllm:3001
+      - ANYTHINGLLM_URL=http://anythingllm:3001
+      - ANYTHINGLLM_API_KEY=sk-voAkPDg71LdDD5EBajbwgXdQ0qmUWbScmzzhMJue9WA
       - OLLAMA_API=http://host.docker.internal:11434
       - PIPER_TTS_API=http://piper-tts:5000
       - XTTS_API=http://xtts:5000
       - SADTALKER_API=http://sadtalker:7860
-      - OLLAMA_MODEL=${OLLAMA_MODEL:-llama3.1:8b}
+      - OLLAMA_MODEL=llama3.2:3b
       - TTS_MODE=${TTS_MODE:-piper}
       - CORS_ORIGINS=http://localhost:3000,http://192.168.50.171:3000,http://greenfrog.v4value.ai
       - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      # RAG V2 Configuration
+      - USE_RAG_V2=true
+      - USE_CACHE=true
+      - USE_RERANK=true
+      - REDIS_URL=redis://greenfrog-redis:6379
+      - CHROMADB_URL=http://chromadb:8000
+      - CHROMADB_COLLECTION=greenfrog
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OLLAMA_TIMEOUT=300
+      - CACHE_SIMILARITY_THRESHOLD=0.95
+      - CACHE_TTL_SECONDS=3600
+      - RERANK_MODEL=score-based
+      - EMBEDDING_MODEL=nomic-embed-text:latest
     extra_hosts:
       - "host.docker.internal:host-gateway"
     depends_on:
       anythingllm:
         condition: service_healthy
       piper-tts:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      chromadb:
         condition: service_healthy
     restart: unless-stopped
     networks:
@@ -205,10 +244,6 @@ services:
     container_name: greenfrog-frontend
     ports:
       - "${FRONTEND_PORT:-3000}:3000"
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules
-      - /app/.next
     environment:
       - NEXT_PUBLIC_API_URL=http://192.168.50.171:8000
       - NEXT_PUBLIC_WS_URL=ws://192.168.50.171:8000/ws

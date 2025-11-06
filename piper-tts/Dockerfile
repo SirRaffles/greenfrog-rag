@@ -11,11 +11,15 @@ RUN apt-get update && apt-get install -y \
 # Create app directory
 WORKDIR /app
 
-# Download and install Piper binary
+# Download and install Piper binary with libraries
 RUN wget https://github.com/rhasspy/piper/releases/download/2023.11.14-2/piper_linux_x86_64.tar.gz && \
     tar -xzf piper_linux_x86_64.tar.gz && \
     mv piper/piper /usr/local/bin/ && \
     chmod +x /usr/local/bin/piper && \
+    mv piper/*.so* /usr/local/lib/ && \
+    mkdir -p /usr/share && \
+    cp -r piper/espeak-ng-data /usr/share/espeak-ng-data && \
+    ldconfig && \
     rm -rf piper piper_linux_x86_64.tar.gz
 
 # Copy requirements and install Python dependencies
