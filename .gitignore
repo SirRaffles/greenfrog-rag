@@ -48,6 +48,11 @@ data/anythingllm/*
 !data/anythingllm/.gitkeep
 data/chromadb/*
 !data/chromadb/.gitkeep
+data/redis/*
+!data/redis/.gitkeep
+data/scraped/*
+!data/scraped/.gitkeep
+dump.rdb
 
 # Cache
 .cache/
