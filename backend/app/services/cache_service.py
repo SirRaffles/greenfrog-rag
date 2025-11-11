@@ -31,7 +31,7 @@ class CacheService:
         self,
         redis_url: str = None,
         embedding_model: str = "all-MiniLM-L6-v2",
-        similarity_threshold: float = 0.95,
+        similarity_threshold: float = 0.85,  # Balanced threshold (was 0.95 - too strict)
         ttl_seconds: int = 3600,  # 1 hour default
     ):
         """

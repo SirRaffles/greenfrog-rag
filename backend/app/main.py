@@ -11,6 +11,7 @@ import os
 
 from app.routers import chat, avatar, tts, scraper, retrieval, chat_v2
 from app.utils.logger import setup_logging
+from app.services.health_service import get_health_service
 
 # Setup logging
 setup_logging()
@@ -26,12 +27,16 @@ app = FastAPI(
 )
 
 # CORS configuration
+# Restrict CORS to frontend origin only (security best practice)
+cors_origins = os.getenv("CORS_ORIGINS", "http://localhost:3000")
+allowed_origins = [origin.strip() for origin in cors_origins.split(",") if origin.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=os.getenv("CORS_ORIGINS", "*").split(","),
+    allow_origins=allowed_origins,  # Explicitly list allowed origins (no wildcards)
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_headers=["Content-Type", "Authorization", "X-API-Key"],
 )
 
 # Include routers
@@ -100,28 +105,41 @@ async def root():
 
 @app.get("/health")
 async def health_check():
-    """Health check endpoint"""
+    """
+    Comprehensive health check endpoint.
+
+    Checks all critical dependencies:
+    - Redis (cache)
+    - ChromaDB (vector database)
+    - Ollama (LLM)
+    - AnythingLLM (optional)
+    - TTS service (Piper/XTTS)
+
+    Returns:
+        - 200: All critical services healthy
+        - 503: One or more critical services unhealthy
+    """
     try:
-        # TODO: Add actual health checks for dependencies
-        services = {
-            "api": "up",
-            "anythingllm": "checking",
-            "tts": "checking",
-            "avatar": "checking",
-            "retrieval": "checking"
-        }
+        health_service = get_health_service()
+        health_status = await health_service.check_all()
 
-        # Add V2 health check if enabled
-        if os.getenv("USE_RAG_V2", "true").lower() == "true":
-            services["rag_v2"] = "enabled"
+        # Return 503 if unhealthy, 200 otherwise
+        status_code = 503 if health_status["status"] == "unhealthy" else 200
 
-        return {
-            "status": "healthy",
-            "services": services
-        }
+        return JSONResponse(
+            status_code=status_code,
+            content=health_status
+        )
     except Exception as e:
-        logger.error("health_check_failed", error=str(e))
-        raise HTTPException(status_code=503, detail="Service unhealthy")
+        logger.error("health_check_failed", error=str(e), error_type=type(e).__name__)
+        return JSONResponse(
+            status_code=503,
+            content={
+                "status": "unhealthy",
+                "error": "Health check failed",
+                "message": str(e)
+            }
+        )
 
 
 @app.exception_handler(Exception)

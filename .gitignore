@@ -13,7 +13,9 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# Python lib directories (not frontend/lib)
+backend/lib/
+backend/lib64/
 lib64/
 parts/
 sdist/
@@ -27,6 +29,15 @@ wheels/
 .env
 .env.local
 *.env
+
+# API Keys and Credentials (SECURITY)
+ANYTHINGLLM_CREDENTIALS.txt
+*_CREDENTIALS.txt
+*credentials*.json
+*secrets*.json
+*.pem
+*.key
+*.crt
 
 # IDE
 .vscode/
