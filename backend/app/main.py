@@ -12,6 +12,7 @@ import os
 from app.routers import chat, avatar, tts, scraper, retrieval, chat_v2
 from app.utils.logger import setup_logging
 from app.services.health_service import get_health_service
+from app.services.rag_init import initialize_rag_service_with_timeout
 
 # Setup logging
 setup_logging()
@@ -65,6 +66,13 @@ async def startup_event():
     logger.info(f"RAG V2 Enabled: {os.getenv('USE_RAG_V2', 'true')}")
     logger.info(f"Cache Enabled: {os.getenv('USE_CACHE', 'true')}")
     logger.info(f"Rerank Enabled: {os.getenv('USE_RERANK', 'true')}")
+
+    # Pre-initialize RAG V2 to avoid dependency injection hang
+    # This prevents blocking on first request when CacheService/RetrievalService initialize
+    if os.getenv("USE_RAG_V2", "true").lower() == "true":
+        logger.info("rag_v2_pre_initialization_start")
+        await initialize_rag_service_with_timeout(timeout=30.0)
+        logger.info("rag_v2_pre_initialization_complete")
 
 
 @app.on_event("shutdown")
