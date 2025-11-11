@@ -57,6 +57,16 @@ class CacheService:
         self.embedding_model_name = embedding_model
         self._embedding_model: Optional[SentenceTransformer] = None
 
+        # Analytics tracking
+        self._analytics = {
+            "total_requests": 0,
+            "exact_hits": 0,
+            "semantic_hits": 0,
+            "misses": 0,
+            "total_similarity_scores": 0.0,  # For calculating average
+            "errors": 0,
+        }
+
         logger.info(
             "cache_service_init",
             redis_url=self.redis_url,
@@ -148,6 +158,7 @@ class CacheService:
             Cached response dict or None if no match
         """
         try:
+            self._analytics["total_requests"] += 1
             r = await self._get_redis()
 
             # Try exact match first (fastest)
@@ -155,6 +166,7 @@ class CacheService:
             exact_match = await r.get(f"cache:exact:{exact_key}")
 
             if exact_match:
+                self._analytics["exact_hits"] += 1
                 logger.info(
                     "cache_hit_exact",
                     query_length=len(query),
@@ -202,6 +214,8 @@ class CacheService:
                     response = await r.get(response_key)
 
                     if response:
+                        self._analytics["semantic_hits"] += 1
+                        self._analytics["total_similarity_scores"] += best_similarity
                         logger.info(
                             "cache_hit_semantic",
                             similarity=round(best_similarity, 4),
@@ -210,10 +224,12 @@ class CacheService:
                         )
                         return json.loads(response)
 
+            self._analytics["misses"] += 1
             logger.debug("cache_miss", query_length=len(query), workspace=workspace)
             return None
 
         except Exception as e:
+            self._analytics["errors"] += 1
             logger.error("cache_get_error", error=str(e), query_length=len(query))
             return None
 
@@ -383,3 +399,59 @@ class CacheService:
         if self._redis:
             await self._redis.close()
             logger.info("redis_connection_closed")
+
+    def get_analytics(self) -> Dict[str, Any]:
+        """
+        Get cache analytics and performance metrics.
+
+        Returns:
+            Dictionary with cache statistics including:
+            - Hit rates (exact, semantic, overall)
+            - Miss rate
+            - Average semantic similarity
+            - Error count
+        """
+        total_hits = self._analytics["exact_hits"] + self._analytics["semantic_hits"]
+        total_requests = max(self._analytics["total_requests"], 1)  # Avoid division by zero
+
+        hit_rate = (total_hits / total_requests) * 100
+        miss_rate = (self._analytics["misses"] / total_requests) * 100
+        exact_hit_rate = (self._analytics["exact_hits"] / total_requests) * 100
+        semantic_hit_rate = (self._analytics["semantic_hits"] / total_requests) * 100
+
+        # Calculate average semantic similarity
+        semantic_hits = max(self._analytics["semantic_hits"], 1)
+        avg_similarity = (
+            self._analytics["total_similarity_scores"] / semantic_hits
+            if self._analytics["semantic_hits"] > 0
+            else 0.0
+        )
+
+        return {
+            "total_requests": self._analytics["total_requests"],
+            "total_hits": total_hits,
+            "exact_hits": self._analytics["exact_hits"],
+            "semantic_hits": self._analytics["semantic_hits"],
+            "misses": self._analytics["misses"],
+            "errors": self._analytics["errors"],
+            "hit_rate_percent": round(hit_rate, 2),
+            "miss_rate_percent": round(miss_rate, 2),
+            "exact_hit_rate_percent": round(exact_hit_rate, 2),
+            "semantic_hit_rate_percent": round(semantic_hit_rate, 2),
+            "avg_semantic_similarity": round(avg_similarity, 4),
+            "similarity_threshold": self.similarity_threshold,
+            "ttl_seconds": self.ttl.total_seconds(),
+            "embedding_model": self.embedding_model_name,
+        }
+
+    def reset_analytics(self):
+        """Reset analytics counters (useful for testing or periodic resets)."""
+        self._analytics.update({
+            "total_requests": 0,
+            "exact_hits": 0,
+            "semantic_hits": 0,
+            "misses": 0,
+            "total_similarity_scores": 0.0,
+            "errors": 0,
+        })
+        logger.info("cache_analytics_reset")
