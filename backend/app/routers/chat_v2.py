@@ -235,93 +235,36 @@ class CacheInvalidateResponse(BaseModel):
 # Dependency Injection - Singleton RAG Service
 # ============================================================================
 
-# Global singleton instance (initialized on first request)
-_rag_service: Optional[RAGServiceV2] = None
-
-
 async def get_rag_service() -> RAGServiceV2:
     """
     Dependency injection for RAGServiceV2 singleton.
 
-    Initializes all sub-services on first invocation:
-    - CacheService (Redis + embeddings)
-    - OllamaService (LLM generation)
-    - RetrievalService (hybrid search)
-    - RerankService (score-based reranking)
-    - StreamService (SSE streaming)
+    Returns the global RAGServiceV2 instance that was initialized during
+    FastAPI startup (see main.py startup event). This prevents blocking
+    initialization on first request.
 
-    Configuration is loaded from environment variables:
-    - REDIS_URL: Redis connection string
-    - OLLAMA_BASE_URL: Ollama API endpoint
-    - OLLAMA_MODEL: Default LLM model
-    - QDRANT_URL: Qdrant vector DB endpoint
-    - USE_CACHE: Enable semantic caching
-    - USE_RERANK: Enable document reranking
-    - CACHE_TTL_SECONDS: Cache entry TTL
-    - CACHE_SIMILARITY_THRESHOLD: Semantic similarity threshold
+    The global singleton is managed by get_rag_service_v2() in
+    app.services.rag_service_v2, which is pre-initialized during startup
+    via initialize_rag_service_with_timeout() in app.services.rag_init.
 
     Returns:
-        Configured RAGServiceV2 instance
+        Pre-initialized RAGServiceV2 instance
 
     Raises:
-        HTTPException: If service initialization fails
+        HTTPException: If service initialization failed during startup
     """
-    global _rag_service
+    from app.services.rag_service_v2 import get_rag_service_v2
 
-    if _rag_service is None:
-        try:
-            logger.info("rag_service_v2_initialization_start")
-
-            # Initialize sub-services
-            cache_service = CacheService(
-                redis_url=os.getenv("REDIS_URL", "redis://greenfrog-redis:6379"),
-                embedding_model=os.getenv("CACHE_EMBEDDING_MODEL", "all-MiniLM-L6-v2"),
-                similarity_threshold=float(os.getenv("CACHE_SIMILARITY_THRESHOLD", "0.95")),
-                ttl_seconds=int(os.getenv("CACHE_TTL_SECONDS", "3600")),
-            )
-
-            ollama_service = OllamaService(
-                base_url=os.getenv("OLLAMA_BASE_URL", "http://ollama:11434"),
-                timeout=float(os.getenv("OLLAMA_TIMEOUT", "120")),
-            )
-
-            retrieval_service = RetrievalService(
-                chromadb_url=os.getenv("CHROMADB_URL", "http://chromadb:8000"),
-                ollama_service=ollama_service,
-                collection_name=os.getenv("CHROMADB_COLLECTION", "greenfrog"),
-                embedding_model=os.getenv("EMBEDDING_MODEL", "nomic-embed-text:latest"),
-            )
-
-            rerank_service = RerankService()
-            stream_service = StreamService()
-
-            # Initialize RAG orchestrator
-            _rag_service = RAGServiceV2(
-                cache_service=cache_service,
-                ollama_service=ollama_service,
-                retrieval_service=retrieval_service,
-                rerank_service=rerank_service,
-                stream_service=stream_service,
-                model=os.getenv("OLLAMA_MODEL", "phi3:mini"),
-                use_cache=os.getenv("USE_CACHE", "true").lower() == "true",
-                use_rerank=os.getenv("USE_RERANK", "true").lower() == "true",
-            )
-
-            logger.info(
-                "rag_service_v2_initialized",
-                model=_rag_service.model,
-                use_cache=_rag_service.use_cache,
-                use_rerank=_rag_service.use_rerank,
-            )
-
-        except Exception as e:
-            logger.error("rag_service_v2_initialization_failed", error=str(e))
-            raise HTTPException(
-                status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-                detail=f"Failed to initialize RAG service: {str(e)}"
-            )
-
-    return _rag_service
+    try:
+        # Return the pre-initialized global singleton
+        # This was created during FastAPI startup, so it should be ready
+        return get_rag_service_v2()
+    except Exception as e:
+        logger.error("rag_service_v2_dependency_injection_failed", error=str(e))
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail=f"RAG service unavailable: {str(e)}"
+        )
 
 
 # ============================================================================
